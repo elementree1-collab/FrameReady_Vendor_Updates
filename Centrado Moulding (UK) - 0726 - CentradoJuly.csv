@@ -1,0 +1,1823 @@
+Code,Description,Width,rabbet,category,Cost,chop,group
+0004AS,28x19mm Raw Ash Cushion Moulding,28,12,Natural,6.86,13.71,Wood
+0005LI,23x27mm Raw Lime Flat Moulding,23,22,Natural,6.73,13.46,Wood
+0005TU,22x27mm Raw Tulip Flat Moulding,22,22,Natural,5.96,11.93,Wood
+0010TU,22x47mm Raw Tulip Flat Moulding,22,40,Natural,8.37,16.74,Wood
+0011AS,21x17mm Raw Ash Flat Moulding,21,12,Natural,4.49,8.99,Wood
+0011OA,21x17mm Raw Oak Flat Moulding,21,12,Natural,4.66,9.32,Wood
+0011OB,21x17mm Raw Obeche Flat Moulding,21,12,Natural,2.38,4.77,Wood
+0011WA,21x17mm Raw Walnut Flat Moulding,21,12,Brown,6.32,12.63,Wood
+0013LI,41x21mm Raw Lime Flat Moulding,41,14,Natural,10.19,20.37,Wood
+0014AS,59x21mm Raw Ash Flat Moulding,56,14,Natural,9.92,19.85,Wood
+0014OA,56x22mm Raw Oak Flat Moulding,56,14,Natural,11.15,22.3,Wood
+0015CM,21x20mm Cream Bevel Moulding,21,10,Cream,4.81,9.62,Wood
+0018OA,51x16mm Raw Oak Flat Moulding,51,12,Natural,11.58,23.16,Wood
+0021OB,67x35mm Raw Obeche Scoop Moulding,67,12,Natural,9.36,18.71,Wood
+0029OB,91x33mm Raw Obeche Step Moulding,91,13,Natural,13.43,26.86,Wood
+0031OB,55x25mm Raw Obeche Step Moulding,55,10,Natural,6.55,13.1,Wood
+0037OB,22x47mm Raw Obeche Flat Moulding,22,39,Natural,5.04,10.08,Wood
+0040AS,34x21mm Raw Ash Flat Moulding,34,16,Natural,7.89,15.77,Wood
+0040OA,34x21mm Raw Oak Flat Moulding,34,16,Natural,8.31,16.61,Wood
+0040OB,34x21mm Raw Obeche Flat Moulding,34,16,Natural,3.82,7.64,Wood
+0044PI,39x12mm Raw Pine Flat Moulding,39,7,Natural,3.51,7.01,Wood
+0045OB,93x41mm Raw Obeche Step/Scoop Moulding,93,22,Natural,14.11,28.22,Wood
+0046BK,46x47mm Matt Black Block Moulding,46,37,Black,9.45,18.9,Wood
+0046WH,46x47mm Matt White Block Moulding,46,37,White,9.45,18.9,Wood
+0047OB,77x34mm Raw Obeche Step/Scoop Moulding,77,17,Natural,10.36,20.73,Wood
+0056LI,12x24mm Raw Lime Flat Moulding,12,20,Natural,5.33,10.67,Wood
+0057LI,12x12mm Raw Lime Flat Moulding,12,7,Natural,4.38,8.76,Wood
+0061RA,11x4mm Raw Ramin Slip Moulding,11,,Natural,2.76,5.52,Wood
+0066AS,15x31mm Raw Ash Flat Moulding,15,27,Natural,6.36,12.73,Wood
+0066OA,15x31mm Raw Oak Flat Moulding,15,27,Natural,7.9,15.79,Wood
+0066OB,15x31mm Raw Obeche Flat Moulding,15,27,Natural,3.18,6.36,Wood
+0066TU,15x31mm Raw Tulip Flat Moulding,15,27,Natural,6.71,13.42,Wood
+0066WA,15x31mm Raw Walnut Flat Moulding,15,27,Brown,8.84,17.68,Wood
+0073SI,16x15mm Antique Silver Scoop Moulding,16,8,Silver,4.84,9.68,Wood
+0084OB,14x21mm Raw Obeche Bevel Moulding,14,10,Natural,2.82,5.65,Wood
+0086OA,20x22mm Raw Oak Cushion Moulding,20,11,Natural,5.62,11.24,Wood
+0092OA,12x12mm Raw Oak Cushion Moulding,12,8,Natural,3.53,7.06,Wood
+0097OA,47x22mm Raw Oak Flat Moulding,47,17,Natural,10.28,20.56,Wood
+0097OB,47x22mm Raw Obeche Flat Moulding,47,17,Natural,6.02,12.03,Wood
+0099AS,20x20mm Raw Ash Flat Moulding,20,15,Natural,4.58,9.16,Wood
+0099OA,20x20mm Raw Oak Flat Moulding,20,15,Natural,4.97,9.93,Wood
+0100AS,12x12mm Raw AshFlat Moulding,12,9,Natural,3.43,6.87,Wood
+0100OA,12x12mm Raw Oak Flat Moulding,12,9,Natural,3.43,6.87,Wood
+0100OB,12x12mm Raw Obeche Flat Moulding,12,9,Natural,1.75,3.51,Wood
+0100WG,25x17mm Walnut & Gold Scoop Moulding,25,9,Brown,5.73,11.47,Wood
+0101OB,25x32mm Raw Obeche Bevel Moulding,25,26,Natural,4.85,9.7,Wood
+0102AS,16x21mm Raw Ash Cushion Moulding,16,16,Natural,4.53,9.05,Wood
+0120OB,20x15mm Raw Obeche Bevel Moulding,20,9,Natural,2.68,5.36,Wood
+0124OB,33x20mm Raw Obeche Bevel Moulding,33,13,Natural,4.66,9.32,Wood
+0130OB,20x20mm Raw Obeche Flat Moulding,20,15,Natural,3.3,6.59,Wood
+0136OB,68x20mm Raw Obeche Step Moulding,68,12,Natural,7.36,14.72,Wood
+0140OB,25x22mm Raw Obeche Bevel Moulding,25,12,Natural,2.87,5.73,Wood
+0150OB,24x20mm Raw Obeche Bevel Moulding,24,9,Natural,3.11,6.22,Wood
+0152BK,10x12mm Black Flat Moulding,10,9,Black,5.27,10.54,Wood
+0152WH,10x12mm White Flat Moulding,10,9,White,5.27,10.54,Wood
+0160GD,20x18mm Gold Scoop Moulding,20,14,Gold,12.1,24.19,Wood
+0160OB,70x20mm Raw Obeche Cushion Moulding,70,12,Natural,7.07,14.13,Wood
+0160SI,20x18mm Silver Scoop Moulding,20,14,Silver,12.1,24.19,Wood
+0161BK,12x21mm Gloss Black Monochrome Box Moulding,12,15,Black,7.97,15.94,Wood
+0161WH,12x21mm Gloss White Monochrome Box Moulding,12,15,White,7.97,15.94,Wood
+0162BK,15x30mm Gloss Black Monochrome Box Moulding,15,23,Black,9.66,19.32,Wood
+0162WH,15x30mm Gloss White Monochrome Box Moulding,15,23,White,9.66,19.32,Wood
+0163BK,19x35mm Gloss Black Monochrome Bevel Moulding,19,20,Black,10.25,20.5,Wood
+0163WH,19x35mm Gloss White Monochrome Bevel Moulding,19,20,White,10.25,20.5,Wood
+0164BK,39x52mm Gloss Black Monochrome Box Moulding,39,43,Black,17.34,34.67,Wood
+0164WH,39x52mm Gloss White Monochrome Box Moulding,39,43,White,17.34,34.67,Wood
+0170OB,35x16mm Raw Obeche Bevel Moulding,35,10,Natural,3.63,7.27,Wood
+0171GN,15x17mm Neon Green Vegas Flat Moulding,15,13,Green,3.34,6.68,Wood
+0171OR,15x17mm Neon Orange Vegas Flat Moulding,15,13,Orange,3.34,6.68,Wood
+0171PK,15x17mm Neon Pink Vegas Flat Moulding,15,13,Pink,3.34,6.68,Wood
+0171RD,15x17mm Neon Red Vegas Flat Moulding,15,13,Red,3.34,6.68,Wood
+0171YW,15x17mm Neon Yellow Vegas Flat Moulding,15,13,Yellow,3.34,6.68,Wood
+0174OB,16x6mm Raw Obeche Slip Moulding,16,0,Natural,1.25,2.5,Wood
+0180OB,19x6mm Raw Obeche Slip Moulding,19,,Natural,1.55,3.11,Wood
+0181GD,14x13mm Gold Flat Moulding,14,9,Gold,6.09,12.18,Wood
+0181SI,14x13mm Silver Flat Moulding,14,9,Silver,6.09,12.18,Wood
+0190OB,75x33mm Raw Obeche Step Moulding,75,20,Natural,10.43,20.85,Wood
+0193BK,15x20mm Antique Black Kassel Box Moulding - FSC,15,15,Black,5.48,10.96,Wood
+0193BR,15x20mm Antique Bronze Kassel Box Moulding - FSC,15,15,Bronze,5.48,10.96,Wood
+0193GD,15x20mm Antique Gold Kassel Box Moulding - FSC,15,15,Gold,5.48,10.96,Wood
+0193PT,15x20mm Antique Pewter Kassel Box Moulding - FSC,15,15,Pewter,5.48,10.96,Wood
+0193SI,15x20mm Antique Silver Kassel Box Moulding - FSC,15,15,Silver,5.48,10.96,Wood
+0194BK,20x35mm Antique Black Kassel Box Moulding,20,31,Black,6.57,13.15,Wood
+0194BR,20x35mm Antique Bronze Kassel Box Moulding,20,31,Bronze,6.57,13.15,Wood
+0194GD,20x35mm Antique Gold Kassel Box Moulding,20,31,Gold,6.57,13.15,Wood
+0194PT,20x35mm Antique Pewter Kassel Box Moulding,20,31,Pewter,6.57,13.15,Wood
+0194SI,20x35mm Antique Silver Kassel Box Moulding,20,31,Silver,6.57,13.15,Wood
+0195GD,10x32mm Gold and Black Kassel L-shape Moulding,10,,Gold,9.9,19.8,Wood
+0195SI,10x32mm Silver and Black Kassel L-shape Moulding,10,,Silver,9.9,19.8,Wood
+0196GD,16x52mm Gold and Black Kassel L-shape Moulding,16,,Gold,11.97,23.94,Wood
+0196SI,16x52mm Silver and Black Kassel L-shape Moulding,16,,Silver,11.97,23.94,Wood
+0201GD,21x13mm Gold Flat Moulding,21,9,Gold,7.31,14.62,Wood
+0201SI,21x13mm Silver Flat Moulding,21,9,Silver,7.31,14.62,Wood
+0203AP,44x18mm Antique Pine Scoop Moulding,44,8,Natural,6.07,12.15,Wood
+0203PN,59x21mm Raw Pine Flat Moulding,59,15,Natural,7.37,14.74,Wood
+0219BK,20x15mm Black Bevel Moulding,20,9,Black,2.58,5.17,Wood
+0219WH,20x15mm White Bevel Moulding,20,9,White,2.58,5.17,Wood
+0221OB,70x23mm Raw Obeche Flat Moulding,70,61,Natural,9.28,18.56,Wood
+0225OV,21x22mm Oak Veneer Flat Moulding,21,17,Brown,5.49,10.98,Wood
+0250OB,27x31mm Raw Obeche Cushion Moulding,27,22,Natural,4.23,8.46,Wood
+0251WH,27x17mm Whitewash Bevel Moulding,27,10,White,5.39,10.77,Wood
+0260OB,38x34mm Raw Obeche Cushion Moulding,38,26,Natural,6.85,13.69,Wood
+0270BK,15x15mm Black Cushion Moulding,15,8,Black,2.21,4.41,Wood
+0270OB,18x12mm Raw Obeche Cushion Moulding,18,7,Natural,2.29,4.58,Wood
+0275WG,20x14mm Walnut & Gold Step Moulding,20,7,Brown,4.19,8.37,Wood
+0285OB,60x39mm Raw Obeche Step Moulding,60,14,Natural,11.75,23.5,Wood
+0290OB,40x35mm Raw Obeche L-shape Moulding,40,10,Natural,6.53,13.06,Wood
+0341BK,15x12mm Black Ashford Flat Moulding,15,9,Black,4.16,8.32,Wood
+0342BK,20x13mm Black Ashford Flat Moulding,20,9,Black,4.33,8.65,Wood
+0342GY,20x13mm Grey Ashford Flat Moulding,20,9,Grey,4.33,8.65,Wood
+0342PG,20x13mm Pale Grey Ashford Flat Moulding,20,9,Grey,4.33,8.65,Wood
+0342WA,20x13mm Walnut Ashford Flat Moulding,20,9,Brown,4.33,8.65,Wood
+0342WH,20x13mm White Ashford Flat Moulding,20,9,White,4.33,8.65,Wood
+0344BK,30x13mm Black Ashford Flat Moulding,30,8,Black,5.63,11.26,Wood
+0344GY,30x13mm Grey Ashford Flat Moulding,30,8,Grey,5.63,11.26,Wood
+0344PG,30x13mm Pale Grey Ashford Flat Moulding,30,8,Grey,5.63,11.26,Wood
+0344WA,30x13mm Walnut Ashford Flat Moulding,30,8,Brown,5.63,11.26,Wood
+0344WH,30x13mm White Ashford Flat Moulding,30,8,White,5.63,11.26,Wood
+0345BK,20x33mm Black Ashford Flat Moulding,20,29,Black,7.75,15.5,Wood
+0345GY,20x33mm Grey Ashford Flat Moulding,20,29,Grey,7.75,15.5,Wood
+0345PG,20x33mm Pale Grey Ashford Flat Moulding,20,29,Grey,7.75,15.5,Wood
+0345WA,20x33mm Walnut Ashford Flat Moulding,20,29,Brown,7.75,15.5,Wood
+0345WH,20x33mm White Ashford Flat Moulding,20,29,White,7.75,15.5,Wood
+0348BK,54x20mm Black Ashford Flat Moulding,54,14,Black,10.13,20.27,Wood
+0348GY,54x20mm Grey Ashford Flat Moulding,54,14,Grey,10.13,20.27,Wood
+0348PG,54x20mm Pale Grey Ashford Flat Moulding,54,14,Grey,10.13,20.27,Wood
+0348WA,54x20mm Walnut Ashford Flat Moulding,54,14,Brown,10.13,20.27,Wood
+0348WH,54x20mm White Ashford Flat Moulding,54,14,White,10.13,20.27,Wood
+0349BK,40x38mm Black Ashford Flat Moulding,40,27,Black,12.62,25.24,Wood
+0349GY,40x38mm Grey Ashford Flat Moulding,40,27,Grey,12.62,25.24,Wood
+0349PG,40x38mm Pale Grey Ashford Flat Moulding,40,27,Grey,12.62,25.24,Wood
+0349WA,40x38mm Walnut Ashford Flat Moulding,40,27,Brown,12.62,25.24,Wood
+0349WH,40x38mm White Ashford Flat Moulding,40,27,White,12.62,25.24,Wood
+0370BK,22x13mm Black Cushion Moulding,22,9,Black,2.58,5.17,Wood
+0375WG,25x17mm Walnut & Gold Step Moulding,25,7,Brown,5.52,11.05,Wood
+0400BK,30x15mm Black Cushion Moulding,30,9,Black,5.82,11.63,Wood
+0402BK,13x10mm Black Cushion Moulding,13,7,Black,1.82,3.63,Wood
+0403BK,20x14mm Black Cushion Moulding,20,8,Black,3.42,6.85,Wood
+0410BK,42x20mm Black Step Moulding,42,13,Black,10.69,21.38,Wood
+0410BN,42x20mm Brown Step Moulding,42,13,Brown,10.69,21.38,Wood
+0410GY,42x20mm Grey Step Moulding,42,13,Grey,10.69,21.38,Wood
+0410WH,42x20mm White Step Moulding,42,13,White,10.69,21.38,Wood
+0451GY,DISCONTINUED - 20x18mm Dark Grey Amberley Scoop Moulding,20,8,Grey,3.19,6.38,Wood
+0451LB,20x18mm Light Brown Amberley Scoop Moulding,20,8,Brown,3.19,6.38,Wood
+0451WH,20x18mm White Amberley Scoop Moulding,20,8,White,3.19,6.38,Wood
+0452BK,30x20mm Black Amberley Scoop Moulding,30,10,Black,4.24,8.48,Wood
+0452LB,30x20mm Light Brown Amberley Scoop Moulding,30,10,Brown,4.24,8.48,Wood
+0452PG,DISCONTINUED - 30x20mm Pale Grey Amberley Scoop Moulding,30,10,Grey,4.24,8.48,Wood
+0452WH,30x20mm White Amberley Scoop Moulding,30,10,White,4.24,8.48,Wood
+0453GY,52x35mm Dark Grey Amberley Scoop Moulding,52,14,Grey,8.49,16.99,Wood
+0453PG,52x35mm Pale Grey Amberley Scoop Moulding,52,14,Grey,8.49,16.99,Wood
+0453WH,52x35mm White Amberley Scoop Moulding,52,14,White,8.49,16.99,Wood
+0471BK,30x25mm Black Casterbridge Step Moulding,30,12,Black,4.11,8.21,Wood
+0471CM,30x25mm Cream Casterbridge Step Moulding,30,12,Cream,4.11,8.21,Wood
+0471DB,30x25mm Dark Brown Casterbridge Step Moulding,30,12,Brown,4.11,8.21,Wood
+0471GY,30x25mm Dark Grey Casterbridge Step Moulding,30,12,Grey,4.11,8.21,Wood
+0471LB,30x25mm Light Brown Casterbridge Step Moulding,30,12,Brown,4.11,8.21,Wood
+0471PG,30x25mm Pale Grey Casterbridge Step Moulding,30,12,Grey,4.11,8.21,Wood
+0471WH,30x25mm White Casterbridge Step Moulding,30,12,White,4.11,8.21,Wood
+0472BK,52x35mm Black Casterbridge Step Moulding,52,14,Black,8.06,16.13,Wood
+0472CM,52x35mm Cream Casterbridge Step Moulding,52,14,Cream,8.06,16.13,Wood
+0472DB,52x35mm Dark Brown Casterbridge Step Moulding,52,14,Brown,8.06,16.13,Wood
+0472GY,52x35mm Dark Grey Casterbridge Step Moulding,52,14,Grey,8.06,16.13,Wood
+0472LB,52x35mm Light Brown Casterbridge Step Moulding,52,14,Brown,8.06,16.13,Wood
+0472PG,52x35mm Pale Grey Casterbridge Step Moulding,52,14,Grey,8.06,16.13,Wood
+0472WH,52x35mm White Casterbridge Step Moulding,52,14,White,8.06,16.13,Wood
+0473BK,84x40mm Black Casterbridge Step Moulding,84,17,Black,11.38,22.76,Wood
+0473GY,84x40mm Dark Grey Casterbridge Step Moulding,84,17,Grey,11.38,22.76,Wood
+0473IV,84x40mm Ivory Casterbridge Step Moulding,84,17,Cream,11.38,22.76,Wood
+0473PG,84x40mm Pale Grey Casterbridge Step Moulding,84,17,Grey,11.38,22.76,Wood
+0473WH,84x40mm White Casterbridge Step Moulding,84,17,White,11.38,22.76,Wood
+0475WG,35x17mm Walnut & Gold Step Moulding,35,7,Brown,6.02,12.03,Wood
+0505OB,84x28mm Raw Obeche Flat Moulding,84,13,Natural,15.73,31.46,Wood
+0511WH,20x20mm White Flat Moulding,20,16,White,3.89,7.77,Wood
+0512WH,35x35mm White Flat Moulding,35,30,White,8.59,17.17,Wood
+0516GY,39x39mm Grey Flat Moulding,39,38,Grey,8.79,17.58,Wood
+0519BK,37x22mm Matt Black Scoop Moulding,37,9,Black,4.38,8.76,Wood
+0519WH,37x22mm Matt White Scoop Moulding,37,9,White,4.38,8.76,Wood
+0520WH,20x16mm Whitewash Flat Moulding,20,12,White,4.78,9.56,Wood
+0529BK,33x17mm Matt Black Bevel Moulding,34,9,Black,3.74,7.48,Wood
+0529WH,34x17mm Matt White Bevel Moulding,34,9,White,3.74,7.48,Wood
+0530OB,44x32mm Raw Obeche Scoop Moulding,44,9,Natural,7.98,15.96,Wood
+0539OB,56x43mm Raw Obeche L-shape Moulding,56,15,Natural,11.13,22.26,Wood
+0545OV,26x20mm Oak Veneer Flat Moulding,26,15,Brown,5.86,11.72,Wood
+0546OV,41x20mm Oak Veneer Flat Moulding,41,13,Brown,8.42,16.84,Wood
+0547OV,63x20mm Oak Veneer Flat Moulding,63,13,Brown,11.03,22.05,Wood
+0548BK,5x48mm Black Fillet Moulding,5,,Black,2.78,5.57,Fillet
+0548WH,5x48mm White Fillet Moulding,5,,White,2.78,5.57,Fillet
+0560WH,30x16mm Whitewash Flat Moulding,30,11,White,5.7,11.4,Wood
+0590OB,20x44mm Raw Obeche Flat Moulding,20,40,Natural,5.91,11.82,Wood
+0595OB,24x52mm Raw Obeche Flat Moulding,24,42,Natural,6.24,12.47,Wood
+0606OB,89x29mm Raw Obeche Step Moulding,89,13,Natural,9.86,19.72,Wood
+0610OB,20x30mm Whitewash Flat Moulding,20,28,White,5.53,11.07,Wood
+0663WV,40x14mm Gloss Walnut Veneer Flat Moulding,40,10,Brown,14.36,28.73,Wood
+0667WV,20x14mm Gloss Walnut Veneer Flat Moulding,20,9,Brown,8.48,16.97,Wood
+0669WV,30x14mm Gloss Walnut Veneer Flat Moulding,30,10,Brown,9.3,18.61,Wood
+0693WV,15x14mm Gloss Walnut Veneer Flat Moulding,15,10,Brown,6.01,12.01,Wood
+0711BK,29x20mm Black/Silver Lip Burnham Step Moulding,29,10,Black,3.86,7.73,Wood
+0711GY,29x20mm Dark Grey/Silver Lip Burnham Step Moulding,29,10,Grey,3.86,7.73,Wood
+0711MA,29x20mm Maroon/Silver Lip Burnham Step Moulding,29,10,Red,3.86,7.73,Wood
+0711PG,29x20mm Pale Grey/Silver Lip Burnham Step Moulding,29,10,Grey,3.86,7.73,Wood
+0712BK,49x30mm Black/Silver Lip Burnham Step Moulding,49,15,Black,7.83,15.67,Wood
+0712GY,49x30mm Dark Grey/Silver Lip Burnham Step Moulding,49,15,Grey,7.83,15.67,Wood
+0712MA,49x30mm Maroon/Silver Lip Burnham Step Moulding,49,15,Red,7.83,15.67,Wood
+0712PG,49x30mm Pale Grey/Silver Lip Burnham Step Moulding,49,15,Grey,7.83,15.67,Wood
+0712WH,49x30mm White/Silver Lip Burnham Step Moulding,49,15,White,7.83,15.67,Wood
+0715OB,15x25mm Raw Obeche Flat Moulding,15,21,Natural,2.46,4.91,Wood
+0809BK,30x18mm Black Bevel Moulding,30,10,Black,7.83,15.67,Wood
+0809WH,30x18mm White Bevel Moulding,30,10,White,7.83,15.67,Wood
+0811BK,10x34mm Black L-shape Moulding,10,25,Black,8.01,16.02,Wood
+0811WH,10x34mm White L-shape Moulding,10,25,White,8.01,16.02,Wood
+0817OB,74x29mm Raw Obeche Bevel Moulding,74,13,Natural,12.43,24.86,Wood
+0873OV,18x20mm Oak Veneer Flat Moulding,18,16,Brown,4.84,9.68,Wood
+0989OV,20x32mm Oak Veneer Flat Moulding,20,29,Brown,7.23,14.47,Wood
+1006BK,20x33mm Black Flat Moulding,20,27,Black,7.5,14.99,Wood
+1006OA,20x33mm Oak Flat Moulding,20,27,Brown,7.5,14.99,Wood
+1006WH,20x33mm White Flat Moulding,20,27,White,7.5,14.99,Wood
+1007BK,34x22mm Black Flat Moulding,34,17,Black,5.13,17.22,Wood
+1007OA,34x22mm Oak Flat Moulding,34,17,Brown,8.85,17.7,Wood
+1007WH,34x22mm White Flat Moulding,34,17,White,5.13,17.22,Wood
+1008BK,18x20mm Black Flat Moulding,18,14,Black,2.83,11.26,Wood
+1008OA,18x20mm Oak Flat Moulding,18,14,Brown,5.84,11.68,Wood
+1008WH,18x20mm White Flat Moulding,18,14,White,2.83,11.26,Wood
+1020BE,10x20mm Beech Veneer Maiella Flat Moulding,10,15,Brown,4.28,8.57,Wood
+1020MA,10x20mm Maple Veneer Maiella Flat Moulding,10,15,Brown,4.95,9.89,Wood
+1020OA,10x20mm Oak Veneer Maiella Flat Moulding,10,15,Brown,4.28,8.57,Wood
+1020WA,10x20mm Walnut Veneer Maiella Flat Moulding,10,15,Brown,4.95,9.89,Wood
+1020WE,10x20mm Wenge Veneer Maiella Flat Moulding,10,15,Brown,4.95,9.89,Wood
+1025BK,10x25mm Matt Black Flat Moulding,10,20,Black,5.13,10.27,Wood
+1025WH,10x25mm Matt White Flat Moulding,10,20,White,5.13,10.27,Wood
+1030AS,10x30mm Raw Ash Box Moulding,10,25,Brown,3.65,7.31,Wood
+1030OA,10x30mm Raw Oak Box Moulding,10,25,Natural,3.41,6.83,Wood
+1030TU,10x30mm Raw Tulip Box Moulding,10,25,Natural,2.92,5.84,Wood
+1032WG,65x33mm Walnut & Gold Step Moulding,65,25,Brown,11.93,23.86,Wood
+1047BR,10x20mm Bronze Brooklyn Box Moulding,10,15,Bronze,4.26,8.52,Wood
+1047GD,10x20mm Gold Brooklyn Box Moulding,10,15,Gold,4.26,8.52,Wood
+1047PT,10x20mm Pewter Brooklyn Box Moulding,10,15,Pewter,4.26,8.52,Wood
+1047SI,10x20mm Silver Brooklyn Box Moulding,10,15,Silver,4.26,8.52,Wood
+1048BR,15x30mm Bronze Brooklyn Box Moulding,15,25,Bronze,5.06,10.12,Wood
+1048GD,15x30mm Gold Brooklyn Box Moulding,15,25,Gold,5.06,10.12,Wood
+1048PT,15x30mm Pewter Brooklyn Box Moulding,15,25,Pewter,5.06,10.12,Wood
+1048SI,15x30mm Silver Brooklyn Box Moulding,15,25,Silver,5.06,10.12,Wood
+1049BR,20x20mm Bronze Brooklyn Box Moulding,20,15,Bronze,4.82,9.63,Wood
+1049GD,20x20mm Gold Brooklyn Box Moulding,20,15,Gold,4.82,9.63,Wood
+1049PT,20x20mm Pewter Brooklyn Box Moulding,20,15,Pewter,4.82,9.63,Wood
+1049SI,20x20mm Silver Brooklyn Box Moulding,20,15,Silver,4.82,9.63,Wood
+1062CH,20x20mm Charcoal Iron Vecchio Block Moulding,20,15,Black,5.54,11.09,Wood
+1062GD,20x20mm Gold Iron Vecchio Block Moulding,20,15,Gold,5.54,11.09,Wood
+1062PT,20x20mm Pewter Iron Vecchio Block Moulding,20,15,Pewter,5.54,11.09,Wood
+1063CH,15x30mm Charcoal Iron Vecchio Box Moulding,15,26,Black,5.94,11.88,Wood
+1063GD,15x30mm Gold Iron Vecchio Box Moulding,15,26,Gold,5.94,11.88,Wood
+1063PT,15x30mm Pewter Iron Vecchio Box Moulding,15,26,Pewter,5.94,11.88,Wood
+1064CH,20x38mm Charcoal Iron Vecchio Box Moulding,20,34,Black,7.02,14.04,Wood
+1064GD,20x38mm Gold Iron Vecchio Box Moulding,20,34,Gold,7.02,14.04,Wood
+1064PT,20x38mm Pewter Iron Vecchio Box Moulding,20,34,Pewter,7.02,14.04,Wood
+1065CH,30x30mm Charcoal Iron Vecchio Block Moulding,30,25,Black,7.33,14.66,Wood
+1065GD,30x30mm Gold Iron Vecchio Block Moulding,30,25,Gold,7.33,14.66,Wood
+1065PT,30x30mm Pewter Iron Vecchio Block Moulding,30,25,Pewter,7.33,14.66,Wood
+1081BK,15x30mm Wenge New York Flat Moulding,15,25,Black,5.91,11.81,Wood
+1081GD,15x30mm Antique Gold New York Flat Moulding,15,25,Gold,5.91,11.81,Wood
+1081SI,15x30mm Antique Silver New York Flat Moulding,15,25,Silver,5.91,11.81,Wood
+1082BK,20x20mm Wenge New York Flat Moulding,20,15,Black,5.6,11.19,Wood
+1082GD,20x20mm Antique Gold New York Flat Moulding,20,15,Gold,5.6,11.19,Wood
+1082SI,20x20mm Antique Silver New York Flat Moulding,20,15,Silver,5.6,11.19,Wood
+1083BK,20x38mm Wenge New York Flat Moulding,20,34,Black,7.81,15.62,Wood
+1083GD,20x38mm Antique Gold New York Flat Moulding,20,34,Gold,7.81,15.62,Wood
+1083SI,20x38mm Antique Silver New York Flat Moulding,20,34,Silver,7.81,15.62,Wood
+1084BK,38x20mm Wenge New York Flat Moulding,38,15,Black,8.55,17.1,Wood
+1084GD,38x20mm Antique Gold New York Flat Moulding,38,15,Gold,8.55,17.1,Wood
+1084SI,38x20mm Antique Silver New York Flat Moulding,38,15,Silver,8.55,17.1,Wood
+1120BK,15x20mm Open Grain Black Hoxton Hockey Moulding,15,12,Black,2.15,4.31,Wood
+1120OA,15x20mm Oak Veneer Hoxton Hockey Moulding,15,12,Brown,3.78,7.56,Wood
+1120WA,15x20mm Walnut Veneer Hoxton Hockey Moulding,15,12,Brown,3.78,7.56,Wood
+1120WH,15x20mm Open Grain White Hockey Hoxton Moulding,15,12,White,2.15,4.31,Wood
+1121BK,20x30mm Open Grain Black Hoxton Hockey Moulding,20,21,Black,3.05,6.09,Wood
+1121OA,20x30mm Oak Veneer Hoxton Hockey Moulding,20,21,Brown,5.16,10.31,Wood
+1121WA,20x30mm Walnut Veneer Hoxton Hockey Moulding,20,21,Brown,5.16,10.31,Wood
+1121WH,20x30mm Open Grain White Hoxton Hockey Moulding,20,21,White,3.05,6.09,Wood
+1141MB,15x15mm Matt Black Lyndhurst Flat Moulding,15,10,Black,4.27,8.55,Wood
+1141MW,15x15mm Matt White Lyndhurst Flat Moulding,15,10,White,4.27,8.55,Wood
+1141SA,15x15mm Natural Lyndhurst Flat Moulding,15,10,Brown,4.36,8.72,Wood
+1141WE,15x15mm Wenge Lyndhurst Flat Moulding,15,10,Brown,4.36,8.72,Wood
+1142MB,20x15mm Matt Black Lyndhurst Flat Moulding,20,10,Black,5.26,10.52,Wood
+1142MW,20x13mm Matt White Lyndhurst Flat Moulding,20,10,White,5.26,10.52,Wood
+1142SA,20x13mm Natural Lyndhurst Flat Moulding,20,10,Brown,5.27,10.54,Wood
+1142WA,20x15mm Walnut Lyndhurst Flat Moulding,20,10,Brown,5.26,10.52,Wood
+1142WE,20x15mm Wenge Lyndhurst Flat Moulding,20,10,Brown,5.26,10.52,Wood
+1144MB,30x15mm Matt Black Lyndhurst Flat Moulding,30,11,Black,6.75,13.5,Wood
+1144MW,30x13mm Matt White Lyndhurst Flat Moulding,30,11,White,7.63,15.27,Wood
+1144SA,30x15mm Natural Lyndhurst Flat Moulding,30,11,Brown,6.75,13.5,Wood
+1144WA,30x15mm Walnut Lyndhurst Flat Moulding,30,11,Brown,6.75,13.5,Wood
+1144WE,30x15mm Wenge Lyndhurst Flat Moulding,30,11,Brown,6.75,13.5,Wood
+1146MB,40x15mm Matt Black Lyndhurst Flat Moulding,40,9,Black,8.59,17.18,Wood
+1146SA,40x15mm Natural Lyndhurst Flat Moulding,40,9,Brown,8.94,17.87,Wood
+1146WE,40x15mm Wenge Lyndhurst Flat Moulding,40,9,Brown,8.94,17.87,Wood
+1146WH,40x15mm White Lyndhurst Flat Moulding,40,9,White,10.23,20.45,Wood
+1156WH,40x18mm Whitewash Flat Moulding,40,13,White,6.59,13.19,Wood
+1170GD,15x15mm Gold Flat Moulding,15,10,Gold,4.01,8.02,Wood
+1170SI,15x15mm Antique Silver Flat Moulding,15,10,Silver,4.01,8.02,Wood
+1180GD,25x15mm Antique Gold Flat Moulding,25,11,Gold,4.75,9.5,Wood
+1180SI,25x15mm Antique Silver Flat Moulding,25,11,Silver,4.75,9.5,Wood
+1190BK,20x20mm Black Oak Foil Flat Moulding,20,15,Black,2.95,5.9,Wood
+1190WH,20x20mm White Oak Foil Flat Moulding,20,15,White,2.95,5.9,Wood
+1191BK,30x30mm Black Oak Foil Flat Moulding,30,24,Black,4.74,9.48,Wood
+1191WH,30x30mm White Oak Foil Flat Moulding,30,24,White,4.74,9.48,Wood
+1192BK,15x30mm Black Oak Foil Flat Moulding,15,25,Black,3.25,6.5,Wood
+1192WH,15x30mm White Oak Foil Flat Moulding,15,25,White,3.25,6.5,Wood
+1193BK,20x38mm Black Oak Foil Flat Moulding,20,32,Black,4.49,8.98,Wood
+1193WH,20x38mm White Oak Foil Flat Moulding,20,32,White,4.49,8.98,Wood
+1194BK,9x35mm Black Oak Foil L-shape Moulding,9,9,Black,5.21,10.42,Wood
+1194WH,9x35mm White Oak Foil L-shape Moulding,9,9,White,5.21,10.42,Wood
+1195BK,9x60mm Black Oak Foil L-shape Moulding,9,9,Black,12.25,24.5,Wood
+1195WH,9x60mm White Oak Foil L-shape Moulding,9,9,White,12.25,24.5,Wood
+1204BK,25x20mm Decorative Black Versailles Reverse Moulding,25,8,Black,5.78,11.55,Wood
+1204GD,25x20mm Decorative Gold Versailles Reverse Moulding,25,8,Gold,5.78,11.55,Wood
+1204SI,25x20mm Decorative Silver Versailles Reverse Moulding,25,8,Silver,5.78,11.55,Wood
+1204WH,25x20mm Decorative White Versailles Reverse Moulding,25,8,White,5.78,11.55,Wood
+1227BK,16x38mm Black with Oak Anders Wedge Moulding,16,14,Black,9.04,18.08,Wood
+1227BU,16x38mm Blue with Oak Anders Wedge Moulding,16,14,Blue,9.04,18.08,Wood
+1227GN,16x38mm Green with Oak Anders Wedge Moulding,16,14,Green,9.04,18.08,Wood
+1227GY,16x38mm Grey with Oak Anders Wedge Moulding,16,14,Grey,9.04,18.08,Wood
+1227PU,16x38mm Purple with Oak Anders Wedge Moulding,16,14,Purple,9.04,18.08,Wood
+1227RD,16x38mm Red with Oak Anders Wedge Moulding,16,14,Red,9.04,18.08,Wood
+1227WH,16x38mm White with Oak Anders Wedge Moulding,16,14,White,9.04,18.08,Wood
+1227YW,16x38mm Yellow with Oak Anders Wedge Moulding,16,14,Yellow,9.04,18.08,Wood
+1228BK,20x38mm Black with Oak Anders Box Moulding,20,30,Black,8.38,16.76,Wood
+1228BU,20x38mm Blue with Oak Anders Box Moulding,20,30,Blue,8.38,16.76,Wood
+1228GN,20x38mm Green with Oak Anders Box Moulding,20,30,Green,8.38,16.76,Wood
+1228GY,20x38mm Grey with Oak Anders Box Moulding,20,30,Grey,8.38,16.76,Wood
+1228PU,20x38mm Purple with Oak Anders Box Moulding,20,30,Purple,8.38,16.76,Wood
+1228RD,20x38mm Red with Oak Anders Box Moulding,20,30,Red,8.38,16.76,Wood
+1228WH,20x38mm White with Oak Anders Box Moulding,20,30,White,8.38,16.76,Wood
+1228YW,20x38mm Yellow with Oak Anders Box Moulding,20,30,Yellow,8.38,16.76,Wood
+1258BK,35x45mm Black Open Grain Lisbon L-shape Moulding,35,14,Black,7.58,15.16,Wood
+1258WE,35x45mm Wenge Open Grain Lisbon L-shape Moulding,35,14,Brown,7.58,15.16,Wood
+1258WH,35x45mm White Open Grain Lisbon L-shape Moulding,35,14,White,7.58,15.16,Wood
+1259BK,60x50mm Black Open Grain Lisbon L-shape Moulding,60,14,Black,10.89,21.78,Wood
+1259WE,60x50mm Wenge Open Grain Lisbon L-shape Moulding,60,14,Black,10.89,21.78,Wood
+1259WH,60x50mm White Open Grain Lisbon L-shape Moulding,60,14,White,10.89,21.78,Wood
+1268BK,31x30mm Black Siena Step Moulding,31,11,Black,9.47,18.94,Wood
+1268GD,31x30mm Gold Siena Step Moulding,31,11,Gold,9.25,18.5,Wood
+1268PT,31x30mm Pewter Siena Step Moulding,31,11,Pewter,9.25,18.5,Wood
+1268SI,31x30mm Silver Siena Step Moulding,31,11,Silver,9.25,18.5,Wood
+1270OA,30x30mm Oak 2-Tone Pollino Bevel Moulding,30,15,Brown,10.71,21.42,Wood
+1270WA,30x30mm Walnut 2-Tone Pollino Bevel Moulding,30,15,Brown,10.71,21.42,Wood
+1270WE,30x30mm Wenge 2-Tone Pollino Bevel Moulding,30,15,Brown,10.71,21.42,Wood
+1271OA,39x38mm Oak 2-Tone Pollino Bevel Moulding,39,23,Brown,14.08,28.16,Wood
+1271WA,39x38mm Walnut 2-Tone Pollino Bevel Moulding,39,23,Brown,14.08,28.16,Wood
+1271WE,39x38mm Wenge 2-Tone Pollino Bevel Moulding,39,23,Brown,14.08,28.16,Wood
+1272WA,24x48mm Walnut 2-Tone Pollino Step Moulding,24,18,Brown,13.32,26.65,Wood
+1283BS,36x30mm Silver & Black Elise Scoop Moulding,36,14,Black,9.82,19.64,Wood
+1283WS,DISCONTINUED - 36x30mm Silver with White Elise Scoop Moulding,36,14,White,9.82,19.64,Wood
+1286BG,38x30mm Black & Gold Elise Scoop Moulding,38,11,Black,9.82,19.64,Wood
+1286BS,38x30mm Black & Silver Elise Scoop Moulding,38,11,Black,9.82,19.64,Wood
+1286GD,38x30mm Gold Elise Scoop Moulding,38,11,Gold,9.82,19.64,Wood
+1286SI,38x30mm Silver Elise Scoop Moulding,38,11,Silver,9.82,19.64,Wood
+1297BK,30x21mm Black Charcoal LUXE Seville Scoop Moulding,30,11,Black,6.48,12.96,Wood
+1297GD,30x21mm Gold LUXE Seville Scoop Moulding,30,11,Gold,6.48,12.96,Wood
+1297SI,30x21mm Silver LUXE Seville Scoop Moulding,30,11,Silver,6.48,12.96,Wood
+1297WH,30x21mm Distressed White LUXE Seville Scoop Moulding,30,11,White,6.48,12.96,Wood
+1298BK,47x26mm Black Charcoal LUXE Seville Scoop Moulding,47,14,Black,9.4,18.8,Wood
+1298GD,47x26mm Gold LUXE Seville Scoop Moulding,47,14,Gold,9.4,18.8,Wood
+1298SI,47x26mm Silver LUXE Seville Scoop Moulding,47,14,Silver,9.4,18.8,Wood
+1298WH,47x26mm Distressed White LUXE Seville Scoop Moulding,47,14,White,9.4,18.8,Wood
+1299BK,78x38mm Black Charcoal LUXE Seville Scoop Moulding,78,15,Black,17.18,34.36,Wood
+1299GD,78x38mm Gold LUXE Seville Scoop Moulding,78,15,Gold,17.18,34.36,Wood
+1299SI,78x38mm Silver LUXE Seville Scoop Moulding,78,15,Silver,17.18,34.36,Wood
+1299WH,78x38mm Distressed White LUXE Seville Scoop Moulding,78,15,White,17.18,34.36,Wood
+1300AP,20x13mm Antique Pine Scoop Moulding,20,9,Brown,4.04,8.08,Wood
+1300BG,20x13mm Black & Gold Scoop Moulding,20,9,Black,4.15,8.29,Wood
+1300BK,20x13mm Black Scoop Moulding,20,9,Black,4.04,8.08,Wood
+1300MA,20x13mm Mahogany Scoop Moulding,20,9,Brown,4.04,8.08,Wood
+1300MG,20x13mm Mahogany & Gold Scoop Moulding,20,9,Brown,4.15,8.29,Wood
+1300NT,20x13mm Natural Scoop Moulding,20,9,Natural,4.04,8.08,Wood
+1300OA,20x13mm Oak Scoop Moulding,20,9,Brown,4.16,8.31,Wood
+1300OG,20x13mm Oak & Gold Scoop Moulding,20,9,Brown,4.15,8.29,Wood
+1300TE,20x13mm Teak Scoop Moulding,20,9,Brown,4.04,8.08,Wood
+1300TG,20x13mm Teak & Gold Scoop Moulding,20,9,Brown,4.15,8.29,Wood
+1302WA,28x17mm Walnut Scoop Moulding,28,11,Brown,5.33,10.67,Wood
+1302WG,28x17mm Walnut & Gold Scoop Moulding,28,11,Brown,5.33,10.67,Wood
+1314BK,21x21mm Black Lorenz Cushion Moulding,21,11,Black,4.82,9.64,Wood
+1314BR,21x21mm Bronze Lorenz Cushion Moulding,21,11,Bronze,4.82,9.64,Wood
+1314GD,21x21mm Gold Lorenz Cushion Moulding,21,11,Gold,4.82,9.64,Wood
+1314PT,21x21mm Pewter Lorenz Cushion Moulding,21,11,Pewter,4.82,9.64,Wood
+1314SI,21x21mm Silver Lorenz Cushion Moulding,21,11,Silver,4.82,9.64,Wood
+1314WH,21x21mm White Lorenz Cushion Moulding,21,11,White,4.82,9.64,Wood
+1315WA,15x17mm Walnut Step Moulding,15,9,Brown,2.4,4.81,Wood
+1315WG,15x17mm Walnut & Gold Step Moulding,15,9,Brown,2.68,5.36,Wood
+1316BK,13x16mm Black Flat Moulding,13,11,Black,3.17,6.34,Wood
+1316GY,13x16mm Dark Grey Flat Moulding,13,11,Grey,3.17,6.34,Wood
+1316LB,13x16mm Light Brown Flat Moulding,13,11,Brown,3.17,6.34,Wood
+1316PG,13x16mm Pale Grey Flat Moulding,13,11,Grey,3.17,6.34,Wood
+1316WH,13x16mm White Flat Moulding,13,11,White,3.17,6.34,Wood
+1322BF,13x22mm Brown Foil Flat Stockholm Moulding,13,18,Brown,3.64,7.29,Wood
+1322BK,13x22mm Black Flat Stockholm Moulding,13,18,Black,2.83,5.66,Wood
+1322BN,13x22mm Brown Flat Open Grain Stockholm Moulding,13,18,Brown,2.83,5.66,Wood
+1322BU,13x22mm Blue Extra Matt Flat Stockholm Palette Moulding,13,18,Blue,3.64,7.28,Wood
+1322CM,13x22mm Cream Extra Matt Flat Stockholm Palette Moulding,13,18,Cream,3.64,7.28,Wood
+1322DG,13x22mm Dark Green Extra Matt Flat Stockholm Palette Moulding,13,18,Green,3.64,7.28,Wood
+1322DR,13x22mm Dark Red Extra Matt Flat Stockholm Palette Moulding,13,18,Red,3.64,7.28,Wood
+1322GN,13x22mm Khaki Green Extra Matt Flat Stockholm Palette Moulding,13,18,Brown,3.64,7.28,Wood
+1322LG,13x22mm Light Green Extra Matt Flat Stockholm Palette Moulding,13,18,Green,3.64,7.28,Wood
+1322MD,13x22mm Midnight Grey Extra Matt Flat Stockholm Palette Moulding,13,18,Grey,3.64,7.28,Wood
+1322OA,13x22mm Oak Flat Stockholm Moulding,13,18,Brown,2.83,5.66,Wood
+1322OF,13x22mm Oak Foil Flat Stockholm Moulding,13,18,Brown,3.64,7.29,Wood
+1322OL,13x22mm Olive Green Extra Matt Flat Stockholm Palette Moulding,13,18,Green,3.64,7.28,Wood
+1322OR,13x22mm Orange Extra Matt Flat Stockholm Palette Moulding,13,18,Orange,3.64,7.28,Wood
+1322PK,13x22mm Pink Extra Matt Flat Stockholm Palette Moulding,13,18,Pink,3.64,7.28,Wood
+1322PU,13x22mm Purple Extra Matt Flat Stockholm Palette Moulding,13,18,Purple,3.64,7.28,Wood
+1322RD,13x22mm Red Extra Matt Flat Stockholm Palette Moulding,13,18,Red,3.64,7.28,Wood
+1322SB,13x22mm Sky Blue Extra Matt Flat Stockholm Palette Moulding,13,18,Blue,3.64,7.28,Wood
+1322WH,13x22mm White Flat Stockholm Moulding,13,18,White,2.83,5.66,Wood
+1322YW,13x22mm Yellow Extra Matt Flat Stockholm Palette Moulding,13,18,Yellow,3.64,7.28,Wood
+1324WA,24x14mm Walnut Step Moulding,24,9,Brown,2.88,5.75,Wood
+1334WG,35x14mm Walnut & Gold Step Moulding,35,7,Brown,3.47,6.93,Wood
+1340AS,13x40mm Raw Ash Box Moulding,13,35,,5.22,10.44,Wood
+1340BK,13x40mm Black Flat Moulding,13,35,Black,4.68,9.37,Wood
+1340IV,13x40mm Ivory Flat Moulding,13,35,Cream,4.68,9.37,Wood
+1340MB,13x40mm Matt Black Flat Moulding,13,35,Black,5.61,11.21,Wood
+1340MW,13x40mm Matt White Flat Moulding,13,35,White,5.61,11.21,Wood
+1340OA,13x40mm Raw Oak Box Moulding,13,35,Natural,4.85,9.7,Wood
+1340TU,13x40mm Raw Tulip Box Moulding,13,35,Natural,4.16,8.32,Wood
+1340WE,13x40mm Wenge Flat Moulding,13,35,Brown,4.68,9.37,Wood
+1340WH,13x40mm White Flat Moulding,13,35,White,4.68,9.37,Wood
+1341BK,17x6mm Black Slip Moulding,17,,Black,2.89,5.78,Wood
+1341WH,20x6mm White Slip Moulding,20,,White,2.89,5.78,Wood
+1344WA,15x17mm Walnut Step Moulding,15,8,Brown,3.72,7.43,Wood
+1344WG,15x17mm Walnut & Gold Step Moulding,15,8,Brown,3.91,7.81,Wood
+1345WG,22x17mm Walnut & Gold Step Moulding,22,10,Brown,5.15,10.29,Wood
+1358BK,19x45mm Black Flat Moulding,19,40,Black,9.52,19.05,Wood
+1358WH,19x45mm White Flat Moulding,19,40,White,9.52,19.05,Wood
+1368BS,57x19mm Black & Silver Reverse Moulding,57,10,Black,9.61,19.22,Wood
+1372OA,37x15mm Raw Oak Cushion Moulding,37,10,Natural,8.52,17.03,Wood
+1381WG,16x11mm Walnut & Gold Step Moulding,16,8,Brown,3.91,7.81,Wood
+1382BG,21x11mm - Black & Gold Step Moulding,21,8,Black and Gold,5.07,10.14,Wood
+1382BS,21x11mm - Black & Silver Step Moulding,21,8,Black and Gold,5.07,10.14,Wood
+1382WG,21x11mm Walnut & Gold Step Moulding,21,8,Brown,5.07,10.14,Wood
+1400BK,50x35mm Black L-shape Moulding,50,17,Black,10.41,20.81,Wood
+1400WH,50x35mm White L-shape Moulding,50,17,White,10.41,20.81,Wood
+1455BG,30x25mm Gold/Black Lip Aquila Scoop Moulding,30,10,Gold,5.09,10.19,Wood
+1455BK,30x25mm Black Aquila Scoop Moulding,30,10,Black,5.09,10.19,Wood
+1455CS,30x25mm Charcoal/Silver Lip Aquila Scoop Moulding,30,10,Black,5.09,10.19,Wood
+1455WH,30x25mm White Aquila Scoop Moulding,30,10,White,5.09,10.19,Wood
+1455WS,30x25mm Silver/White Lip Aquila Scoop Moulding,30,10,Silver,5.09,10.19,Wood
+1456BG,54x35mm Gold/Black Lip Aquila Scoop Moulding,54,10,Gold,9.53,19.07,Wood
+1456BK,54x35mm Black Aquila Scoop Moulding,54,10,Black,9.53,19.07,Wood
+1456CS,54x35mm Charcoal/Silver Lip Aquila Scoop Moulding,54,10,Black,9.53,19.07,Wood
+1456WH,54x35mm White Aquila Scoop Moulding,54,10,White,9.53,19.07,Wood
+1456WS,54x35mm Silver/White Lip Aquila Scoop Moulding,54,10,Gold,9.53,19.07,Wood
+1500BG,50x20mm Black/Gold Lip LUXE Monti Flat Moulding,50,19,Black,8.84,17.68,Wood
+1500BS,50x20mm Black/Silver Lip LUXE Monti Flat Moulding,50,19,Black,8.84,17.68,Wood
+1500CH,50x20mm Champagne LUXE Monti Flat Moulding,50,19,Gold,8.84,17.68,Wood
+1500GD,50x20mm Gold LUXE Monti Flat Moulding,50,19,Gold,8.84,17.68,Wood
+1500SI,50x20mm Silver LUXE Monti Flat Moulding,50,19,Silver,8.84,17.68,Wood
+1515AS,15x15mm Ash Veneer Flat Moulding,15,11,Brown,5.53,11.06,Wood
+1515BK,15x15mm Black Oak Flat Moulding,15,11,Black,5.53,11.06,Wood
+1515OA,15x15mm Oak Veneer Flat Moulding,15,11,Brown,5.53,11.06,Wood
+1515WH,15x15mm Limed White Oak Flat Moulding,15,11,White,5.53,11.06,Wood
+1517BE,15x17mm Beech Veneer Maiella Flat Moulding,15,12,Brown,4.33,8.65,Wood
+1517MA,15x17mm Maple Veneer Maiella Flat Moulding,15,12,Brown,4.98,9.95,Wood
+1517OA,15x17mm Oak Veneer Maiella Flat Moulding,15,12,Brown,4.33,8.65,Wood
+1517WA,15x17mm Walnut Veneer Maiella Flat Moulding,15,12,Brown,4.98,9.95,Wood
+1517WE,15x17mm Wenge Veneer Maiella Flat Moulding,15,12,Brown,4.98,9.95,Wood
+1525BK,15x25mm Black Havana Flat Moulding,15,21,Black,3.76,7.52,Wood
+1525BU,15x25mm Blue Havana Flat Moulding,15,21,Blue,3.76,7.52,Wood
+1525CM,15x25mm Cream Havana Flat Moulding,15,21,Cream,3.76,7.52,Wood
+1525GY,15x25mm Grey Havana Flat Moulding,15,21,Grey,3.76,7.52,Wood
+1525LB,15x25mm Brown Havana Flat Moulding,15,21,Brown,3.76,7.52,Wood
+1525PG,15x25mm Pale Grey Havana Flat Moulding,15,21,Grey,3.76,7.52,Wood
+1525RD,15x25mm Red Havana Flat Moulding,15,21,Red,3.76,7.52,Wood
+1525SB,15x25mm Blue Havana Flat Moulding,15,21,Blue,3.76,7.52,Wood
+1525WH,15x25mm White Havana Flat Moulding,15,21,White,3.76,7.52,Wood
+1525YW,15x25mm Yellow Havana Flat Moulding,15,21,Yellow,3.76,7.52,Wood
+1530BE,15x30mm Beech Veneer Maiella Flat Moulding,15,25,Brown,5.15,10.29,Wood
+1530MA,15x30mm Maple Veneer Maiella Flat Moulding,15,25,Brown,6.09,12.18,Wood
+1530OA,15x30mm Oak Veneer Maiella Flat Moulding,15,25,Brown,5.15,10.29,Wood
+1530WA,15x30mm Walnut Veneer Maiella Flat Moulding,15,25,Brown,6.09,12.18,Wood
+1530WE,15x30mm Wenge Veneer Maiella Flat Moulding,15,25,Brown,6.09,12.18,Wood
+1532BK,40x20mm Black Flat Moulding,40,15,Black,6.55,13.1,Wood
+1532WH,40x20mm White Flat Moulding,40,15,White,6.55,13.1,Wood
+1535BK,15x35mm Black Flat Moulding,15,31,Black,7.74,15.48,Wood
+1535WH,15x35mm White Flat Moulding,15,31,White,7.74,15.48,Wood
+1551CM,42x40mm Cream Flat Moulding,42,32,Cream,13.28,26.57,Wood
+1552CM,32x30mm Cream Flat Moulding,32,21,Cream,8.89,17.79,Wood
+1554CM,55x60mm Rustic White Flat Moulding,55,19,White,19.66,39.31,Wood
+1560BK,32x30mm Black Flat Moulding,32,21,Black,8.89,17.79,Wood
+1570BR,43x23mm Bronze Cremona Scoop Moulding,43,9,Bronze,6.89,13.78,Wood
+1570CH,43x23mm Champagne Cremona Scoop Moulding,43,9,Gold,6.89,13.78,Wood
+1570GD,43x23mm Gold Cremona Scoop Moulding,43,9,Gold,6.89,13.78,Wood
+1570SI,43x23mm Silver Cremona Scoop Moulding,43,9,Silver,6.89,13.78,Wood
+1571BR,70x30mm Bronze Cremona Scoop Moulding,70,8,Bronze,13,26,Wood
+1571CH,70x30mm Champagne Cremona Scoop Moulding,70,8,Gold,13,26,Wood
+1571GD,70x30mm Gold Cremona Scoop Moulding,70,8,Gold,13,26,Wood
+1571SI,70x30mm Silver Cremona Scoop Moulding,70,8,Silver,13,26,Wood
+1611BN,35x23mm Rustic Brown Bearsden Bevel Moulding,35,10,Brown,8.04,16.09,Wood
+1611CH,35x23mm Rustic Charcoal Bearsden Bevel Moulding,35,10,Black,8.01,16.02,Wood
+1611CM,35x23mm Rustic Cream Bearsden Bevel Moulding,35,10,Cream,8.01,16.02,Wood
+1611GY,35x23mm Rustic Grey Bearsden Bevel Moulding,35,10,Grey,8.01,16.02,Wood
+1611WH,35x23mm Rustic White Bearsden Bevel Moulding,35,10,White,8.01,16.02,Wood
+1612BN,55x28mm Rustic Brown Bearsden Bevel Moulding,55,11,Brown,11.07,22.13,Wood
+1612CH,55x28mm Rustic Charcoal Bearsden Bevel Moulding,55,11,Black,11.07,22.13,Wood
+1612CM,55x28mm Rustic Cream Bearsden Bevel Moulding,55,11,Cream,11.07,22.13,Wood
+1612GY,55x28mm Rustic Grey Bearsden Bevel Moulding,55,11,Grey,11.07,22.13,Wood
+1612WH,55x28mm Rustic White Bearsden Bevel Moulding,55,11,White,11.07,22.13,Wood
+1613CM,35x34mm Rustic Cream Bevel Moulding,35,25,Cream,9.36,18.71,Wood
+1647BK,21x34mm Black Guildford Flat Moulding,21,30,Black,5.38,0,Wood
+1647WH,21x34mm White Guildford Flat Moulding,21,30,White,5.38,0,Wood
+1652WA,22x16mm Walnut Step Moulding,22,8,Brown,5.4,10.79,Wood
+1652WG,22x16mm Walnut & Gold Step Moulding,22,8,Brown,5.4,10.79,Wood
+1653WA,31x20mm Walnut Step Moulding,31,9,Brown,6.18,12.37,Wood
+1653WG,31x20mm Walnut & Gold Step Moulding,31,9,Brown,6.5,13,Wood
+1654WG,40x25mm Walnut & Gold Step Moulding,40,13,Brown,9.35,18.69,Wood
+1670BK,20x20mm Black Linear Cube Moulding FSC,20,12,Black,7.28,14.55,Wood
+1670BR,20x20mm Bronze Linear Cube Moulding FSC,20,12,Bronze,7.28,14.55,Wood
+1670CH,20x20mm Champagne Linear Cube Moulding FSC,20,12,Gold,7.28,14.55,Wood
+1670PT,20x20mm Pewter Linear Cube Moulding FSC,20,12,Pewter,7.28,14.55,Wood
+1670SI,20x20mm Silver Linear Cube Moulding FSC,20,12,Silver,7.28,14.55,Wood
+1670WH,20x20mm White Linear Cube Moulding FSC,20,12,White,7.28,14.55,Wood
+1671BK,30x30mm Black Linear Cube Moulding FSC,30,20,Black,9.75,19.51,Wood
+1671BR,30x30mm Bronze Linear Cube Moulding FSC,30,20,Bronze,9.75,19.51,Wood
+1671CH,30x30mm Champagne Linear Cube Moulding FSC,30,20,Gold,9.75,19.51,Wood
+1671PT,30x30mm Pewter Linear Cube Moulding FSC,30,20,Pewter,9.75,19.51,Wood
+1671SI,30x30mm Silver Linear Cube Moulding FSC,30,20,Silver,9.75,19.51,Wood
+1671WH,30x30mm White Linear Cube Moulding FSC,30,20,White,9.75,19.51,Wood
+1672BK,20x30mm Black Linear Flat Moulding FSC,20,22,Black,7.99,15.98,Wood
+1672BR,20x30mm Bronze Linear Flat Moulding FSC,20,22,Bronze,7.99,15.98,Wood
+1672CH,20x30mm Champagne Linear Flat Moulding FSC,20,22,Gold,7.99,15.98,Wood
+1672PT,20x30mm Pewter Linear Flat Moulding FSC,20,22,Pewter,7.99,15.98,Wood
+1672SI,20x30mm Silver Linear Flat Moulding FSC,20,22,Silver,7.99,15.98,Wood
+1672WH,20x30mm White Linear Flat Moulding FSC,20,22,White,7.99,15.98,Wood
+1673BK,57x55mm Black Linear L-shape Moulding FSC,57,42,Black,14.47,28.94,Wood
+1673BR,57x55mm Bronze Linear L-shape Moulding FSC,57,42,Bronze,14.47,28.94,Wood
+1673CH,57x55mm Champagne Linear L-shape Moulding FSC,57,42,Gold,14.47,28.94,Wood
+1673PT,57x55mm Pewter Linear L-shape Moulding FSC,57,42,Pewter,14.47,28.94,Wood
+1673SI,57x55mm Silver Linear L-shape Moulding FSC,57,42,Silver,14.47,28.94,Wood
+1673WH,57x55mm White Linear L-shape Moulding FSC,57,42,White,14.47,28.94,Wood
+1674BK,37x25mm Black Linear Bevel Moulding FSC,37,11,Black,9.87,19.74,Wood
+1674BR,37x25mm Bronze Linear Bevel Moulding FSC,37,11,Bronze,9.87,19.74,Wood
+1674CH,37x25mm Champagne Linear Bevel Moulding FSC,37,11,Gold,9.87,19.74,Wood
+1674PT,37x25mm Pewter Linear Bevel Moulding FSC,37,11,Pewter,9.87,19.74,Wood
+1674SI,37x25mm Silver Linear Bevel Moulding FSC,37,11,Silver,9.87,19.74,Wood
+1674WH,37x25mm White Linear Bevel Moulding FSC,37,11,White,9.87,19.74,Wood
+1692OB,70x35mm Raw Obeche Cushion Moulding,70,20,Natural,11.36,22.72,Wood
+1695BK,30x20mm Black/Pewter Lip LUXE Athens Flat Moulding,30,12,Black,7.19,14.39,Wood
+1695GY,30x20mm Grey/Pewter Lip LUXE Athens Flat Moulding,30,12,Grey,7.19,14.39,Wood
+1695IV,30x20mm Ivory/Pewter Lip LUXE Athens Flat Moulding,30,12,Cream,7.19,14.39,Wood
+1695WA,30x20mm Walnut/Pewter Lip LUXE Athens Flat Moulding,30,12,Brown,7.19,14.39,Wood
+1695WH,30x20mm White/Pewter Lip LUXE Athens Flat Moulding,30,12,White,7.19,14.39,Wood
+1696BK,50x20mm Black/Pewter Lip LUXE Athens Flat Moulding,50,13,Black,10.08,20.16,Wood
+1696GY,50x20mm Grey/Pewter Lip LUXE Athens Flat Moulding,50,13,Grey,10.08,20.16,Wood
+1696WA,50x20mm Walnut/Pewter Lip LUXE Athens Flat Moulding,50,13,Brown,10.08,20.16,Wood
+1696WH,50x20mm White/Pewter Lip LUXE Athens Flat Moulding,50,13,White,10.08,20.16,Wood
+1717BK,17x17mm Black Kaleidoscope Flat Moulding FSC,17,12,Black,5.09,10.19,Wood
+1717BU,17x17mm Blue Kaleidoscope Flat Moulding FSC,17,12,Blue,5.09,10.19,Wood
+1717CS,17x17mm Cerise Kaleidoscope Flat Moulding FSC,17,12,Pink,5.09,10.19,Wood
+1717DG,17x17mm Dark Green Kaleidoscope Flat Moulding FSC,17,12,Green,5.09,10.19,Wood
+1717DR,17x17mm Dark Red Kaleidoscope Flat Moulding FSC,17,12,Red,5.09,10.19,Wood
+1717GN,17x17mm Green Kaleidoscope Flat Moulding FSC,17,12,Green,5.09,10.19,Wood
+1717GY,17x17mm Grey Kaleidoscope Flat Moulding FSC,17,12,Grey,5.09,10.19,Wood
+1717LC,17x17mm Lilac Kaleidoscope Flat Moulding FSC,17,12,Purple,5.09,10.19,Wood
+1717LG,17x17mm Light Green Kaleidoscope Flat Moulding FSC,17,12,Green,5.09,10.19,Wood
+1717MD,17x17mm Midnight Kaleidoscope Flat Moulding FSC,17,12,Blue,5.09,10.19,Wood
+1717OR,17x17mm Orange Kaleidoscope Flat Moulding FSC,17,12,Orange,5.09,10.19,Wood
+1717PK,17x17mm Pink Kaleidoscope Flat Moulding FSC,17,12,Pink,5.09,10.19,Wood
+1717PU,17x17mm Purple Kaleidoscope Flat Moulding FSC,17,12,Purple,5.09,10.19,Wood
+1717RD,17x17mm Red Kaleidoscope Flat Moulding FSC,17,12,Red,5.09,10.19,Wood
+1717SB,17x17mm Sky Blue Kaleidoscope Flat Moulding FSC,17,12,Blue,5.09,10.19,Wood
+1717WH,17x17mm White Kaleidoscope Flat Moulding FSC,17,12,White,5.09,10.19,Wood
+1717YW,17x17mm Yellow Kaleidoscope Flat Moulding FSC,17,12,Yellow,5.09,10.19,Wood
+1744GD,13x6mm Gold Slip Moulding,13,,Gold,6.32,12.64,Wood
+1813BG,17x17mm Black & Gold Palma Step Moulding,17,10,Black,3.6,7.2,Wood
+1813BK,17x17mm Black Palma Step Moulding,17,10,Black,3.6,7.2,Wood
+1813BS,17x17mm Black & Silver Palma Step Moulding,17,10,Black,3.6,7.2,Wood
+1813WG,17x17mm White & Gold Palma Step Moulding,17,10,White,3.6,7.2,Wood
+1813WH,DISCONTINUED - 17x17mm White Palma Step Moulding,17,10,White,3.6,7.2,Wood
+1813WS,17x17mm White & Silver Palma Step Moulding,17,10,White,3.6,7.2,Wood
+1814BG,23x26mm Black & Gold Palma Step Moulding,23,12,Black,4.37,8.74,Wood
+1814BK,23x26mm Black Palma Step Moulding,23,12,Black,4.37,8.74,Wood
+1814BS,23x26mm Black & Silver Palma Step Moulding,23,12,Black,4.37,8.74,Wood
+1814WG,23x26mm White & Gold Palma Step Moulding,23,12,White,4.37,8.74,Wood
+1814WH,23x26mm White Palma Step Moulding,23,12,White,4.37,8.74,Wood
+1814WS,23x26mm White & Silver Palma Step Moulding,23,12,White,4.37,8.74,Wood
+1815BG,43x30mm Black & Gold Palma Step Moulding,43,12,Black,7.58,15.16,Wood
+1815BK,43x30mm Black Palma Step Moulding,43,12,Black,7.58,15.16,Wood
+1815BS,43x30mm Black & Silver Palma Step Moulding,43,12,Black,7.58,15.16,Wood
+1815OA,18x15mm Raw Oak Flat Moulding,18,8,Natural,5.34,10.69,Wood
+1815WH,43x30mm White Palma Step Moulding,43,12,White,7.58,15.16,Wood
+1816BG,7x55mm Black & Gold Palma L-shape Moulding,7,,Black,12.12,24.23,Wood
+1816BK,7x55mm Black Palma L-shape Moulding,7,,Black,12.12,24.23,Wood
+1816BS,7x55mm Black & Silver Palma L-shape Moulding,7,,Black,12.12,24.23,Wood
+1816WG,7x55mm White & Gold Palma L-shape Moulding,7,,White,12.12,24.23,Wood
+1816WH,7x55mm White Palma L-shape Moulding,7,,White,12.12,24.23,Wood
+1816WS,7x55mm White & Silver Palma L-shape Moulding,7,,White,12.12,24.23,Wood
+1823BK,30x14mm Black Flat Moulding,30,9,Black,4.5,9.01,Wood
+1823BN,30x14mm Brown Flat Moulding,30,9,Brown,4.5,9.01,Wood
+1823CM,30x14mm Cream Flat Moulding,30,9,Cream,4.5,9.01,Wood
+1823WH,30x14mm White Flat Moulding,30,9,White,4.5,9.01,Wood
+1829BK,20x20mm Black Flat Moulding,20,14,Black,4.06,8.13,Wood
+1829BN,20x20mm Brown Flat Moulding,20,14,Brown,4.06,8.13,Wood
+1829CM,20x20mm Cream Flat Moulding,20,14,Cream,4.06,8.13,Wood
+1829WA,20x20mm Walnut Flat Moulding,20,14,Brown,4.06,8.13,Wood
+1829WH,20x20mm White Flat Moulding,20,14,White,4.2,8.4,Wood
+1830BK,30x30mm Black Flat Moulding,30,23,Black,5.94,11.89,Wood
+1830BN,30x30mm Brown Flat Moulding,30,23,Brown,5.94,11.89,Wood
+1830CM,30x30mm Cream Flat Moulding,30,23,Cream,5.94,11.89,Wood
+1830WH,30x30mm White Flat Moulding,30,23,White,5.94,11.89,Wood
+1860BR,30x20mm Bronze Firenze Scoop Moulding,30,7,Bronze,6.42,12.83,Wood
+1860GD,30x20mm Gold Firenze Scoop Moulding,30,7,Gold,6.42,12.83,Wood
+1860PT,30x20mm Pewter Firenze Scoop Moulding,30,7,Pewter,6.42,12.83,Wood
+1860SI,30x20mm Silver Firenze Scoop Moulding,30,7,Silver,6.42,12.83,Wood
+1861BR,55x29mm Bronze Firenze Scoop Moulding,55,10,Bronze,12.18,24.36,Wood
+1861GD,55x29mm Gold Firenze Scoop Moulding,55,10,Gold,12.18,24.36,Wood
+1861PT,55x29mm Pewter Firenze Scoop Moulding,55,10,Pewter,12.18,24.36,Wood
+1861SI,55x29mm Silver Firenze Scoop Moulding,55,10,Silver,12.18,24.36,Wood
+2001GD,40x33mm Gold Leaf LUXE Baroque Decorative Scoop Moulding,40,9,Gold,11.71,23.42,Wood
+2002GD,71x44mm Gold Leaf LUXE Baroque Decorative Scoop Moulding,71,8,Gold,20.1,40.2,Wood
+2003GD,59x36mm Gold Leaf LUXE Baroque Decorative Scoop Moulding,59,11,Gold,8.14,16.28,Wood
+2004BK,85x41mm Antique Black LUXE Baroque Decorative Moulding,85,12,Black,13.51,27.03,Wood
+2004GD,85x41mm Gold Leaf LUXE Baroque Decorative Moulding,85,12,Gold,13.51,27.03,Wood
+2004SI,85x41mm Silver Leaf LUXE Baroque Decorative Moulding,85,12,Silver,13.51,27.03,Wood
+2004WH,85x41mm Antique White LUXE Baroque Decorative Moulding,85,12,White,13.51,27.03,Wood
+2005BK,58x29mm Antique Black LUXE Baroque Decorative Moulding,58,9,Black,9.42,18.84,Wood
+2005GD,58x29mm Gold Leaf LUXE Baroque Decorative Moulding,58,9,Gold,9.42,18.84,Wood
+2005SI,58x29mm Silver Leaf LUXE Baroque Decorative Moulding,58,9,Silver,9.42,18.84,Wood
+2005WH,58x29mm Antique White LUXE Baroque Decorative Moulding,58,9,White,9.42,18.84,Wood
+2006GD,48x30mm Gold Leaf LUXE Baroque Rope Moulding,48,13,Gold,6.86,13.71,Wood
+2010BK,65x45mm Black LUXE Waterloo Scoop Moulding - FSC,65,22,Black,16.32,32.63,Wood
+2010GD,65x45mm Gold LUXE Waterloo Scoop Moulding - FSC,65,22,Gold,16.32,32.63,Wood
+2010SI,65x45mm Silver LUXE Waterloo Scoop Moulding - FSC,65,22,Silver,16.32,32.63,Wood
+2011BK,40x35mm Black LUXE Waterloo Scoop Moulding,40,15,Black,9.56,19.11,Wood
+2011GD,40x35mm Gold LUXE Waterloo Scoop Moulding,40,15,Gold,9.56,19.11,Wood
+2011SI,40x35mm Silver LUXE Waterloo Scoop Moulding,40,15,Silver,9.56,19.11,Wood
+2015GY,20x15mm Grey Flat Moulding,20,10,Grey,2.48,4.96,Wood
+2015WH,20x15mm White Flat Moulding,20,10,White,2.48,4.96,Wood
+2020BE,20x20mm Beech Veneer Maiella Flat Moulding,20,14,Brown,5.27,10.54,Wood
+2020MA,20x20mm Maple Veneer Maiella Flat Moulding,20,14,Brown,6.09,12.18,Wood
+2020OA,20x20mm Oak Veneer Maiella Flat Moulding,20,14,Brown,5.27,10.54,Wood
+2020WA,20x20mm Walnut Veneer Maiella Flat Moulding,20,14,Brown,6.09,12.18,Wood
+2020WE,20x20mm Wenge Veneer Maiella Flat Moulding,20,14,Brown,6.09,12.18,Wood
+2038BE,20x38mm Beech Veneer Maiella Flat Moulding,20,32,Brown,6.93,13.86,Wood
+2038MA,20x38mm Maple Veneer Maiella Flat Moulding,20,32,Brown,8.02,16.04,Wood
+2038OA,20x38mm Oak Veneer Maiella Flat Moulding,20,32,Brown,6.93,13.86,Wood
+2038WA,20x38mm Walnut Veneer Maiella Flat Moulding,20,32,Brown,8.02,16.04,Wood
+2038WE,20x38mm Wenge Veneer Maiella Flat Moulding,20,32,Brown,8.02,16.04,Wood
+2045AS,20x45mm Raw Ash Flat Moulding,20,41,Natural,7.59,15.18,Wood
+2045BK,20x45mm Black Cushion Moulding,20,41,Black,4.04,8.09,Wood
+2045OA,20x45mm Raw Oak Flat Moulding,20,41,Natural,7.59,15.18,Wood
+2045OB,20x45mm Raw Obeche Flat Moulding,20,41,Natural,3.8,7.6,Wood
+2045WA,20x43mm Raw Walnut Flat Moulding,20,37,Brown,13.37,26.74,Wood
+2045WH,20x45mm White Cushion Moulding,20,41,White,4.04,8.09,Wood
+2046BN,44x28mm Brown Scoop Moulding,44,11,Brown,9.79,19.57,Wood
+2046GD,44x28mm Gold Scoop Moulding,44,11,Gold,9.79,19.57,Wood
+2085AG,16x18mm Gold Scoop Moulding,16,8,Gold,7.1,14.2,Wood
+2085AS,16x18mm Silver Scoop Moulding,16,8,Silver,7.1,14.2,Wood
+2085GN,17x16mm Green & Gold Scoop Moulding,17,8,Green,7.1,14.2,Wood
+2086AG,25x25mm Gold Scoop Moulding,25,12,Gold,8.87,17.75,Wood
+2086AS,25x25mm Silver Scoop Moulding,25,12,Silver,8.87,17.75,Wood
+2086GN,25x25mm Green & Gold Scoop Moulding,25,12,Green,7.06,14.11,Wood
+2090BK,53x20mm Black Flat Moulding,53,15,Black,10.16,20.33,Wood
+2104GD,8x6mm Antique Gold Slip Moulding,8,,Gold,3.82,7.64,Wood
+2104SI,8x6mm Antique Silver Slip Moulding,8,,Silver,3.82,7.64,Wood
+2114WH,53x20mm White Flat Moulding,53,15,White,10.46,20.92,Wood
+2117BK,20x17mm Black Palermo Step Moulding,20,9,Black,6.92,13.84,Wood
+2117BR,20x17mm Bronze Palermo Step Moulding,20,9,Bronze,6.92,13.84,Wood
+2117GD,20x12mm Gold Palermo Step Moulding,20,9,Gold,6.13,12.26,Wood
+2117SI,20x12mm Silver Palermo Step Moulding,20,9,Silver,6.13,12.26,Wood
+2127BK,27x21mm Black Palermo Step Moulding,27,12,Black,7.51,15.02,Wood
+2127BR,27x21mm Bronze Palermo Step Moulding,27,12,Bronze,7.51,15.02,Wood
+2127GD,26x21mm Gold Palermo Step Moulding,26,12,Gold,7.75,15.5,Wood
+2127SI,26x21mm Silver Palermo Step Moulding,26,12,Silver,7.75,15.5,Wood
+2137BK,38x26mm Black Palermo Step Moulding,38,11,Black,10.85,21.69,Wood
+2137BR,40x27mm Bronze Palermo Step Moulding,40,11,Bronze,10.85,21.69,Wood
+2137GD,40x27mm Gold Palermo Step Moulding,40,11,Gold,10.85,21.69,Wood
+2137SI,40x27mm Silver Palermo Step Moulding,40,11,Silver,10.85,21.69,Wood
+2150BK,20x15mm Black Maldon Open Grain Moulding,20,9,Black,2.74,5.48,Wood
+2150GY,20x15mm Dark Grey Maldon Open Grain Moulding,20,9,Grey,2.74,5.48,Wood
+2150PG,20x15mm Pale Grey Maldon Open Grain Moulding,20,9,Grey,2.74,5.48,Wood
+2150WH,20x15mm White Maldon Open Grain Moulding,20,9,White,2.74,5.48,Wood
+2151BK,25x15mm Black Maldon Open Grain Moulding,25,10,Black,3.15,6.3,Wood
+2151GY,25x15mm Dark Grey Maldon Open Grain Moulding,25,10,Grey,3.15,6.3,Wood
+2151PG,25x15mm Pale Grey Maldon Open Grain Moulding,25,10,Grey,3.15,6.3,Wood
+2151WH,25x15mm White Maldon Open Grain Moulding,25,10,White,3.15,6.3,Wood
+2152BK,32x15mm Black Maldon Open Grain Moulding,32,9,Black,3.84,7.69,Wood
+2152GY,32x15mm Dark Grey Maldon Open Grain Moulding,32,9,Grey,3.84,7.69,Wood
+2152PG,32x15mm Pale Grey Maldon Open Grain Moulding,32,9,Grey,3.84,7.69,Wood
+2152WH,32x15mm White Maldon Open Grain Moulding,32,9,White,3.84,7.69,Wood
+2186GD,55x31mm Gold Scoop Moulding,55,12,Gold,28.3,56.6,Wood
+2222BC,22x22mm Copper/Black Corners Chicago Block Moulding,22,17,Bronze,3.86,7.73,Wood
+2222BG,22x22mm Gold/Black Corners Chicago Block Moulding,22,17,Gold,3.86,7.73,Wood
+2222BP,22x22mm Pewter/Black Corners Chicago Block Moulding,22,17,Pewter,3.86,7.73,Wood
+2222BS,22x22mm Silver/Black Corners Chicago Block Moulding,22,17,Silver,3.86,7.73,Wood
+2222OA,22x22mm Raw Oak Flat Moulding,22,16,Natural,6.85,13.69,Wood
+2233BK,22x33mm Black Portland Flat Moulding,22,17,Black,3.56,7.12,Wood
+2233BN,22x33mm Brown Portland Flat Moulding,22,17,Brown,3.56,7.12,Wood
+2233GY,22x33mm Dark Grey Portland Flat Moulding,22,17,Grey,3.56,7.12,Wood
+2233PG,22x33mm Pale Grey Portland Flat Moulding,22,17,Grey,3.56,7.12,Wood
+2233WH,22x33mm White Portland Flat Moulding,22,17,White,3.56,7.12,Wood
+2270CH,24x17mm Charcoal Wash Willow Bevel Moulding,24,10,Black,7.07,14.13,Wood
+2270CM,24x17mm Cream Wash Willow Bevel Moulding,24,10,Cream,7.07,14.13,Wood
+2270GY,24x17mm Grey Wash Willow Bevel Moulding,24,10,Grey,7.07,14.13,Wood
+2270WH,24x17mm White Wash Willow Bevel Moulding,24,10,White,7.07,14.13,Wood
+2272CH,36x18mm Charcoal Wash Willow Bevel Moulding,36,9,Black,8.78,17.56,Wood
+2272CM,36x18mm Cream Wash Willow Bevel Moulding,36,9,Cream,8.78,17.56,Wood
+2272GY,36x18mm Grey Wash Willow Bevel Moulding,36,9,Grey,8.78,17.56,Wood
+2272WH,36x18mm White Wash Willow Bevel Moulding,36,9,White,8.78,17.56,Wood
+2291BN,30x16mm Brown Step Moulding,30,9,Brown,8.49,16.99,Wood
+2291BU,30x16mm Blue Step Moulding,30,9,Blue,8.49,16.99,Wood
+2291CM,30x16mm Cream Step Moulding,30,9,Cream,8.49,16.99,Wood
+2301BE,15x20mm Beige New Orleans Bevelled Box Moulding,15,12,Brown,3.77,7.54,Wood
+2301BK,15x20mm Black New Orleans Bevelled Box Moulding,15,12,Black,3.77,7.54,Wood
+2301GD,16x12mm Gold Scoop Moulding,16,10,Gold,4.87,9.74,Wood
+2301GN,15x20mm Green New Orleans Bevelled Box Moulding,15,12,Green,3.77,7.54,Wood
+2301LB,15x20mm Blue New Orleans Bevelled Box Moulding,15,12,Blue,3.77,7.54,Wood
+2301PG,15x20mm Grey New Orleans Bevelled Box Moulding,15,12,Grey,3.77,7.54,Wood
+2301RD,15x20mm Red New Orleans Bevelled Box Moulding,15,12,Red,3.77,7.54,Wood
+2301SI,16x12mm Silver Scoop Moulding,16,10,Silver,4.87,9.74,Wood
+2301WH,15x20mm White New Orleans Bevelled Box Moulding,15,12,White,3.77,7.54,Wood
+2302GD,33x18mm Gold Scoop Moulding,33,10,Gold,6.7,13.4,Wood
+2302SI,33x18mm Silver Scoop Moulding,33,10,Silver,6.7,13.4,Wood
+2305BE,20x33mm Beige New Orleans Bevelled Box Moulding,20,25,Brown,6.05,12.1,Wood
+2305BK,20x33mm Black New Orleans Bevelled Box Moulding,20,25,Black,6.05,12.1,Wood
+2305GN,20x33mm Green New Orleans Bevelled Box Moulding,20,25,Green,6.05,12.1,Wood
+2305LB,20x33mm Blue New Orleans Bevelled Box Moulding,20,25,Blue,6.05,12.1,Wood
+2305PG,20x33mm Grey New Orleans Bevelled Box Moulding,20,25,Grey,6.05,12.1,Wood
+2305RD,20x33mm Red New Orleans Bevelled Box Moulding,20,25,Red,6.05,12.1,Wood
+2305WH,20x33mm White New Orleans Bevelled Box Moulding,20,25,White,6.05,12.1,Wood
+2308GD,22x14mm Gold Scoop Moulding,22,8,Gold,4.98,9.95,Wood
+2308SI,22x14mm Silver Scoop Moulding,22,8,Silver,4.98,9.95,Wood
+2312RG,16x19mm Red Gold Cushion Moulding,16,12,Gold,6.7,13.4,Wood
+2312SI,16x19mm Silver Cushion Moulding,16,12,Silver,6.7,13.4,Wood
+2313RG,11x13mm Red Gold Cushion Moulding,11,9,Gold,5.31,10.63,Wood
+2313SI,11x13mm Silver Cushion Moulding,11,9,Silver,5.31,10.63,Wood
+2319BK,16x20mm Black Bevel Moulding,16,9,Black,10.17,20.35,Wood
+2319GD,16x20mm Gold Bevel Moulding,16,9,Gold,10.17,20.35,Wood
+2319SI,16x20mm Silver Bevel Moulding,16,9,Silver,10.17,20.35,Wood
+2335BK,23x35mm Black Flat Moulding,23,28,Black,4.01,8.02,Wood
+2335WH,23x35mm White Flat Moulding,23,28,White,4.01,8.02,Wood
+2360BK,14x25mm Black Bevel Moulding,14,10,Black,4.82,9.64,Wood
+2360GY,14x25mm Grey Bevel Moulding,14,10,Grey,4.82,9.64,Wood
+2360PG,14x25mm Pale Grey Bevel Moulding,14,10,Grey,4.82,9.64,Wood
+2360WH,14x25mm White Bevel Moulding,14,10,White,4.82,9.64,Wood
+2361BK,19x35mm Black Bevel Moulding,19,20,Black,6.81,13.63,Wood
+2361GY,19x35mm Grey Bevel Moulding,19,20,Grey,6.81,13.63,Wood
+2361PG,19x35mm Pale Grey Bevel Moulding,19,20,Grey,6.81,13.63,Wood
+2361WH,19x35mm White Bevel Moulding,19,20,White,6.81,13.63,Wood
+2389BK,29x26mm Limed Black Padstow Scoop Moulding,29,12,Black,6.31,12.62,Wood
+2389BN,29x26mm Limed Brown Padstow Scoop Moulding,29,12,Brown,6.31,12.62,Wood
+2389CM,29x26mm Limed Cream Padstow Scoop Moulding,29,12,Cream,6.31,12.62,Wood
+2389GY,29x26mm Limed Grey Padstow Scoop Moulding,29,12,Grey,6.31,12.62,Wood
+2389WH,29x26mm Limed White Padstow Scoop Moulding,29,12,White,6.31,12.62,Wood
+2413BK,13x13mm Black Cushion Moulding,13,9,Black,2.91,5.82,Wood
+2413BU,13x13mm Blue Cushion Moulding,13,9,Blue,2.91,5.82,Wood
+2413CM,13x13mm Cream Cushion Moulding,13,9,Cream,2.91,5.82,Wood
+2413GN,13x13mm Green Cushion Moulding,13,9,Green,2.91,5.82,Wood
+2413GY,13x13mm Grey Cushion Moulding,13,9,Grey,2.91,5.82,Wood
+2413WA,13x13mm Walnut Cushion Moulding,13,9,Brown,2.91,5.82,Wood
+2423BK,22x13mm Black Cushion Moulding,22,9,Black,4,8,Wood
+2423BU,22x13mm Blue Cushion Moulding,22,9,Blue,4,8,Wood
+2423CM,22x13mm Cream Cushion Moulding,22,9,Cream,4,8,Wood
+2423GN,22x13mm Green Cushion Moulding,22,9,Green,4,8,Wood
+2423GY,22x13mm Grey Cushion Moulding,22,9,Grey,4,8,Wood
+2423WA,22x13mm Walnut Cushion Moulding,22,9,Brown,4,8,Wood
+2426BK,37x18mm Black Cushion Moulding,37,12,Black,8.1,16.19,Wood
+2426CM,37x18mm Cream Cushion Moulding,37,12,Cream,8.1,16.19,Wood
+2460BK,24x60mm Black Open Grain L-shape Moulding,24,,Black,9.48,18.96,Wood
+2460GY,24x60mm Dark Grey Open Grain L-shape Moulding,24,,Grey,9.48,18.96,Wood
+2460IV,24x60mm Ivory Open Grain L-shape Moulding,24,,Cream,9.48,18.96,Wood
+2460WH,24x60mm White Open Grain L-shape Moulding,24,,White,9.48,18.96,Wood
+2502BK,19x20mm Black Southwold Flat Moulding,19,14,Black,3.94,7.88,Wood
+2502BN,19x20mm Brown Southwold Flat Moulding,19,14,Brown,3.94,7.88,Wood
+2502BU,19x20mm Blue Southwold Flat Moulding,19,14,Blue,3.94,7.88,Wood
+2502GN,19x20mm Green Southwold Flat Moulding,19,14,Green,3.94,7.88,Wood
+2502OR,19x20mm Orange Southwold Flat Moulding,19,14,Orange,3.94,7.88,Wood
+2502RD,19x20mm Red Southwold Flat Moulding,19,14,Red,3.94,7.88,Wood
+2502WH,19x20mm White Southwold Flat Moulding,19,14,White,3.94,7.88,Wood
+2503BK,15x25mm Black Southwold Flat Moulding,15,20,Black,3.85,7.71,Wood
+2503BN,15x25mm Brown Southwold Flat Moulding,15,20,Brown,3.85,7.71,Wood
+2503BU,15x25mm Blue Southwold Flat Moulding,15,20,Blue,3.85,7.71,Wood
+2503GN,15x25mm Green Southwold Flat Moulding,15,20,Green,3.85,7.71,Wood
+2503OR,15x25mm Orange Southwold Flat Moulding,15,20,Orange,3.85,7.71,Wood
+2503RD,15x25mm Red Southwold Flat Moulding,15,20,Red,3.85,7.71,Wood
+2503WH,15x25mm White Southwold Flat Moulding,15,20,White,3.85,7.71,Wood
+2521OB,71x29mm Raw Obeche Flat Moulding,71,19,Natural,7.83,15.67,Wood
+2522BU,25x22mm Rustic Blue Step Moulding,25,12,Blue,6.09,12.18,Wood
+2522OB,92x30mm Raw Obeche Flat Moulding,92,20,Natural,10.79,21.59,Wood
+2531BK,25x31mm Black Flat Moulding,25,27,Black,6.22,12.45,Wood
+2531WH,25x31mm White Flat Moulding,25,27,White,6.22,12.45,Wood
+2548BE,25x48mm Beech Veneer Maiella Flat Moulding,25,41,Brown,9.51,19.03,Wood
+2548MA,25x48mm Maple Veneer Maiella Flat Moulding,25,41,Brown,10.95,21.9,Wood
+2548OA,25x48mm Oak Veneer Maiella Flat Moulding,25,41,Brown,9.51,19.03,Wood
+2548WA,25x48mm Walnut Veneer Maiella Flat Moulding,25,41,Brown,10.95,21.9,Wood
+2548WE,25x48mm Wenge Veneer Maiella Flat Moulding,25,41,Brown,10.95,21.9,Wood
+2560BW,35x25mm Bright White Slip Moulding,35,7,Cream,5.43,10.86,Wood
+2560CM,35x25mm Cream Slip Moulding,35,7,Cream,5.43,10.86,Wood
+2560WH,35x25mm White Slip Moulding,35,7,White,5.43,10.86,Wood
+2578BK,25x78mm Black Flat Moulding,25,72,Black,9.04,18.08,Wood
+2578WH,25x78mm White Flat Moulding,25,72,White,9.04,18.08,Wood
+2600GD,16x5mm Gold Slip Moulding,16,,Gold,2.73,5.46,Wood
+2600SI,16x5mm Silver Slip Moulding,16,,Silver,2.73,5.46,Wood
+2613WG,26x13mm Walnut & Gold Step Moulding,26,8,Brown,3.3,6.59,Wood
+2616SB,43x25mm Silver & Black Scoop Moulding,43,11,Silver,13.29,26.59,Wood
+2618BG,22x20mm Black & Gold Scoop Moulding,27,10,Gold,9.73,19.47,Wood
+2618BS,22x20mm Blue & Silver Scoop Moulding,27,10,Silver,9.73,19.47,Wood
+2618GG,22x20mm Green & Gold Scoop Moulding,27,10,Gold,9.73,19.47,Wood
+2618IG,22x20mm Ivory & Gold Scoop Moulding,27,10,Gold,10.02,20.03,Wood
+2618RG,22x20mm Red & Gold Scoop Moulding,27,10,Gold,9.73,19.47,Wood
+2618SB,22x20mm Silver & Black Scoop Moulding,27,10,Silver,9.73,19.47,Wood
+2650BK,50x26mm Black Open Grain Alberta Flat Moulding,50,17,Black,5.38,10.75,Wood
+2650WH,50x26mm White Open Grain Alberta Flat Moulding,50,17,White,5.38,10.75,Wood
+2651BK,84x26mm Black Open Grain Alberta Flat Moulding,84,17,Black,8.38,16.76,Wood
+2651WH,84x26mm White Open Grain Alberta Flat Moulding,84,17,White,8.38,16.76,Wood
+2701GD,18x13mm Distressed Gold Cushion Moulding,18,10,Gold,5.48,10.96,Wood
+2701SI,18x13mm Distressed Silver Cushion Moulding,18,10,Silver,5.48,10.96,Wood
+2735BK,27x35mm Black Flat Moulding,27,29,Black,5.96,11.93,Wood
+2820BK,34x19mm Black/Silver SE Oakhill Flat Moulding,34,12,Black,6.07,12.14,Wood
+2820BN,34x19mm Brown/ Silver SE Oakhill Flat Moulding,34,12,Brown,6.07,12.14,Wood
+2820GY,34x19mm Grey/Silver SE Oakhill Flat Moulding,34,12,Grey,6.07,12.14,Wood
+2820OA,34x19mm Oak/Silver SE Oakhill Flat Moulding,34,12,Brown,6.07,12.14,Wood
+2820WE,34x19mm Wenge/Silver SE Oakhill Flat Moulding,34,12,Brown,6.07,12.14,Wood
+2820WH,34x19mm White/Silver SE Oakhill Flat Moulding,34,12,White,6.07,12.14,Wood
+2821BK,55x19mm Black/Silver SE Oakhill Flat Moulding,55,12,Black,8.9,17.81,Wood
+2821BN,55x19mm Brow /Silver SE Oakhill Flat Moulding,55,12,Brown,8.9,17.81,Wood
+2821GY,55x19mm Grey/Silver SE Oakhill Flat Moulding,55,12,Grey,8.9,17.81,Wood
+2821OA,55x19mm Oak/Silver SE Oakhill Flat Moulding,55,12,Brown,8.9,17.81,Wood
+2821WE,55x19mm Wenge/Silver SE Oakhill Flat Moulding,55,12,Brown,8.9,17.81,Wood
+2821WH,55x19mm White/Silver SE Oakhill Flat Moulding,55,12,White,8.9,17.81,Wood
+2828BK,28x28mm Black Flat Moulding,28,22,White,4.15,8.3,Wood
+2828WH,28x28mm White Flat Moulding,28,22,White,4.15,8.3,Wood
+2861BG,16x18mm Black & Gold Scoop Moulding,16,9,Gold,9.68,19.36,Wood
+2861BS,16x18mm Black & Silver Scoop Moulding,16,9,Silver,9.68,19.36,Wood
+2862BG,21x19mm Black & Gold Scoop Moulding,21,9,Gold,10.65,21.29,Wood
+2862BS,21x19mm Black & Silver Scoop Moulding,21,9,Black,10.65,21.29,Wood
+2863BG,25x19mm Black & Gold Scoop Moulding,25,8,Gold,12.03,24.07,Wood
+2863BS,25x19mm Black & Silver Scoop Moulding,25,8,Silver,12.03,24.07,Wood
+2900GD,28x6mm Gold Slip Moulding,28,,Gold,4.62,9.24,Wood
+2930OA,20x12mm Raw Oak Flat Moulding,20,9,Natural,6.47,12.94,Wood
+2931OA,28x12mm Raw Oak Flat Moulding,28,8,Natural,7.84,15.69,Wood
+3001GN,15x17mm Green Step Moulding,15,8,Green,3.75,7.5,Wood
+3011BN,21x13mm Brown & Gold Step Moulding,21,8,Brown,6.86,13.71,Wood
+3011GN,21x13mm Green & Gold Step Moulding,21,8,Green,7.5,14.99,Wood
+3011GY,21x14mm Grey & Gold Step Moulding,21,8,Grey,6.86,13.71,Wood
+3014GN,15x14mm Green Scoop Moulding,15,7,Green,3.66,7.33,Wood
+3014GY,15x14mm Grey Scoop Moulding,15,7,Grey,3.66,7.33,Wood
+3017BE,30x17mm Beech Veneer Maiella Flat Moulding,30,12,Brown,5.54,11.09,Wood
+3017MA,30x17mm Maple Veneer Maiella Flat Moulding,30,12,Brown,6.45,12.89,Wood
+3017OA,30x17mm Oak Veneer Maiella Flat Moulding,30,12,Brown,5.54,11.09,Wood
+3017WA,30x17mm Walnut Veneer Maiella Flat Moulding,30,12,Brown,6.45,12.89,Wood
+3017WE,30x17mm Wenge Veneer Maiella Flat Moulding,30,12,Brown,6.45,12.89,Wood
+3019BK,30x19mm Black Ravenna Bevel Moulding,30,11,Black,3.61,7.22,Wood
+3019GY,30x19mm Grey Ravenna Bevel Moulding,30,11,Grey,3.61,7.22,Wood
+3019IV,30x19mm Ivory Ravenna Bevel Moulding,30,11,Cream,3.61,7.22,Wood
+3019WH,30x19mm White Ravenna Bevel Moulding,30,11,White,3.61,7.22,Wood
+3030BE,30x30mm Beech Veneer Maiella Flat Moulding,30,24,Brown,7.06,14.11,Wood
+3030MA,30x30mm Maple Veneer Maiella Flat Moulding,30,24,Brown,7.06,14.11,Wood
+3030OA,30x30mm Oak Veneer Maiella Flat Moulding,30,24,Brown,7.06,14.11,Wood
+3030WA,30x30mm Walnut Veneer Maiella Flat Moulding,30,24,Brown,8.18,16.36,Wood
+3030WE,30x30mm Wenge Veneer Maiella Flat Moulding,30,24,Brown,8.18,16.36,Wood
+3042BK,27x42mm Black Flat Moulding,27,35,Black,7.68,15.35,Wood
+3042GY,27x42mm Dark Grey Flat Moulding,27,37,Grey,7.68,15.35,Wood
+3042IV,30x42mm Cream Flat Moulding,27,35,Cream,7.75,15.5,Wood
+3042MB,27x42mm Closed Grain Black Moulding,27,35,Black,7.68,15.35,Wood
+3042MW,27x42mm Closed Grain White Moulding,27,35,White,7.68,15.35,Wood
+3042PG,27x42mm Pale Grey Flat Moulding,27,37,Grey,7.68,15.35,Wood
+3042WH,27x42mm White Flat Moulding,27,35,White,7.68,15.35,Wood
+3072BK,30x72mm Black Open Grain Box Moulding,30,66,Black,9.09,18.19,Wood
+3072WH,30x72mm White Open Grain Box Moulding,30,66,White,9.09,18.19,Wood
+3158BK,14x12mm Black Cushion Moulding,14,9,Black,5.37,10.73,Wood
+3158CM,14x12mm Cream Cushion Moulding,14,9,Cream,5.37,10.73,Wood
+3227OA,32x27mm Raw Oak Flat Moulding,32,22,Natural,8.74,17.47,Wood
+3245OA,10x32mm Oak Veneer Umbra L-shape Moulding,10,22,Brown,8.58,17.16,Wood
+3245WA,10x32mm Walnut Veneer Umbra L-shape Moulding,10,22,Brown,8.58,17.16,Wood
+3245WE,10x32mm Wenge Veneer Umbra L-shape Moulding,10,22,Brown,8.58,17.16,Wood
+3272BK,19x20mm Distressed Black Exmoor Flat Moulding,19,14,Black,4.16,8.32,Wood
+3272BN,19x20mm Distressed Brown Exmoor Flat Moulding,19,14,Brown,4.16,8.32,Wood
+3272GY,19x20mm Distressed Grey Exmoor Flat Moulding,19,14,Grey,4.16,8.32,Wood
+3272TP,19x20mm Distressed Taupe Exmoor Flat Moulding,19,14,Brown,4.16,8.32,Wood
+3272WH,19x20mm Distressed White Exmoor Flat Moulding,19,14,White,4.16,8.32,Wood
+3274BK,28x20mm Distressed Black Exmoor Flat Moulding,28,14,Black,5.37,10.73,Wood
+3274BN,28x20mm Distressed Brown Exmoor Flat Moulding,28,14,Brown,5.37,10.73,Wood
+3274GY,28x20mm Distressed Grey Exmoor Flat Moulding,28,14,Grey,5.37,10.73,Wood
+3274TP,28x20mm Distressed Taupe Exmoor Flat Moulding,28,14,Brown,5.37,10.73,Wood
+3274WH,28x20mm Distressed White Exmoor Flat Moulding,28,14,White,5.37,10.73,Wood
+3275BK,23x33mm Distressed Black Exmoor Flat Moulding,23,28,Black,6.14,12.29,Wood
+3275BN,23x33mm Distressed Brown Exmoor Flat Moulding,23,28,Brown,6.14,12.29,Wood
+3275GY,23x33mm Distressed Grey Exmoor Flat Moulding,23,28,Grey,6.14,12.29,Wood
+3275TP,23x33mm Distressed Taupe Exmoor Flat Moulding,23,28,Brown,6.14,12.29,Wood
+3275WH,23x33mm Distressed White Exmoor Flat Moulding,23,28,White,6.14,12.29,Wood
+3276BK,38x20mm Distressed Black Exmoor Flat Moulding,38,14,Black,6.39,12.79,Wood
+3276BN,38x20mm Distressed Brown Exmoor Flat Moulding,38,14,Brown,6.39,12.79,Wood
+3276GY,38x20mm Distressed Grey Exmoor Flat Moulding,38,14,Grey,6.39,12.79,Wood
+3276TP,38x20mm Distressed Taupe Exmoor Flat Moulding,38,14,Brown,6.39,12.79,Wood
+3276WH,38x20mm Distressed White Exmoor Flat Moulding,38,14,White,6.39,12.79,Wood
+3320OA,33x20mm Raw Oak Flat Moulding,33,16,Natural,7.91,15.81,Wood
+3329AS,13x13mm Anthracite Silver Cushion Moulding,13,11,Silver,5.34,10.69,Wood
+3329BK,13x13mm Black Melrose Cushion Moulding,13,11,Black,4.01,8.02,Wood
+3329BM,13x13mm Metallic Blue Cushion Moulding,13,11,Blue,5.34,10.69,Wood
+3329BU,13x13mm Blue Melrose Cushion Moulding,13,11,Blue,4.01,8.02,Wood
+3329DY,13x13mm Dark Yew Melrose Cushion Moulding,13,11,Orange,4.01,8.02,Wood
+3329GD,13x13mm Gold Cushion Moulding,13,11,Gold,5.34,10.69,Wood
+3329GN,13x13mm Green Melrose Cushion Moulding,13,11,Green,4.01,8.02,Wood
+3329LO,13x13mm Light Oak Melrose Cushion Moulding,13,11,Brown,4.01,8.02,Wood
+3329MA,13x13mm Mahogany Melrose Cushion Moulding,13,11,Brown,4.01,8.02,Wood
+3329PT,13x13mm Pewter Cushion Moulding,13,11,Pewter,5.34,10.69,Wood
+3329RD,13x13mm Red Melrose Cushion Moulding,13,11,Red,4.01,8.02,Wood
+3329SA,13x13mm Satin Melrose Cushion Moulding,13,11,Brown,4.01,8.02,Wood
+3329SI,13x13mm Silver Cushion Moulding,13,11,Silver,5.34,10.69,Wood
+3329TK,13x13mm Teak Melrose Cushion Moulding,13,11,Brown,5.34,10.69,Wood
+3329WA,13x13mm Walnut Melrose Cushion Moulding,13,11,Brown,4.01,8.02,Wood
+3330BC,33x30mm Copper/Black Corners Chicago Block Moulding,33,21,Bronze,6.98,13.97,Wood
+3330BG,33x30mm Gold/Black Corners Chicago Block Moulding,33,21,Gold,6.98,13.97,Wood
+3330BP,33x30mm Pewter/Black Corners Chicago Block Moulding,33,21,Pewter,6.98,13.97,Wood
+3330BS,33x30mm Silver/Black Corners Chicago Block Moulding,33,21,Silver,6.98,13.97,Wood
+3333BK,33x33mm Black Portland Block Moulding,33,17,Black,4.81,9.62,Wood
+3333BN,33x33mm Brown Portland Block Moulding,33,17,Brown,4.81,9.62,Wood
+3333GY,33x33mm Dark Grey Portland Block Moulding,33,17,Grey,4.81,9.62,Wood
+3333PG,33x33mm Pale Grey Portland Block Moulding,33,17,Grey,4.81,9.62,Wood
+3333WH,33x33mm White Portland Block Moulding,33,17,White,4.81,9.62,Wood
+3442BK,34x42mm Black Ravenna Flat/Bevel Moulding,34,29,Black,5.43,10.86,Wood
+3442GY,34x42mm Grey Ravenna Flat/Bevel Moulding,34,29,Grey,5.43,10.86,Wood
+3442IV,34x42mm Ivory Ravenna Flat/Bevel Moulding,34,29,Cream,5.43,10.86,Wood
+3442WH,34x42mm White Ravenna Flat/Bevel Moulding,34,29,White,5.43,10.86,Wood
+3520BG,35x20mm Matt Black & Gold Bevel Moulding,35,14,Black,5.63,11.26,Wood
+3520BS,35x20mm Matt Black & Silver Bevel Moulding,35,14,Black,5.63,11.26,Wood
+3529WE,35x29mm Wenge & Silver Bevel Moulding,35,14,Black,5.97,11.95,Wood
+3530OB,35x28mm Raw Obeche Scoop Moulding,35,6,Natural,6.99,13.99,Wood
+3543AS,23x13mm Anthracite Silver Cushion Moulding,23,10,Silver,6.77,13.55,Wood
+3543BK,23x13mm Black Melrose Cushion Moulding,23,10,Black,5.34,10.69,Wood
+3543BM,23x13mm Metallic Blue Cushion Moulding,23,10,Blue,6.77,13.55,Wood
+3543BU,23x13mm Blue Melrose Cushion Moulding,23,10,Blue,5.34,10.69,Wood
+3543DY,23x13mm Dark Yew Melrose Cushion Moulding,23,10,Orange,5.34,10.69,Wood
+3543GD,23x13mm Gold Cushion Moulding,23,10,Gold,6.77,13.55,Wood
+3543GN,23x13mm Green Melrose Cushion Moulding,23,10,Green,5.34,10.69,Wood
+3543LO,23x13mm Light Oak Melrose Cushion Moulding,23,10,Brown,5.34,10.69,Wood
+3543MA,23x13mm Mahogany Melrose Cushion Moulding,23,10,Brown,5.34,10.69,Wood
+3543PT,23x13mm Pewter Cushion Moulding,23,10,Pewter,6.77,13.55,Wood
+3543RD,23x13mm Red Melrose Cushion Moulding,23,10,Red,5.34,10.69,Wood
+3543SA,23x13mm Satin Melrose Cushion Moulding,23,10,Brown,5.34,10.69,Wood
+3543SI,23x13mm Silver Cushion Moulding,23,10,Silver,6.77,13.55,Wood
+3543TK,23x13mm Teak Melrose Cushion Moulding,23,10,Brown,5.34,10.69,Wood
+3543WA,23x13mm Walnut Melrose Cushion Moulding,23,10,Brown,5.34,10.69,Wood
+3606GD,20x32mm Gold Leaf LUXE Windsor Box Moulding,20,28,Gold,8.77,17.54,Wood
+3606SI,20x32mm Silver Leaf LUXE Windsor Box Moulding,20,28,Silver,8.77,17.54,Wood
+3607GD,20x45mm Gold Leaf LUXE Windsor Box Moulding,20,40,Gold,10.1,20.2,Wood
+3607SI,20x45mm Silver Leaf LUXE Windsor Box Moulding,20,40,Silver,10.1,20.2,Wood
+3608GD,40x30mm Gold Leaf LUXE Windsor Scoop Moulding,40,10,Gold,12.46,24.93,Wood
+3608SI,40x30mm Silver Leaf LUXE Windsor Scoop Moulding,40,10,Silver,12.46,24.93,Wood
+3810TU,38x10mm Raw Tulip Sub Frame Moulding,38,,Natural,4.47,8.95,Wood
+3818BK,38x18mm Decorative Black Lahore Moulding,38,10,Black,5.81,11.62,Wood
+3818BU,38x18mm Decorative Blue Lahore Moulding,38,10,Blue,5.81,11.62,Wood
+3818GN,38x18mm Decorative Green Lahore Moulding,38,10,Green,5.81,11.62,Wood
+3818LB,38x18mm Decorative Light Blue Lahore Moulding,38,10,Blue,5.81,11.62,Wood
+3818LG,38x18mm Decorative Light Green Lahore Moulding,38,10,Green,5.81,11.62,Wood
+3818PK,38x18mm Decorative Pink Lahore Moulding,38,10,Pink,5.81,11.62,Wood
+3818RD,38x18mm Decorative Red Lahore Moulding,38,10,Red,5.81,11.62,Wood
+3818WH,38x18mm Decorative White Lahore Moulding,38,10,White,5.81,11.62,Wood
+3818YW,38x18mm Decorative Yellow Lahore Moulding,38,10,Yellow,5.81,11.62,Wood
+3820BE,38x20mm Beech Veneer Maiella Flat Moulding,38,15,Brown,6.93,13.86,Wood
+3820MA,38x20mm Maple Veneer Maiella Flat Moulding,38,15,Brown,8.02,16.04,Wood
+3820OA,38x20mm Oak Veneer Maiella Flat Moulding,38,15,Brown,6.93,13.86,Wood
+3820WA,38x20mm Walnut Veneer Maiella Flat Moulding,38,15,Brown,8.02,16.04,Wood
+3820WE,38x20mm Wenge Veneer Maiella Flat Moulding,38,15,Brown,8.02,16.04,Wood
+3825BK,38x25mm Decorative Black Kashmir Bevel Moulding,38,12,Black,6.53,13.06,Wood
+3825GD,38x25mm Decorative Gold Kashmir Bevel Moulding,38,12,Gold,6.53,13.06,Wood
+3825LB,38x25mm Decorative Light Brown Kashmir Bevel Moulding,38,12,Brown,6.53,13.06,Wood
+3825MA,38x25mm Decorative Maroon Kashmir Bevel Moulding,38,12,Red,6.53,13.06,Wood
+3825SI,38x25mm Decorative Silver Kashmir Bevel Moulding,38,12,Silver,6.53,13.06,Wood
+3825WH,38x25mm Decorative White Kashmir Bevel Moulding,38,12,White,6.53,13.06,Wood
+3826BK,63x25mm Decorative Black Kashmir Bevel Moulding,63,12,Black,11.75,23.5,Wood
+3826GD,63x25mm Decorative Gold Kashmir Bevel Moulding,63,12,Gold,13.44,26.88,Wood
+3826SI,63x25mm Decorative Silver Kashmir Bevel Moulding,63,12,Silver,13.44,26.88,Wood
+3826WH,63x25mm Decorative White Kashmir Bevel Moulding,63,12,White,11.75,23.5,Wood
+4015BN,40x15mm Brown Flat Moulding,40,9,Brown,3.35,6.7,Wood
+4057BK,40x57mm Matt Black Flat Moulding,40,52,Black,14.19,28.37,Wood
+4057WH,40x57mm Matt White Flat Moulding,40,52,White,14.19,28.37,Wood
+4146BK,16x46mm Black Open Grain L-shape Moulding,16,,Black,7.13,14.26,Wood
+4146WH,16x46mm White Open Grain L-shape Moulding,16,,White,7.13,14.26,Wood
+4160WH,70x32mm Whitewash Bevel Moulding,70,11,White,10.14,20.29,Wood
+4200BK,40x30mm Distressed Black Houghton Scoop Moulding,40,12,Black,10.38,20.77,Wood
+4200BN,40x30mm Distressed Brown Houghton Scoop Moulding,40,12,Brown,10.38,20.77,Wood
+4200GN,40x30mm Distressed Green Houghton Scoop Moulding,40,12,Green,10.38,20.77,Wood
+4200PG,40x30mm Distressed Pale Grey Houghton Scoop Moulding,40,12,Grey,10.38,20.77,Wood
+4200TP,40x30mm Distressed Taupe Houghton Scoop Moulding,40,12,Brown,10.38,20.77,Wood
+4200WH,40x30mm Distressed White Houghton Scoop Moulding,40,12,White,10.38,20.77,Wood
+4246BK,42x46mm Black Open Grain Oslo Flat Moulding,42,27,Black,6.53,13.06,Wood
+4246WH,42x46mm Whitewash Oslo Flat Moulding,42,27,White,7.09,14.18,Wood
+4247BK,54x60mm Black Open Grain Oslo Flat Moulding,54,34,Black,9.74,19.49,Wood
+4247WH,54x60mm Whitewash Oslo Flat Moulding,54,34,White,10.42,20.83,Wood
+4303BK,29x23mm Black and Gold Edinburgh Scoop Moulding,29,12,Black,6.14,12.29,Wood
+4303BN,29x23mm Brown and Gold Edinburgh Scoop Moulding,29,12,Brown,6.14,12.29,Wood
+4303GY,29x23mm Grey and Silver Edinburgh Scoop Moulding,29,12,Grey,6.14,12.29,Wood
+4303WH,29x23mm White and Silver Edinburgh Scoop Moulding,29,12,White,6.14,12.29,Wood
+4307BK,39x26mm Black and Gold Edinburgh Scoop Moulding,39,12,Black,8,16,Wood
+4307BN,39x26mm Brown and Gold Scoop Edinburgh Moulding,39,12,Brown,8,16,Wood
+4307GY,39x26mm Grey and Silver Scoop Edinburgh Moulding,39,12,Grey,8,16,Wood
+4307WH,39x26mm White and Silver Edinburgh Scoop Moulding,39,12,White,8,16,Wood
+4321BK,34x26mm Black Davenport Scoop Moulding,34,13,,7.62,15.24,Wood
+4321BR,34x26mm Bronze Davenport Scoop Moulding,34,13,,7.62,15.24,Wood
+4321GD,34x26mm Gold Davenport Scoop Moulding,34,13,,7.62,15.24,Wood
+4321PT,34x26mm Pewter Davenport Scoop Moulding,34,13,,7.62,15.24,Wood
+4321SI,34x26mm Silver Davenport Scoop Moulding,34,13,,7.62,15.24,Wood
+4322BK,58x38mm Black Davenport Scoop Moulding,58,14,,13.24,26.48,Wood
+4322BR,58x38mm Bronze Davenport Scoop Moulding,58,14,,13.24,26.48,Wood
+4322GD,58x38mm Gold Davenport Scoop Moulding,58,14,,13.24,26.48,Wood
+4322PT,58x38mm Pewter Davenport Scoop Moulding,58,14,,13.24,26.48,Wood
+4322SI,58x38mm Silver Davenport Scoop Moulding,58,14,,13.24,26.48,Wood
+4352BK,43x52mm Black Closed Grain L-shape Moulding,43,,Black,13.94,27.89,Wood
+4412BK,60x20mm Rustic Black Step Moulding,60,12,Black,13.61,27.22,Wood
+4412BN,60x20mm Rustic Light Brown Step Moulding,60,12,Brown,13.61,27.22,Wood
+4412GY,60x20mm Rustic Grey Step Moulding,60,12,Grey,13.61,27.22,Wood
+4412WH,60x20mm Rustic White Step Moulding,60,12,White,13.61,27.22,Wood
+4419BK,44x19mm Black Ravenna Bevel Moulding,44,11,Black,4.34,8.67,Wood
+4419GY,44x19mm Grey Ravenna Bevel Moulding,44,11,Grey,4.34,8.67,Wood
+4419IV,44x19mm Ivory Ravenna Bevel Moulding,44,11,Cream,4.34,8.67,Wood
+4419Wh,44x19mm White Ravenna Bevel Moulding,44,11,White,4.34,8.67,Wood
+4424BK,37x17mm Brushed Black Flat Moulding,37,12,Black,6.55,13.1,Wood
+4424BR,37x17mm Brushed Bronze Flat Moulding,37,12,Bronze,6.55,13.1,Wood
+4424CH,37x17mm Brushed Champagne Flat Moulding,37,12,Gold,6.55,13.1,Wood
+4424GD,37x17mm Brushed Gold Flat Moulding,37,12,Gold,6.55,13.1,Wood
+4424PT,37x17mm Brushed Pewter Flat Moulding,37,12,Pewter,6.55,13.1,Wood
+4426CM,44x26mm Cream Scoop Moulding,44,7,Cream,5.64,11.28,Wood
+4426WH,44x26mm White Scoop Moulding,44,7,White,5.64,11.28,Wood
+4432CM,44x32mm Cream Scoop Moulding,44,8,Cream,6.35,12.71,Wood
+4432WH,44x32mm White Scoop Moulding,44,8,White,6.35,12.71,Wood
+4464BK,22x13mm Brushed Black Flat Moulding,22,9,Black,4.75,9.49,Wood
+4464BR,22x13mm Brushed Bronze Flat Moulding,22,9,Bronze,4.75,9.49,Wood
+4464CH,22x13mm Brushed Champagne Flat Moulding,22,9,Gold,4.75,9.49,Wood
+4464GD,22x13mm Brushed Gold Flat Moulding,22,9,Gold,4.75,9.49,Wood
+4464PT,22x13mm Brushed Pewter Flat Moulding,22,9,Pewter,4.75,9.49,Wood
+4503TA,44x18mm Teak Step Moulding,44,10,Brown,10.31,20.63,Wood
+4519OA,DISCONTINUED - 45x20mm Raw Oak Flat Moulding,45,13,Natural,13.89,27.78,Wood
+4544OB,61x22mm Raw Obeche Reverse Moulding,61,12,Natural,5.97,11.95,Wood
+4812RG,15x15mm Red & Gold Scoop Moulding,15,7,Gold,13.37,26.73,Wood
+4824BG,28x25mm Black & Gold Antique LUXE Burghley Scoop Moulding,28,12,,7.55,15.1,Wood
+4824BS,28x25mm Black & Silver Antique LUXE Burghley Scoop Moulding,28,12,,7.55,15.1,Wood
+4824WG,28x25mm White & Gold Antique LUXE Burghley Scoop Moulding,28,12,,7.55,15.1,Wood
+4824WS,28x25mm White & Silver Antique LUXE Burghley Scoop Moulding,28,12,,7.55,15.1,Wood
+4826BG,37x27mm Black & Gold Antique LUXE Burghley Scoop Moulding,37,12,,8.98,17.96,Wood
+4826BS,37x27mm Black & Silver Antique LUXE Burghley Scoop Moulding,37,12,,9.43,18.86,Wood
+4826WG,37x27mm White & Gold Antique LUXE Burghley Scoop Moulding,37,12,,8.98,17.96,Wood
+4826WS,37x27mm White & Silver Antique LUXE Burghley Scoop Moulding,37,12,,8.98,17.96,Wood
+4828BG,62x33mm Black & Gold Antique LUXE Burghley Scoop Moulding,62,12,,15.07,30.14,Wood
+4828BS,62x33mm Black & Silver Antique LUXE Burghley Scoop Moulding,62,12,,15.07,30.14,Wood
+4828WG,62x33mm White & Gold Antique LUXE Burghley Scoop Moulding,62,12,,15.07,30.14,Wood
+4828WS,62x33mm White & Silver Antique LUXE Burghley Scoop Moulding,62,12,,15.07,30.14,Wood
+4920CH,49x20mm Champagne Miami Flat Moulding,49,14,Gold,7.78,15.56,Wood
+4920GD,49x20mm Gold Miami Flat Moulding,49,14,Gold,7.78,15.56,Wood
+4920PT,49x20mm Pewter Miami Flat Moulding,49,14,Pewter,7.78,15.56,Wood
+4920SI,49x20mm Silver Miami Flat Moulding,49,14,Silver,7.78,15.56,Wood
+4924BG,30x20mm Closed Grain Black and Gold Bergen Angled Moulding,30,10,Black,3.95,7.9,Wood
+4924BK,30x20mm Closed Grain Black Bergen Angled Moulding,30,10,Black,3.57,7.14,Wood
+4924BS,30x20mm Closed Grain Black and Silver Bergen Angled Moulding,30,10,Black,3.95,7.9,Wood
+4925BG,49x25mm Closed Grain Black and Gold Bergen Angled Moulding,49,14,Black,6.37,12.75,Wood
+4925BK,49x25mm Closed Grain Black Bergen Angled Moulding,49,14,Black,6,11.99,Wood
+4925BS,49x25mm Closed Grain Black and Silver Bergen Angled Moulding,49,14,Black,6.37,12.75,Wood
+5016TU,50x16mm Raw Tulip Sub Frame Moulding,50,,Natural,8.35,16.7,Wood
+5018WP,43x15mm Wormholed Pine Reverse Moulding,43,7,Natural,5.85,11.7,Wood
+5019WP,36x14mm Wormholed Pine Reverse Moulding,36,6,Natural,4.67,9.35,Wood
+5020BG,30x30mm Black & Gold Step Moulding,30,22,Black,10.44,20.88,Wood
+5020BR,30x30mm Bronze Step Moulding,30,22,Bronze,10.44,20.88,Wood
+5020CH,30x30mm Champagne Step Moulding,30,22,Gold,10.44,20.88,Wood
+5020GD,30x30mm Gold Step Moulding,30,22,Gold,10.44,20.88,Wood
+5020PT,30x30mm Pewter Step Moulding,30,22,Pewter,10.44,20.88,Wood
+5020SI,30x30mm Silver Step Moulding,30,21,Silver,10.44,20.88,Wood
+5023MA,19x29mm Mahogany/Silver Edge LUXE Greenwich Flat Moulding,19,17,Brown,6.2,12.39,Wood
+5023OA,19x29mm Oak/Silver Edge LUXE Greenwich Flat Moulding,19,17,Brown,6.2,12.39,Wood
+5023WA,19x29mm Walnut/Silver Edge LUXE Greenwich Flat Moulding,19,17,Brown,6.2,12.39,Wood
+5023WE,19x29mm Wenge/Silver Edge LUXE Greenwich Flat Moulding,19,17,Brown,6.2,12.39,Wood
+5024MA,50x24mm Mahogany/Silver Edge LUXE Greenwich Flat Moulding,50,15,Brown,8.83,17.66,Wood
+5024OA,50x24mm Oak/Silver Edge LUXE Greenwich Flat Moulding,50,15,Brown,8.83,17.66,Wood
+5024WA,50x24mm Walnut/Silver Edge LUXE Greenwich Flat Moulding,50,15,Brown,8.83,17.66,Wood
+5024WE,50x24mm Wenge/Silver Edge LUXE Greenwich Flat Moulding,50,15,Brown,8.83,17.66,Wood
+5025BN,50x25mm Brown Flat Moulding,50,10,Brown,5.82,11.63,Wood
+5028BG,50x28mm Black & Gold LUXE Trevi Step Moulding - FSC,50,17,Black,10.46,20.92,Wood
+5028BS,50x28mm Black & Silver LUXE Trevi Step Moulding - FSC,50,17,Black,10.46,20.92,Wood
+5028GD,50x28mm Gold LUXE Trevi Step Moulding - FSC,50,17,Gold,10.46,20.92,Wood
+5028SI,50x28mm Silver LUXE Trevi Step Moulding - FSC,50,17,Silver,10.46,20.92,Wood
+5034BK,31x49mm Black Flat Moulding,31,46,Black,13.15,26.29,Wood
+5034WH,31x49mm White Flat Moulding,31,46,White,13.15,26.29,Wood
+5050BK,50x50mm Black Flat Moulding,50,30,Black,14.69,29.38,Wood
+5050WH,50x50mm White Flat Moulding,50,30,White,14.69,29.38,Wood
+5241OA,16x52mm Oak Veneer Umbra L-shape Moulding,16,40,Brown,10.64,21.27,Wood
+5241WA,16x52mm Walnut Veneer Umbra L-shape Moulding,16,40,Brown,10.64,21.27,Wood
+5241WE,16x52mm Wenge Veneer Umbra L-shape Moulding,16,40,Brown,10.64,21.27,Wood
+5300OB,DISCONTINUED - 29x41mm Raw Obeche Flat Moulding,29,34,Natural,7.09,14.18,Wood
+5350BK,49x30mm Black Flat Moulding,49,20,Black,10.37,20.75,Wood
+5350WH,49x30mm White Flat Moulding,49,20,White,13.42,26.84,Wood
+5364BL,49x30mm Black Gloss Flat Moulding,49,20,Black,11.24,22.47,Wood
+5364WH,49x30mm White Gloss Flat Moulding,49,20,White,12.54,25.07,Wood
+5410BN,22x16mm Brown Bevel Moulding,22,8,Brown,4.4,8.8,Wood
+5410CM,22x16mm Cream Bevel Moulding,22,8,Cream,4.4,8.8,Wood
+5410GN,22x16mm Green Bevel Moulding,22,8,Green,4.4,8.8,Wood
+5410WH,22x16mm White Bevel Moulding,22,8,White,4.4,8.8,Wood
+5434BG,14x12mm Black & Gold Cushion Moulding,14,9,Gold,8.31,16.63,Wood
+5434GD,14x12mm Gold Cushion Moulding,14,9,Gold,8.31,16.63,Wood
+5434GN,14x12mm Green & Gold Cushion Moulding,14,9,Gold,8.31,16.63,Wood
+5434SI,14x12mm Silver Cushion Moulding,14,9,Silver,8.31,16.63,Wood
+5445GD,30x21mm Gold Scoop Moulding,30,12,Gold,8.39,16.78,Wood
+5445SI,30x21mm Silver Scoop Moulding,30,12,Silver,8.39,16.78,Wood
+5450GD,41x25mm Gold Scoop Moulding,41,14,Gold,9.82,19.64,Wood
+5450SI,41x25mm Silver Scoop Moulding,41,14,Silver,9.82,19.64,Wood
+5460GD,82x33mm Gold Scoop Moulding,82,15,Gold,18.25,36.5,Wood
+5460SI,82x33mm Silver Scoop Moulding,82,15,Silver,18.25,36.5,Wood
+5470BK,24x15mm Black Bevel Moulding,24,9,Black,8.21,16.42,Wood
+5470BR,24x15mm Bronze Bevel Moulding,24,9,Bronze,8.21,16.42,Wood
+5470GD,24x15mm Gold Bevel Moulding,24,9,Gold,8.21,16.42,Wood
+5470PT,24x15mm Pewter Bevel Moulding,24,9,Pewter,8.21,16.42,Wood
+5470SI,24x15mm Silver Bevel Moulding,24,9,Silver,8.21,16.42,Wood
+5472BK,36x19mm Black Bevel Moulding,36,9,Black,10.54,21.08,Wood
+5472BR,36x19mm Bronze Bevel Moulding,36,9,Bronze,10.54,21.08,Wood
+5472GD,36x19mm Gold Bevel Moulding,36,9,Gold,10.54,21.08,Wood
+5472PT,36x19mm Pewter Bevel Moulding,36,9,Pewter,10.54,21.08,Wood
+5472SI,36x19mm Silver Bevel Moulding,36,9,Silver,10.54,21.08,Wood
+5529BL,15x12mm Gloss Black Melrose Cushion Moulding,15,9,Black,4.69,9.39,Wood
+5529BU,15x12mm Gloss Blue Melrose Cushion Moulding,15,9,Blue,4.69,9.39,Wood
+5529MA,15x12mm Gloss Maroon Melrose Cushion Moulding,15,9,Red,4.69,9.39,Wood
+5529NY,15x12mm Gloss Navy Melrose Cushion Moulding,15,9,Blue,4.69,9.39,Wood
+5529RD,15x12mm Gloss Red Melrose Cushion Moulding,15,9,Red,4.69,9.39,Wood
+5529WH,15x12mm Gloss White Melrose Cushion Moulding,15,9,White,4.69,9.39,Wood
+5530OB,61x27mm Raw Obeche Scoop Moulding,61,8,Natural,10.5,21,Wood
+5543BL,23x12mm Gloss Black Melrose Cushion Moulding,23,9,Black,6.25,12.5,Wood
+5543BU,23x12mm Gloss Blue Melrose Cushion Moulding,23,9,Blue,6.25,12.5,Wood
+5543MA,23x12mm Gloss Maroon Melrose Cushion Moulding,23,9,Red,6.25,12.5,Wood
+5543NY,23x12mm Gloss Navy Melrose Cushion Moulding,23,9,Blue,6.25,12.5,Wood
+5543RD,23x12mm Gloss Red Melrose Cushion Moulding,23,9,Red,6.25,12.5,Wood
+5543WH,23x12mm Gloss White Melrose Cushion Moulding,23,9,White,6.25,12.5,Wood
+5545BL,40x14mm Gloss Black Cushion Moulding,40,10,Black,11.09,22.18,Wood
+5545WH,40x15mm Gloss White Cushion Moulding,40,10,White,11.09,22.18,Wood
+5560BK,56x60mm Black Open Grain L-shape Moulding,56,,Black,14.99,29.99,Wood
+5655BK,19x38mm Antique Black Rope Cadiz Moulding,19,26,Black,7.17,14.35,Wood
+5655GD,19x38mm Antique Gold Rope Cadiz Moulding,19,26,Gold,7.96,15.92,Wood
+5655SI,19x38mm Antique Silver Rope Cadiz Moulding,19,26,Silver,7.96,15.92,Wood
+5655WH,19x38mm Antique White Rope Cadiz Moulding,19,26,White,7.17,14.35,Wood
+5793NT,15x31mm Natural Flat Moulding,15,25,Natural,6.42,12.83,Wood
+5819BK,58x19mm Black Ravenna Bevel Moulding,58,11,Black,5.27,10.54,Wood
+5819GY,58x19mm Grey Ravenna Bevel Moulding,58,11,Grey,5.27,10.54,Wood
+5819IV,58x19mm Ivory Ravenna Bevel Moulding,58,11,Cream,5.27,10.54,Wood
+5819WH,58x19mm White Ravenna Bevel Moulding,58,11,White,5.27,10.54,Wood
+5821BK,58x21mm Black Ancona Flat Moulding,58,15,Black,4.84,9.68,Wood
+5821GY,58x21mm Grey Ancona Flat Moulding,58,15,Grey,4.84,9.68,Wood
+5821WH,58x21mm White Ancona Flat Moulding,58,15,White,4.84,9.68,Wood
+5837BR,19x35mm Bronze Vester Ribbed Box Moulding,19,23,Bronze,7.87,15.74,Wood
+5837GD,19x35mm Gold Vester Ribbed Box Moulding,19,23,Gold,7.87,15.74,Wood
+5837PT,19x35mm Pewter Vester Ribbed Box Moulding,19,23,Pewter,7.87,15.74,Wood
+5837SI,19x35mm Silver Vester Ribbed Box Moulding,19,23,Silver,7.87,15.74,Wood
+6000AS,20x33mm Raw Ash Flat Moulding,20,28,Natural,6.77,13.55,Wood
+6000OA,20x33mm Raw Oak Flat Moulding,20,29,Natural,6.47,12.94,Wood
+6000TU,20x33mm Raw Tulip Flat Moulding,20,30,Natural,6.3,12.6,Wood
+6000WA,20x33mm Raw Walnut Flat Moulding,20,30,Brown,10.74,21.47,Wood
+6060BK,33x30mm Black/Silver LUXE Beaufort Block Moulding,33,15,Black,10.92,21.84,Wood
+6060BU,33x30mm Blue/Silver LUXE Beaufort Block Moulding,33,15,Blue,10.92,21.84,Wood
+6060GD,33x30mm Gold LUXE Beaufort Block Moulding,33,15,Gold,10.92,21.84,Wood
+6060GN,33x30mm Green/Silver LUXE Beaufort Block Moulding,33,15,Green,10.92,21.84,Wood
+6060PT,33x30mm Pewter LUXE Beaufort Block Moulding,33,15,Pewter,10.92,21.84,Wood
+6060SI,33x30mm Silver LUXE Beaufort Block Moulding,33,15,Silver,10.92,21.84,Wood
+6061BK,50x54mm Black/Silver LUXE Beaufort Block Moulding,50,32,Black,19.98,39.96,Wood
+6061BU,50x54mm Blue/Silver LUXE Beaufort Block Moulding,50,32,Blue,19.98,39.96,Wood
+6061GD,50x54mm Gold LUXE Beaufort Block Moulding,50,32,Gold,19.98,39.96,Wood
+6061GN,50x54mm Green/Silver LUXE Beaufort Block Moulding,50,32,Green,19.98,39.96,Wood
+6061PT,50x54mm Pewter LUXE Beaufort Block Moulding,50,32,Pewter,19.98,39.96,Wood
+6061SI,50x54mm Silver LUXE Beaufort Block Moulding,50,32,Silver,19.98,39.96,Wood
+6062BK,16x29mm Black/Silver LUXE Beaufort Block Moulding,16,18,Black,8.92,16.64,Wood
+6062BU,16x29mm Blue/Silver LUXE Beaufort Block Moulding,16,18,Blue,8.92,16.64,Wood
+6062GD,16x29mm Gold LUXE Beaufort Block Moulding,16,18,Gold,8.92,16.64,Wood
+6062GN,16x29mm Green/Silver LUXE Beaufort Block Moulding,16,18,Green,8.92,16.64,Wood
+6062PT,16x29mm Pewter LUXE Beaufort Block Moulding,16,18,Pewter,8.92,16.64,Wood
+6062SI,16x29mm Silver LUXE Beaufort Block Moulding,16,18,Silver,8.92,16.64,Wood
+6150LI,13x13mm Linen Slip Moulding,13,7,White,3.88,7.76,Wood
+6151CM,22x20mm Cream Bevel Moulding Closed Grain,22,10,Cream,4.88,9.77,Wood
+6151LI,26x13mm Linen Slip Moulding,26,7,White,4.54,9.07,Wood
+6151WH,22x20mm White Bevel Moulding Closed grain,22,10,White,4.88,9.77,Wood
+6171WH,40x30mm Gloss White Scoop Moulding,40,15,White,10.49,20.98,Wood
+6200BK,25x30mm Black LUXE Navona Scoop Moulding,25,14,Black,8.58,17.16,Wood
+6200BR,25x30mm Bronze LUXE Navona Scoop Moulding,25,14,Bronze,8.58,17.16,Wood
+6200GD,25x30mm Gold LUXE Navona Scoop Moulding,25,14,Gold,8.58,17.16,Wood
+6200PT,25x30mm Pewter LUXE Navona Scoop Moulding,25,14,Pewter,8.58,17.16,Wood
+6200SI,25x30mm Silver LUXE Navona Scoop Moulding,25,14,Silver,8.58,17.16,Wood
+6210BK,41x46mm Black LUXE Navona Scoop Moulding,41,21,Black,17.05,34.1,Wood
+6210BR,41x46mm Bronze LUXE Navona Scoop Moulding,41,21,Bronze,17.05,34.1,Wood
+6210GD,41x46mm Gold LUXE Navona Scoop Moulding,41,21,Gold,17.05,34.1,Wood
+6210PT,41x46mm Pewter LUXE Navona Scoop Moulding,41,21,Pewter,17.05,34.1,Wood
+6210SI,41x46mm Silver LUXE Navona Scoop Moulding,41,21,Silver,17.05,34.1,Wood
+6321CM,34x40mm Cream Bevel Moulding,34,27,Cream,11.16,22.32,Wood
+6340GN,15x17mm Green Flat Moulding FSC,15,12,Green,4.9,9.81,Wood
+6340GY,15x17mm Grey Flat Moulding FSC,15,12,Grey,4.9,9.81,Wood
+6340OA,15x17mm Oak Flat Moulding FSC,15,12,Brown,4.9,9.81,Wood
+6340RD,15x17mm Red Flat Moulding FSC,15,12,Red,4.9,9.81,Wood
+6340WH,15x17mm White Flat Moulding FSC,15,12,White,4.9,9.81,Wood
+6360BK,45x17mm Rustic Black & Gold LUXE Aventino Flat Moulding,45,13,Black,9.2,18.4,Wood
+6360CH,45x17mm Rustic Charcoal LUXE Aventino Flat Moulding FSC,45,13,Black,9.88,19.76,Wood
+6360DB,45x17mm Rustic Dark Brown LUXE Aventino Flat Moulding FSC,45,13,Brown,9.88,19.76,Wood
+6360GD,45x17mm Rustic Gold LUXE Aventino Flat Moulding FSC,45,13,Gold,9.88,19.76,Wood
+6360WH,45x17mm Rustic White & Silver LUXE Aventino Flat Moulding,45,13,White,9.2,18.4,Wood
+6365BK,60x29mm Rustic Black & Gold LUXE Aventino Scoop Moulding,60,16,Black,14.47,28.94,Wood
+6365CH,60x29mm Rustic Charcoal LUXE Aventino Scoop Moulding FSC,60,16,Black,15.28,30.56,Wood
+6365DB,60x29mm Rustic Dark Brown LUXE Aventino Scoop Moulding FSC,60,16,Brown,15.28,30.56,Wood
+6365GD,60x29mm Rustic Gold LUXE Aventino Scoop Moulding FSC,60,16,Gold,15.28,30.56,Wood
+6365WH,60x29mm Rustic White & Silver LUXE Aventino Scoop Moulding,60,16,White,14.47,28.94,Wood
+6370BE,20x16mm Cream Cushion Moulding,20,8,Cream,4.19,8.38,Wood
+6370BK,20x16mm Black Cushion Moulding,20,8,Black,4.19,8.38,Wood
+6370PG,20x16mm Pale Grey Cushion Moulding,20,8,Grey,4.19,8.38,Wood
+6370WH,20x16mm White Cushion Moulding,20,8,White,4.19,8.38,Wood
+6386AG,23x20mm Antique Gold Rochester Flat Moulding FSC,23,13,Gold,5.79,11.57,Wood
+6386AS,23x20mm Antique Silver Rochester Flat Moulding FSC,23,13,Silver,5.79,11.57,Wood
+6386BR,23x20mm Bronze with Black Rochester Flat Moulding FSC,23,13,Bronze,4.81,9.62,Wood
+6386GD,23x20mm Gold with Black Rochester Flat Moulding FSC,23,13,Gold,4.81,9.62,Wood
+6386PT,23x20mm Pewter with Black Rochester Flat Moulding FSC,23,13,Pewter,4.81,9.62,Wood
+6386SI,23x20mm Silver with Black Rochester Flat Moulding FSC,23,13,Silver,4.81,9.62,Wood
+6387AG,30x30mm Antique Gold Rochester Flat Moulding FSC,30,22,Gold,8.35,16.7,Wood
+6387AS,30x30mm Antique Silver Rochester Flat Moulding FSC,30,22,Silver,8.35,16.7,Wood
+6387BR,30x30mm Bronze with Black Rochester Flat Moulding FSC,30,22,Bronze,7.8,15.6,Wood
+6387GD,30x30mm Gold with Black Rochester Flat Moulding FSC,30,22,Gold,7.8,15.6,Wood
+6387PT,30x30mm Pewter with Black Rochester Flat Moulding FSC,30,22,Pewter,7.8,15.6,Wood
+6387SI,30x30mm Silver with Black Rochester Flat Moulding FSC,30,22,Silver,7.8,15.6,Wood
+6440BG,64x40mm Black and Gold Closed Grain Hanover Scoop Moulding,64,17,Black,10.04,20.08,Wood
+6440BK,64x40mm Black Closed Grain Hanover Scoop Moulding,64,17,Black,9.48,18.96,Wood
+6440BS,64x40mm Black and Silver Closed Grain Hanover Scoop Moulding,64,17,Black,10.04,20.08,Wood
+6440SI,64x40mm Silver Foil Hanover Scoop Moulding,64,17,Silver,11.55,23.1,Wood
+6440WH,64x40mm White Closed Grain Hanover Scoop Moulding,64,17,White,9.48,18.96,Wood
+6441BG,37x29mm Black and Gold Closed Grain Hanover Scoop Moulding,37,12,Black,7.56,15.12,Wood
+6441BK,37x29mm Black Closed Grain Hanover Scoop Moulding,37,12,Black,6.8,13.61,Wood
+6441BS,37x29mm Black and Silver Closed Grain Hanover Scoop Moulding,37,12,Black,7.56,15.12,Wood
+6441SI,37x29mm Silver Foil Hanover Scoop Moulding,37,12,Silver,9.05,18.1,Wood
+6441WH,37x29mm White Closed Grain Hanover Scoop Moulding,37,12,White,6.8,13.61,Wood
+6510CH,33x23mm Champagne Bevel Moulding,33,13,Gold,8.04,16.09,Wood
+6510GD,33x23mm Gold Bevel Moulding,33,13,Gold,8.04,16.09,Wood
+6510PT,33x23mm Pewter Bevel Moulding,33,13,Pewter,8.04,16.09,Wood
+6520BU,40x26mm Blue LUXE Palatino Scoop Moulding,40,14,Blue,10.74,21.48,Wood
+6520CH,40x26mm Charcoal LUXE Palatino Scoop Moulding,40,14,Black,10.74,21.48,Wood
+6520CM,40x26mm Cream LUXE Palatino Scoop Moulding,40,14,Cream,10.74,21.48,Wood
+6520GN,40x26mm Green LUXE Palatino Scoop Moulding,40,14,Green,10.74,21.48,Wood
+6520RD,40x26mm Red LUXE Palatino Scoop Moulding,40,14,Red,10.74,21.48,Wood
+6521BU,70x33mm Blue LUXE Palatino Scoop Moulding,70,18,Blue,20.38,40.76,Wood
+6521CH,70x33mm Charcoal LUXE Palatino Scoop Moulding,70,18,Black,20.38,40.76,Wood
+6521CM,70x33mm Cream LUXE Palatino Scoop Moulding,70,18,Cream,20.38,40.76,Wood
+6521GN,70x33mm Green LUXE Palatino Scoop Moulding,70,18,Green,20.38,40.76,Wood
+6521RD,70x33mm Red LUXE Palatino Scoop Moulding,70,18,Red,20.38,40.76,Wood
+6566OB,40x20mm Raw Obeche Reverse Moulding,40,14,Natural,4.67,9.35,Wood
+6643BL,20x33mm Gloss Black Flat Moulding,20,28,Black,8.52,17.03,Wood
+6643LO,20x33mm Light Oak Melrose Cushion Moulding,20,28,Brown,8.59,17.18,Wood
+6643WA,20x33mm Walnut Melrose Cushion Moulding,20,28,Brown,8.59,17.18,Wood
+6643WH,20x33mm Gloss White Flat Moulding,20,28,White,8.52,17.03,Wood
+6650BG,30x20mm Black & Gold Fiume Flat Moulding,30,12,Black,7.71,15.41,Wood
+6650BS,30x20mm Black & Silver Fiume Flat Moulding,30,12,Black,7.71,15.41,Wood
+6650BU,30x20mm Blue Fiume Flat Moulding,30,12,Blue,7.71,15.41,Wood
+6650GN,30x20mm Green Fiume Flat Moulding,30,12,Green,7.71,15.41,Wood
+6650GY,30x20mm Grey Fiume Flat Moulding,30,12,Grey,7.71,15.41,Wood
+6650RD,30x20mm Red Fiume Flat Moulding,30,12,Red,7.71,15.41,Wood
+6750AG,31x14mm Antique Gold Step Moulding,31,7,Gold,5.43,10.86,Wood
+6750AS,31x14mm Antique Silver Step Moulding,31,7,Silver,5.43,10.86,Wood
+6750GD,31x14mm Antique Gold Foil Step Moulding,31,7,Gold,5.43,10.86,Wood
+6750wa,30x15mm Walnut Step Moulding,30,7,Brown,3.98,7.96,Wood
+6790BK,30x20mm Black Scoop Moulding,30,10,Black,7.35,14.7,Wood
+6790BL,30x20mm Black & Silver Scoop Moulding,30,10,Black,7.35,14.7,Wood
+6790BR,30x20mm Bronze Scoop Moulding,30,10,Bronze,7.35,14.7,Wood
+6790BS,30x20mm Silver & Black Scoop Moulding,30,10,Silver,7.35,14.7,Wood
+6790GD,30x20mm Gold Scoop Moulding,30,10,Gold,7.35,14.7,Wood
+6790SI,30x20mm Silver Scoop Moulding,30,10,Silver,7.35,14.7,Wood
+6790WH,30x20mm White Scoop Moulding,30,10,White,7.35,14.7,Wood
+6800BR,17x17mm Bronze Luxe Esquilino Scoop Moulding,17,10,Bronze,6.51,13.02,Wood
+6800PT,17x17mm Pewter LUXE Esquilino Scoop Moulding,17,10,Pewter,6.51,13.02,Wood
+6810BR,40x23mm Bronze LUXE Esquilino Scoop Moulding,40,11,Bronze,11.09,22.18,Wood
+6810BS,40x23mm Black/Silver SE LUXE Esquilino Scoop Moulding,40,11,Black,10.7,21.4,Wood
+6810MB,40x23mm Matt Black LUXE Esquilino Scoop Moulding,40,11,Black,9.99,19.97,Wood
+6810MW,40x23mm Matt White LUXE Esquilino Scoop Moulding,40,11,White,9.99,19.97,Wood
+6810PT,40x23mm Pewter LUXE Esquilino Scoop Moulding,40,11,Pewter,11.09,22.18,Wood
+6820BR,74x45mm Bronze LUXE Esquilino Scoop Moulding,74,23,Bronze,22.54,45.09,Wood
+6820BS,74x45mm Black/Silver SE LUXE Esquilino Scoop Moulding,74,23,Black,21.5,43.01,Wood
+6820MB,74x45mm Matt Black LUXE Esquilino Scoop Moulding,74,23,Black,21.08,42.17,Wood
+6820MW,74x45mm Matt White LUXE Esquilino Scoop Moulding,74,23,White,21.08,42.17,Wood
+6820PT,74x45mm Pewter LUXE Esquilino Scoop Moulding,74,23,Pewter,22.54,45.09,Wood
+6843GN,68x43mm Green Grey Open Grain Kendal Scoop Moulding,68,13,Green,8.57,17.14,Wood
+6843GY,68x43mm Dark Grey Open Grain Kendal Scoop Moulding,68,13,Grey,8.57,17.14,Wood
+6843PG,68x43mm Pale Grey Open Grain Kendal Scoop Moulding,68,13,Grey,8.57,17.14,Wood
+6843WH,68x43mm Grey White Open Grain Kendal Scoop Moulding,68,13,White,8.57,17.14,Wood
+7000AG,44x16mm Antique Gold Flat Moulding,44,9,Gold,7.04,14.07,Wood
+7000AS,47x16mm Antique Silver Flat Moulding,47,9,Silver,7.04,14.07,Wood
+7005BR,63x30mm Industrial Bronze LUXE Ferrara Bevel Moulding,63,21,Bronze,19.06,38.12,Wood
+7005GD,63x30mm Industrial Gold LUXE Ferrara Bevel Moulding,63,21,Gold,19.06,38.12,Wood
+7005PT,63x30mm Industrial Pewter LUXE Ferrara Bevel Moulding,63,21,Pewter,19.06,38.12,Wood
+7006BR,35x35mm Industrial Bronze LUXE Ferrara Bevel Moulding,35,25,Bronze,13.13,26.25,Wood
+7006GD,35x35mm Industrial Gold LUXE Ferrara Bevel Moulding,35,25,Gold,13.13,26.25,Wood
+7006PT,35x35mm Industrial Pewter LUXE Ferrara Bevel Moulding,35,25,Pewter,13.13,26.25,Wood
+7017OB,70x17mm Raw Obeche Sub Frame Moulding,70,,Natural,8.36,16.72,Wood
+7020BK,70x20mm Black Flat Moulding,70,16,Black,9.54,19.09,Wood
+7178BN,23x15mm Brown Cushion Moulding,23,9,Brown,5.7,11.4,Wood
+7201BK,33x42mm Black Bevel Moulding,33,28,Black,14.43,28.85,Wood
+7201OB,35x44mm Raw Obeche Bevel Moulding,35,28,Natural,8.73,17.45,Wood
+7225BK,20x25mm Distressed Black Spello Beaded Moulding,20,15,Black,4.66,9.32,Wood
+7225CM,20x25mm Distressed Cream Spello Beaded Moulding,20,15,Cream,4.66,9.32,Wood
+7225DG,20x25mm Distressed Dark Green Spello Beaded Moulding,20,15,Green,4.66,9.32,Wood
+7225DR,20x25mm Distressed Dark Red Spello Beaded Moulding,20,15,Red,4.66,9.32,Wood
+7225GD,20x25mm Distressed Gold Spello Beaded Moulding,20,15,Gold,4.66,9.32,Wood
+7225GN,20x25mm Distressed Olive Green Spello Beaded Moulding,20,15,Green,4.66,9.32,Wood
+7225MD,20x25mm Distressed Midnight Blue Spello Beaded Moulding,20,15,Blue,4.66,9.32,Wood
+7225PG,20x25mm Distressed Pale Grey Spello Beaded Moulding,20,15,Grey,4.66,9.32,Wood
+7225PK,20x25mm Distressed Pink Spello Beaded Moulding,20,15,Pink,4.66,9.32,Wood
+7225RD,20x25mm Distressed Red Spello Beaded Moulding,20,15,Red,4.66,9.32,Wood
+7225SB,20x25mm Distressed Sky Blue Spello Beaded Moulding,20,15,Blue,4.66,9.32,Wood
+7225WH,20x25mm Distressed White Spello Beaded Moulding,20,15,White,4.66,9.32,Wood
+7225YW,20x25mm Distressed Yellow Spello Beaded Moulding,20,15,Yellow,4.66,9.32,Wood
+7558BK,45x58mm Black Open Grain L-shape Moulding,45,,Black,15.16,30.32,Wood
+7560BG,22x22mm Black & Gold Scoop Moulding FSC,22,11,Black,6.97,13.94,Wood
+7560BS,22x22mm Black & Silver Scoop Moulding FSC,22,11,Black,6.97,13.94,Wood
+7560GD,22x22mm Gold Scoop Moulding FSC,22,11,Gold,6.97,13.94,Wood
+7560PT,22x22mm Pewter Scoop Moulding FSC,22,11,Pewter,6.97,13.94,Wood
+7560SI,22x22mm Silver Scoop Moulding FSC,22,11,Silver,6.97,13.94,Wood
+7560WH,22x22mm White Scoop Moulding FSC,22,11,White,6.97,13.94,Wood
+7580BK,20x20mm Rustic Black Madeira Cube Moulding,20,16,Black,5.67,11.34,Wood
+7580BN,20x20mm Rustic Brown Madeira Cube Moulding,20,16,Brown,5.67,11.34,Wood
+7580BU,20x20mm Rustic Blue Madeira Cube Moulding,20,16,Blue,5.67,11.34,Wood
+7580CM,20x20mm Rustic Cream Madeira Cube Moulding,20,16,Cream,5.67,11.34,Wood
+7580GN,20x20mm Rustic Green Madeira Cube Moulding,20,16,Green,5.67,11.34,Wood
+7580GY,20x20mm Rustic Grey Madeira Cube Moulding,20,16,Grey,5.67,11.34,Wood
+7580RD,20x20mm Rustic Red Madeira Cube Moulding,20,16,Red,5.67,11.34,Wood
+7580WH,20x20mm Rustic White Madeira Cube Moulding,20,16,White,5.67,11.34,Wood
+7581BK,25x35mm Rustic Black Madeira Box Moulding,25,29,Black,7.93,15.86,Wood
+7581BN,25x35mm Rustic Brown Madeira Box Moulding,25,29,Brown,7.93,15.86,Wood
+7581BU,25x35mm Rustic Blue Madeira Box Moulding,25,29,Blue,7.93,15.86,Wood
+7581CM,25x35mm Rustic Cream Madeira Box Moulding,25,29,Cream,7.93,15.86,Wood
+7581GN,25x35mm Rustic Green Madeira Box Moulding,25,29,Green,7.93,15.86,Wood
+7581GY,25x35mm Rustic Grey Madeira Box Moulding,25,29,Grey,7.93,15.86,Wood
+7581RD,25x35mm Rustic Red Madeira Box Moulding,25,29,Red,7.93,15.86,Wood
+7581WH,25x35mm Rustic White Madeira Box Moulding,25,29,White,7.93,15.86,Wood
+7677BK,73x33mm Black Reverse Moulding,73,20,Black,15.31,30.62,Wood
+7677OB,71x34mm Raw Obeche Reverse Moulding,71,20,Natural,9.02,18.04,Wood
+7701BK,70x30mm Black LUXE Trastevere Scoop Moulding,70,16,Black,18.54,37.09,Wood
+7702BN,70x30mm Bronze LUXE Trastevere Scoop Moulding,70,16,Bronze,18.54,37.09,Wood
+7703GD,70x30mm Gold LUXE Trastevere Scoop Moulding,70,16,Gold,18.54,37.09,Wood
+7711BK,40x20mm Black LUXE Trastevere Scoop Moulding,40,11,Black,12.98,25.96,Wood
+7712BN,40x20mm Bronze LUXE Trastevere Scoop Moulding,40,11,Bronze,12.98,25.96,Wood
+7713GD,40x20mm Gold LUXE Trastevere Scoop Moulding,40,11,Gold,12.98,25.96,Wood
+7721BK,30x16mm Black LUXE Trastevere Scoop Moulding,30,9,Black,10.33,20.66,Wood
+7722BN,30x16mm Bronze LUXE Trastevere Scoop Moulding,30,9,Bronze,10.33,20.66,Wood
+7723GD,30x16mm Gold LUXE Trastevere Scoop Moulding,30,9,Gold,10.33,20.66,Wood
+7830BK,30x39mm Black Fenton Scoop Box Moulding,30,25,Black,11.48,22.95,Wood
+7830BU,30x39mm Blue Fenton Scoop Box Moulding,30,25,Blue,11.48,22.95,Wood
+7830GD,30x39mm Gold Fenton Scoop Box Moulding,30,25,Gold,11.48,22.95,Wood
+7830GN,30x39mm Green Fenton Scoop Box Moulding,30,25,Green,11.48,22.95,Wood
+7830RD,30x39mm Red Fenton Scoop Box Moulding,30,25,Red,11.48,22.95,Wood
+7830SI,30x39mm Silver Fenton Scoop Box Moulding,30,25,Silver,11.48,22.95,Wood
+7840BK,40x35mm Antique Black and Gold Chatsworth Scoop Moulding,40,15,,10.85,21.7,Wood
+7840GD,40x35mm Antique Gold Chatsworth Scoop Moulding,40,15,,10.85,21.7,Wood
+7840SI,40x35mm Antique Silver Chatsworth Scoop Moulding,40,15,,10.85,21.7,Wood
+7840WH,40x35mm Antique White Chatsworth Scoop Moulding,40,15,,10.85,21.7,Wood
+7841BK,60x36mm Antique Black and Gold Chatsworth Scoop Moulding,60,16,,15.42,30.84,Wood
+7841GD,60x36mm Antique Gold Chatsworth Scoop Moulding,60,16,,15.42,30.84,Wood
+7841SI,60x36mm Antique Silver Chatsworth Scoop Moulding,60,16,,15.42,30.84,Wood
+7841WH,60x36mm Antique White Chatsworth Scoop Moulding,60,16,,15.42,30.84,Wood
+7946GY,39x14mm Grey Flat Moulding,39,10,Grey,6.05,12.1,Wood
+8016GN,35x30mm Green Southsea Stepped Box Moulding,35,24,Green,8.62,17.24,Wood
+8017BU,27x20mm Blue Southsea Step Moulding,27,17,Blue,6.69,13.38,Wood
+8017CM,27x20mm Cream Southsea Step Moulding,27,17,Cream,6.69,13.38,Wood
+8017GN,27x20mm Green Southsea Step Moulding,27,17,Green,6.69,13.38,Wood
+8017GY,27x20mm Grey Southsea Step Moulding,27,17,Grey,6.69,13.38,Wood
+8017WH,27x20mm White Southsea Step Moulding,27,17,White,6.69,13.38,Wood
+8018BU,44x21mm Blue Southsea Step Moulding,44,17,Blue,9.38,18.75,Wood
+8018CM,44x21mm Cream Southsea Step Moulding,44,17,Cream,9.38,18.75,Wood
+8018GN,44x21mm Green Southsea Step Moulding,44,17,Green,9.38,18.75,Wood
+8018GY,44x21mm Grey Southsea Step Moulding,44,17,Grey,9.38,18.75,Wood
+8018WH,44x21mm White Southsea Step Moulding,44,17,White,9.38,18.75,Wood
+8019BU,63x23mm Blue Southsea Step Moulding,63,12,Blue,10.9,21.8,Wood
+8019CM,63x23mm Cream Southsea Step Moulding,63,12,Cream,10.9,21.8,Wood
+8019GN,63x23mm Green Southsea Step Moulding,63,12,Green,10.9,21.8,Wood
+8019GY,63x23mm Grey Southsea Step Moulding,63,12,Grey,10.9,21.8,Wood
+8019WH,63x23mm White Southsea Step Moulding,63,12,White,10.9,21.8,Wood
+8053BG,49x34mm Black & Gold Open Grain LUXE Wentworth Scoop Moulding,49,17,Black,9.62,19.24,Wood
+8053BK,49x34mm Black Open Grain LUXE Wentworth Scoop Moulding,49,17,Black,9,18,Wood
+8053BS,49x34mm Black & Silver Open Grain LUXE Wentworth Scoop Moulding,49,17,Black,9.62,19.24,Wood
+8053WG,49x34mm White & Gold Open Grain LUXE Wentworth Scoop Moulding,49,17,White,9.62,19.24,Wood
+8053WH,49x34mm White Open Grain LUXE Wentworth Scoop Moulding,49,17,White,9,18,Wood
+8053WS,49x34mm White & Silver Open Grain LUXE Wentworth Scoop Moulding,49,17,White,9.62,19.24,Wood
+8054BG,80x54mm Black & Gold Open Grain LUXE Wentworth Scoop Moulding,80,26,Black,14.53,29.06,Wood
+8054BK,80x54mm Black Open Grain LUXE Wentworth Scoop Moulding,80,26,Black,13.77,27.53,Wood
+8054BS,80x54mm Black & Silver Open Grain LUXE Wentworth Scoop Moulding,80,26,Black,14.53,29.06,Wood
+8054IG,80x54mm Ivory & Gold Open Grain LUXE Wentworth Scoop Moulding,80,26,Gold,14.53,29.06,Wood
+8054WG,80x54mm White & Gold Open Grain LUXE Wentworth Scoop Moulding,80,26,White,14.53,29.06,Wood
+8054WH,80x54mm White Open Grain LUXE Wentworth Scoop Moulding,80,26,White,13.77,27.53,Wood
+8054WS,80x54mm White & Silver Open Grain LUXE Wentworth Scoop Moulding,80,26,White,14.53,29.06,Wood
+8101BG,22x30mm Gold/Black Lip LUXE Boston Box Moulding,22,17,Gold,7.95,15.9,Wood
+8101BS,22x30mm Silver/Black Lip LUXE Boston Box Moulding,22,17,Silver,7.95,15.9,Wood
+8101WG,22x30mm Gold/White Lip LUXE Boston Box Moulding,22,17,Gold,7.95,15.9,Wood
+8101WS,22x30mm Silver/White Lip LUXE Boston Box Moulding,22,17,Silver,7.95,15.9,Wood
+8102BG,35x39mm Gold/Black Lip LUXE Boston Box Moulding,35,18,Gold,11.26,22.51,Wood
+8102BS,35x39mm Silver/Black Lip LUXE Boston Box Moulding,35,18,Silver,11.26,22.51,Wood
+8102WG,35x39mm Gold/White Lip LUXE Boston Box Moulding,35,18,Gold,11.26,22.51,Wood
+8102WS,35x39mm Silver/White Lip LUXE Boston Box Moulding,35,18,Silver,11.26,22.51,Wood
+8103BS,45x49mm Silver/Black Lip LUXE Boston Box Moulding,45,28,Silver,18.5,37,Wood
+8103WG,45x49mm Gold/White Lip LUXE Boston Box Moulding,45,28,Gold,18.5,37,Wood
+8103WS,45x49mm Silver/White Lip LUXE Boston Box Moulding,45,28,Silver,18.5,37,Wood
+8109BK,20x30mm Black Cushion Moulding - DISCO,20,28,Black,11.15,22.3,Wood
+8126GD,75x32mm Gold Scoop Moulding,75,25,Gold,18.78,37.57,Wood
+8126SI,75x32mm Silver Scoop Moulding,75,25,Silver,18.78,37.57,Wood
+8166SI,28x16mm Silver Flat Moulding,28,11,Silver,7.81,15.62,Wood
+8203SI,30x15mm Silver Reverse Moulding,30,9,Silver,5.43,10.86,Wood
+8229GD,14x12mm Gold Cushion Moulding,14,11,Gold,4.91,9.83,Wood
+8229SI,14x12mm Silver Cushion Moulding,14,11,Silver,4.91,9.83,Wood
+8311BK,16x35mm Black Flat Moulding,16,30,Black,6.02,12.03,Wood
+8311WH,16x35mm White Flat Moulding,16,30,White,6.02,12.03,Wood
+8312WH,30x21mm White Scoop Moulding,30,7,White,5.94,11.89,Wood
+8313BK,39x14mm Black Flat Moulding,39,9,Black,5.83,11.66,Wood
+8313WH,39x14mm White Flat Moulding,39,9,White,5.83,11.66,Wood
+8390BK,30x5mm Black Fillet Moulding,30,,Black,2.92,5.84,Fillet
+8390WH,30x5mm White Fillet Moulding,30,,White,2.92,5.84,Fillet
+8391BK,18x5mm Black Fillet Moulding,18,,Black,2.48,4.96,Fillet
+8391IV,18x5mm - Open Grain Ivory Fillet,18,,Cream,2.48,4.96,Fillet
+8391OB,18x5mm Raw Obeche Fillet Moulding,18,,Natural,1.84,3.68,Fillet
+8391WH,18x5mm White Fillet Moulding,18,,White,2.48,4.96,Fillet
+8392BK,25x5mm Black Fillet Moulding,25,,Black,3.03,6.07,Fillet
+8392IV,25x5mm Ivory Fillet Moulding,25,,Cream,3.03,6.07,Fillet
+8392OB,25x5mm Raw Obeche Fillet Moulding,25,,Natural,2.23,4.45,Fillet
+8392WH,25x5mm White Fillet Moulding,25,,White,3.03,6.07,Fillet
+8445BK,20x35mm Antique Black Scoop Stamford Moulding,20,14,Black,7.73,55.06,Wood
+8445BR,20x35mm Antique Bronze Scoop Stamford Moulding,20,14,Bronze,7.73,55.06,Wood
+8445GD,20x35mm Antique Gold Scoop Stamford Moulding,20,14,Gold,7.73,55.06,Wood
+8445SI,20x35mm Antique Silver Scoop Stamford Moulding,20,14,Silver,7.73,55.06,Wood
+8545BK,85x45mm Black Open Grain Reverse Moulding,85,28,Black,13.14,26.27,Wood
+8545WH,85x45mm White Open Grain Reverse Moulding,85,28,White,13.14,26.27,Wood
+8715BK,15x25mm Open Grain Black Moulding,15,20,Black,3.75,7.51,Wood
+8715BN,15x25mm Brown Flat Moulding,15,20,Brown,3.79,7.58,Wood
+8715GY,15x25mm Dark Grey Flat Moulding,15,20,Grey,3.75,7.51,Wood
+8715OA,15x25mm Oak Stain Flat Moulding,15,20,Brown,3.79,7.58,Wood
+8715PG,15x25mm Pale Grey Flat Moulding,15,20,Grey,3.75,7.51,Wood
+8715WH,15x25mm Open Grain White Moulding,15,20,White,3.75,7.51,Wood
+9004AG,24x22mm Antique Gold Scoop Moulding,24,13,Gold,7.08,14.15,Wood
+9004GD,24x22mm Gold Scoop Moulding,24,13,Gold,7.68,15.35,Wood
+9004SI,24x22mm Silver Scoop Moulding,24,13,Silver,7.68,15.35,Wood
+9014AG,39x25mm Antique Gold Scoop Moulding,39,12,Gold,10.98,21.97,Wood
+9045BG,53x30mm Black with Gold Leaf LUXE Knightsbridge Decorative Scoop Moulding,53,19,Black,15.87,31.73,Wood
+9045GD,53x30mm Gold Leaf LUXE Knightsbridge Decorative Scoop Moulding,53,19,Gold,15.87,31.73,Wood
+9045SI,53x30mm Silver Leaf LUXE Knightsbridge Decorative Scoop Moulding,53,19,Silver,15.87,31.73,Wood
+9046BG,80x40mm Black with Gold Leaf LUXE Knightsbridge Decorative Scoop Moulding,80,26,Black,24.55,49.1,Wood
+9046GD,80x40mm Gold Leaf LUXE Knightsbridge Decorative Scoop Moulding,80,26,Gold,24.55,49.1,Wood
+9046SI,80x40mm Silver Leaf LUXE Knightsbridge Decorative Scoop Moulding,80,26,Silver,24.55,49.1,Wood
+9254BR,35x25mm Bronze LUXE Hampton Scoop Moulding FSC,35,12,Bronze,8.88,17.77,Wood
+9254GD,35x25mm Gold LUXE Hampton Scoop Moulding FSC,35,12,Gold,8.88,17.77,Wood
+9254PT,35x25mm Pewter LUXE Hampton Scoop Moulding FSC,35,12,Pewter,8.88,17.77,Wood
+9254SI,35x25mm Silver LUXE Hampton Scoop Moulding FSC,35,12,Silver,8.88,17.77,Wood
+9255BR,59x42mm Bronze LUXE Hampton Scoop Moulding FSC,59,14,Bronze,16.08,32.15,Wood
+9255GD,59x42mm Gold LUXE Hampton Scoop Moulding FSC,59,14,Gold,16.08,32.15,Wood
+9255PT,59x42mm Pewter LUXE Hampton Scoop Moulding FSC,59,14,Pewter,16.08,32.15,Wood
+9255SI,59x42mm Silver LUXE Hampton Scoop Moulding FSC,59,14,Silver,16.08,32.15,Wood
+9715BK,15x25mm Black Flat Moulding,15,21,Black,4.18,8.36,Wood
+9715WH,15x25mm White Flat Moulding,15,21,White,4.18,8.36,Wood
+9823BK,13x30mm Black Closed Grain Malmo Wedge Moulding FSC,13,10,Black,4.8,9.6,Wood
+9823OA,13x30mm Oak Veneer Malmo Wedge Moulding FSC,13,10,Brown,4.8,9.6,Wood
+9823WA,13x30mm Walnut Veneer Malmo Wedge Moulding FSC,13,10,Brown,4.8,9.6,Wood
+9823WH,13x30mm White Closed Grain Malmo Wedge Moulding FSC,13,10,White,4.8,9.6,Wood
+9824BK,17x48mm Black Closed Grain Malmo Wedge Moulding FSC,17,20,Black,7.63,15.27,Wood
+9824OA,17x48mm Oak Veneer Malmo Wedge Moulding FSC,17,20,Brown,7.63,15.27,Wood
+9824WA,17x48mm Walnut Veneer Malmo Wedge Moulding FSC,17,20,Brown,7.63,15.27,Wood
+9824WH,17x48mm White Closed Grain Malmo Wedge Moulding FSC,17,20,White,7.63,15.27,Wood
+9899OB,93x42mm Raw Obeche Reverse Moulding,93,26,Natural,12.78,25.56,Wood
+9941BK,5x34mm Closed Grain Black Hampstead L-shape Moulding FSC,5,,Black,8.2,16.4,Wood
+9941OA,5x34mm Oak Veneer Hampstead L-shape Moulding FSC,5,,Brown,8.2,16.4,Wood
+9941WA,5x34mm Walnut Veneer Hampstead L-shape Moulding FSC,5,,Brown,8.2,16.4,Wood
+9941WE,5x34mm Wenge Veneer Hampstead L-shape Moulding FSC,5,,Brown,8.2,16.4,Wood
+9941WH,5x34mm Closed Grain White Hampstead L-shape Moulding FSC,5,,White,8.2,16.4,Wood
+9945BK,20x20mm Black Flat Moulding FSC,20,10,Black,5.15,10.29,Wood
+9945WH,20x20mm White Flat Moulding FSC,20,10,White,5.15,10.29,Wood
+9946BK,30x30mm Black Flat Moulding FSC,30,15,Black,8.02,16.04,Wood
+9946WH,30x30mm White Flat Moulding FSC,30,15,White,8.02,16.04,Wood
+9947BK,40x40mm Black Flat Moulding FSC,40,20,Black,12.03,24.07,Wood
+9947WH,40x40mm White Flat Moulding FSC,40,20,White,12.03,24.07,Wood
+9981BK,11x20mm Black Veneer Stelvio Flat Moulding FSC,11,14,Black,6,11.99,Wood
+9981DW,11x20mm Dark Walnut Veneer Stelvio Flat Moulding FSC,11,14,Brown,6,11.99,Wood
+9981GY,11x20mm Grey Veneer Stelvio Flat Moulding FSC,11,14,Grey,6,11.99,Wood
+9981LI,11x20mm Oak Veneer Stelvio Flat Moulding FSC,11,14,Cream,6,11.99,Wood
+9981LW,11x20mm Light Walnut Veneer Stelvio Flat Moulding FSC,11,14,Brown,6,11.99,Wood
+9981OA,11x20mm Oak Veneer Stelvio Flat Moulding FSC,11,14,Brown,6,11.99,Wood
+9981WH,11x20mm White Veneer Stelvio Flat Moulding FSC,11,14,White,6,11.99,Wood
+9982BK,16x30mm Black Veneer Stelvio Flat Moulding FSC,16,26,Black,7.15,14.3,Wood
+9982DW,16x30mm Dark Walnut Veneer Stelvio Flat Moulding FSC,16,26,Brown,7.15,14.3,Wood
+9982GY,16x30mm Grey Veneer Stelvio Flat Moulding FSC,16,26,Grey,7.15,14.3,Wood
+9982LI,16x30mm Limed Oak Veneer Stelvio Flat Moulding FSC,16,26,Brown,7.15,14.3,Wood
+9982LW,16x30mm Light Walnut Veneer Stelvio Flat Moulding FSC,16,26,Brown,7.15,14.3,Wood
+9982OA,16x30mm Oak Veneer Stelvio Flat Moulding FSC,16,26,Brown,7.15,14.3,Wood
+9982WH,16x30mm White Veneer Stelvio Flat Moulding FSC,16,26,White,7.15,14.3,Wood
+9983BK,20x30mm Black Veneer Stelvio Flat Moulding FSC,20,25,Black,8.24,16.49,Wood
+9983DW,20x30mm Dark Walnut Veneer Stelvio Flat Moulding FSC,20,25,Brown,8.24,16.49,Wood
+9983GY,20x30mm Grey Veneer Stelvio Flat Moulding FSC,20,25,Grey,8.24,16.49,Wood
+9983LI,20x30mm Limed Oak Veneer Stelvio Flat Moulding FSC,20,25,Brown,8.24,16.49,Wood
+9983LW,20x30mm Light Walnut Veneer Stelvio Flat Moulding FSC,20,25,Brown,8.24,16.49,Wood
+9983OA,20x30mm Oak Veneer Stelvio Flat Moulding FSC,20,25,Brown,8.24,16.49,Wood
+9983WH,20x30mm White Veneer Stelvio Flat Moulding FSC,20,25,White,8.24,16.49,Wood
+9984BK,21x52mm Black Veneer Stelvio Flat Moulding FSC,21,44,Black,10.79,21.59,Wood
+9984DW,21x52mm Dark Walnut Veneer Stelvio Flat Moulding FSC,21,44,Brown,10.79,21.59,Wood
+9984GY,21x52mm Grey Veneer Stelvio Flat Moulding FSC,21,44,Grey,10.79,21.59,Wood
+9984LI,21x52mm Limed Oak Veneer Stelvio Flat Moulding FSC,21,40,Brown,10.79,21.59,Wood
+9984LW,21x52mm Light Walnut Veneer Stelvio Flat Moulding FSC,21,44,Brown,10.79,21.59,Wood
+9984OA,21x52mm Oak Veneer Stelvio Flat Moulding FSC,21,44,Brown,10.79,21.59,Wood
+9984WH,21x52mm White Veneer Stelvio Flat Moulding FSC,21,44,White,10.79,21.59,Wood
+9985BK,41x52mm Black Veneer Stelvio Flat Moulding FSC,41,44,Black,15.81,31.63,Wood
+9985DW,41x52mm Dark Walnut Veneer Stelvio Flat Moulding FSC,41,44,Brown,15.81,31.63,Wood
+9985GY,41x52mm Grey Veneer Stelvio Flat Moulding FSC,41,44,Grey,15.81,31.63,Wood
+9985LI,41x52mm Limed Oak Veneer Stelvio Flat Moulding FSC,41,44,Brown,15.81,31.63,Wood
+9985LW,41x52mm Light Walnut Veneer Stelvio Flat Moulding FSC,41,44,Brown,15.81,31.63,Wood
+9985OA,41x52mm Oak Veneer Stelvio Flat Moulding FSC,41,44,Brown,15.81,31.63,Wood
+9985WH,41x52mm White Veneer Stelvio Flat Moulding FSC,41,44,White,15.81,31.63,Wood
+9986BK,20x20mm Black Veneer Stelvio Flat Moulding FSC,20,15,Black,5.17,10.33,Wood
+9986DW,20x20mm Dark Walnut Veneer Stelvio Flat Moulding FSC,20,15,Brown,5.17,10.33,Wood
+9986GY,20x20mm Grey Veneer Stelvio Flat Moulding FSC,20,15,Grey,5.17,10.33,Wood
+9986LI,20x20mm Limed Oak Veneer Stelvio Flat Moulding FSC,20,15,Brown,5.17,10.33,Wood
+9986LW,20x20mm Light Walnut Veneer Stelvio Flat Moulding FSC,20,15,Brown,5.17,10.33,Wood
+9986OA,20x20mm Oak Veneer Stelvio Flat Moulding FSC,20,15,Brown,5.17,10.33,Wood
+9986WH,20x20mm White Veneer Stelvio Flat Moulding FSC,20,15,White,5.17,10.33,Wood
+9987BK,10x40mm Black Veneer Stelvio L-shape Moulding FSC,10,30,Black,14.16,28.33,Wood
+9987DW,10x40mm Dark Walnut Veneer Stelvio L-shape Moulding FSC,10,30,Brown,14.16,28.33,Wood
+9987GY,10x40mm Grey Veneer Stelvio L-shape Moulding FSC,10,30,Grey,14.16,28.33,Wood
+9987LI,10x40mm Limed Oak Veneer Stelvio L-shape Moulding FSC,10,30,Brown,14.16,28.33,Wood
+9987LW,10x40mm Light Walnut Veneer Stelvio L-shape Moulding FSC,10,30,Brown,14.16,28.33,Wood
+9987OA,10x40mm Oak Veneer Stelvio L-shape Moulding FSC,10,30,Brown,14.16,28.33,Wood
+9987WH,10x40mm White Veneer Stelvio L-shape Moulding FSC,10,30,White,14.16,28.33,Wood
+9988BK,16x52mm Black Veneer Stelvio L-shape Moulding FSC,16,,Black,16.41,32.82,Wood
+9988DW,16x52mm Dark Walnut Veneer Stelvio L-shape Moulding FSC,16,,Brown,16.41,32.82,Wood
+9988GY,16x52mm Grey Veneer Stelvio L-shape Moulding FSC,16,,Grey,16.41,32.82,Wood
+9988LI,16x52mm Limed Oak Veneer Stelvio L-shape Moulding FSC,16,,Cream,16.41,32.82,Wood
+9988LW,16x52mm Light Walnut Veneer Stelvio L-shape Moulding FSC,16,,Brown,16.41,32.82,Wood
+9988OA,16x52mm Oak Veneer Stelvio L-shape Moulding FSC,16,,Brown,16.41,32.82,Wood
+9988WH,16x52mm White Veneer Stelvio L-shape Moulding FSC,16,,White,16.41,32.82,Wood
+9990BK,40x30mm Black Veneer Stelvio Flat Moulding FSC,40,20,Black,10.35,20.71,Wood
+9990DW,40x30mm Dark Walnut Veneer Stelvio Flat Moulding FSC,40,20,Brown,10.35,20.71,Wood
+9990GY,40x30mm Grey Veneer Stelvio Flat Moulding FSC,40,20,Grey,10.35,20.71,Wood
+9990LI,40x30mm Limed Oak Veneer Stelvio Flat Moulding FSC,40,20,Cream,10.35,20.71,Wood
+9990LW,40x30mm Light Walnut Veneer Stelvio Flat Moulding FSC,40,20,Brown,10.35,20.71,Wood
+9990OA,40x30mm Oak Veneer Stelvio Flat Moulding FSC,40,20,Brown,10.35,20.71,Wood
+9990WH,40x30mm White Veneer Stelvio Flat Moulding FSC,40,20,White,10.35,20.71,Wood
+CR0223BK,22x22mm Gloss Closed Grain Black Create Flat Moulding,22,18,Black,3.74,7.49,Wood
+CR0223WH,22x22mm Gloss Closed Grain White Create Flat Moulding,22,18,White,3.74,7.49,Wood
+CR0225AF,21x22mm Ash Foil Create Flat Moulding,21,17,Brown,3.98,7.96,Wood
+CR0225AG,21x22mm Antique Gold Create Lustre Flat Moulding,21,17,Gold,3.87,7.73,Wood
+CR0225AS,21x22mm Antique Silver Create Lustre Flat Moulding,21,17,Silver,3.87,7.73,Wood
+CR0225BF,21x22mm Brown Foil Create Flat Moulding,21,17,Brown,3.98,7.96,Wood
+CR0225BK,22x22mm Black Closed Grain Create Flat Moulding,21,17,Black,3.63,7.26,Wood
+CR0225BN,22x22mm Brown Closed Grain Create Flat Moulding,21,17,Brown,3.63,7.26,Wood
+CR0225BR,21x22mm Bronze Create Lustre Flat Moulding,21,17,Bronze,3.87,7.73,Wood
+CR0225BU,22x22mm Mid Blue Closed Grain Create Flat Moulding,21,17,Blue,3.63,7.26,Wood
+CR0225CH,22x22mm Charcoal Closed Grain Create Flat Moulding,21,17,Black,3.63,7.26,Wood
+CR0225DG,21x22mm Dark Green Closed Grain Create Flat Moulding,21,17,Green,3.63,7.26,Wood
+CR0225DR,21x22mm Dark Red Closed Grain Create Flat Moulding,21,17,Red,3.63,7.26,Wood
+CR0225GD,21x22mm Gold Closed Grain Create Flat Moulding,21,17,Gold,4.38,8.75,Wood
+CR0225GF,21x22mm Grey Foil Create Flat Moulding,21,17,Grey,3.98,7.96,Wood
+CR0225GN,21x22mm Green Closed Grain Create Flat Moulding,21,17,Green,3.63,7.26,Wood
+CR0225GY,21x22mm Dark Grey Closed Grain Create Flat Moulding,21,17,Grey,3.63,7.26,Wood
+CR0225LI,21x22mm Limewash Closed Grain Create Flat Moulding,21,17,White,3.63,7.26,Wood
+CR0225MD,21x22mm Dark Blue Closed Grain Create Flat Moulding,21,17,Blue,3.63,7.26,Wood
+CR0225MG,21x22mm Matt Closed Grain Gold Create Flat Moulding,21,17,Gold,3.63,7.26,Wood
+CR0225MP,21x22mm Matt Closed Grain Pewter Create Flat Moulding,21,17,Silver,3.63,7.26,Wood
+CR0225MS,21x22mm Matt Closed Grain Silver Create Flat Moulding,21,17,Silver,3.63,7.26,Wood
+CR0225MZ,21x22mm Matt Closed Grain Bronze Create Flat Moulding,21,17,Bronze,3.63,7.26,Wood
+CR0225OA,21x22mm Oak Closed Grain Create Flat Moulding,21,17,Brown,3.58,7.16,Wood
+CR0225OF,21x22mm Oak Foil Create Flat Moulding,21,17,Brown,3.98,7.96,Wood
+CR0225OR,21x22mm Orange Closed Grain Create Flat Moulding,21,17,Orange,3.63,7.26,Wood
+CR0225PG,21x22mm Pale Grey Closed Grain Create Flat Moulding,21,17,Grey,3.63,7.26,Wood
+CR0225PK,21x22mm Pink Closed Grain Create Flat Moulding,21,17,Pink,3.63,7.26,Wood
+CR0225PT,21x22mm Pewter Closed Grain Create Flat Moulding,21,17,Pewter,4.38,8.75,Wood
+CR0225RD,21x22mm Bright Red Closed Grain Create Flat Moulding,21,17,Red,3.63,7.26,Wood
+CR0225SB,21x22mm Sky Blue Closed Grain Create Flat Moulding,21,17,Blue,3.63,7.26,Wood
+CR0225SI,21x22mm Silver Closed Grain Create Flat Moulding,21,17,Silver,4.38,8.75,Wood
+CR0225WA,21x22mm Walnut Foil Create Flat Moulding,21,17,Brown,3.98,7.96,Wood
+CR0225WE,21x22mm Wenge Closed Grain Create Flat Moulding,21,17,Brown,3.63,7.26,Wood
+CR0225WF,21x22mm Wenge Foil Create Flat Moulding,21,17,Brown,3.98,7.96,Wood
+CR0225WH,21x22mm White Closed Grain Create Flat Moulding,21,17,White,3.63,7.26,Wood
+CR0225YW,21x22mm Yellow Closed Grain Create Flat Moulding,21,17,Yellow,3.63,7.26,Wood
+CR0717AF,17x17mm Ash Foil Create Naturals Flat Moulding,17,13,Brown,3.17,6.34,Wood
+CR0717AG,17x17mm Antique Gold Create Lustre Flat Moulding,17,13,Gold,3.05,6.1,Wood
+CR0717AS,17x17mm Antique Silver Create Lustre Flat Moulding,17,13,Silver,3.05,6.1,Wood
+CR0717BF,17x17mm Brown Foil Create Naturals Flat Moulding,17,13,Brown,3.17,6.34,Wood
+CR0717BK,17x17mm Matt Closed Grain Black Create Flat Moulding,17,13,Black,2.29,4.58,Wood
+CR0717BR,17x17mm Antique Bronze Create Lustre Flat Moulding,17,13,Bronze,3.05,6.1,Wood
+CR0717BU,17x17mm Blue Open Grain Create Flat Moulding,17,13,Blue,1.96,3.92,Wood
+CR0717DG,17x17mm Dark Green Open Grain Create Flat Moulding,17,13,Green,1.96,3.92,Wood
+CR0717DR,17x17mm Dark Red Open Grain Create Flat Moulding,17,13,Red,1.96,3.92,Wood
+CR0717GF,17x17mm Grey Foil Create Naturals Flat Moulding,17,13,Grey,3.17,6.34,Wood
+CR0717MD,17x17mm Midnight Open Grain Create Flat Moulding,17,13,Blue,1.96,3.92,Wood
+CR0717MG,17x17mm Matt Closed Grain Gold Create Flat Moulding,17,13,Gold,2.56,5.12,Wood
+CR0717MS,17x17mm Matt Closed Grain Silver Create Flat Moulding,17,13,Silver,2.56,5.12,Wood
+CR0717NY,17x17mm Navy Open Grain Create Flat Moulding,17,13,Blue,1.96,3.92,Wood
+CR0717OA,17x17mm Oak Closed Grain Create Flat Moulding,17,13,Brown,2.88,5.76,Wood
+CR0717OB,17x17mm Black Open Grain Create Flat Moulding,17,13,Black,1.96,3.92,Wood
+CR0717OF,17x17mm Oak Foil Create Naturals Flat Moulding,17,13,Brown,3.17,6.34,Wood
+CR0717OR,17x17mm Orange Open Grain Create Flat Moulding,17,13,Orange,1.96,3.92,Wood
+CR0717OW,17x17mm White Open Grain Create Flat Moulding,17,13,White,1.96,3.92,Wood
+CR0717PK,17x17mm Pink Open Grain Create Flat Moulding,17,13,Pink,1.96,3.92,Wood
+CR0717PU,17x17mm Purple Open Grain Create Flat Moulding,17,13,Purple,1.96,3.92,Wood
+CR0717RD,17x17mm Red Open Grain Create Flat Moulding,17,13,Red,1.96,3.92,Wood
+CR0717WA,17x17mm Walnut Foil Create Naturals Flat Moulding,17,13,Brown,3.17,6.34,Wood
+CR0717WF,17x17mm Wenge Foil Create Naturals Flat Moulding,17,13,Brown,3.17,6.34,Wood
+CR0717WH,17x17mm Matt Closed Grain White Create Flat Moulding,17,13,White,2.29,4.58,Wood
+CR0717YW,17x17mm Yellow Open Grain Create Flat Moulding,17,13,Yellow,1.96,3.92,Wood
+CR0932BK,9x32mm Black Open Grain Create L-shape Moulding,9,9,Black,4.64,9.28,Wood
+CR0932OF,9x32mm Oak Foil Create L-shape Moulding,9,9,Brown,4.64,12.74,Wood
+CR0932WH,9x32mm White Open Grain Create L-shape Moulding,9,9,White,4.64,9.28,Wood
+CR0989AF,20x32mm Ash Foil Create Flat Moulding,20,26,Brown,5.16,10.32,Wood
+CR0989AG,20x32mm Antique Gold Create Lustre Flat Moulding,20,26,Gold,5.01,10.02,Wood
+CR0989AS,20x32mm Antique Silver Create Lustre Flat Moulding,20,26,Silver,5.01,10.02,Wood
+CR0989BF,20x32mm Brown Foil Create Flat Moulding,20,26,Brown,5.16,10.32,Wood
+CR0989BK,20x32mm Black Closed Grain Create Flat Moulding,20,26,Black,5.04,10.08,Wood
+CR0989BN,20x32mm Brown Closed Grain Create Flat Moulding,20,26,Brown,5.09,10.18,Wood
+CR0989BR,20x32mm Bronze Create Lustre Flat Moulding,20,26,Bronze,5.01,10.02,Wood
+CR0989GF,20x32mm Grey Foil Create Flat Moulding,20,26,Grey,5.16,10.32,Wood
+CR0989GW,20x32mm Gloss Closed Grain White Create Flat Moulding,20,26,White,5.73,11.46,Wood
+CR0989MG,20x32mm Matt Closed Grain Gold Create Flat Moulding,20,26,Gold,5.09,10.18,Wood
+CR0989MP,20x32mm Matt Closed Grain Pewter Create Flat Moulding,20,26,Pewter,5.09,10.18,Wood
+CR0989MS,20x32mm Matt Closed Grain Silver Create Flat Moulding,20,26,Silver,5.09,10.18,Wood
+CR0989MZ,20x32mm Matt Closed Grain Bronze Create Flat Moulding,20,26,Bronze,5.09,10.18,Wood
+CR0989OF,20x32mm Oak Foil Create Flat Moulding,20,26,Brown,5.16,10.32,Wood
+CR0989SI,20x32mm Silver Closed Grain Create Flat Moulding,20,26,Silver,6.19,12.38,Wood
+CR0989WA,20x32mm Walnut Foil Create Flat Moulding,20,26,Brown,5.16,10.32,Wood
+CR0989WF,20x32mm Wenge Foil Create Flat Moulding,20,26,Brown,5.16,10.32,Wood
+CR0989WH,20x32mm White Closed Grain Create Flat Moulding,20,26,White,5.04,10.08,Wood
+CR1013BK,14x13mm Closed Grain Black Create Cushion Moulding,14,10,Black,2.25,4.51,Wood
+CR1080BE,35x15mm Beech Closed Grain Create Flat Moulding,35,11,Brown,5.49,10.98,Wood
+CR1080BI,35x15mm Birch Closed Grain Create Flat Moulding,35,11,Natural,5.49,10.98,Wood
+CR1080BK,35x15mm Black Closed Grain Create Flat Moulding,35,11,Black,5.48,10.95,Wood
+CR1080DM,35x15mm Dark Mahogany Closed Grain Create Flat Moulding,35,11,Brown,5.49,10.98,Wood
+CR1080WA,35x15mm Walnut Closed Grain Create Flat Moulding,35,11,Brown,5.49,10.98,Wood
+CR1080WH,35x15mm White Closed Grain Create Flat Moulding,35,11,White,5.48,10.95,Wood
+CR1090BK,35x15mm Black Open Grain Create Flat Moulding,35,11,Black,4.36,8.71,Wood
+CR1090BN,35x15mm Brown Open Grain Create Flat Moulding,35,11,Brown,4.36,8.71,Wood
+CR1090CM,35x15mm Cream Open Grain Create Flat Moulding,35,11,Cream,4.36,8.71,Wood
+CR1090GY,35x15mm Grey Open Grain Create Flat Moulding,35,11,Grey,4.36,8.71,Wood
+CR1090LO,35x15mm Light Oak Open Grain Create Flat Moulding,35,11,Brown,4.36,8.71,Wood
+CR1090OA,35x15mm Oak Open Grain Create Flat Moulding,35,11,Brown,4.36,8.71,Wood
+CR1090PG,35x15mm Pale Grey Open Grain Create Flat Moulding,35,11,Grey,4.36,8.71,Wood
+CR1090WH,35x15mm White Open Grain Create Flat Moulding,35,11,White,4.36,8.71,Wood
+CR1513BK,23x13mm Black Closed Grain Create Cushion Moulding,23,10,Black,2.77,5.55,Wood
+CR1515BK,15x14mm Black Open Grain Create Flat Moulding,15,10,Black,2.26,4.52,Wood
+CR1515WH,15x14mm White Open Grain Create Flat Moulding,15,10,White,2.26,4.52,Wood
+CR2033BK,20x33mm Black Open Grain Create Flat Moulding,20,29,Black,4.9,9.79,Wood
+CR2033GY,20x33mm Grey Open Grain Create Flat Moulding,20,29,Grey,4.9,9.79,Wood
+CR2033IV,20x33mm Ivory Open Grain Create Flat Moulding,20,29,White,4.9,9.79,Wood
+CR2033OA,20x33mm Oak Open Grain Create Flat Moulding,20,29,Brown,4.9,9.79,Wood
+CR2033OB,20x33mm Raw Obeche Open Grain Create Flat Moulding,20,29,Natural,3.13,6.26,Wood
+CR2033PG,20x33mm Pale Grey Open Grain Create Flat Moulding,20,29,Grey,4.9,9.79,Wood
+CR2033WH,20x33mm White Open Grain Create Flat Moulding,20,29,White,4.9,9.79,Wood
+CR2040BK,20x40mm Black Open Grain Create Flat Moulding,20,35,Black,6.65,13.3,Wood
+CR2040GY,20x40mm Grey Open Grain Create Flat Moulding,20,35,Black,6.65,13.3,Wood
+CR2040IV,20x40mm Ivory Open Grain Create Flat Moulding,20,35,White,6.65,13.3,Wood
+CR2040OB,20x40mm Raw Obeche Open Grain Create Flat Moulding,20,35,Natural,3.96,7.92,Wood
+CR2040WH,20x40mm White Open Grain Create Flat Moulding,20,35,White,6.65,13.3,Wood
+CR2045BK,20x45mm Black Open Grain Create Flat Moulding,20,35,Black,7.09,14.18,Wood
+CR2045WH,20x45mm White Open Grain Create Flat Moulding,20,35,White,7.09,14.18,Wood
+CR2253BK,22x53mm Black Open Grain Create Flat Moulding,22,48,Black,7,13.99,Wood
+CR2253WH,22x53mm White Open Grain Create Flat Moulding,22,48,White,7,13.99,Wood
+CR2513BK,25x13mm Matt Closed Grain Black Create Flat Moulding,25,9,Black,2.77,5.55,Wood
+CR2513OB,25x13mm Black Open Grain Create Flat Moulding,25,9,Black,2.48,4.96,Wood
+CR2513OW,25x13mm White Open Grain Create Flat Moulding,25,9,White,2.48,4.96,Wood
+CR2513WH,25x13mm White Closed Grain Create Flat Moulding,25,9,White,2.88,5.76,Wood
+CR3013BK,30x13mm Matt Closed Grain Black Create Flat Moulding,30,9,Black,3.18,6.36,Wood
+CR3013WH,30x13mm Matt Closed Grain White Create Flat Moulding,30,9,White,3.18,6.36,Wood
+CR3020BK,30x20mm Black Open Grain Create Flat Moulding,30,15,Black,3.43,6.85,Wood
+CR3020BN,30x20mm Brown Open Grain Create Flat Moulding,30,15,Brown,3.43,6.85,Wood
+CR3020GY,30x20mm Dark Grey Open Grain Create Flat Moulding,30,15,Grey,3.43,6.85,Wood
+CR3020MB,30x20mm Black Closed Grain Create Flat Moulding,30,15,Black,4.05,8.1,Wood
+CR3020MW,30x20mm White Closed Grain Create Flat Moulding,30,15,White,4.05,8.1,Wood
+CR3020OA,30x20mm Oak Open Grain Create Flat Moulding,30,15,Brown,3.43,6.85,Wood
+CR3020PG,30x20mm Pale Grey Open Grain Create Flat Moulding,30,15,Grey,3.43,6.85,Wood
+CR3020WH,30x20mm White Open Grain Create Flat Moulding,30,15,White,3.43,6.85,Wood
+CR3090BK,20x14mm Black Open Grain Create Flat Moulding,20,8,Black,2.61,5.22,Wood
+CR3090BN,20x14mm Brown Open Grain Create Flat Moulding,20,8,Brown,2.61,5.22,Wood
+CR3090GY,20x14mm Grey Open Grain Create Flat Moulding,20,8,Grey,2.61,5.22,Wood
+CR3090OA,20x14mm Oak Open Grain Create Flat Moulding,20,8,Brown,2.61,5.22,Wood
+CR3090PG,20x14mm Pale Grey Open Grain Create Flat Moulding,20,8,Grey,2.61,5.22,Wood
+CR3090WH,20x14mm White Open Grain Create Flat Moulding,20,8,White,2.61,5.22,Wood
+CR3245AF,10x32mm Ash Foil Create L-shape Moulding,10,10,Brown,8.17,16.34,Wood
+CR3245AG,10x32mm Antique Gold Create Lustre L-shape Moulding,10,10,,7.92,15.83,Wood
+CR3245AS,10x32mm Antique Silver Create Lustre L-shape Moulding,10,10,,7.92,15.83,Wood
+CR3245BF,10x32mm Brown Foil Create L-shape Moulding,10,10,Brown,8.17,16.34,Wood
+CR3245BK,10x32mm Black Open Grain Create L-shape Moulding,10,10,Black,7.37,14.75,Wood
+CR3245BN,10x32mm Brown Open Grain Create L-shape Moulding,10,10,Brown,7.37,14.75,Wood
+CR3245BR,10x32mm Antique Bronze Create Lustre L-shape Moulding,10,10,,7.92,15.84,Wood
+CR3245GF,10x32mm Grey Foil Create L-shape Moulding,10,10,Grey,8.17,16.34,Wood
+CR3245GY,10x32mm Grey Open Grain Create L-shape Moulding,10,10,Grey,7.23,14.46,Wood
+CR3245MB,10x32mm Matt Closed Grain Black Create L-shape Moulding,10,10,Black,7.4,14.79,Wood
+CR3245MW,10x32mm Matt Closed Grain White Create L-shape Moulding,10,10,White,7.4,14.79,Wood
+CR3245OF,10x32mm Oak Foil Create L-shape Moulding,10,10,Brown,8.17,16.34,Wood
+CR3245PG,10x32mm Pale Grey Open Grain Create L-shape Moulding,10,10,Grey,7.23,14.46,Wood
+CR3245WA,10x32mm Walnut Foil Create L-shape Moulding,10,10,Brown,8.17,16.34,Wood
+CR3245WF,10x32mm Wenge Foil Create L-shape Moulding,10,10,Brown,8.17,16.34,Wood
+CR3245WH,10x32mm White Open Grain Create L-shape Moulding,10,10,White,7.37,14.75,Wood
+CR3300BK,20x14mm Black Closed Grain Create Flat Moulding,20,9,Black,2.58,5.16,Wood
+CR3300GD,20x14mm Gold Closed Grain Create Flat Moulding,20,9,Gold,3.54,7.08,Wood
+CR3300PT,20x14mm Pewter Closed Grain Create Flat Moulding,20,9,Pewter,3.54,7.08,Wood
+CR3300SI,20x14mm Silver Closed Grain Create Flat Moulding,20,9,Silver,3.54,7.08,Wood
+CR3300WH,20x14mm White Closed Grain Create Flat Moulding,20,9,White,2.58,5.16,Wood
+CR3313AG,33x13mm Antique Gold Create Lustre Flat Moulding,33,9,Gold,3.87,7.73,Wood
+CR3313AS,33x13mm Antique Silver Create Lustre Flat Moulding,33,9,Silver,3.87,7.73,Wood
+CR3313BK,33x13mm Black Open Grain Create Flat Moulding,33,9,Black,3.91,7.81,Wood
+CR3313BN,33x13mm Brown Open Grain Create Flat Moulding,33,9,Brown,3.91,7.81,Wood
+CR3313BR,33x13mm Bronze Create Lustre Flat Moulding,33,9,Bronze,3.87,7.73,Wood
+CR3313GY,33x13mm Grey Open Grain Create Flat Moulding,33,9,Grey,3.91,7.81,Wood
+CR3313MB,33x13mm Matt Closed Grain Black Create Flat Moulding,33,9,Black,4.55,9.1,Wood
+CR3313MG,33x13mm Matt Closed Grain Gold Create Flat Moulding,33,9,Gold,4.55,9.1,Wood
+CR3313MP,33x13mm Matt Closed Grain Pewter Create Flat Moulding,33,9,Pewter,4.55,9.1,Wood
+CR3313MS,33x13mm Matt Closed Grain Silver Create Flat Moulding,33,9,Silver,4.55,9.1,Wood
+CR3313MW,33x13mm Matt Closed Grain White Create Flat Moulding,33,9,White,4.55,9.1,Wood
+CR3313MZ,33x13mm Matt Closed Grain Bronze Create Flat Moulding,33,9,Bronze,4.55,9.1,Wood
+CR3313OA,33x13mm Oak Open Grain Create Flat Moulding,33,9,Brown,3.91,7.81,Wood
+CR3313OK,33x13mm Oak Open Grain Create Flat Moulding,33,9,Brown,3.85,7.69,Wood
+CR3313PG,33x13mm Pale Grey Open Grain Create Flat Moulding,33,9,Grey,3.91,7.81,Wood
+CR3313WH,33x13mm White Open Grain Create Flat Moulding,33,9,White,3.91,7.81,Wood
+CR3330AF,33x30mm Ash Foil Create Flat Moulding,33,24,Brown,6.22,12.44,Wood
+CR3330AG,33x30mm Antique Gold Create Lustre Flat Moulding,33,24,Gold,6.04,12.08,Wood
+CR3330AS,33x30mm Antique Silver Create Lustre Flat Moulding,33,24,Silver,6.04,12.08,Wood
+CR3330BF,33x30mm Brown Foil Create Flat Moulding,33,24,Brown,6.22,12.44,Wood
+CR3330BK,33x30mm Black Closed Grain Create Flat Moulding,33,24,Black,6.14,12.28,Wood
+CR3330BN,33x30mm Brown Closed Grain Create Flat Moulding,33,24,Brown,6.14,12.28,Wood
+CR3330BR,33x30mm Bronze Create Lustre Flat Moulding,33,24,Bronze,6.04,12.08,Wood
+CR3330BU,33x30mm Mid Blue Closed Grain Create Flat Moulding,33,24,Blue,6.14,12.28,Wood
+CR3330CH,33x30mm Charcoal Closed Grain Create Flat Moulding,33,24,Black,6.14,12.28,Wood
+CR3330DG,33x30mm Dark Green Closed Grain Create Flat Moulding,33,24,Green,6.14,12.28,Wood
+CR3330GF,33x30mm Grey Foil Create Flat Moulding,33,24,Grey,6.22,12.44,Wood
+CR3330GY,33x30mm Grey Closed Grain Create Flat Moulding,33,24,Grey,6.14,12.28,Wood
+CR3330IV,33x30mm Ivory Open Grain Create Flat Moulding,33,24,Cream,5.68,11.36,Wood
+CR3330LI,33x30mm Limewash Open Grain Create Flat Moulding,33,24,White,6.14,12.28,Wood
+CR3330MD,33x30mm Dark Blue Closed Grain Create Flat Moulding,33,24,Blue,6.14,12.28,Wood
+CR3330MG,33x30mm Matt Gold Closed Grain Create Flat Moulding,33,24,Gold,6.14,12.28,Wood
+CR3330MS,33x30mm Matt Silver Closed Grain Create Flat Moulding,33,24,Silver,6.14,12.28,Wood
+CR3330OB,33x30mm Black Open Grain Create Flat Moulding,33,24,Black,5.68,11.36,Wood
+CR3330OF,33x30mm Oak Foil Create Flat Moulding,33,24,Brown,6.22,12.44,Wood
+CR3330OR,33x30mm Orange Closed Grain Create Flat Moulding,33,24,Orange,6.14,12.28,Wood
+CR3330OW,33x30mm White Open Grain Create Flat Moulding,33,24,White,5.68,11.36,Wood
+CR3330PG,33x30mm Pale Grey Closed Grain Create Flat Moulding,33,24,Grey,6.14,12.28,Wood
+CR3330PK,33x30mm Pink Closed Grain Create Flat Moulding,33,24,Pink,6.14,12.28,Wood
+CR3330RD,33x30mm Bright Red Closed Grain Create Flat Moulding,33,24,Red,6.14,12.28,Wood
+CR3330WA,33x30mm Walnut Foil Create Flat Moulding,33,24,Brown,6.22,12.44,Wood
+CR3330WE,33x30mm Wenge Closed Grain Create Flat Moulding,33,24,Brown,6.14,12.28,Wood
+CR3330WF,33x30mm Wenge Foil Create Flat Moulding,33,24,Brown,6.22,12.44,Wood
+CR3330WH,33x30mm White Closed Grain Create Flat Moulding,33,24,White,6.14,12.28,Wood
+CR3330YW,33x30mm Yellow Closed Grain Create Flat Moulding,33,24,Yellow,6.14,12.28,Wood
+CR3347BK,33x47mm Black Open Grain Create Flat Moulding,33,41,Black,7.74,15.48,Wood
+CR3347WH,33x47mm White Open Grain Create Flat Moulding,33,41,White,7.74,15.48,Wood
+CR3448BK,34x48mm Black Open Grain Create L-shape Moulding,34,,Black,7.34,14.69,Wood
+CR3448WH,34x48mm White Open Grain Create L-shape Moulding,34,,White,7.34,14.69,Wood
+CR3753BK,12x54mm Black Open Grain Create Tray Frame Moulding,12,42,Black,8.12,16.24,Wood
+CR3753BN,12x54mm Brown Open Grain Create Flat Moulding,12,42,Black,8.12,16.24,Wood
+CR3753WH,12x54mm White Open Grain Create Flat Moulding,12,42,White,8.12,16.24,Wood
+CR3820BK,38x20mm Black Open Grain Create Flat Moulding,38,15,Black,3.85,7.69,Wood
+CR3820OA,38x20mm Oak Open Grain Create Flat Moulding,38,15,Brown,3.85,7.69,Wood
+CR3820WH,38x20mm White Open Grain Create Flat Moulding,38,15,White,3.85,7.69,Wood
+CR3939BE,39x40mm Beech Open Grain Create Flat Moulding,39,29,Brown,6.52,13.04,Wood
+CR3939BK,39x40mm Black Open Grain Create Flat Moulding,39,29,Black,6.52,13.04,Wood
+CR3939BN,39x40mm Brown Open Grain Create Flat Moulding,39,29,Brown,6.52,13.04,Wood
+CR3939WH,39x40mm White Open Grain Create Flat Moulding,39,29,White,6.52,13.04,Wood
+CR4013BK,40x13mm Black Closed Grain Create Flat Moulding,40,9,Black,3.65,7.3,Wood
+CR4013WH,40x13mm White Closed Grain Create Flat Moulding,40,9,White,3.65,7.3,Wood
+CR4030BA,40x30mm Black Open Grain Create Flat Moulding,40,20,Black,6.77,13.55,Wood
+CR4030BK,40x30mm Black Closed Grain Create Flat Moulding,40,20,Black,7.35,14.71,Wood
+CR4030BN,40x30mm Brown Closed Grain Create Flat Moulding,40,20,Brown,7.23,14.46,Wood
+CR4030GD,40x30mm Gold Closed Grain Create Flat Moulding,40,20,Gold,7.28,14.57,Wood
+CR4030GY,40x30mm Dark Grey Closed Grain Create Flat Moulding,40,20,Grey,7.23,14.46,Wood
+CR4030OW,40x30mm White Open Grain Create Flat Moulding,40,20,White,6.77,13.55,Wood
+CR4030PG,40x30mm Pale Grey Closed Grain Create Flat Moulding,40,20,Grey,7.23,14.46,Wood
+CR4030PT,40x30mm Pewter Closed Grain Create Flat Moulding,40,20,Pewter,7.28,14.57,Wood
+CR4030SI,40x30mm Silver Closed Grain Create Flat Moulding,40,20,Silver,7.28,14.57,Wood
+CR4030WH,40x30mm White Closed Grain Create Flat Moulding,40,20,White,7.35,14.71,Wood
+CR4040BK,40x40mm Black Closed Grain Create Flat Moulding,40,29,Black,8,15.99,Wood
+CR4040WH,40x40mm White Closed Grain Create Flat Moulding,40,29,White,8,15.99,Wood
+CR4530BK,21x22mm Black Open Grain Create Flat Moulding,21,17,Black,3.73,7.47,Wood
+CR4530BN,21x22mm Brown Open Grain Create Flat Moulding,21,17,Brown,3.85,7.69,Wood
+CR4530GY,21x22mm Grey Open Grain Create Flat Moulding,21,17,Grey,3.73,7.47,Wood
+CR4530IV,21x22mm Ivory Open Grain Create Flat Moulding,21,17,White,3.73,7.47,Wood
+CR4530LO,21x22mm Light Oak Open Grain Create Flat Moulding,21,17,Brown,3.85,7.69,Wood
+CR4530OA,21x22mm Oak Open Grain Create Flat Moulding,21,17,Brown,3.73,7.47,Wood
+CR4530OB,21x22mm Raw Obeche Open Grain Create Flat Moulding,21,17,Natural,2.64,5.28,Wood
+CR4530PG,21x22mm Pale Grey Open Grain Create Flat Moulding,21,17,Grey,3.73,7.47,Wood
+CR4530WH,21x22mm White Open Grain Create Flat Moulding,21,17,White,3.73,7.47,Wood
+CR4920BK,49x20mm Black Open Grain Create Flat Moulding,49,14,Black,5.04,10.08,Wood
+CR4920MB,49x20mm Black Closed Grain Create Flat Moulding,49,14,Black,5.91,11.81,Wood
+CR4920MW,49x20mm White Closed Grain Create Flat Moulding,49,14,White,5.91,11.81,Wood
+CR4920WH,49x20mm White Open Grain Create Flat Moulding,49,14,White,5.04,10.08,Wood
+CR5241AG,16x52mm Antique Gold Create Lustre L-shape Moulding,16,16,,9.91,19.83,Wood
+CR5241AS,16x52mm Antique Silver Create Lustre L-shape Moulding,16,16,,9.91,19.83,Wood
+CR5241BK,16x52mm Black Open Grain Create L-shape Moulding,16,16,Black,8.94,17.87,Wood
+CR5241BN,16x52mm Brown Open Grain Create L-shape Moulding,16,16,Brown,8.94,17.87,Wood
+CR5241BR,16x52mm Antique Bronze Create Lustre L-shape Moulding,16,16,,9.91,19.82,Wood
+CR5241GY,16x52mm Grey Open Grain Create L-shape Moulding,16,16,Grey,8.68,17.36,Wood
+CR5241MB,16x52mm Black Closed Grain Create L-shape Moulding,16,16,Black,9.05,18.09,Wood
+CR5241MW,16x52mm White Closed Grain Create L-shape Moulding,16,16,White,9.05,18.09,Wood
+CR5241PG,16x52mm Pale Grey Open Grain Create L-shape Moulding,16,16,Grey,8.68,17.36,Wood
+CR5241WH,16x52mm White Open Grain Create L-shape Moulding,16,16,White,8.94,17.87,Wood
+CR5253BK,28x52mm Black Open Grain Create L-shape Moulding,28,27,Black,10.75,21.5,Wood
+CR5253BN,28x52mm Brown Open Grain Create L-shape Moulding,28,27,Brown,10.75,21.5,Wood
+CR5253WH,28x52mm White Open Grain Create L-shape Moulding,28,27,White,10.75,21.5,Wood
+CR5420BK,54x20mm Black Open Grain Create Flat Moulding,54,15,Black,4.68,9.36,Wood
+CR5420BN,54x20mm Brown Open Grain Create Flat Moulding,54,15,Brown,4.68,9.36,Wood
+CR5420WH,54x20mm White Open Grain Create Flat Moulding,54,15,White,4.68,9.36,Wood
+CR6350BK,30x25mm Black Closed Grain Create Flat Moulding,30,21,Black,5.68,11.36,Wood
+CR6350WH,30x25mm White Closed Grain Create Flat Moulding,30,21,White,5.68,11.36,Wood
+CR8002WH,40x30mm White Closed Grain Create Block Moulding,40,20,White,4.02,8.04,Wood
+CR8005OA,40x30mm Oak Closed Grain Create Flat Moulding,40,20,Brown,6.86,13.73,Wood
+CR8005WH,40x30mm Matt Closed Grain White Create Flat Moulding,40,20,White,3.11,6.22,Wood
+CR8006BK,30x21mm Matt Closed Grain Black Create Bevel Moulding,30,15,Black,2.53,5.06,Wood
+CR8006WH,30x21mm Matt Closed Grain White Create Bevel Moulding,30,15,White,2.53,5.06,Wood
+CR8007BK,23x21mm Matt Closed Grain Black Create Bevel Moulding,23,15,Black,2.06,4.12,Wood
+CR8007WH,23x21mm Matt Closed Grain White Create Bevel Moulding,23,15,White,2.06,4.12,Wood
+F1BK,5x6mm Black Fillet Moulding,5,,Black,2.69,5.38,Fillet
+F1IV,5x6mm Ivory Fillet Moulding,5,,Cream,2.69,5.38,Fillet
+F1OB,5x6mm Raw Obeche Fillet Moulding,5,,Natural,1.2,2.39,Fillet
+F1WH,5x6mm White Fillet Moulding,5,,White,2.69,5.38,Fillet
+F2BK,5x12mm Black Fillet Moulding,5,,Black,3.28,6.55,Fillet
+F2IV,5x12mm Ivory Fillet Moulding,5,,Cream,3.28,6.55,Fillet
+F2OB,5x12mm Raw Obeche Fillet Moulding,5,,Natural,1.64,3.28,Fillet
+F2WH,5x12mm White Fillet Moulding,5,,White,3.28,6.55,Fillet
+F3BK,5x19mm Black Fillet Moulding,5,,Black,3.84,7.69,Fillet
+F3IV,5x19mm Ivory Fillet Moulding,5,,Cream,3.84,7.69,Fillet
+F3OB,5x19mm Raw Obeche Fillet Moulding,5,,Natural,2.07,4.14,Fillet
+F3WH,5x19mm White Fillet Moulding,5,,White,3.84,7.69,Fillet
+F4BK,5x25mm Black Fillet Moulding,5,,Black,4.01,8.02,Fillet
+F4OB,5x25mm Raw Obeche Fillet Moulding,5,,Natural,2.38,4.77,Fillet
+F4WH,5x25mm White Fillet Moulding,5,,White,4.01,8.02,Fillet
+F5OB,5x38mm Obeche Fillet Moulding,5,,Natural,3.02,6.03,Fillet
+F6OB,6x47mm Obeche Fillet Moulding,6,,Natural,3.16,6.31,Fillet
+HS1,33x19mm Raw Pine Stretcher Moulding FSC,33,,Natural,3.64,7.29,Extender
+HS11,20x45mm Raw Pine Stretcher Moulding FSC,20,,Natural,3.74,7.48,Extender
+HS12,20x60mm Raw Pine Stretcher Moulding FSC,20,,Natural,4.88,9.77,Extender
+HS2,39x27mm Raw Pine Stretcher Moulding FSC,39,,Natural,6.92,13.84,Extender
+HS4,33x19mm Raw Pine Stretcher Moulding,33,,Natural,2.49,4.98,Extender
+HS6,40x23mm Raw Pine Stretcher Moulding,40,,Natural,5.78,11.55,Extender
+HS7,28x44mm Raw Tulip Stretcher Moulding,28,,Natural,8.01,16.02,Extender
+HS8,37x32mm Raw Pine Stretcher Moulding FSC,37,,Natural,6.1,12.2,Extender
+HS9,31x27mm Raw Pine Stretcher Moulding FSC,31,,Natural,2.64,5.27,Extender

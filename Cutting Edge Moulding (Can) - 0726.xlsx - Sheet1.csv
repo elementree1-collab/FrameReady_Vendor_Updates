@@ -1,0 +1,533 @@
+item,code txt,Description,cost,group
+M032-500-2 1/4,CE13,Sherwood Espresso,9.20,Wood
+M032-600-2 1/4,CE13,Sherwood Grey,9.20,Wood
+M032-700-2 1/4,CE13,Sherwood Walnut,9.20,Wood
+M033-500-1 1/2,CE08,Sherwood Espresso,7.53,Wood
+M033-600-1 1/2,CE08,Sherwood Grey,7.53,Wood
+M033-700-1 1/2,CE08,Sherwood Walnut,7.53,Wood
+M100-BK-1 1/2,CE04,Black,3.13,Wood
+M100-MAH-1 1/2,CE04,Mahogany,3.38,Wood
+M100-NB-1 1/2,CE05,Navy Blue,3.38,Wood
+M100-W-1 1/2,CE04,Walnut,3.13,Wood
+M102-BK-1 1/2,CE07,Black,4.55,Wood
+M102-BK-2,CE08,Black,4.47,Wood
+M102-BKG-1 1/2,CE07,Black/Gold,4.88,Wood
+M102-BKS-1 1/2,CE07,Black/Silver,4.88,Wood
+M102-CH-1 1/2,CE07,Chocolate,4.55,Wood
+M102-CH-2,CE08,Chocolate,4.47,Wood
+M102-NAT-1 1/2,CE07,Natural,3.94,Wood
+M102-NAT-2,CE09,Natural,5.25,Wood
+M102-RB-1 1/2,CE06,Raw Bass,3.70,Wood
+M102-WH-1 1/2,CE07,White,4.88,Wood
+M102-WH-2,CE08,White,4.47,Wood
+M103-BK-1 1/4,CE03,Black,3.33,Wood
+M103-BK-2 1/4,CE09,Black,5.39,Wood
+M103-GO-1 1/4,CE08,Gold Leaf,5.38,Wood
+M103-MAH-1 1/4,CE03,Mahogany,3.46,Wood
+M103-MAH-1 3/4,CE05,Mahogany,3.85,Wood
+M103-MAH-2 1/4,CE09,Mahogany,5.39,Wood
+M103-NB-1 1/4,CE03,Navy Blue,3.46,Wood
+M103-NB-1 3/4,CE05,Navy Blue,3.85,Wood
+M103-SGO-1 1/4,CE03,Spray Gold,3.46,Wood
+M103-SGO-1 3/4,CE05,Spray Gold,3.85,Wood
+M103-SIL-1 1/4,CE08,Silver Leaf,5.38,Wood
+M103-W-1 1/4,CE03,Walnut,3.46,Wood
+M103-W-1 3/4,CE05,Walnut,3.85,Wood
+M103-W-2 1/4,CE09,Walnut,5.39,Wood
+M105-07B-3/4,CE03,Satin Black,1.98,Wood
+M105-17A-1 1/2,CE05,Dove Grey On Ash,3.50,Wood
+M105-17A-3/4,CE04,Charcoal,3.59,Wood
+M105-35M-1 1/2,CE09,Bleached Maple,5.15,Wood
+M105-35WWA-1 1/2,CE06,White Wash Ash,4.00,Wood
+M105-35WWA-2 1/2,CE11,White Wash Ash,4.88,Wood
+M105-35WWA-3,CE14,White Wash Ash,6.18,Wood
+M105-BK-1 1/2,CE05,Black,3.95,Wood
+M105-BK-2 1/2,CE08,Black,4.63,Wood
+M105-BK-3/4,CE04,Black Ash,2.75,Wood
+M105-BKA-3,CE14,Black,5.63,Wood
+M105-CH-1 1/2,CE05,Chocolate Ash,3.50,Wood
+M105-DW-3/4,CE04,Dark Walnut Ash,3.59,Wood
+M105-ESP-1 1/2,CE05,Espresso,3.50,Wood
+M105-ESP-3/4,CE04,Espresso,3.59,Wood
+M105-LW-1 1/2,CE05,Light Walnut Ash,3.50,Wood
+M105-LW-3/4,CE04,Light Walnut Ash,3.59,Wood
+M105-RA-1 1/2,CE04,Raw Ash,2.83,Wood
+M105-RA-2 1/2,CE07,Raw Ash,4.20,Wood
+M105-RA-3,CE13,Raw Ash,5.09,Wood
+M105-RA-3/4,CE03,Raw Ash,1.44,Wood
+M105-RB-3/4,CE02,Raw Bass,1.38,Wood
+M105-RM-1 1/2,CE08,Raw Maple,3.94,Wood
+M105-WH-1 1/2,CE05,White,3.50,Wood
+M105-WH-2 1/2,CE08,White Ash,5.44,Wood
+M105-WH-3,CE14,White On Ash,6.49,Wood
+M105-WH-3/4,CE04,White,3.59,Wood
+M106-BK-2,CE05,Black N/ Linen,5.30,Wood
+M106-BKL-2,CE06,Black W/Linen,5.61,Wood
+M106-DW-2,CE05,Dark Walnut N/ Linen,5.30,Wood
+M106-DWL-2,CE06,Dark Walnut W/ Linen,5.61,Wood
+M106-LW-2,CE05,Light Walnut  N/ Linen,5.30,Wood
+M106-LWL-2,CE06,Light Walnut W/ Linen,5.61,Wood
+M107-BK-1 3/4,CE05,Black  Discontinued,3.85,Wood
+M107-MAH-1 3/4,CE05,Mahogany Discontinued,3.85,Wood
+M107-W-1 3/4,CE05,Walnut Discontinued,3.85,Wood
+M112-BK-2 1/4,CE17,Black Floater,13.19,Wood
+M112-SS-2 1/4,CE17,Spray Silver,13.19,Wood
+M112-WH-2 1/4,CE17,White Floater,13.19,Wood
+M114-BK-1 1/8,CE04,Black,2.86,Wood
+M115-BK-9/16,CE04,Black,2.71,Wood
+M115-SI-9/16,CE04,Silver Discontinued,3.66,Wood
+M117-MAH-1 1/2,CE08,Mahogany,3.54,Wood
+M117-MAH-2 1/2,CE12,Mahogany,5.04,Wood
+M117-W-1 1/2,CE08,Walnut,3.54,Wood
+M117-W-2 1/2,CE12,Walnut,5.04,Wood
+M120-BK-1 3/4,CE10,Black,4.05,Wood
+M120-BR-1 3/4,CE10,Brown,4.05,Wood
+M120-MAH-1 3/4,CE10,Mahogany,4.05,Wood
+M121-290-1 3/4,CE11,Dk Mah & Gold Lip,5.40,Wood
+M121-290-2 3/4,CE17,Dk Mah & Gold Lip,9.94,Wood
+M121-293-1 3/4,CE11,Dk Mah & Silver Lip,5.40,Wood
+M121-293-2 3/4,CE17,Dk Mah & Silver Lip,9.94,Wood
+M124-01B-7/8,CE07,Gold Leaf Top,3.99,Wood
+M124-02B-7/8,CE07,Silver Leaf Top,3.99,Wood
+M124-BK-7/8,CE03,Black,1.97,Wood
+M124-BKG-7/8,CE05,Black Gold Lip,2.43,Wood
+M124-BKGS-7/8,CE05,BlackGoldLipScratched,2.43,Wood
+M124-BKS-7/8,CE05,Black Silver Lip,2.43,Wood
+M124-GR-7/8,CE03,Green  Discontinued,3.74,Wood
+M124-NB-7/8,CE03,Navy Blue,2.03,Wood
+M124-RED-7/8,CE03,Red,3.74,Wood
+M124-WH-7/8,CE03,White,1.97,Wood
+M124-Y-7/8,CE03,Yellow    Discontinued,3.74,Wood
+M126-BK-2 7/16,CE19,Black with Beads,18.42,Wood
+M126-GOL-2 7/16,CE19,Gold Leaf with Beads,17.17,Wood
+M126-SIL-2 7/16,CE19,Silver Leaf with Beads,17.17,Wood
+M127-BR-1 1/2,CE09,Brown,9.94,Wood
+M127-BR-2 1/2,CE17,Brown,16.77,Wood
+M127-DBR-1 1/2,CE09,Dark Brown Ebany,9.94,Wood
+M127-DBR-2 1/2,CE17,Dark Brown Ebony,16.77,Wood
+M128-GOL-1 1/4,CE10,Gold Leaf,5.18,Wood
+M128-SIL-1 1/4,CE10,Silver Leaf,7.71,Wood
+M128-SIL-2 1/8,CE14,Silver Leaf,13.77,Wood
+M129-BKG-1,CE08,Black with Gold Leaf,5.56,Wood
+M129-BKG-2 1/4,CE11,Black with Gold Leaf,9.98,Wood
+M130-01-3/4,CE05,Gold Foil,1.99,Wood
+M130-02-3/4,CE05,Silver Foil,1.99,Wood
+M130-07-1,CE05,Black,3.05,Wood
+M130-08-1,CE05,White,3.05,Wood
+M130-17-1,CE05,Charcoal,3.05,Wood
+M130-17-1 1/4,CE10,Charcoal,4.81,Wood
+M130-17-2 1/4,CE18,Charcoal   Discontinued,10.65,Wood
+M130-BK-1 1/4,CE06,Black,2.68,Wood
+M130-BK-1 1/8,CE06,Black  Discontinued,4.20,Wood
+M130-BK-1 3/4,CE08,Black Bevel,4.98,Wood
+M130-BK-1 3/8,CE06,Black Bevel,4.88,Wood
+M130-BK-1 5/8,CE10,Black,4.55,Wood
+M130-BK-2,CE10,Black Bevel,10.62,Wood
+M130-BK-3/4,CE04,Black,1.79,Wood
+M130-BKP-1 3/8,CE07,Black w/platina,6.41,Wood
+M130-DW-3/4,CE04,Dark Walnut,1.79,Wood
+M130-GR-3/4,CE04,Green,1.79,Wood
+M130-GREY-1 1/4,CE06, Grey,4.77,Wood
+M130-GREY-1 1/8,CE06, Grey,4.87,Wood
+M130-MAH-3/4,CE04,Mahogany,1.79,Wood
+M130-NAT-3/4,CE05,Natural,1.79,Wood
+M130-NB-3/4,CE04,Navy Blue,1.79,Wood
+M130-RED-3/4,CE04,Red,1.79,Wood
+M130-RW-3/4,CE04,Reddish Walnut,1.79,Wood
+M130-WH-1 1/4,CE06, White,2.68,Wood
+M130-WH-1 3/4,CE08,White Bevel,4.98,Wood
+M130-WH-1 3/8,CE06,White Bevel,4.88,Wood
+M130-WH-1 5/8,CE10,White,4.55,Wood
+M130-WH-3/4,CE04,White,1.79,Wood
+M130-YEL-3/4,CE04,Yellow,1.79,Wood
+M133-BKC-1 1/2,CE15,Black Coffee Veneer,13.96,Wood
+M133-DW-1 1/2,CE15,Dark Walnut Veneer,13.96,Wood
+M133-LP-1 1/2,CE15,Light Pecan Veneer,13.96,Wood
+M139-BKL-2 1/2,CE12,Black W/ Linen,7.50,Wood
+M139-LW-2 1/2,CE12,Light Walnut W/Linen,7.50,Wood
+M139-SIL-2 1/2,CE12,Silver W/ Linen,6.75,Wood
+M140-7007-1 1/4,CE14,Gold,11.97,Wood
+M140-7008-1 1/4,CE14,Silver,11.97,Wood
+M140-7009-1 1/4,CE14,Pewter,11.97,Wood
+M140-7011-1 1/4,CE14,White Silver,11.97,Wood
+M140-7012-1 1/4,CE14,Light Bronze,11.97,Wood
+M142-BK-1 1/4,CE09,Pine Black,7.25,Wood
+M142-BK-2,CE12,Pine Black,7.56,Wood
+M142-BK-3,CE15,Pine Black,12.63,Wood
+M142-GREY-1 1/4,CE09,Pine Grey,7.25,Wood
+M142-GREY-2,CE12,Pine Grey,7.56,Wood
+M142-GREY-3,CE15,Pine Grey Discontinued,12.63,Wood
+M142-NAT-1 1/4,CE09,Pine Natural,7.25,Wood
+M142-NAT-2,CE12,Pine Natural,7.56,Wood
+M142-PC-1 1/4,CE09,Pine Coffee,7.25,Wood
+M142-PC-2,CE12,Pine Coffee,7.56,Wood
+M142-PC-3,CE15,Pine Coffee Discontinued,12.63,Wood
+M149-SRB-1 1/4,CE01,Small Stretcher,1.00,Extender
+M161-01-1 1/4,CE08,Antique Gold,3.91,Wood
+M161-01B-1 1/4,CE08,Gold/Black,3.91,Wood
+M161-02-1 1/4,CE08,Antique Silver,3.91,Wood
+M161-02B-1 1/4,CE08,Silver/Black,3.91,Wood
+M161-07-1 1/4,CE07,Satin Black,2.18,Wood
+M161-07-2,CE08,Satin Black,3.46,Wood
+M161-08-1 1/4,CE07,Satin White,2.18,Wood
+M161-08-2,CE08,Satin White,3.46,Wood
+M161-14O-1 1/4,CE11,Light Grey Oak,4.08,Wood
+M161-15-1 1/4,CE07,Blue Heron Grey,3.03,Wood
+M161-17O-1 1/4,CE11,Charcoal Oak,6.40,Wood
+M161-18L-1 1/4,CE07,Bordeaux Lacquer,2.57,Wood
+M161-19-1 1/4,CE07,Satin Beaver Brown,2.39,Wood
+M161-20-1 1/4,CE12,Natural Barn Wood   Discontinued,4.94,Wood
+M161-21-1 1/4,CE07,Natural,2.29,Wood
+M161-26-1 1/4,CE11,Bronze,2.94,Wood
+M161-BKL-1 1/4,CE07,Black Lacquer,2.57,Wood
+M161-CHA-1 1/4,CE07,Charcoal,2.94,Wood
+M161-DW-1 1/4,CE07,Dark Walnut,2.94,Wood
+M161-ESP-1 1/4,CE07,Espresso,2.94,Wood
+M161-GO-1 1/4,CE07,Gold Foil,2.94,Wood
+M161-GOB-1 1/4,CE09,Gold Leaf Top,4.36,Wood
+M161-SIL-1 1/4,CE07,Silver Foil,2.94,Wood
+M161-SOB-1 1/4,CE09,Silver Leaf Top,4.44,Wood
+M161-WHL-1 1/4,CE07,White Lacquer,2.57,Wood
+M162-03-7/8,CE03,Navy Blue,1.63,Wood
+M162-04-7/8,CE03,Sky Blue,1.63,Wood
+M162-05-7/8,CE03,Green,1.63,Wood
+M162-06-7/8,CE03,Red,1.63,Wood
+M162-07-7/8,CE03,Satin Black,1.63,Wood
+M162-08-7/8,CE03,Satin White,1.63,Wood
+M162-09-7/8,CE03,Yellow,1.63,Wood
+M163-03-1 3/8,CE06,Navy Blue Bevel,2.86,Wood
+M163-04-1 3/8,CE06,Sky Blue Bevel,2.86,Wood
+M163-05-1 3/8,CE06,Green Bevel,3.20,Wood
+M163-06-1 3/8,CE06,Red Bevel,3.20,Wood
+M163-07-1 3/8,CE06,Black Bevel,3.20,Wood
+M163-08-1 3/8,CE06,White Bevel,3.20,Wood
+M163-14-1 3/8,CE06,Light Grey Bevel,3.20,Wood
+M163-17-1 3/8,CE06,Charcoal Bevel  Discontinued,3.20,Wood
+M164-01-13/16,CE06,Antique Gold,2.73,Wood
+M164-02-13/16,CE06,Antique Silver,2.73,Wood
+M164-03-13/16,CE06,Blue,2.73,Wood
+M164-06-13/16,CE06,Red,2.73,Wood
+M164-07-13/16,CE06,Black,2.73,Wood
+M164-08-13/16,CE06,White,2.73,Wood
+M166-01-7/8,CE06,Gold Leaf Embossed,3.83,Wood
+M166-02-7/8,CE06,Silver Leaf Embossed,3.83,Wood
+M166-08-7/8,CE06,White Embossed,3.83,Wood
+M166-26-7/8,CE06,Reddish Black Embossed,3.09,Wood
+M168-07-1 1/4,CE05,Black,2.25,Wood
+M168-08-1 1/4,CE05,White,2.25,Wood
+M168-RAW-1 1/4,CE05,Raw,1.89,Wood
+M169-07A-1 1/2,CE08,Black Ash,4.57,Wood
+M169-07M-1 1/2,CE09,Black  Maple,5.51,Wood
+M169-08A-1 1/2,CE08,White Ash,4.57,Wood
+M169-08M-1 1/2,CE09,White  Maple,5.51,Wood
+M169-17A-1 1/2,CE08,Charcoal Ash,4.57,Wood
+M169-35A-1 1/2,CE08,Bleached Ash,4.57,Wood
+M169-35M-1 1/2,CE09,Bleached White  Maple,5.51,Wood
+M169-41A-1 1/2,CE08,Tangerine Ash,4.57,Wood
+M169-41M-1 1/2,CE09,Tangerine Maple,5.51,Wood
+M169-42A-1 1/2,CE08,Heritage Walnut Ash,4.57,Wood
+M169-42M-1 1/2,CE09,Heritage Walnut  Maple,5.51,Wood
+M169-43A-1 1/2,CE08,Steel Grey Ash,4.57,Wood
+M169-43M-1 1/2,CE09,Steel Grey  Maple,5.51,Wood
+M169-44A-1 1/2,CE08,Grey,4.57,Wood
+M169-44M-1 1/2,CE09,Grey Maple,5.51,Wood
+M169-RA-1 1/2,CE06,Raw Ash,2.65,Wood
+M169-RM-1 1/2,CE07,Raw Maple,3.94,Wood
+M170-BK-1 1/4,CE05,Black,3.71,Wood
+M170-BK-1 3/4,CE07,Black,4.43,Wood
+M170-ESP-1 1/4,CE05,Espresso,3.71,Wood
+M170-ESP-1 3/4,CE07,Espresso,4.43,Wood
+M171-BK-1 1/2,CE04,Black,3.80,Wood
+M171-W-1 1/2,CE04,Walnut,3.80,Wood
+M172-20-1 1/4,CE06,Natural Ash,3.48,Wood
+M172-RA-1 1/4,CE06,Raw Ash,2.40,Wood
+M173-212-1 1/4,CE12,Ivory Veneer,4.11,Wood
+M173-218-1 1/4,CE12,Charcoal Veneer,4.11,Wood
+M173-221-1 1/4,CE12,Pecan Veneer,4.11,Wood
+M173-229-1 1/4,CE12,Black Veneer,4.11,Wood
+M173-231-1 1/4,CE12,Walnut Veneer,4.11,Wood
+M175-CHA-1 1/4,CE08,Rustic Charcoal Discontinued,4.88,Wood
+M175-ESP-1 1/4,CE08,Rustic  Espresso Discontinued,4.88,Wood
+M175-W-1 1/4,CE08,Rustic Walnut Discontinued,4.88,Wood
+M176-BK-1 5/8,CE09,Black Embossed,4.64,Wood
+M176-MAH-1 5/8,CE09,Mahogany Embossed,4.64,Wood
+M176-RW-1 5/8,CE09,Reddish Walnut Embossed,4.64,Wood
+M177-01B-9/16,CE04,Gold Leaf Top,2.63,Wood
+M177-02B-9/16,CE04,Silver Leaf Top,2.63,Wood
+M177-07-9/16,CE03,Black,1.55,Wood
+M177-08-9/16,CE03,White,1.55,Wood
+M177-LW-9/16,CE03,Light Walnut,1.55,Wood
+M177-MAH-9/16,CE03,Mahogany,1.55,Wood
+M178-01B-1 1/2,CE08,Gold Leaf top,4.43,Wood
+M178-02B-1 1/2,CE08,Silver Leaf Top,4.43,Wood
+M180-21-1 1/8,CE04,Light Walnut - Discontinued,2.90,Wood
+M180-24-1 1/8,CE04,Mahogany - Discontinued,2.90,Wood
+M180-26-1 1/8,CE04,Blue,2.90,Wood
+M181-21-1 1/8,CE04,Espresso,3.33,Wood
+M181-29-1 1/8,CE04,Black,3.33,Wood
+M182-01-1 3/4,CE12,Gold Leaf Embossed,5.50,Wood
+M182-02-1 3/4,CE12,Silver Leaf Embossed,5.50,Wood
+M182-08-1 3/4,CE12,White Embossed,5.50,Wood
+M182-26-1 3/4,CE12,Reddish Black Embossed,5.50,Wood
+M183-07-1 5/8,CE07,Black,5.10,Wood
+M183-08-1 5/8,CE07,White,5.10,Wood
+M183-GO-1 5/8,CE09,Champagne Gold,5.95,Wood
+M183-SIL-1 5/8,CE09,Silver,5.95,Wood
+M185-23-1 1/2,CE15,Silver Leaf,7.03,Wood
+M186-20-3/4,CE08,Gold Leaf,3.13,Wood
+M186-23-3/4,CE08,Silver Leaf,3.13,Wood
+M186-29-3/4,CE07,Black,2.80,Wood
+M190-20-1 5/8,CE11,Gold Leaf,4.13,Wood
+M190-20-2 1/4,CE15,Gold Leaf,6.31,Wood
+M190-23-1 5/8,CE11,Silver Leaf,4.13,Wood
+M190-23-2 1/4,CE15,Silver Leaf,6.31,Wood
+M191-220-1 1/4,CE09,Distress White/Gold,3.49,Wood
+M191-23-1 1/4,CE09,Distress Silver,3.77,Wood
+M191-293-1 1/4,CE09,Black/Silver,3.77,Wood
+M192-121-1 1/4,CE09,Brown/White Barnwood,3.08,Wood
+M192-121-2,CE14,Brown/White Barnwood,4.33,Wood
+M192-122-1 1/4,CE09,White/Brown Barnwood,3.08,Wood
+M192-122-2,CE14,White/Brown Barnwood,4.33,Wood
+M192-125-1 1/4,CE09,Dark Brown Barnwood,3.08,Wood
+M192-125-2,CE14,Dark Brown Barnwood,4.33,Wood
+M193-18-1 1/4,CE14,Navy Blue Embossed,5.26,Wood
+M193-20-1 1/4,CE14,Bright Gold Embossed,5.26,Wood
+M193-22-1 1/4,CE14,White Embossed,5.26,Wood
+M193-23-1 1/4,CE14,Bright Silver Embossed,5.26,Wood
+M193-28-1 1/4,CE14,Grey Embossed,5.26,Wood
+M193-29-1 1/4,CE14,Black Embossed,5.26,Wood
+M1943-BK-1 5/8,CE06,Black,2.35,Wood
+M1943-DW-1 5/8,CE06,Distressed White,2.35,Wood
+M1943-GREY-1 5/8,CE06,Grey,2.35,Wood
+M1943-WB-1 5/8,CE06,Washed Black,2.35,Wood
+M1943-WG-1 5/8,CE06,Washed Grey,2.35,Wood
+M1943-WH-1 5/8,CE06,White,2.35,Wood
+M1943-WW-1 5/8,CE06,Washed White,2.35,Wood
+M195-BK-1 1/2,CE05,Black,2.82,Wood
+M195-CHA-1 1/2,CE06,Charcoal,2.56,Wood
+M195-DW-1 1/2,CE06,Dark Walnut,2.82,Wood
+M195-GREY-1 1/2,CE06,Grey,2.56,Wood
+M195-LG-1 1/2,CE06,Light Grey,2.82,Wood
+M195-LW-1 1/2,CE06,Light Walnut,2.82,Wood
+M195-PW-1 1/2,CE06,Patterned White,2.56,Wood
+M195-RAW-1 1/2,CE06,Raw Pattern,3.31,Wood
+M195-TB-1 1/2,CE06,Taupe Brown,3.15,Wood
+M195-WG-1 1/2,CE06,Washed Grey,3.15,Wood
+M195-WH-1 1/2,CE06,White,2.84,Wood
+M195-WW-1 1/2,CE06,Washed Walnut,3.28,Wood
+M198-BK-1 3/4,CE06,Black Ash,4.67,Wood
+M198-BLUE-1 3/4,CE07,Blue Ash,5.09,Wood
+M198-CH-1 3/4,CE07,Chocolate Ash,5.09,Wood
+M198-DW-1 3/4,CE07,Dark Walnut Ash,5.09,Wood
+M198-ESP-1 3/4,CE07,Espresso Ash,5.09,Wood
+M198-GREY-1 3/4,CE07,Grey Ash,5.09,Wood
+M198-LW-1 3/4,CE07,Light Walnut Ash,5.09,Wood
+M198-W-1 3/4,CE07,Walnut Ash,5.09,Wood
+M198-WH-1 3/4,CE07,White On Ash,5.09,Wood
+M2010-BKA-1 1/2,CE06,Black Ash,4.24,Wood
+M2010-RA-1 1/2,CE06,Raw Ash,3.00,Wood
+M2010-WHA-1 1/2,CE06,White on Ash,4.24,Wood
+M2020-L10-3/4,CE04,Light Grey,3.04,Wood
+M2020-L11-3/4,CE04,Washed Raw,3.04,Wood
+M2020-L13-3/4,CE04,Raw,3.08,Wood
+M2020-L9-3/4,CE04,Washed Walnut,3.04,Wood
+M203-07-1 3/4,CE04,Black,3.30,Wood
+M203-07-2 1/4,CE06,Black,4.31,Wood
+M209-20-1 1/8,CE07,Gold Leaf,4.68,Wood
+M214-757-13/16,CE06,Antique Espresso,5.56,Wood
+M214-774-13/16,CE06,Antique Silver,5.56,Wood
+M214-775-13/16,CE06,Antique Gold,5.56,Wood
+M220-220-11/16,CE08,White With Gold,3.95,Wood
+M220-223-11/16,CE08,White With Silver,3.95,Wood
+M220-290-11/16,CE08,Black With Gold,3.95,Wood
+M220-293-11/16,CE08,Black With Silver,3.95,Wood
+M221-12-1 1/4,CE07,Natural,3.67,Wood
+M221-18-1 1/4,CE07,Light Grey,3.67,Wood
+M221-19-1 1/4,CE07,Black,3.67,Wood
+M221-21-1 1/4,CE07,Beech,3.67,Wood
+M221-31-1 1/4,CE07,Dark Walnut,3.67,Wood
+M221-32-1 1/4,CE07,Light Cream,3.67,Wood
+M222-29-1 3/4,CE14,Black,6.05,Wood
+M223-212-2,CE16,Ivory Veneer,8.69,Wood
+M223-218-2,CE16,Charcoal Veneer,8.69,Wood
+M223-221-2,CE16,Pecan Veneer,8.69,Wood
+M223-229-2,CE16,Black Veneer,8.69,Wood
+M223-231-2,CE16,Walnut Veneer,8.69,Wood
+M240-7007-2,CE17,Gold,14.23,Wood
+M240-7008-2,CE17,Silver,14.23,Wood
+M240-7009-2,CE17,Pewter,14.23,Wood
+M240-7010-2,CE17,Black,14.23,Wood
+M240-7012-2,CE17,Bronze,14.23,Wood
+M241-18-2 1/8,CE11,Satin Charcoal,6.84,Wood
+M241-21-2 1/8,CE11,Espresso,6.84,Wood
+M241-22-2 1/8,CE11,White,4.19,Wood
+M241-29-2 1/8,CE11,Black,4.19,Wood
+M245-38-1 1/2,CE06,Black/Mahogany,3.97,Wood
+M245-42-1 1/2,CE06,Washed Grey,3.97,Wood
+M245-46-1 1/2,CE06,Natural Oak,3.97,Wood
+M246-01B-3/4,CE04,Gold Leaf Top,3.48,Wood
+M246-02B-3/4,CE04,Silver Leaf Top,3.48,Wood
+M246-07-13/16,CE04,Black,1.53,Wood
+M246-08-13/16,CE04,White,1.53,Wood
+M246-10-7/8,CE04,Gold,1.90,Wood
+M246-11-7/8,CE04,Bronze,1.90,Wood
+M246-18-7/8,CE04,Charcoal,1.90,Wood
+M246-21-7/8,CE04,Espresso,1.90,Wood
+M246-23-7/8,CE04,Silver,1.90,Wood
+M247-07-3/4,CE02,Black,1.75,Wood
+M247-41-3/4,CE02,Deep Brown,1.75,Wood
+M247-42-3/4,CE02,Washed Grey,1.75,Wood
+M247-43-3/4,CE02,Taupe Brown,1.75,Wood
+M247-44-3/4,CE02,Washed Walnut,1.75,Wood
+M247-45-3/4,CE02,Rustic Oak,1.75,Wood
+M247-46-3/4,CE02,Natural Oak,1.75,Wood
+M247-47-3/4,CE02,Rustic White,1.75,Wood
+M249-R-1 1/4,CE01,Stretcher,1.42,Extender
+M250-R-1 1/2,CE01,Stretcher,1.42,Extender
+M251-R-1 3/4,CE01,Stretcher,1.63,Extender
+M252-22-2,CE08,Satin White,4.13,Wood
+M252-25-2,CE14,Walnut Barnwood,5.72,Wood
+M252-29-2,CE08,Satin Black,4.13,Wood
+M252-39-2,CE14,Black Barnwood,5.72,Wood
+M252-RP-1 1/2,CE02,Stretcher Large,2.03,Wood
+M2925-L10-1 1/8,CE06,Light Grey,3.75,Wood
+M2925-L11-1 1/8,CE06,Washed Raw,3.75,Wood
+M2925-L13-1 1/8,CE06,Raw,3.75,Wood
+M2925-L9-1 1/8,CE06,Washed Walnut,3.75,Wood
+M3025-001-1 1/4,CE06,White/ Silver,3.97,Wood
+M3025-002-1 1/4,CE06,Black / Silver,3.97,Wood
+M3025-003-1 1/4,CE06,Silver with White,3.57,Wood
+M3025-004-1 1/4,CE06,Pewter / Black,3.97,Wood
+M3025-005-1 1/4,CE06,Gunmetal / Silver,3.97,Wood
+M3025-006-1 1/4,CE06,Bronze / Black,3.97,Wood
+M3025-007-1 1/4,CE06,Black / Gold / Red Lines,3.97,Wood
+M3025-BKG-1 1/4,CE07,Black / Gold Line,3.97,Wood
+M331-29-7/8,CE09,Black,5.77,Wood
+M3332-OB-1 7/8,CE11,Ornate Bronze,8.50,Wood
+M4014B-2,CE16,Burnt Gold Ornate,7.26,Wood
+M4014G-2,CE16,Gold Ornate,7.26,Wood
+M4014S-2,CE16,Silver Ornate,7.26,Wood
+M420-2000-3,CE19,Antique Gold,17.24,Wood
+M420-2002-3,CE19,Black With Silver Leaf,17.24,Wood
+M420-2003-3,CE19,Bronze with Black,17.24,Wood
+M420-2004-3,CE19,Antique Silver Leaf,17.24,Wood
+M441-7007-1 5/8,CE16,Gold,12.13,Wood
+M441-7008-1 5/8,CE16,Silver,12.13,Wood
+M441-7009-1 5/8,CE16,Pewter,12.38,Wood
+M441-7010-1 5/8,CE16,Black,12.13,Wood
+M520-1007-5/8,CE12,Gold Bamboo,5.86,Wood
+M520-1008-5/8,CE12,Silver Bamboo,5.86,Wood
+M520-24-1 5/8,CE05,Mahogany,3.50,Wood
+M522-1007-2 1/4,CE17,Gold Bamboo Floater,12.30,Wood
+M522-1008-2 1/4,CE17,Silver Bamboo Floater,12.30,Wood
+M533-21-1 1/4,CE08,Light Walnut & Gold,3.36,Wood
+M533-210-1 1/4,CE08,Light Walnut & Black,3.36,Wood
+M533-24-1 1/4,CE08,Mahogany & Gold,3.36,Wood
+M533-240-1 1/4,CE08,Mahogany & Black,3.36,Wood
+M533-29-1 1/4,CE08,Black,3.36,Wood
+M558-GL-1 3/4,CE14,Gold Leaf,7.79,Wood
+M558-GS-1 3/4,CE14,Gold & Silver,7.79,Wood
+M558-SL-1 3/4,CE14,Silver Leaf,7.79,Wood
+M558-WHS-1 3/4,CE14,White with Silver,7.79,Wood
+M559-BKG-3,CE21,Black with Gold,14.71,Wood
+M559-BKS-3,CE21,Black with Silver,14.71,Wood
+M559-GL-3,CE21,Gold Leaf,14.71,Wood
+M559-SL-3,CE21,Silver Leaf,14.71,Wood
+M559-WHS-3,CE21,White with Silver,14.71,Wood
+M610-001-1 5/8,CE12,Gunmetal,5.94,Wood
+M610-002-1 5/8,CE12,Bronze,5.94,Wood
+M610-003-1 5/8,CE12,Silver,5.94,Wood
+M610-004-1 5/8,CE12,Gold,5.94,Wood
+M610-005-1 5/8,CE12,Pewter,5.94,Wood
+M617-001-1 1/2,CE04,Coastal Grey,3.43,Wood
+M617-002-1 1/2,CE04,Coastal Charcoal,3.43,Wood
+M617-004-1 1/2,CE04,Coastal White,3.43,Wood
+M617-005-1 1/2,CE04,Coastal Black,3.43,Wood
+M617-006-1 1/2,CE04,Coastal Stone,3.43,Wood
+M617-007-1 1/2,CE06,Coastal/Silver/Charcoal,4.94,Wood
+M634-001-1 1/4,CE06,Gold,3.24,Wood
+M634-002-1 1/4,CE06,Silver,3.24,Wood
+M634-003-1 1/4,CE06,White with Silver,3.24,Wood
+M634-004-1 1/4,CE06,Black with Silver,3.24,Wood
+M634-005-1 1/4,CE06,Bronze,3.24,Wood
+M714-07-7/8,CE04,Black,1.97,Wood
+M714-08-7/8,CE04,White,1.97,Wood
+M725-29-1 7/8,CE08,Black,3.50,Wood
+M7590-7/8,CE03,Black,1.88,Wood
+M7790-1 3/4,CE09,Black,4.71,Wood
+M7840-1 1/4,CE06,Burgundy,2.07,Wood
+M7872-1 1/4,CE06,Off-White Woodgrain,2.28,Wood
+M7879-1 1/4,CE06,Black Woodgrain,2.28,Wood
+M7880-1 1/4,CE06,White,3.21,Wood
+M7890-1 1/4,CE06,Black,2.20,Wood
+M801-GO-1 3/4,CE19,Gold,9.74,Wood
+M802-GO-1 7/8,CE21,Gold,17.66,Wood
+M803-AGO-1 3/4,CE18,Acid Wash Gold  Discontinued,11.78,Wood
+M803-SI-1 3/4,CE18,Silver  Discontinued,11.78,Wood
+M804-BK-2 3/4,CE21,Black Ornate,18.19,Wood
+MAW1-1 1/2,CE17,Antique White Barnwood,11.88,Wood
+MAW2-2 1/4,CE17,Antique White Barnwood,11.88,Wood
+MAW3-3,CE21,Antique White Barnwood,15.98,Wood
+MB821-13/16,CE08,Natural Brown Barnwood,3.35,Wood
+MB822-13/16,CE08,Natural Grey Barnwood,3.35,Wood
+MB831-2,CE13,Natural Brown Barnwood,4.87,Wood
+MB832-2,CE13,Natural Grey Barnwood,4.87,Wood
+MB920-1 1/2,CE07,Charcoal Black,4.46,Wood
+MB921-1 1/2,CE07,Marshmellow White,4.46,Wood
+MB922-1 1/2,CE07, Whiskey Brown,4.46,Wood
+MB923-1 1/2,CE07,Alabama Red,4.46,Wood
+MB924-1 1/2,CE07,Weathered Blue,3.84,Wood
+MB925-1 1/2,CE07,Dixie Grey,3.84,Wood
+MB930-1 1/2,CE07,Sky Blue,4.46,Wood
+MB931-1 1/2,CE07,Mint Julep,4.46,Wood
+MB940-2 1/2,CE10,Charcoal Black,5.73,Wood
+MB941-2 1/2,CE10,Marshmellow White,5.73,Wood
+MB942-2 1/2,CE10,Whiskey Brown,5.73,Wood
+MB950-1 1/4,CE07,Charcoal Black,4.06,Wood
+MB951-1 1/4,CE07,Marshmellow White,3.84,Wood
+MB952-1 1/4,CE07,Whiskey Brown,3.84,Wood
+MEC01-1 1/2,CE17,Gray Barnwood,11.92,Wood
+MEC02-2 1/4,CE17,Gray Barnwood,12.43,Wood
+MEC03-3,CE21,Gray Barnwood,17.40,Wood
+MFL301-33-1 1/2,CE15,Silver Leaf,4.90,Wood
+MFL303-11-1 1/2,CE09,Espresso,4.18,Wood
+MFL303-12-1 1/2,CE09,Natural,4.18,Wood
+MFL303-18-1 1/2,CE09,Grey,4.18,Wood
+MFL303-19-1 1/2,CE09,Black,4.18,Wood
+MFL303-28-1 1/2,CE09,Driftwood Grey,4.73,Wood
+MFL303-31-1 1/2,CE09,Walnut,4.18,Wood
+MFL306-02-1 3/4,CE14,White Lacquer,4.75,Wood
+MFL306-09-1 3/4,CE14,Lacquer Black,4.75,Wood
+MFL306-18-1 3/4,CE09,Satin Charcoal Floater,4.05,Wood
+MFL306-21-1 3/4,CE09,Espresso Floater,4.05,Wood
+MFL306-29-1 3/4,CE09,Black Floater,4.05,Wood
+MFL306-30-1 3/4,CE09,Gold Top Floater,4.05,Wood
+MFL306-73-1 3/4,CE09,Silver Top Floater,4.05,Wood
+MFL339-11-1 3/4,CE16,Bronze,3.90,Wood
+MFL339-29-1 3/4,CE16,Black,7.13,Wood
+ML308-301-1 1/4,CE04,Tan & Gold Lip Liner,2.38,Liner
+ML308-401-1 1/4,CE04,White & Gold Lip Liner,2.38,Liner
+ML311-401-2,CE05,White & Gold Lip Liner,3.02,Liner
+ML312-401-1 1/4,CE04,White Liner,2.46,Liner
+ML313-401-2,CE06,White Liner,3.32,Liner
+ML315-401-3/4,CE04,White Liner,2.02,Liner
+ML316-401-3,CE11,White Liner,4.6,Liner
+MM711-01,CE32,Bright Silver,2.91,Metal
+MM711-02,CE32,Satin Silver,2.91,Metal
+MM711-03,CE32,Bright Gold,2.95,Metal
+MM711-04,CE32,Satin Gold,2.95,Metal
+MM711-28,CE32,Bright Black,3.00,Metal
+MM711-29,CE32,Satin Black,3.00,Metal
+MP100-BK-1 1/2,CE56,Polystyrene  Black,1.52,Plastic
+MP100-W-1 1/2,CE56,Polystyrene Walnut,1.52,Plastic
+MP292-BK-2,CE57,Black Polystyrene,3.40,Plastic
+MP505-BK-2,CE54,Black Scratched Polystyrene,1.97,Plastic
+MP505-S-W06-2,CE54,Walnut Polystyrene,1.97,Plastic
+MP516-63-1 1/4,CE02,Polystyrene Warm Silver,1.86,Plastic
+MP516-65-1 1/4,CE02,Polystyrene Walnut Barnwood,1.77,Plastic
+MP516-BK-1 1/4,CE59,Polystyrene Black Scratched,1.12,Plastic
+MP516-MAH-1 1/4,CE59,Polystyrene Mahogany,1.12,Plastic
+MP516-SW06-1 1/4,CE59,Polystyrene Walnut,1.12,Plastic
+MSM4014B-1 1/4,CE08,Burnt Gold Ornate,3.95,Wood
+MSM4014G-1 1/4,CE08,Gold Ornate,3.95,Wood
+MSM4014S-1 1/4,CE08,Silver Ornate,3.95,Wood
