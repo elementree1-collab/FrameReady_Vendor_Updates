@@ -1,0 +1,1795 @@
+CODE,description,rabbet,width,cost,group
+1SBAR,Raw - Stretcher Bar (65M/BOX),32,32,8.1,Extender
+2SBAR,Raw - Stretcher Bar (53M/BOX),38,32,9.65,Extender
+3SBAR,Raw - Stretcher Bar (47M/BOX),28,67,14.8,Extender
+4SBAR,Raw - Stretcher Bar (47M/BOX),33,67,17.85,Extender
+5SBAR,Raw - Stretcher Bar (53M/BOX),30,40,9.8,Extender
+BB4212,Brace Bar Square Dressed (50M/Box),12,42,4.9,Extender
+BB4219,Brace Bar Square Dressed,19,42,6.4,Extender
+BB4710,Raw  - Brace Bar (120M/BOX),10,47,6,Extender
+BB6812,Brace Bar Square Dressed (50M/Box),12,68,7.45,Extender
+BB6819,Brace Bar Square Dressed,19,68,10.95,Extender
+BLSBAR,Raw  - Stretcher Bar (44M/BOX),28,62,14.8,Extender
+BMLSBAR,Stretcher Bar - Raw (58M/Box),19,63,11,Extender
+BMSBAR,Raw - Stretcher Bar (53M/BOX),38,32,9.65,Extender
+BSBAR,Raw  - Stretcher Bar (53M/BOX),32,32,8.15,Extender
+BXLSBAR,Raw  - Stretcher Bar (38M/BOX),33,67,17.85,Extender
+LSBAR,Raw  - Stretcher Bar (105M/BOX),18,40,6.5,Extender
+SSBAR,Raw  - Stretcher Bar (106M/BOX),18,30,6.15,Extender
+XLSBAR,Raw  - Stretcher Bar (50M/BOX),21,64,11,Extender
+A059B,Black - Chapel (150M/BOX),15,13,8.05,Wood
+A073BE,Brown/Gold - Belconnen (175M/BOX),15,25,10.55,Wood
+A100301,DISC - Charcoal - Nocturne (109M/BOX),22,45,15.7,Wood
+A100302,DISC - Lava - Nocturne (109M/BOX),22,45,15.7,Wood
+A100303,DISC - Terra - Nocturne (109M/BOX),22,45,15.7,Wood
+A100304,DISC - Sand - Nocturne (109M/BOX),22,45,15.7,Wood
+A100401,DISC Charcoal - Nocturne (87M/BOX),20,28,9.2,Wood
+A100402,DISC Lava - Nocturne (87M/BOX),20,28,7.15,Wood
+A100403,DISC Terra - Nocturne (87M/BOX),20,28,7.15,Wood
+A100404,DISC - Sand - Nocturne (87M/BOX),20,28,9.2,Wood
+A100501,DISC White - Provincial (98/BOX),22,45,8.95,Wood
+A100601,DISC White - Provincial (109/BOX),20,28,5.45,Wood
+A100801,DISC Gold - Lucy (320M/BOX),18,12,6.55,Wood
+A100802,DISC - Silver - Lucy (320M/BOX),18,12,8.45,Wood
+A100803,DISC Black - Lucy (320M/BOX),18,12,6.55,Wood
+A100901,Gold - Lotti (250M/BOX),20,17,11.95,Wood
+A100902,Silver - Lotti (250M/BOX),20,17,11.95,Wood
+A100903,Black/Gold - Lotti (250M/BOX),20,17,11.95,Wood
+A101001,Gold - Lyric (200M/BOX),20,20,13.35,Wood
+A101002,Silver - Lyric (200M/BOX),20,20,13.35,Wood
+A101003,Black/Gold - Lyric (200M/BOX),20,20,13.35,Wood
+A101101,Gold - London (230M/BOX),17,17,12.7,Wood
+A101102,Silver - London (230M/BOX),17,17,12.7,Wood
+A101103,Black - London (230M/BOX),17,17,12.7,Wood
+A101104,White - London (230M/BOX),17,17,12.7,Wood
+A101201,Grey - Grove (92M/BOX),22,40,15.4,Wood
+A101202,Camel - Grove (92M/BOX),22,40,15.4,Wood
+A101203,White - Grove (92M/BOX),22,40,15.4,Wood
+A101204,Black - Grove (92M/BOX),22,40,15.4,Wood
+A101205,Anthracite - Grove (104M/BOX),22,40,15.4,Wood
+A101206,White Lime - Grove (104M/BOX),22,40,15.4,Wood
+A101207,Taupe - Grove (104M/BOX),22,40,15.4,Wood
+A101208,Chocolate - Grove (104M/BOX),22,40,15.4,Wood
+A101301,Grey - Grove (156M/BOX),30,22,11.05,Wood
+A101302,Camel - Grove (156M/BOX),30,22,11.05,Wood
+A101303,White - Grove (156M/BOX),30,22,11.05,Wood
+A101304,Black - Grove (156M/BOX),30,22,11.05,Wood
+A101305,Anthracite - Grove (174M/BOX),30,22,11.05,Wood
+A101306,White Lime - Grove (174M/BOX),30,22,11.05,Wood
+A101307,Taupe - Grove (174M/BOX),30,22,11.05,Wood
+A101308,Chocolate - Grove (174M/BOX),30,22,11.05,Wood
+A101401,DISC - Grey - Grove (75M/BOX),60,21,20.95,Wood
+A101402,DISC - Camel - Grove (75M/BOX),60,21,20.95,Wood
+A101403,DISC - White - Grove (75M/BOX),60,21,20.95,Wood
+A101404,DISC - Black - Grove (75M/BOX),60,21,20.95,Wood
+A101405,DISC - Anthracite - Grove (81M/BOX),60,21,20.95,Wood
+A101406,DISC - White Lime - Grove (81M/BOX),60,21,20.95,Wood
+A101407,DISC - Taupe - Grove (81M/BOX),60,21,20.95,Wood
+A101408,DISC - Chocolate - Grove (81M/BOX),60,21,20.95,Wood
+A101501,Grey - Grove (206M/BOX),20,22,9.5,Wood
+A101502,Camel - Grove (206M/BOX),20,22,9.5,Wood
+A101503,White - Grove (206M/BOX),20,22,9.5,Wood
+A101504,Black - Grove (206M/BOX),20,22,9.5,Wood
+A101505,Anthracite - Grove (220M/BOX),20,22,9.5,Wood
+A101506,White Lime - Grove (220M/BOX),20,22,9.5,Wood
+A101507,Taupe - Grove (220M/BOX),20,22,9.5,Wood
+A101508,Chocolate - Grove (220M/BOX),20,22,9.5,Wood
+A101601,Grey  - Grove (87M/BOX),50,30,24.95,Wood
+A101602,Camel - Grove (87M/BOX),50,30,24.95,Wood
+A101603,White  - Grove (87M/BOX),50,30,24.95,Wood
+A101604,Black  - Grove (87M/BOX),50,30,24.95,Wood
+A101605,Anthracite - Grove (92M/BOX),50,30,24.95,Wood
+A101606,White Lime - Grove (92M/BOX),50,30,24.95,Wood
+A101607,Taupe - Grove (92M/BOX),50,30,24.95,Wood
+A101608,Chocolate - Grove (92M/BOX),50,30,24.95,Wood
+A101701,DISC - Grey - Grove (266M/BOX),40,13,12.6,Wood
+A101702,DISC - Camel - Grove (266M/BOX),40,13,12.6,Wood
+A101703,DISC - White - Grove (266M/BOX),40,13,12.6,Wood
+A101704,DISC - Black - Grove (266M/BOX),40,13,12.6,Wood
+A101705,DISC - Anthracite - Grove (266M/BOX),40,13,12.6,Wood
+A101706,DISC - White Lime - Grove (266M/BOX),40,13,12.6,Wood
+A101707,DISC - Taupe - Grove (266M/BOX),40,13,12.6,Wood
+A101708,DISC - Chocolate - Grove (266M/BOX),40,13,12.6,Wood
+A101801,DISC - Grey - Grove (522M/BOX),16,13,8.95,Wood
+A101802,Camel - Grove (522M/BOX),16,13,8.95,Wood
+A101803,White - Grove (522M/BOX),16,13,8.95,Wood
+A101804,Black - Grove (522M/BOX),16,13,8.95,Wood
+A101805,Anthracite - Grove (522M/BOX),16,13,8.95,Wood
+A101806,White Lime - Grove (522M/BOX),16,13,8.95,Wood
+A101807,Taupe - Grove (522M/BOX),16,13,8.95,Wood
+A101808,Chocolate - Grove (522M/BOX),16,13,8.95,Wood
+A101901,Black - Jazz (35M/BOX),54,45,25.95,Wood
+A101902,White - Jazz (35M/BOX),54,45,25.95,Wood
+A102101,ANTHRACITE - PRIME (65MTRS/BOX),45,28,19.6,Wood
+A102102,TOBACCO - PRIME (65MTRS/BOX),45,28,19.6,Wood
+A102103,NATURAL - PRIME (65MTRS/BOX),45,28,19.6,Wood
+A102104,WHITE WASH - PRIME (65MTRS/BOX),45,28,19.6,Wood
+A102105,BLACK - PRIME (65MTRS/BOX),45,28,19.6,Wood
+A102106,WHITE - PRIME (65MTRS/BOX),45,28,19.6,Wood
+A102107,TEAK - PRIME (65MTRS/BOX),45,28,19.6,Wood
+A102201,ANTHRACITE - PRIME (95MTRS/BOX),38,20,13.35,Wood
+A102202,TOBACCO - PRIME (95MTRS/BOX),38,20,13.35,Wood
+A102203,NATURAL - PRIME (95MTRS/BOX,38,20,13.35,Wood
+A102204,WHITE WASH - PRIME (95MTRS/BOX),38,20,13.35,Wood
+A102205,BLACK - PRIME (95MTRS/BOX),38,20,13.35,Wood
+A102206,WHITE - PRIME (95MTRS/BOX),38,20,13.35,Wood
+A102207,TEAK - PRIME (95MTRS/BOX),38,20,13.35,Wood
+A102301,ANTRHACITE - PRIME (145MTRS/BOX),29,16,10.95,Wood
+A102302,TOBACCO - PRIME (145MTRS/BOX),29,16,10.95,Wood
+A102303,NATURAL - PRIME (145MTRS/BOX),29,16,10.95,Wood
+A102304,WHITE WASH - PRIME (145MTRS/BOX),29,16,10.95,Wood
+A102305,BLACK - PRIME (145MTRS/BOX),29,16,10.95,Wood
+A102306,WHITE - PRIME (145MTRS/BOX),29,16,10.95,Wood
+A102307,TEAK - PRIME (145MTRS/BOX),29,16,10.95,Wood
+A102401,ANTHRACITE - PRIME (180MTRS/BOX),20,20,8.95,Wood
+A102402,TOBACCO - PRIME (180MTRS/BOX),20,20,8.95,Wood
+A102403,NATURAL - PRIME (180MTRS/BOX),20,20,8.95,Wood
+A102404,WHITE WASH - PRIME (180MTRS/BOX),20,20,8.95,Wood
+A102405,BLACK - PRIME (180MTRS/BOX),20,20,8.95,Wood
+A102406,WHITE - PRIME (180MTRS/BOX),20,20,8.95,Wood
+A102407,TEAK - PRIME (180MTRS/BOX),20,20,8.95,Wood
+A102501,ANTHRACITE - PRIME (120MTRS/BOX),20,30,11.65,Wood
+A102502,TOBACCO - PRIME (120MTRS/BOX),20,30,11.65,Wood
+A102503,NATURAL - PRIME (120MTRS/BOX),20,30,11.65,Wood
+A102504,WHITE WASH - PRIME (120MTRS/BOX),20,30,11.65,Wood
+A102505,BLACK - PRIME (120MTRS/BOX),20,30,11.65,Wood
+A102506,WHITE - PRIME (120MTRS/BOX),20,30,11.65,Wood
+A102507,TEAK - PRIME (120MTRS/BOX),20,30,11.65,Wood
+A102601,ANTHRACITE - PRIME FLOAT (60MTRS/BOX),50,37,22.95,Wood
+A102602,TOBACCO - PRIME FLOAT (60MTRS/BOX,50,37,22.95,Wood
+A102603,NATURAL - PRIME FLOAT (60MTRS/BOX),50,37,22.95,Wood
+A102604,WHITE WASH - PRIME FLOAT (60MTRS/BOX),50,37,22.95,Wood
+A102605,BLACK - PRIME FLOAT (60MTRS/BOX),50,37,22.95,Wood
+A102606,WHITE - PRIME FLOAT (60MTRS/BOX),50,37,22.95,Wood
+A102607,TEAK - PRIME FLOAT (60MTRS/BOX),50,37,22.95,Wood
+A102701,Anthracite - Prime (120M/Box),15,15,7.5,Wood
+A102702,Tobacco - Prime (120M/Box),15,15,7.5,Wood
+A102703,Natural - Prime (120M/Box),15,15,7.5,Wood
+A102704,White Wash - Prime (120M/Box),15,15,7.5,Wood
+A102705,Black - Prime (120M/Box),15,15,7.5,Wood
+A102706,White - Prime (120M/Box),15,15,7.5,Wood
+A102707,Teak - Prime (120M/Box),15,15,7.5,Wood
+A102805,Black - Prime (46M/Box),35,40,19.95,Wood
+A102806,White - Prime (46M/Box),35,40,19.95,Wood
+A103001,Black - Noir (36M/BOX),45,74,33.95,Wood
+A103002,White - Noir (32 MTRS/BOX),45,74,33.95,Wood
+A103003,DISC - Gold - Noir  (32 MTRS/BOX),45,74,29.4,Wood
+A103004,DISC - Silver - Noir  (32 MTRS/BOX),45,74,29.4,Wood
+A103101,Black - Noir (144M/BOX),24,40,11.15,Wood
+A103102,White - Noir (144 MTRS/BOX),24,40,11.15,Wood
+A103103,DISC - Gold - Noir  (98 MTRS/BOX),24,40,9.2,Wood
+A103104,DISC - Silver - Noir  (98 MTRS/BOX),24,40,9.2,Wood
+A103105,Black/Gold  - Noir  (98 MTRS/BOX),24,40,11.95,Wood
+A103106,Black/Silver  - Noir  (98 MTRS/BOX),24,40,11.95,Wood
+A103107,White/Gold  - Noir  (98 MTRS/BOX),24,40,11.95,Wood
+A103108,White/Silver  - Noir  (98 MTRS/BOX),24,40,11.95,Wood
+A103201,Black - Noir (288M/BOX),17,17,7.45,Wood
+A103202,White - Noir (288 MTRS/BOX),17,17,7.45,Wood
+A103203,DISC - Gold - Noir  (148 MTRS/BOX),17,17,6.25,Wood
+A103204,DISC - Silver - Noir  (148 MTRS/BOX),17,17,6.25,Wood
+A103205,Black/Gold  - Noir  (148 MTRS/BOX),17,17,7.95,Wood
+A103206,Black/Silver  - Noir  (148 MTRS/BOX),17,17,7.95,Wood
+A103207,White/Gold  - Noir  (148 MTRS/BOX),17,17,7.95,Wood
+A103208,White/Silver  - Noir  (148 MTRS/BOX),17,17,7.95,Wood
+A103301,Black & Timber - Prisma (72M/BOX),35,40,17.65,Wood
+A103302,White & Timber - Prisma (72M/BOX),35,40,17.65,Wood
+A103401,Black & Timber - Prisma (144M/BOX),29,24,10.7,Wood
+A103402,White & Timber - Prisma (144M/BOX),29,24,10.7,Wood
+A103501,Black & Timber - Prisma (184M/BOX),35,20,11.75,Wood
+A103502,DISC - White & Timber - Prisma (184M/BOX),35,20,11.75,Wood
+A103601,Black & Timber - Prisma (126M/BOX),30,30,12.1,Wood
+A103602,White & Timber - Prisma (126M/BOX),30,30,12.1,Wood
+A103701,BLACK - BOTANICA (88 MTRS/BOX),50,25,15.05,Wood
+A103702,WHITE - BOTANICA (88 MTRS/BOX),50,25,15.05,Wood
+A103703,TEAK - BOTANICA (88 MTRS/BOX),50,25,15.05,Wood
+A103704,CHOCOLATE - BOTANICA (88 MTRS/BOX),50,25,15.05,Wood
+A103705,Taupe - Botanica (88 MTRS/BOX),50,25,15.05,Wood
+A103706,DISC - Terra - Botanica (88 MTRS/BOX),50,25,12.7,Wood
+A103707,DISC - Grey - Botanica (88 MTRS/BOX),50,25,12.7,Wood
+A103801,DISC - DISC - BLACK - BOTANICA (110 MTRS/BOX),40,20,11.75,Wood
+A103802,WHITE - BOTANICA (110 MTRS/BOX),40,20,11.75,Wood
+A103803,DISC - TEAK - BOTANICA (110 MTRS/BOX),40,20,11.75,Wood
+A103804,DISC - CHOCOLATE - BOTANICA (110 MTRS/BOX),40,20,11.75,Wood
+A103805,Taupe - Botanica (110 MTRS/BOX),40,20,11.75,Wood
+A103806,DISC - Terra - Botanica (110 MTRS/BOX),40,20,9.9,Wood
+A103807,DISC - Grey - Botanica (110 MTRS/BOX),40,20,9.9,Wood
+A103901,BLACK - BOTANICA (110 MTRS/BOX),20,20,8.45,Wood
+A103902,DISC - WHITE - BOTANICA (110 MTRS/BOX),20,20,7.95,Wood
+A103903,TEAK - BOTANICA (110 MTRS/BOX),20,20,8.45,Wood
+A103904,CHOCOLATE - BOTANICA (110 MTRS/BOX),20,20,8.45,Wood
+A103905,Taupe - Botanica (110 MTRS/BOX),20,20,8.45,Wood
+A103906,DISC - Terra - Botanica (110 MTRS/BOX),20,20,7.05,Wood
+A103907,DISC - Grey - Botanica (110 MTRS/BOX),20,20,7.05,Wood
+A104001,DISC - Black - Botanica (54 MTRS/BOX),54,42,21.7,Wood
+A104002,White - Botanica (54 MTRS/BOX),54,42,21.7,Wood
+A104003,DISC - Teak - Botanica (54 MTRS/BOX),54,42,21.7,Wood
+A104004,DISC - Chocolate - Botanica (54 MTRS/BOX),54,42,21.7,Wood
+A104005,Taupe - Botanica (54 MTRS/BOX),54,42,21.7,Wood
+A104006,DISC - Terra - Botanica (54 MTRS/BOX),54,42,18.3,Wood
+A104007,DISC - Grey - Botanica (54 MTRS/BOX),54,42,18.3,Wood
+A104401,Black - Botanica  (130 MTRS/BOX),20,30,10.25,Wood
+A104402,DISC - White - Botanica  (130 MTRS/BOX),20,30,9.65,Wood
+A104403,Teak - Botanica  (130 MTRS/BOX),20,30,10.25,Wood
+A104404,Chocolate - Botanica  (130 MTRS/BOX),20,30,10.25,Wood
+A104405,Taupe - Botanica  (130 MTRS/BOX),20,30,10.25,Wood
+A104406,DISC - Terra - Botanica  (130 MTRS/BOX),20,30,8.15,Wood
+A104407,DISC - Grey - Botanica  (130 MTRS/BOX),20,30,8.15,Wood
+A104501,DISC - DISC - Black - Botanica  (60 MTRS/BOX),35,40,14.45,Wood
+A104502,White - Botanica  (60 MTRS/BOX),35,40,14.45,Wood
+A104503,DISC - DISC - Teak - Botanica  (60 MTRS/BOX),35,40,14.45,Wood
+A104504,Chocolate - Botanica  (60 MTRS/BOX),35,40,14.45,Wood
+A104505,Taupe - Botanica  (60 MTRS/BOX),35,40,14.45,Wood
+A104506,DISC - Terra - Botanica  (60 MTRS/BOX),35,40,12.2,Wood
+A104507,DISC - Grey - Botanica  (60 MTRS/BOX),35,40,12.2,Wood
+A16001,Black - Nero (130M/BOX),18,18,7.95,Wood
+A166003,BLACK L-SHAPE HS - ROMEO (66 MTRS/BOX),45,34,20.5,Wood
+A166004,WHITE L-SHAPE HS - ROMEO (66 MTRS/BOX),45,34,20.5,Wood
+A166005,Black/Gold - Romeo (66M/Box),45,34,21.5,Wood
+A166006,Black/Silver - Romeo (66M/Box),45,34,21.5,Wood
+A166007,Float Gold - Romeo (70M/Box),45,34,21.95,Wood
+A166008,Float Silver - Romeo (70M/Box),45,34,21.95,Wood
+A166103,Black - Romeo (66M/Box),34,45,20.5,Wood
+A166104,White - Romeo (66M/Box),34,45,20.5,Wood
+A166105,Black/Gold - Romeo (66M/Box),34,45,21.5,Wood
+A166106,Black/Silver - Romeo (66M/Box),34,45,21.5,Wood
+A17101,Teak - Murdoch (75M/BOX),20,42,13.95,Wood
+A17102,Walnut - Murdoch (75M/BOX),20,42,13.95,Wood
+A17801,Honey/Gold - Prague (100M/BOX),20,32,12.95,Wood
+A17802,Teak/Gold - Prague (100M/BOX),20,32,12.95,Wood
+A17803,Walnut/Gold - Prague (100M/BOX),20,32,12.95,Wood
+A17804,Light Mahogany/Gold - Prague (100M/BOX),20,32,12.95,Wood
+A17906,Black/Gold - Corona (60M/BOX),25,44,23.3,Wood
+A18006,Black/Gold - Edinburgh (25M/BOX),43,68,36.5,Wood
+A19105,DISC Light Walnut/Gold - Barcelona (55M/BOX),21,68,18.25,Wood
+A200701,DISC Black - Otto (19M/BOX),50,100,36.7,Wood
+A200702,DISC Tobacco - Otto (21M/BOX),50,100,36.7,Wood
+A200703,DISC White - Otto (22M/BOX),50,100,36.7,Wood
+A200801,DISC Black - Otto (44M/BOX),35,55,16.75,Wood
+A200802,DISC Tobacco - Otto (44M/BOX),35,55,16.75,Wood
+A200803,DISC White - Otto (44M/BOX),35,55,16.75,Wood
+A200901,DISC Black - Otto (44M/BOX),50,36,14.65,Wood
+A200902,DISC Tobacco - Otto (44M/BOX),50,36,14.65,Wood
+A200903,DISC White - Otto (44M/BOX),50,36,14.65,Wood
+A201001,DISC Black - Otto (121M/BOX),25,32,8.35,Wood
+A201002,DISC Tobacco - Otto (119M/BOX),25,32,8.35,Wood
+A201003,DISC White - Otto (115M/BOX),25,32,8.35,Wood
+A201401,DISC Black - Materia (43M/BOX),30,60,15.7,Wood
+A201402,DISC Tobacco - Materia (33M/BOX),30,60,15.7,Wood
+A201403,DISC White - Materia (47M/BOX),30,60,15.7,Wood
+A201404,DISC Gold - Materia (44M/BOX),30,60,15.7,Wood
+A201405,DISC Silver - Materia (44M/BOX),30,60,15.7,Wood
+A201501,DISC Black - Materia (105M/BOX),20,30,7.3,Wood
+A201502,DISC Tobacco - Materia (104M/BOX),20,30,7.3,Wood
+A201503,DISC White - Materia (111M/BOX),20,30,7.3,Wood
+A201504,DISC Gold - Materia (129M/BOX),20,30,7.3,Wood
+A201505,DISC Silver - Materia (106M/BOX),20,30,7.3,Wood
+A201601,DISC - Black - Leatherette (160M/BOX),30,20,9.75,Wood
+A201602,DISC White - Leatherette (160M/BOX),30,20,8.95,Wood
+A201701,DISC Black - Leatherette (130M/BOX),20,30,7.55,Wood
+A201702,DISC White - Leatherette (130M/BOX),20,30,8.95,Wood
+A201801,DISC Black - Leatherette (132M/BOX),15,20,5,Wood
+A201802,DISC White - Leatherette (132M/BOX),15,20,5,Wood
+A201901,Gold - Monique (149M/BOX),20,25,10.55,Wood
+A201902,Silver - Monique (149M/BOX),20,25,10.55,Wood
+A201903,Antique Black - Monique (149M/BOX),20,25,10.55,Wood
+A202001,DISC - Bronze - Rebecca (108M/BOX),24,20,9.15,Wood
+A202002,DISC - DISC - Pewter - Rebecca (108M/BOX),24,20,9.15,Wood
+A202003,DISC - Antique White - Rebecca (108M/BOX),24,20,9.15,Wood
+A202101,DISC - Black - Jonas (92M/BOX),43,18,10.05,Wood
+A202102,White - Jonas (92M/BOX),43,18,10.05,Wood
+A202201,DISC Black - Jonas (82M/BOX),70,22,10.8,Wood
+A202202,White - Jonas (82M/BOX),70,22,11.75,Wood
+A202301,Brown - Homestead (65M/BOX),20,60,17.95,Wood
+A202302,Dark Grey - Homestead (65M/BOX),20,60,17.95,Wood
+A202303,Light Grey - Homestead (65M/BOX),20,60,17.95,Wood
+A202304,White - Homestead (65M/BOX),20,60,17.95,Wood
+A202401,Brown - Homestead (98M/BOX),18,40,12.7,Wood
+A202402,Dark Grey - Homestead (98M/BOX),18,40,12.7,Wood
+A202403,Light Grey - Homestead (98M/BOX),18,40,12.7,Wood
+A202404,White - Homestead (98M/BOX),18,40,12.7,Wood
+A203101,FLOAT CHARCOAL - VINTAGE (40M/BOX),50,37,18.75,Wood
+A203102,FLOAT COCOA - VINTAGE (40M/BOX),50,37,16.65,Wood
+A203103,FLOAT COCONUT - VINTAGE (40M/BOX),50,37,18.75,Wood
+A203201,CHARCOAL - VINTAGE (48M/BOX),20,63,14.3,Wood
+A203202,COCOA - VINTAGE (48M/BOX),20,63,12.65,Wood
+A203203,COCONUT - VINTAGE (48M/BOX),20,63,14.3,Wood
+A203301,CHARCOAL - VINTAGE (69M/BOX),20,38,10.5,Wood
+A203302,COCOA - VINTAGE (69M/BOX),20,38,9.3,Wood
+A203303,COCONUT - VINTAGE (69M/BOX),20,38,10.5,Wood
+A204001,GOLD - MONIQUE (72M/BOX),25,45,14.8,Wood
+A204002,SILVER - MONIQUE (72M/BOX),25,45,14.8,Wood
+A204003,ANTIQUE BLACK - MONIQUE (72M/BOX),25,45,14.8,Wood
+A205101,Black - Vera  (115 MTRS/BOX),21,35,8.95,Wood
+A205102,White - Vera  (115 MTRS/BOX),21,35,8.95,Wood
+A205201,Black - Vera  (82 MTRS/BOX),24,47,11.2,Wood
+A205202,White - Vera  (82 MTRS/BOX),24,47,11.2,Wood
+A205301,Black - Vera  (22 MTRS/BOX),50,98,35.95,Wood
+A205302,White - Vera  (22 MTRS/BOX),50,98,35.95,Wood
+A206101,Black - Lota   (60 MTRS/BOX),54,42,22.75,Wood
+A206102,White - Lota   (60 MTRS/BOX),54,42,22.75,Wood
+A207101,White - Duet  (164 MTRS/BOX),29,23,9.7,Wood
+A207102,Gold - Duet  (164 MTRS/BOX),29,23,9.7,Wood
+A207103,Pewter - Duet  (164 MTRS/BOX),29,23,9.7,Wood
+A207104,Teak - Duet  (164 MTRS/BOX),29,23,9.7,Wood
+A207105,Chocolate - Duet  (164 MTRS/BOX),29,23,9.15,Wood
+A207106,Black - Duet (164M/Box),29,23,9.7,Wood
+A207201,White - Duet  (86 MTRS/BOX),29,35,12.7,Wood
+A207202,Gold - Duet  (86 MTRS/BOX),29,35,12.7,Wood
+A207203,Pewter - Duet  (86 MTRS/BOX),29,35,12.7,Wood
+A207204,Teak - Duet  (86 MTRS/BOX),29,35,11.95,Wood
+A207205,Chocolate - Duet  (86 MTRS/BOX),29,35,11.95,Wood
+A207206,Black - Duet (86M/Box),29,35,12.7,Wood
+A208101,Black - Flora (44M/Box),54,56,22.95,Wood
+A208102,White - Flora (44M/Box),54,56,22.95,Wood
+A208103,Gold - Flora (44M/Box),54,56,22.95,Wood
+A208104,Silver - Flora (44M/Box),54,56,22.95,Wood
+A208105,Bronze - Flora (44M/Box),54,56,22.95,Wood
+A208106,Olive - Flora (44M/Box),54,56,22.95,Wood
+A208201,Black - Kyoto (176M/Box),20,17,7.95,Wood
+A208202,White - Kyoto (176M/Box),20,17,7.95,Wood
+A208203,Gold - Kyoto (176M/Box),20,17,8.45,Wood
+A208204,Silver - Kyoto (176M/Box),20,17,8.45,Wood
+A208301,Black - Kyoto (116M/Box),18,29,9.5,Wood
+A208302,White - Kyoto (116M/Box),18,29,9.5,Wood
+A208303,Gold - Kyoto (116M/Box),18,29,10.5,Wood
+A208304,Silver - Kyoto (116M/Box),18,29,10.5,Wood
+A208501,Black/Gold - Lumina (76M/Box),35,35,13.75,Wood
+A208502,Black/Silver - Lumina (76M/Box),35,35,13.75,Wood
+A208601,Black/Gold - Lumina (120M/Box),20,30,8.45,Wood
+A208602,Black/Silver - Lumina (120M/Box),20,30,8.45,Wood
+A208701,Black/Gold - Lumina (116M/Box),20,20,6.9,Wood
+A208702,Black/Silver - Lumina (116M/Box),20,20,6.9,Wood
+A209001,Black - Leon (88M/Box),35,31,13.75,Wood
+A209002,Gun Metal - Leon (88M/Box),35,31,13.75,Wood
+A209003,Bronze - Leon (88M/Box),35,31,13.75,Wood
+A209004,Brown Burl - Leon (88M/Box),35,31,13.75,Wood
+A209301,Black - Sophia (116M/Box),20,30,7.95,Wood
+A209302,Bronze - Sophia (116M/Box),20,30,7.95,Wood
+A209303,Gold - Sophia (116M/Box),20,30,7.95,Wood
+A209304,Silver - Sophia (116M/Box),20,30,7.95,Wood
+A209601,Black - Anthea (70M/Box),44,33,16.95,Wood
+A209602,White - Anthea (70M/Box),44,33,16.95,Wood
+A209603,Gold - Anthea (70M/Box),44,33,16.95,Wood
+A209604,Silver - Anthea (70M/Box),44,33,16.95,Wood
+A209801,Black - Argus (23M/Box),42,84,33.9,Wood
+A209802,Gold - Argus (23M/Box),42,84,33.9,Wood
+A209803,Silver - Argus (23M/Box),42,84,33.9,Wood
+A211201,Black - Ashford (40M/Box),51,42,26.5,Wood
+A211202,Grey - Ashford (40M/Box),51,42,26.5,Wood
+A211203,Ash - Ashford (40M/Box),51,42,26.5,Wood
+A211204,Walnut - Ashford (40M/Box),51,42,26.5,Wood
+A211401,Black - Old Barn (160M/Box),20,20,9.5,Wood
+A211402,White - Old Barn (160M/Box),20,20,9.5,Wood
+A211403,Taupe - Old Barn (160M/Box),20,20,9.5,Wood
+A211404,Ash - Old Barn (160M/Box),20,20,9.5,Wood
+A211405,Terra - Old Barn (160M/Box),20,20,9.5,Wood
+A211501,Black - Old Barn (76M/Box),30,30,14.95,Wood
+A211502,White - Old Barn (76M/Box),30,30,14.95,Wood
+A211503,Taupe - Old Barn (76M/Box),30,30,14.95,Wood
+A211504,Ash - Old Barn (76M/Box),30,30,14.95,Wood
+A211505,Terra - Old Barn (76M/Box),30,30,14.95,Wood
+A212101,Bamboo - Gold (69M/Box),32,24,10.95,Wood
+A212102,Bamboo - Silver (69M/Box),32,24,10.95,Wood
+A212201,Bamboo - Float Gold (34M/Box),55,45,24.5,Wood
+A212202,Bamboo - Float Silver (34M/Box),55,45,24.5,Wood
+A21203,DISC Walnut/Gold - Hepburn (90M/BOX),20,41,11.1,Wood
+A21301,Light Walnut/Gold - Calais (115M/BOX),18,33,10.95,Wood
+A21302,Mahogany/Gold - Calais (115M/BOX),18,33,10.95,Wood
+A21303,Black/Gold - Calais (115M/BOX),18,33,10.95,Wood
+A21304,Black/Silver - Calais (115M/BOX),18,33,10.95,Wood
+A21401,Light Walnut/Gold - Calais (75M/BOX),20,50,16.95,Wood
+A21402,Mahogany/Gold - Calais (75M/BOX),20,50,16.95,Wood
+A21403,Black/Gold - Calais (75M/BOX),20,50,16.95,Wood
+A21404,Black/Silver - Calais (75M/BOX),20,50,16.95,Wood
+A21601,DISC Off White/Teak - Shabby Chic (140M/BOX),19,25,7.3,Wood
+A21602,DISC - Off White/Walnut - Shabby Chic (140M/BOX),19,25,9.15,Wood
+A21701,DISC Off White/Teak - Shabby Chic (88M/BOX),19,42,9.95,Wood
+A21702,DISC - Off White/Walnut - Shabby Chic (88M/BOX),19,42,13.6,Wood
+A21802,DISC Off White/Walnut - Shabby Chic (25M/BOX),27,65,20.95,Wood
+A22202,DISC Walnut - Providence (40M/BOX),19,67,16.95,Wood
+A22301,DISC - Off White - Shabby Chic (80M/BOX),19,41,12.75,Wood
+A22401,DISC Off White - Shabby Chic (45M/BOX),19,67,13.8,Wood
+A22904,DISC Black - Woodland (90M/BOX),19,43,10.2,Wood
+A23004,DISC - Black - Woodland (75M/BOX),19,51,11.4,Wood
+A23201,DISC Light Walnut/Black - Tamworth (200M/BOX),15,30,9.4,Wood
+A23301,DISC Light Walnut/Black - Tamworth (100M/BOX),15,43,11.75,Wood
+A23501,DISC - Teak - Burnley (100M/BOX),20,32,9.95,Wood
+A23502,DISC - Light Walnut - Burnley (100M/BOX),20,32,10.85,Wood
+A23503,DISC - Mocha - Burnley (100M/BOX),20,32,10.85,Wood
+A23601,DISC - Teak - Burnley (88M/BOX),20,42,13.05,Wood
+A23602,DISC - Light Walnut - Burnley (88M/BOX),20,42,13.05,Wood
+A23603,Mocha  - Burnley (88M/BOX),20,42,13.05,Wood
+A23701,DISC - Teak - Burnley (65M/BOX),20,56,16.3,Wood
+A23702,DISC - Light Walnut - Burnley (65M/BOX),20,56,16.3,Wood
+A23703,DISC - Mocha - Burnley (65M/BOX),20,56,16.3,Wood
+A24202,DISC - DISC - Walnut - Compass (140M/BOX),20,25,10.85,Wood
+A24203,Mocha - Compass (140M/BOX),20,25,10.85,Wood
+A24204,DISC - DISC - Black - Compass (140M/BOX),20,25,10.85,Wood
+A24302,Walnut - Compass (70M/BOX),26,40,15.25,Wood
+A24303,DISC - Mocha - Compass (70M/BOX),26,40,15.25,Wood
+A24304,DISC - Black - Compass (70M/BOX),26,40,15.25,Wood
+A51701,DISC - Matte Black - Reflections (60M/BOX),23,48,12.75,Wood
+A52001,Black - Cosmopolitan (100M/BOX),18,41,10.95,Wood
+A52013,White - Cosmopolitan (100M/BOX),18,41,10.95,Wood
+A52801,Gold - Monarch (16M/BOX),51,80,40.95,Wood
+A52802,Silver - Monarch (15M/BOX),51,80,40.95,Wood
+A53401,Black - Marquis (160M/BOX),30,20,9.3,Wood
+A53413,White - Marquis (160M/BOX),30,20,9.3,Wood
+A53501,Black - Vienna (176M/Box),20,15,5.95,Wood
+A53513,White - Vienna (176M/Box),20,15,5.95,Wood
+A53601,Black - Vienna (110M/BOX),20,20,6.35,Wood
+A53613,White - Vienna (110M/BOX),20,20,6.35,Wood
+A53701,Black - Vienna (130M/BOX),20,31,8.2,Wood
+A53713,White - Vienna (131M/BOX),20,31,8.2,Wood
+A54801,Gloss Black/Gold - Bond (200M/BOX),20,25,12.95,Wood
+A54901,Matte Black - Dianna (130M/BOX),15,25,8.95,Wood
+A54902,Gloss Black - Dianna (130M/BOX),15,25,8.95,Wood
+A55201,Walnut/Gold - Capri (170M/BOX),20,31,12.95,Wood
+A55202,Mahogany/Gold - Capri (170M/BOX),20,31,12.95,Wood
+A55301,Walnut/Gold - Capri (90M/BOX),21,50,17.95,Wood
+A55302,Mahogany/Gold - Capri (90M/BOX),21,50,17.95,Wood
+A55902,DISC Silver/Black - Aristocrat (135M/BOX),17,23,8.55,Wood
+A56001,Black - Chalet (65M/BOX),20,60,17.35,Wood
+A56007,Broken Silver - Chalet (40M/BOX),20,60,13.95,Wood
+A56013,White - Chalet (65M/BOX),20,60,17.35,Wood
+A56101,Black - Genesis (131M/BOX),40,20,12.3,Wood
+A56113,White - Genesis (131M/BOX),40,20,12.3,Wood
+A56201,Black - Santa Fe (110M/BOX),25,30,11.3,Wood
+A56213,White - Santa Fe (110M/BOX),25,30,11.3,Wood
+A56401,Walnut/Gold - Cremorne (130M/BOX),19,19,8.95,Wood
+A56402,Mahogany/Gold - Cremorne (130M/BOX),19,19,8.95,Wood
+A56403,Black/Gold - Cremorne (130M/BOX),19,19,8.95,Wood
+A56404,Black/Silver - Cremorne (130M/BOX),19,19,8.95,Wood
+A56702,DISC - Silver - Delta (50M/BOX),40,59,36.45,Wood
+A56802,DISC Silver - Pagan (45M/BOX),52,32,21.1,Wood
+A56901,BLACK - LOFT (28M/BOX),25,40,15.05,Wood
+A56902,DISC - DISC - WHITE - LOFT (28M/BOX),25,40,15.05,Wood
+A56903,DUST - LOFT (28M/BOX),25,40,15.05,Wood
+A57001,DISC - BLACK - LOFT (16M/BOX),32,65,22.4,Wood
+A57002,DISC WHITE - LOFT (16M/BOX),32,65,17.5,Wood
+A57003,DISC DUST - LOFT (16M/BOX),32,65,17.5,Wood
+A57701,Gold - Diablo (52M/BOX),33,55,19.95,Wood
+A57702,Silver - Diablo (52M/BOX),33,55,19.95,Wood
+A57703,Black/Gold - Diablo (52M/BOX),33,55,19.95,Wood
+A58101,Gold/Black - Wellington (35M/BOX),35,67,39.95,Wood
+A58102,Silver - Wellington (35M/BOX),35,67,39.95,Wood
+A58202,Silver - Classique (25M/BOX),35,90,42.15,Wood
+A58901,Gold - San Marino (140M/BOX),20,28,14.8,Wood
+A58902,Silver - San Marino (140M/BOX),20,28,14.8,Wood
+A59001,Gold - Revelle (95M/BOX),19,38,15.95,Wood
+A59002,Silver - Revelle (95M/BOX),19,38,15.95,Wood
+A59501,DISC - DISC - Gold - Venice (15M/BOX),40,100,41.6,Wood
+A59502,Silver - Venice (15M/BOX),40,100,41.6,Wood
+A59802,DISC Silver/Gold - Madrid (35M/BOX),36,81,28.55,Wood
+A60001,DISC Gold/Black - Milano (140M/BOX),22,30,12.45,Wood
+A61401,Gold/Black - Opel (100M/BOX),9,17,7.25,Wood
+A61402,DISC Silver/Black - Opel (100M/BOX),9,17,4.15,Wood
+A62101,Matte Black - Seattle (300M/BOX),14,12,7.25,Wood
+A62106,Gold - Seattle (300M/BOX),14,12,7.25,Wood
+A62107,Silver - Seattle (300M/BOX),14,12,7.25,Wood
+A63001,Off White - Masters (40M/BOX),30,65,21.95,Wood
+A63101,Off White - Masters (90M/BOX),20,42,12.95,Wood
+A63301,Gold - Decal (70M/BOX),28,38,20.95,Wood
+A63302,Silver - Decal (70M/BOX),28,38,20.95,Wood
+A63601,Gold - Imperial (100M/BOX),8,17,7.25,Wood
+A63602,Silver - Imperial (100M/BOX),8,17,7.25,Wood
+A63901,Gold - Amalfi (100M/BOX),9,17,7.25,Wood
+A63902,Silver - Amalfi (100M/BOX),9,17,7.25,Wood
+A64202,DISC Silver - Manhattan (65M/BOX),40,21,13.8,Wood
+A64203,Matte Black - Manhattan (70M/BOX),40,21,14.15,Wood
+A64204,White - Manhattan (70M/BOX),40,21,14.15,Wood
+A64302,DISC - Silver Leaf - Manhattan (65M/BOX),22,30,11.45,Wood
+A64303,Matte Black - Manhattan (90M/BOX),22,30,9.95,Wood
+A64304,White - Manhattan (105M/BOX),22,30,9.95,Wood
+A64402,Silver Leaf - Manhattan (55M/BOX),22,45,15.25,Wood
+A64403,Matte Black - Manhattan (55M/BOX),22,45,14.5,Wood
+A64404,White - Manhattan (55M/BOX),22,45,14.5,Wood
+A64502,Silver Leaf - Manhattan (30M/BOX),28,65,25.05,Wood
+A64503,Matte Black - Manhattan (30M/BOX),28,65,21.75,Wood
+A64504,White - Manhattan (30M/BOX),28,65,21.75,Wood
+A65001,Bronze - Manhattan (165MTRS/BOX),23,23,8.95,Wood
+A65002,Concrete - Manhattan (165MTRS/BOX),23,23,8.95,Wood
+A65003,Matte Black - Manhattan (165MTRS/BOX),23,23,8.25,Wood
+A65004,Matte White - Manhattan (165MTRS/BOX),23,23,8.25,Wood
+A65101,Bronze - Manhattan (44MTRS/BOX),33,50,19.95,Wood
+A65102,Concrete - Manhattan (44MTRS/BOX),33,50,19.95,Wood
+A65103,Matte Black - Manhattan (44MTRS/BOX),33,50,19.5,Wood
+A65104,Matte White - Manhattan (44MTRS/BOX),33,50,19.5,Wood
+A65501,Off White - Masters (190M/BOX),18,26,9.7,Wood
+A65701,Gold Embossed - Windsor (25M/BOX),46,80,41.95,Wood
+A65702,Silver Embossed - Windsor (25M/BOX),46,80,41.95,Wood
+A65801,Gold Embossed - Elizabeth (25M/BOX),41,85,43.95,Wood
+A65802,Silver Embossed - Elizabeth (25M/BOX),41,85,43.95,Wood
+A65901,Gold Embossed - Romano (190M/BOX),19,20,12.5,Wood
+A65902,Silver Embossed - Romano (190M/BOX),19,20,12.5,Wood
+A65903,Black Embossed - Romano (190M/BOX),19,20,12.5,Wood
+A66001,DISC - Black/Gold - Juliet (60M/BOX),34,45,22.3,Wood
+A66002,DISC - Black/Silver - Juliet (60M/BOX),34,45,22.3,Wood
+A66003,DISC - Black - Juliet (45M/BOX),34,45,22.3,Wood
+A66004,DISC - White - Juliet (45M/BOX),34,45,22.3,Wood
+A66005,DISC Lime Wash - Juliet (60M/BOX),34,45,22.3,Wood
+A660RAW,Raw - Juliet (60M/BOX),34,45,18.35,Wood
+A66107,Black - Pacific (100M/BOX),7,15,7.25,Wood
+A66108,White - Pacific (100M/BOX),7,15,7.25,Wood
+A66109,Gold - Pacific (100M/BOX),7,15,7.25,Wood
+A66110,Silver - Pacific (400M/BOX),7,15,7.25,Wood
+A66601,DISC - Teak - Chateau (130M/BOX),20,31,16.45,Wood
+A66603,DISC Chocolate - Chateau (130M/BOX),20,31,8.9,Wood
+A66801,Light Walnut - Provincial (95M/BOX),20,43,15.95,Wood
+A66803,Chocolate - Provincial (95M/BOX),20,43,15.95,Wood
+A66901,Light Walnut - Provincial (30M/BOX),21,90,29.95,Wood
+A66903,Chocolate - Provincial (30M/BOX),21,90,29.95,Wood
+A68401,Matte Black - Madisson (50M/BOX),35,41,18.95,Wood
+A68402,Matte White - Madisson (50M/BOX),35,41,18.95,Wood
+A68407,DISC Silver Crosshatch - Madisson (50M/BOX),35,41,19.85,Wood
+A68701,Gold Ornate - Aria (150M/BOX),21,20,13.95,Wood
+A68702,Silver Ornate  - Aria (150M/BOX),21,20,13.95,Wood
+A68703,Black Ornate - Aria (150M/BOX),21,20,13.95,Wood
+A69401,Black/Gold - Studio (145M/BOX),23,37,12.95,Wood
+A69402,Black/Silver - Studio (145M/BOX),23,37,12.95,Wood
+A69501,Black/Gold - Studio (100M/BOX),23,48,17.5,Wood
+A69502,Black/Silver - Studio (100M/BOX),23,48,17.5,Wood
+A69601,DISC Black/Gold - Studio (55M/BOX),30,65,22.3,Wood
+A69602,DISC Black/Silver - Studio (55M/BOX),30,65,22.3,Wood
+A69901,DISC Black/Gold - Alto (70M/BOX),26,54,16.4,Wood
+A69902,DISC - Black/Silver - Alto (70M/BOX),26,54,21,Wood
+A70201,DISC - Black/Gold - Circa (55M/BOX),30,40,20.05,Wood
+A70202,DISC - Black/Silver - Circa (55M/BOX),30,40,20.05,Wood
+A70301,DISC - Black/Gold - Circa (40M/BOX),27,67,28.15,Wood
+A70302,DISC Black/Silver - Circa (40M/BOX),27,67,23.9,Wood
+A70501,Gold - Circa (100M/BOX),6,13,7.25,Wood
+A70502,Silver - Circa (100M/BOX),6,13,7.25,Wood
+A70601,Black/Gold - Alto (95M/BOX),32,27,15.85,Wood
+A70602,Black/Silver - Alto (95M/BOX),32,27,15.85,Wood
+A70701,Black/Gold - Aurora (50M/BOX),33,31,20.95,Wood
+A70702,Black/Silver - Aurora (50M/BOX),33,31,20.95,Wood
+A70901,Gold - Siena (110M/BOX),23,26,15.85,Wood
+A70902,DISC Silver - Siena (110M/BOX),23,26,9.95,Wood
+A71002,Silver - Corporate (110M/BOX),20,25,13.75,Wood
+A71102,Silver - Corporate (88M/BOX),29,28,15.85,Wood
+A71103,Matte Black - Corporate (88M/BOX),29,28,14.95,Wood
+A71202,Silver - Corporate (50M/BOX),26,40,16.95,Wood
+A71302,Silver - Corporate (30M/BOX),32,62,25.4,Wood
+A71402,Silver - Corporate (40M/BOX),28,60,25.4,Wood
+A72004,DISC Mocha - Faux Ramin (110M/BOX),18,41,9.85,Wood
+A72009,DISC - Charcoal - Faux Ramin (110M/BOX),18,41,11.6,Wood
+A72101,Gold - Artisan (65M/BOX),25,41,23.95,Wood
+A72102,Silver - Artisan (65M/BOX),25,41,23.95,Wood
+A72201,Gold - Artisan (25M/BOX),41,70,47.95,Wood
+A72202,Silver - Artisan (25M/BOX),41,70,47.95,Wood
+A72401,DISC Gold - Artisan (45M/BOX),29,57,24.65,Wood
+A72402,DISC Silver - Artisan (45M/BOX),29,57,27.4,Wood
+A72503,Black - Linea (40M/BOX),77,26,29.95,Wood
+A72505,White - Linea  (40 MTRS/BOX),77,26,29.95,Wood
+A72701,Gold - Divine (65M/BOX),22,41,15.95,Wood
+A72702,Silver - Divine (65M/BOX),22,41,15.95,Wood
+A72801,Gold Embossed - Royale (87M/BOX),26,44,16.95,Wood
+A72802,Silver Embossed - Royale (45M/BOX),26,44,16.95,Wood
+A73001,Black - Astin (100M/BOX),28,20,11.5,Wood
+A73101,DISC Black - Ikon (95M/BOX),42,14,9.95,Wood
+A73201,Black - Ikon (100M/BOX),68,20,19.95,Wood
+A73604,Mocha - Faux Ramin (110M/BOX),20,20,7.95,Wood
+A73609,DISC - DISC - Charcoal - Faux Ramin (110M/BOX),20,20,7.95,Wood
+A73704,DISC - Mocha - Faux Ramin (130M/BOX),19,30,9.95,Wood
+A73709,Charcoal - Faux Ramin (130M/BOX),19,30,9.95,Wood
+A75401,Matte Black - Martini (200M/BOX),15,15,6.95,Wood
+A75501,DISC Matte Black - Martini (180M/BOX),20,27,7.9,Wood
+A75601,DISC Matte Black - Martini (95M/BOX),20,50,15.7,Wood
+A76004,DISC Mocha - Faux Ramin (65M/BOX),20,60,10.45,Wood
+A76009,DISC - Charcoal - Faux Ramin (65M/BOX),20,60,17.45,Wood
+A76104,DISC Mocha - Faux Ramin (131M/BOX),40,20,8.35,Wood
+A76109,Charcoal - Faux Ramin (131M/BOX),40,20,13.95,Wood
+A76901,Black - Aspen (60M/BOX),30,36,15.95,Wood
+A76903,DISC Mocha - Aspen (60M/BOX),30,36,12.65,Wood
+A77801,Teak - Asgard (110M/BOX),20,42,15.95,Wood
+A77802,Dark Walnut - Asgard (110M/BOX),20,42,15.95,Wood
+A77901,DISC Teak - Asgard (65M/BOX),20,66,24.3,Wood
+A77902,DISC Dark Walnut - Asgard (65M/BOX),20,66,20.6,Wood
+A79601,Black - Axis (200M/BOX),16,16,8.95,Wood
+A79602,White - Axis (176M/Box),16,16,8.95,Wood
+A79604,Gold - Axis (200M/BOX),16,16,8.95,Wood
+A79605,Silver - Axis (200M/BOX),16,16,8.95,Wood
+A80101,Silver - Metropole (110M/BOX),20,20,6.95,Wood
+A80102,Silver Crosshatch - Metropole (110M/BOX),20,20,6.95,Wood
+A80103,DISC - Champagne - Metropole (110M/BOX),20,20,5.85,Wood
+A80201,DISC - Silver - Metropole (131M/BOX),20,30,7.05,Wood
+A80202,DISC - Silver Crosshatch - Metropole (131M/BOX),20,30,7.05,Wood
+A80301,DISC - Silver - Metropole (65M/BOX),20,40,9.4,Wood
+A80302,DISC - Silver Crosshatch - Metropole (98M/BOX),20,40,9.4,Wood
+A80401,DISC - Black - Metropole (110M/BOX),15,20,6.55,Wood
+A80402,DISC - Mocha - Metropole (110M/BOX),15,20,6.55,Wood
+A80403,DISC - Mahogany - Metropole (110M/BOX),15,20,6.55,Wood
+A80404,DISC - Teak - Metropole (110M/BOX),15,20,6.55,Wood
+A80405,DISC - White - Metropole (110M/BOX),15,20,6.55,Wood
+A80501,DISC - Black - Metropole (120M/BOX),15,30,8.4,Wood
+A80502,DISC - Mocha - Metropole (120M/BOX),15,30,8.4,Wood
+A80503,DISC - Mahogany - Metropole (120M/BOX),15,30,8.4,Wood
+A80504,DISC - Teak - Metropole (120M/BOX),15,30,8.4,Wood
+A80505,DISC - White - Metropole (170M/BOX),15,30,8.4,Wood
+A80601,DISC - Black - Metropole (80M/BOX),15,40,10.55,Wood
+A80602,DISC - Mocha - Metropole (80M/BOX),15,40,10.55,Wood
+A80603,DISC - Mahogany - Metropole (80M/BOX),15,40,10.55,Wood
+A80604,DISC Teak - Metropole (80M/BOX),15,40,6.45,Wood
+A80605,DISC - White - Metropole (80M/BOX),15,40,10.55,Wood
+A80701,DISC - Black - Metropole (170M/BOX),30,20,9.9,Wood
+A80702,DISC - Mocha - Metropole (170M/BOX),30,20,9.9,Wood
+A80703,DISC Mahogany - Metropole (170M/BOX),30,20,7.05,Wood
+A80705,DISC - White - Metropole (170M/BOX),30,20,9.9,Wood
+A80901,DISC Walnut - Hawthorne (78M/BOX),17,42,6.55,Wood
+A81001,Black/Silver - Sterling (180M/BOX),30,20,11.15,Wood
+A81002,DISC White/Silver - Sterling (180M/BOX),30,20,6.65,Wood
+A81101,Black/Silver - Sterling (130M/BOX),19,29,8.85,Wood
+A81102,White/Silver - Sterling (150M/BOX),19,29,8.85,Wood
+A81201,Black/Gold - Amaretto (42M/BOX),47,33,23.95,Wood
+A81202,Black/Silver - Amaretto (42M/BOX),47,33,23.95,Wood
+A81203,Mahogany/Gold - Amaretto (42M/BOX),47,33,23.6,Wood
+A81301,Light Walnut - Chatsworth (100M/BOX),20,42,13.5,Wood
+A81901,Black/Gold - Juliet (35M/BOX),56,45,26.95,Wood
+A81902,Black/Silver - Juliet (35M/BOX),56,45,26.95,Wood
+A81903,Black - Juliet (35M/BOX),56,45,26.95,Wood
+A81904,White - Juliet (35M/BOX),56,45,26.95,Wood
+A81905,Full Gold - Juliet (35M/BOX),56,45,28.5,Wood
+A81906,Full Silver - Juliet (35M/BOX),56,45,28.5,Wood
+A82001,Light Brown - Pioneer (85M/BOX),20,30,10.4,Wood
+A82002,Mahogany - Pioneer (85M/BOX),20,30,10.4,Wood
+A82003,Mocha - Pioneer (85M/BOX),20,30,10.4,Wood
+A82101,Light Brown - Pioneer (75M/BOX),20,42,12.15,Wood
+A82102,Mahogany - Pioneer (75M/BOX),20,42,12.15,Wood
+A82103,Mocha - Pioneer (75M/BOX),20,42,12.15,Wood
+A82201,Light Brown - Pioneer (55M/BOX),20,62,18.25,Wood
+A82202,Mahogany - Pioneer (55M/BOX),20,62,18.25,Wood
+A82203,Mocha - Pioneer (55M/BOX),20,62,18.25,Wood
+A82401,DISC - Black/Silver - Sterling (110M/BOX),20,20,7.65,Wood
+A82402,White/Silver - Sterling (110M/BOX),20,20,7.65,Wood
+A82501,DISC - Black/Silver - Sterling (90M/BOX),28,35,18.3,Wood
+A82502,DISC White/Silver - Sterling (90M/BOX),28,35,13.05,Wood
+A82701,Black/Gold - Di Santo (65M/BOX),35,39,23.7,Wood
+A82702,Black/Silver - Di Santo (65M/BOX),35,39,23.7,Wood
+A83001,Gold - Loretta (115M/BOX),21,28,13.75,Wood
+A83002,Silver - Loretta (115M/BOX),21,28,13.75,Wood
+A83003,Pewter - Loretta (115M/BOX),21,28,13.75,Wood
+A83101,Gold - Loretta (80M/BOX),22,45,18.7,Wood
+A83102,Silver - Loretta (80M/BOX),22,45,18.7,Wood
+A83103,Pewter - Loretta (80M/BOX),22,45,18.7,Wood
+A83401,Gold - Floret (100M/BOX),34,23,13.75,Wood
+A83402,Silver - Floret (100M/BOX),34,23,13.75,Wood
+A83403,Pewter - Floret (100M/BOX),34,23,13.75,Wood
+A83501,DISC Gold - Floret (70M/BOX),24,45,18.2,Wood
+A83502,DISC Silver - Floret (70M/BOX),24,45,17.15,Wood
+A83503,DISC Pewter - Floret (70M/BOX),24,45,17.15,Wood
+A83904,DISC Silver - Adeline (174M/BOX),17,25,13.35,Wood
+A84004,Silver - Adeline (78M/BOX),21,46,23.35,Wood
+A84104,DISC Silver - Adeline (46M/BOX),24,68,22.8,Wood
+A84301,Gold - Chantilly (145M/BOX),24,20,13.95,Wood
+A84302,Silver - Chantilly (145M/BOX),24,20,13.95,Wood
+A84303,Black - Chantilly (145M/BOX),24,20,13.95,Wood
+A84304,White - Chantilly (145M/BOX),24,20,13.95,Wood
+A84401,Gold - Rochelle (105M/BOX),25,25,16.45,Wood
+A84402,Silver - Rochelle (105M/BOX),25,25,16.45,Wood
+A84403,Black - Rochelle (105M/BOX),25,25,16.45,Wood
+A84404,White - Rochelle (105M/BOX),25,25,16.45,Wood
+A84503,Black - Lorient (15M/BOX),40,75,36.95,Wood
+A84504,White - Lorient (15M/BOX),40,75,36.95,Wood
+A84601,Black - Freya (145M/BOX),29,16,8.95,Wood
+A84602,Mocha - Freya (145M/BOX),29,16,8.95,Wood
+A84603,White - Freya (145M/BOX),29,16,8.95,Wood
+A84701,Black - Freya (95M/BOX),38,20,9.95,Wood
+A84702,Mocha - Freya (95M/BOX),38,20,9.95,Wood
+A84703,White - Freya (95M/BOX),38,20,9.95,Wood
+A84801,DISC Black - Freya (65M/BOX),45,28,17.2,Wood
+A84802,Mocha - Freya (65M/BOX),45,28,13.95,Wood
+A84803,White - Freya (65M/BOX),45,28,13.95,Wood
+A84901,Black - Obsidian (44M/BOX),27,52,19.95,Wood
+A85001,Black - Obsidian (22M/BOX),42,82,31.95,Wood
+A85301,Gold - Peony (125M/BOX),21,24,13.95,Wood
+A85302,Silver - Peony (125M/BOX),21,24,13.95,Wood
+A85303,Silver/Black - Peony (125M/BOX),21,24,13.95,Wood
+A85304,DISC - Gold/Red - Peony (125M/BOX),21,24,12.75,Wood
+A85305,Gold/White - Peony (125M/BOX),21,24,13.95,Wood
+A85401,DISC Gold - Peony (75M/BOX),21,42,18.75,Wood
+A85402,DISC - Silver - Peony (75M/BOX),21,42,20.35,Wood
+A85403,DISC Silver/Black - Peony (75M/BOX),21,42,18.75,Wood
+A85404,DISC Gold/Red - Peony (75M/BOX),21,42,18.75,Wood
+A85405,DISC Gold/White - Peony (75M/BOX),21,42,15.85,Wood
+A85701,DISC - Black/Silver - Halo (135M/BOX),21,21,11.45,Wood
+A85702,DISC - Mocha/Silver - Halo (135M/BOX),21,21,11.45,Wood
+A85703,DISC - White/Silver - Halo (135M/BOX),21,21,11.45,Wood
+A85801,DISC Black/Silver - Halo (65M/BOX),21,44,14.7,Wood
+A85802,DISC - Mocha/Silver - Halo (65M/BOX),21,44,18.85,Wood
+A85803,DISC - White/Silver - Halo (65M/BOX),21,44,18.85,Wood
+A87801,Black - De Havilland  (117M/BOX),21,25,10.95,Wood
+A87802,White - De Havilland  (117M/BOX),21,25,10.95,Wood
+A87901,Black - De Havilland  (53M/BOX),28,47,18.95,Wood
+A87902,White - De Havilland  (53M/BOX),28,47,18.95,Wood
+A88001,DISC - Black - De Havilland  (22M/BOX),51,75,31.75,Wood
+A88002,DISC - White - De Havilland  (22M/BOX),51,75,31.75,Wood
+A88101,Gold - Cairo (94M/BOX),24,34,15.7,Wood
+A88102,Silver - Cairo (94M/BOX),24,34,15.7,Wood
+A88201,Gold - Cairo (41M/BOX),35,59,27.95,Wood
+A88202,Silver - Cairo (41M/BOX),35,59,27.95,Wood
+A88301,Walnut/Gold - Cruz (64M/BOX),29,45,24.95,Wood
+A88401,Walnut/Gold - Cruz (26M/BOX),51,62,40.95,Wood
+A88501,DISC Black Distressed - Mosman (50M/BOX),19,50,12.95,Wood
+A88502,DISC - White Distressed - Mosman (50M/BOX),19,50,15.85,Wood
+A88601,DISC Black Distressed - Mosman (23M/BOX),29,100,21.35,Wood
+A88602,DISC White Distressed - Mosman (23M/BOX),29,100,27.95,Wood
+A88701,DISC - Black Timber Grain - Havana (109M/BOX),20,20,5.45,Wood
+A88702,DISC White Timber Grain - Havana (109M/BOX),20,20,5.1,Wood
+A88703,DISC Brown Timber Grain - Havana (109M/BOX),20,20,4.95,Wood
+A88801,DISC Black Timber Grain - Havana (109M/BOX),28,28,7.65,Wood
+A88802,DISC White Timber Grain - Havana (109M/BOX),28,28,8.15,Wood
+A88803,DISC Brown Timber Grain - Havana (109M/BOX),28,28,6.45,Wood
+A88901,DISC - Black Timber Grain - Havana (90M/BOX),20,42,11.75,Wood
+A88902,DISC - White Timber Grain - Havana (90M/BOX),20,42,11.75,Wood
+A88903,DISC Brown Timber Grain - Havana (90M/BOX),20,42,6.95,Wood
+A89001,Black Timber Grain - Havana (50M/BOX),23,74,14.95,Wood
+A89002,DISC - White Timber Grain - Havana (50M/BOX),23,74,17.95,Wood
+A89003,DISC Brown Timber Grain - Havana (50M/BOX),23,74,12.7,Wood
+A89101,Black Timber Grain - Havana (30M/BOX),90,41,29.95,Wood
+A89102,DISC White Timber Grain - Havana (30M/BOX),90,41,34.05,Wood
+A89103,DISC Brown Timber Grain - Havana (30M/BOX),90,41,23.5,Wood
+A89801,Matte Gold - Fillet (100M/BOX),7,13,7.25,Wood
+A89802,Matte Silver - Fillet (100M/BOX),7,13,7.25,Wood
+A89803,Matte Black - Fillet (100M/BOX),7,13,7.25,Wood
+A89804,DISC Matte White - Fillet (100M/BOX),7,13,3.95,Wood
+A89805,DISC Matte Red - Fillet (100M/BOX),7,13,3.95,Wood
+A89901,DISC Gloss Gold - Fillet (100M/BOX),8,16,4.15,Wood
+A89902,DISC Gloss Silver - Fillet (100M/BOX),8,16,4.15,Wood
+A89903,DISC Gloss Black - Fillet (100M/BOX),8,16,4.15,Wood
+A89904,DISC Gloss White - Fillet (100M/BOX),8,16,4.15,Wood
+A89905,DISC Gloss Red - Fillet (100M/BOX),8,16,4.15,Wood
+A89906,DISC Natural - Fillet (100M/BOX),8,16,4.15,Wood
+A89907,DISC Charcoal - Fillet (100M/BOX),8,16,4.15,Wood
+A90001,COGNAC/GOLD - RADICA (30M/BOX),40,65,37.4,Wood
+A90101,DISC - Off White  - Shabby Chic (35M/BOX),27,88,37.4,Wood
+A90102,GOLD - BAROCCO FLOAT (48M/BOX),54,42,24.35,Wood
+A90103,SILVER - BAROCCO FLOAT (48M/BOX),54,42,24.35,Wood
+A90104,SILVER /BLACK - BAROCCO FLOAT (48M/BOX),54,42,24.35,Wood
+A90105,SILVER /WHITE - BAROCCO FLOAT (48M/BOX),54,42,24.35,Wood
+A90201,DISC - Off White  - Shabby Chic (80M/BOX),27,42,22.95,Wood
+A90301,GOLD - BAROCCO (120M/BOX),36,18,15.2,Wood
+A90302,SILVER - BAROCCO (120M/BOX),36,18,15.2,Wood
+A90401,COGNAC/GOLD - RADICA (72M/BOX),30,45,24.5,Wood
+A90501,COGNAC /GOLD - RADICA (90M/BOX),22,33,17,Wood
+A90701,Silver/Black - Pastel (177M/BOX),20,20,10.95,Wood
+A90702,Silver/Red - Pastel (177M/BOX),20,20,10.95,Wood
+A90703,DISC Silver/Yellow - Pastel (177M/BOX),20,20,5.85,Wood
+A90704,Silver/Blue - Pastel (177M/BOX),20,20,10.95,Wood
+A90705,Silver/Green - Pastel (177M/BOX),20,20,10.95,Wood
+A91301,DISC - Charcoal - Pasadena (147M/BOX),18,25,8.45,Wood
+A91302,DISC Mocha - Pasadena (147M/BOX),18,25,8.45,Wood
+A91401,DISC Charcoal - Pasadena (70M/BOX),20,40,15.3,Wood
+A91402,DISC - Mocha - Pasadena (70M/BOX),20,40,13.75,Wood
+A91501,DISC Charcoal - Pasadena (47M/BOX),22,68,24.7,Wood
+A91502,DISC Mocha - Pasadena (47M/BOX),22,68,22.25,Wood
+AI299001,Oak - Essenza - ITL CLS (45 MTRS/BOX),20,30,15.6,Wood
+AI300001,Oak - Essenza - ITL CS (144M/BOX),40,20,17.95,Wood
+AI300101,Oak - Essenza - ITL CS (192M/BOX),20,20,13.25,Wood
+AI300201,Black - Moda - ITL CS (216M/BOX),40,13,10.95,Wood
+AI300205,White - Moda - ITL CS (216M/BOX),40,13,10.95,Wood
+AI300216,DISC Taupe - Moda - ITL CS (216M/BOX),40,13,6.5,Wood
+AI300217,DISC Grey - Moda - ITL CS (216M/BOX),40,13,6.5,Wood
+AI300218,DISC Light Grey - Moda - ITL CS (216M/BOX),40,13,6.5,Wood
+AI300301,Black - Moda - ITL CS (408M/BOX),16,13,8.95,Wood
+AI300305,White - Moda - ITL CS (408M/BOX),16,13,8.95,Wood
+AI300316,DISC Taupe - Moda - ITL CS (408M/BOX),16,13,4.3,Wood
+AI300317,DISC Grey - Moda - ITL CS (408M/BOX),16,13,4.3,Wood
+AI300318,DISC Light Grey - Moda - ITL CS (408M/BOX),16,13,4.3,Wood
+AI300401,DISC Black - Antique - ITL CS (102M/BOX),30,30,14.4,Wood
+AI300402,DISC Natural - Antique - ITL CS (102M/BOX),30,30,14.4,Wood
+AI300403,DISC White - Antique - ITL CS (102M/BOX),30,30,14.4,Wood
+AI300501,DISC Black - Antique - ITL CS (126M/BOX),39,21,13.35,Wood
+AI300502,DISC Natural - Antique - ITL CS (126M/BOX),39,21,13.35,Wood
+AI300503,DISC White - Antique - ITL CS (126M/BOX),39,21,13.35,Wood
+AI300601,DISC Black - Antique - ITL CS (252M/BOX),16,20,9.25,Wood
+AI300602,DISC Natural - Antique - ITL CS (252M/BOX),16,20,9.25,Wood
+AI300603,DISC White - Antique - ITL CS (252M/BOX),16,20,9.25,Wood
+AI301001,DISC Gold/White - Avalanche - ITL CS (144M/BOX),37,19,14.8,Wood
+AI301002,DISC Silver/White - Avalanche - ITL CS (144M/BOX),37,19,14.8,Wood
+AI301101,DISC Gold/White - Avalanche - ITL CS (240M/BOX),20,19,9.85,Wood
+AI301102,DISC Silver/White - Avalanche - ITL CS (240M/BOX),20,19,9.85,Wood
+AI301201,DISC - Ivory - Moma - ITL CS (102M/BOX),22,32,13.8,Wood
+AI301202,DISC - Camel - Moma - ITL CS (102M/BOX),22,32,15.05,Wood
+AI301203,Sand - Moma - ITL CS (102M/BOX),22,32,15.05,Wood
+AI301204,Chocolate - Moma - ITL CS (102M/BOX),22,32,15.05,Wood
+AI301205,Ash - Moma - ITL CS (102M/BOX),22,32,15.05,Wood
+AI301206,Charcoal - Moma - ITL CS (102M/BOX),22,32,15.05,Wood
+AI301301,DISC - Ivory - Moma - ITL CS (66M/BOX),24,48,16.95,Wood
+AI301302,DISC - DISC - Camel - Moma - ITL CS (66M/BOX),24,48,22.35,Wood
+AI301303,Sand - Moma - ITL CS (66M/BOX),24,48,22.35,Wood
+AI301304,Chocolate - Moma - ITL CS (66M/BOX),24,48,22.35,Wood
+AI301305,Ash - Moma - ITL CS (66M/BOX),24,48,22.35,Wood
+AI301306,Charcoal - Moma - ITL CS (66M/BOX),24,48,22.35,Wood
+AI301401,DISC Ivory - Moma - ITL CS (36M/BOX),30,65,27.45,Wood
+AI301402,DISC - Camel - Moma - ITL CS (36M/BOX),30,65,27.45,Wood
+AI301403,DISC - Sand - Moma - ITL CS (36M/BOX),30,65,27.45,Wood
+AI301404,DISC - Chocolate - Moma - ITL CS (36M/BOX),30,65,27.45,Wood
+AI301405,DISC - Ash - Moma - ITL CS (36M/BOX),30,65,27.45,Wood
+AI301406,DISC - Charcoal - Moma - ITL CS (36M/BOX),30,65,27.45,Wood
+AI301501,DISC - DISC - Black - Opera - ITL CS (90M/BOX),30,36,24,Wood
+AI301502,DISC - DISC - White - Opera - ITL CS (90M/BOX),30,36,24,Wood
+AI301601,DISC - DISC - Black - Opera - ITL CS (180M/BOX),20,25,15.05,Wood
+AI301602,DISC - White - Opera - ITL CS (180M/BOX),20,25,15.05,Wood
+AI301701,DISC - Cream - Provence - ITL CS (48M/BOX),41,63,41.2,Wood
+AI301702,Grey - Provence - ITL CS (48M/BOX),41,63,37.8,Wood
+AI301703,DISC - Black - Provence - ITL CS (48M/BOX),41,63,41.2,Wood
+AI301801,Cream - Provence - ITL CS (96M/BOX),24,42,22.85,Wood
+AI301802,Grey - Provence - ITL CS (96M/BOX),24,42,21,Wood
+AI301803,DISC - Black - Provence - ITL CS (96M/BOX),24,42,22.85,Wood
+AI301901,DISC - Cream - Provence - ITL CS (96M/BOX),20,44,21.05,Wood
+AI301902,DISC - Grey - Provence - ITL CS (96M/BOX),20,44,21.05,Wood
+AI301903,DISC - Black - Provence - ITL CS (96M/BOX),20,44,21.05,Wood
+AI302001,Black - Vinci - ITL CLS (24M/Box),38,39,21.15,Wood
+AI302002,White - Vinci - ITL CLS (24M/Box),38,39,21.15,Wood
+AI302003,Oak- Vinci - ITL CLS (24M/Box),38,39,21.15,Wood
+AI302004,Raw - Vinci - ITL CLS (24M/Box),38,39,18.55,Wood
+AI302005,Oak/Black - Vinci - ITL CLS (24M/Box),38,39,27.55,Wood
+AI302006,Wenge/Black - Vinci - ITL CLS (24M/Box),38,39,29.65,Wood
+AI302007,Walnut/Black - Vinci - ITL CLS (24M/Box),38,39,29.65,Wood
+AI302101,Gold - Zenith - ITL CLS (72M/Box),40,50,39.95,Wood
+AI302102,Silver - Zenith - ITL CLS (72M/Box),40,50,39.95,Wood
+AI302103,Gun Metal - Zenith - ITL CLS (72M/Box),40,50,39.95,Wood
+AI302104,Copper - Zenith - ITL CLS (72M/Box),40,50,39.95,Wood
+AI302105,Rose Gold - Zenith - ITL CLS (72M/Box),40,50,39.95,Wood
+AI302201,Black - Nova - ITL CLS (288M/Box),21,22,19.95,Wood
+AI302202,White - Nova - ITL CLS (288M/Box),21,22,19.95,Wood
+AI302203,DISC - Gold - Nova - ITL CLS (288M/Box),21,22,24.95,Wood
+AI302204,DISC - Silver - Nova - ITL CLS (288M/Box),21,22,24.95,Wood
+AI302205,DISC - Gun Metal - Nova - ITL CLS (288M/Box),21,22,24.95,Wood
+AI302206,DISC - Copper - Nova - ITL CLS (288M/Box),21,22,24.95,Wood
+AI302207,DISC - Rose Gold - Nova - ITL CLS (288M/Box),21,22,24.95,Wood
+AI302301,Black - Nova - ITL CLS (174M/Box),35,22,25.95,Wood
+AI302302,White - Nova - ITL CLS (174M/Box),35,22,25.95,Wood
+AI302303,DISC - DISC - Gold - Nova - ITL CLS (174M/Box),35,22,32.75,Wood
+AI302304,DISC - DISC - Silver - Nova - ITL CLS (174M/Box),35,22,32.75,Wood
+AI302305,DISC - DISC - Gun Metal - Nova - ITL CLS (174M/Box),35,22,32.75,Wood
+AI302306,DISC - DISC - Copper - Nova - ITL CLS (174M/Box),35,22,32.75,Wood
+AI302307,DISC - DISC - Rose Gold - Nova - ITL CLS (174M/Box),35,22,32.75,Wood
+AI302401,Black - Nova - ITL CLS (78M/Box),30,40,30.95,Wood
+AI302402,White - Nova - ITL CLS (78M/Box),30,40,30.95,Wood
+AI302403,DISC - Gold - Nova - ITL CLS (78M/Box),30,40,39.95,Wood
+AI302404,DISC - Silver - Nova - ITL CLS (78M/Box),30,40,39.95,Wood
+AI302405,DISC - Gun Metal - Nova - ITL CLS (78M/Box),30,40,39.95,Wood
+AI302406,DISC - Copper - Nova - ITL CLS (78M/Box),30,40,39.95,Wood
+AI302407,DISC - Rose Gold - Nova - ITL CLS (78M/Box),30,40,39.95,Wood
+AI302501,Black - Rivia - ITL CLS (234M/Box),22,20,18,Wood
+AI302502,Grey - Rivia - ITL CLS (234M/Box),22,20,18,Wood
+AI302503,White - Rivia - ITL CLS (234M/Box),22,20,18,Wood
+AI302601,Black - Rivia - ITL CLS (72M/Box),22,50,24.95,Wood
+AI302602,Grey - Rivia - ITL CLS (72M/Box),22,50,24.95,Wood
+AI302603,White - Rivia - ITL CLS (72M/Box),22,50,24.95,Wood
+AI302701,Black - Torino - ITL CLS (180M/Box),29,20,19.05,Wood
+AI302702,Walnut - Torino - ITL CLS (180M/Box),29,20,19.05,Wood
+AI302703,Teak - Torino - ITL CLS (180M/Box),29,20,19.05,Wood
+AI302704,Natural - Torino - ITL CLS (180M/Box),29,20,19.05,Wood
+AI302705,Ash - Torino - ITL CLS (180M/Box),29,20,19.05,Wood
+AI302801,Black - Torino - ITL CLS (72M/Box),35,40,26.45,Wood
+AI302802,Walnut - Torino - ITL CLS (72M/Box),35,40,26.45,Wood
+AI302803,Teak - Torino - ITL CLS (72M/Box),35,40,26.45,Wood
+AI302804,Natural - Torino - ITL CLS (72M/Box),35,40,26.45,Wood
+AI302805,Ash - Torino - ITL CLS (72M/Box),35,40,26.45,Wood
+AI302901,Red/Black - Lore - ITL CLS (72M/Box),35,42,28.6,Wood
+AI302902,Gold/Black - Lore - ITL CLS (72M/Box),35,42,28.6,Wood
+AI302903,Silver/Black - Lore - ITL CLS (72M/Box),35,42,28.6,Wood
+AI303001,Black - Decca - ITL CLS (300M/Box),15,20,16.95,Wood
+AI303002,Walnut - Decca - ITL CLS (300M/Box),15,20,16.95,Wood
+AI303003,Mocha - Decca- ITL CLS (300M/Box),15,20,16.95,Wood
+AI303004,Teak - Decca- ITL CLS (300M/Box),15,20,16.95,Wood
+AI303101,Black - Decca- ITL CLS (72M/Box),20,50,23.95,Wood
+AI303102,Walnut - Decca- ITL CLS (72M/Box),20,50,23.95,Wood
+AI303103,Mocha - Decca- ITL CLS (72M/Box),20,50,23.95,Wood
+AI303104,Teak - Decca- ITL CLS (72M/Box),20,50,23.95,Wood
+AI303201,Gloss Black - Mondo - ITL CLS (300M/Box),22,13,9.95,Wood
+AI303202,Gloss White - Mondo - ITL CLS (300M/Box),22,13,9.95,Wood
+AI303203,Black Grain - Mondo - ITL CLS (300M/Box),22,13,8.75,Wood
+AI303204,White Grain - Mondo - ITL CLS (300M/Box),22,13,8.25,Wood
+AI303205,Grey/Black Grain - Mondo - ITL CLS (300M/Box),22,13,8.25,Wood
+AI303206,Walnut/Black Grain - Mondo - ITL CLS (300M/Box),22,13,8.75,Wood
+AI303207,Raw - Mondo - ITL CLS (300M/Box),22,13,7.4,Wood
+AI303208,Gold - Mondo - ITL CLS (300M/Box),22,13,16.95,Wood
+AI303209,Silver - Mondo - ITL CLS (300M/Box),22,13,16.95,Wood
+AI303210,Bronze- Mondo - ITL CLS (300M/Box),22,13,12.7,Wood
+AI303301,Gold - Sonata - ITL CLS (144M/Box),40,16,33.9,Wood
+AI303302,Silver - Sonata - ITL CLS (144M/Box),40,16,33.9,Wood
+AI304001,Black - Rubens - ITL CLS (40M/Box),45,70,54.95,Wood
+AI304002,Black/Gold - Rubens - ITL CLS (40M/Box),45,70,57.95,Wood
+AI304003,Gold - Rubens - ITL CLS (40M/Box),45,70,59.95,Wood
+AI304004,Silver - Rubens - ITL CLS (40M/Box),45,70,59.95,Wood
+AI304101,Black - Rubens - ITL CLS (82M/Box),30,40,32.5,Wood
+AI304102,Black/Gold - Rubens - ITL CLS (82M/Box),30,40,34.5,Wood
+AI304103,Gold - Rubens - ITL CLS (82M/Box),30,40,35.95,Wood
+AI304104,Silver - Rubens - ITL CLS (82M/Box),30,40,35.95,Wood
+AI304401,Smoked - Cohiba - ITL CLS (130M/Box),23,33,19.95,Wood
+AI304402,Smoked - Cohiba - ITL CLS (174M/Box),34,20,18.95,Wood
+AI304403,Smoked - Cohiba - ITL CLS (120M/Box),52,20,24.95,Wood
+AI304404,Smoked - Cohiba - ITL CLS (100M/Box),50,19,24.95,Wood
+AI304501,Smoked - Cohiba - ITL CLS (130M/Box),23,33,19.95,Wood
+AI304502,Smoked - Cohiba - ITL CLS (174M/Box),34,20,18.95,Wood
+AI304503,Smoked - Cohiba - ITL CLS (120M/Box),52,20,24.95,Wood
+AI304504,Smoked - Cohiba - ITL CLS (100M/Box),50,19,24.95,Wood
+AI304701,DISC - Gold - Oxyd - ITL CLS (84M/Box),31,45,24.95,Wood
+AI304702,DISC - Bronze - Oxyd - ITL CLS (84M/Box),31,45,24.95,Wood
+AI304703,DISC - Platinum - Oxyd - ITL CLS (84M/Box),31,45,24.95,Wood
+AI304801,DISC - Gold - Oxyd - ITL CLS (144M/Box),22,30,17.95,Wood
+AI304802,DISC - Bronze - Oxyd - ITL CLS (144M/Box),22,30,17.95,Wood
+AI304803,DISC - Platinum - Oxyd - ITL CLS (144M/Box),22,30,17.95,Wood
+AI305001,Gold - Diamante - ITL CLS (100M/Box),30,15,23.5,Wood
+AI305002,Silver - Diamante - ITL CLS (100M/Box),30,15,23.5,Wood
+AI305003,Bronze - Diamante - ITL CLS (100M/Box),30,15,23.5,Wood
+AI305004,Gun Metal - Diamante - ITL CLS (100M/Box),30,15,23.5,Wood
+AI305005,Rose Gold - Diamante - ITL CLS (100M/Box),30,15,23.5,Wood
+AI305101,Gold - Diamante - ITL CLS (100M/Box),14,13,12.95,Wood
+AI305102,Silver - Diamante - ITL CLS (100M/Box),14,13,12.95,Wood
+AI305103,Bronze - Diamante - ITL CLS (100M/Box),14,13,12.95,Wood
+AI305104,Gun Metal - Diamante - ITL CLS (100M/Box),14,13,12.95,Wood
+AI305105,Rose Gold - Diamante - ITL CLS (100M/Box),14,13,12.95,Wood
+AI305301,Gold - Diamante - ITL CLS (100M/Box),20,20,19.95,Wood
+AI305302,Silver - Diamante - ITL CLS (100M/Box),20,20,19.95,Wood
+AI305303,Bronze - Diamante - ITL CLS (100M/Box),20,20,19.95,Wood
+AI305304,Gun Metal - Diamante - ITL CLS (100M/Box),20,20,19.95,Wood
+AI305305,Rose Gold - Diamante - ITL CLS (100M/Box),20,20,19.95,Wood
+AI306001,Black - Carbon - ITL CLS (180m box),20,20,11.5,Wood
+AI306101,Black - Carbon - ITL CLS (100m box),35,20,14.5,Wood
+AI306201,Black - Carbon - ITL CLS (72m box),24,44,22.95,Wood
+AI32001,WHITE/NATURAL - FRASSINO - ITL CS (84M/BOX),33,44,23.2,Wood
+AI32002,DISC - GREY /NATURAL - FRASSINO - ITL CS (84M/BOX),33,44,23.2,Wood
+AI32003,DISC - BROWN/NATURAL - FRASSINO - ITL CS (84M/BOX),33,44,23.2,Wood
+AI32004,BLACK /NATURAL - FRASSINO - ITL CS (84M/BOX),33,44,23.2,Wood
+AI32101,DISC - WHITE/NATURAL - FRASSINO - ITL CS (240M/BOX),20,24,12.7,Wood
+AI32102,DISC - GREY /NATURAL - FRASSINO - ITL CS (240M/BOX),20,24,12.7,Wood
+AI32103,DISC - BROWN/NATURAL - FRASSINO - ITL CS (240M/BOX),20,24,12.7,Wood
+AI32104,DISC - BLACK /NATURAL - FRASSINO - ITL CS (240M/BOX),20,24,12.7,Wood
+AI90301,DISC Gold - Rossini - ITL CS (120M/BOX),27,30,19.1,Wood
+AI90302,DISC Pewter - Rossini - ITL CS (120M/BOX),27,30,19.1,Wood
+AI90303,DISC Black - Rossini - ITL CS (120M/BOX),27,30,19.1,Wood
+AI90304,DISC White - Rossini - ITL CS (120M/BOX),27,30,15.5,Wood
+AI90401,DISC Gold - Rossini - ITL CS (60M/BOX),31,48,28.5,Wood
+AI90402,DISC Pewter - Rossini - ITL CS (60M/BOX),31,48,28.5,Wood
+AI90403,DISC Black - Rossini - ITL CS (60M/BOX),31,48,28.5,Wood
+AI90404,DISC White - Rossini - ITL CS (60M/BOX),31,48,23.2,Wood
+AI90701,DISC - White - Rustica - ITL CS (327M/BOX),15,20,15.3,Wood
+AI90702,DISC Black - Rustica - ITL CS (327M/BOX),15,20,15.3,Wood
+AI90703,DISC Light Grey - Rustica - ITL CS (327M/BOX),15,20,15.3,Wood
+AI90801,DISC White - Rustica - ITL CS (120M/BOX),20,40,20.5,Wood
+AI90802,DISC Black - Rustica - ITL CS (120M/BOX),20,40,20.5,Wood
+AI90803,DISC - Light Grey - Rustica - ITL CS (120M/BOX),20,40,20.5,Wood
+AI91101,Black Burl - Sigaro - ITL CS (144M/BOX),23,30,23.1,Wood
+AI91102,Clear Walnut Burl - Sigaro - ITL CS (144M/BOX),23,30,23.1,Wood
+AI91103,Wengewood Burl - Sigaro - ITL CS (144M/BOX),23,30,23.1,Wood
+AI91601,Cream - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91602,Guacamole - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91603,Kiwi - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91604,Navy Blue - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91605,Kingfisher Blue - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91606,Powder Blue - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91607,Violet - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91608,Fuschia - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91609,Blush - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91610,Powder Pink - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91611,Poppy - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91612,Tangerine - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91613,Sunflower - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI91614,DISC Chocolate - Paintbox - ITL CS (300M/BOX),17,17,4.85,Wood
+AI91615,Stormy Grey - Paintbox - ITL CS (300M/BOX),17,17,10.5,Wood
+AI92001,Black - Moda - ITL CS (100M/BOX),20,40,12.5,Wood
+AI92002,Teak - Moda - ITL CS (100M/BOX),20,40,13.5,Wood
+AI92003,Mahogany - Moda - ITL CS (100M/BOX),20,40,13.5,Wood
+AI92004,Walnut - Moda - ITL CS (100M/BOX),20,40,13.5,Wood
+AI92005,White - Moda - ITL CS (100M/BOX),20,40,12.5,Wood
+AI92006,Lime Wash - Moda - ITL CS (100M/BOX),20,40,13.5,Wood
+AI92007,Natural - Moda - ITL CS (100M/BOX),20,40,13.5,Wood
+AI92008,Silver Crosshatch - Moda - ITL CS (100M/BOX),20,40,16.25,Wood
+AI92009,Gold - Moda - ITL CS (100M/BOX),20,40,16.25,Wood
+AI92010,Silver - Moda - ITL CS (100M/BOX),20,40,16.25,Wood
+AI92011,Charcoal - Moda - ITL CS (100M/BOX),20,40,13.5,Wood
+AI92012,DISC - Gloss Black - Moda - ITL CS (100M/BOX),20,40,15.05,Wood
+AI92013,Gloss White - Moda - ITL CS (100M/BOX),20,40,15.05,Wood
+AI92401,Black - Lucida - ITL CS (53M/BOX),55,30,26.45,Wood
+AI92402,White - Lucida - ITL CS (53M/BOX),55,30,26.45,Wood
+AI92403,DISC - Gloss Black - Lucida - ITL CS (53M/BOX),55,30,23.65,Wood
+AI92404,DISC - Gloss White - Lucida - ITL CS (53M/BOX),55,30,23.65,Wood
+AI92405,DISC Metallic Silver - Lucida - ITL CS (53M/BOX),55,30,17.45,Wood
+AI92406,DISC Gloss Red - Lucida - ITL CS (53M/BOX),55,30,15,Wood
+AI92501,DISC - DISC - Matte Black - Lucida - ITL CS (36M/BOX),50,50,39.5,Wood
+AI92502,Matte White - Lucida - ITL CS (36M/BOX),50,50,39.5,Wood
+AI92503,DISC Gloss Black - Lucida - ITL CS (36M/BOX),50,50,25.1,Wood
+AI92504,DISC Gloss White - Lucida - ITL CS (36M/BOX),50,50,25.1,Wood
+AI92505,DISC Metallic Silver - Lucida - ITL CS (36M/BOX),50,50,24.6,Wood
+AI92506,DISC Gloss Red - Lucida - ITL CS (36M/BOX),50,50,23.1,Wood
+AI93401,Black - Moda - ITL CS (150M/BOX),30,20,12.25,Wood
+AI93402,Teak - Moda - ITL CS (150M/BOX),30,20,14.5,Wood
+AI93403,Mahogany - Moda - ITL CS (150M/BOX),30,20,14.5,Wood
+AI93404,Walnut - Moda - ITL CS (150M/BOX),30,20,14.5,Wood
+AI93405,White - Moda - ITL CS (150M/BOX),30,20,12.25,Wood
+AI93406,Lime Wash - Moda - ITL CS (150M/BOX),30,20,13.95,Wood
+AI93407,Natural - Moda - ITL CS (150M/BOX),30,20,14.5,Wood
+AI93408,Silver Crosshatch - Moda - ITL CS (150M/BOX),30,20,18.3,Wood
+AI93409,Gold - Moda - ITL CS (150M/BOX),30,20,18.3,Wood
+AI93410,Silver - Moda - ITL CS (150M/BOX),30,20,18.3,Wood
+AI93411,Charcoal - Moda - ITL CS (150M/BOX),30,20,14.5,Wood
+AI93412,DISC - DISC - Gloss Black - Moda - ITL CS (150M/BOX),30,20,15.65,Wood
+AI93413,Gloss White - Moda - ITL CS (150M/BOX),30,20,15.65,Wood
+AI93414,Metallic Silver - Moda - ITL CS (150M/BOX),30,20,20.5,Wood
+AI93415,DISC - DISC - Metallic Gold - Moda - ITL CS (150M/BOX),30,20,20.5,Wood
+AI93601,Black - Moda - ITL CS (195M/BOX),20,20,8.15,Wood
+AI93602,Teak - Moda - ITL CS (195M/BOX),20,20,8.95,Wood
+AI93603,Mahogany - Moda - ITL CS (195M/BOX),20,20,8.95,Wood
+AI93604,Walnut - Moda - ITL CS (195M/BOX),20,20,8.95,Wood
+AI93605,White - Moda - ITL CS (195M/BOX),20,20,8.15,Wood
+AI93606,Lime Wash - Moda - ITL CS (195M/BOX),20,20,8.95,Wood
+AI93607,Natural - Moda - ITL CS (195M/BOX),20,20,8.95,Wood
+AI93608,Silver Crosshatch - Moda - ITL CS (195M/BOX),20,20,10.75,Wood
+AI93609,Gold - Moda - ITL CS (195M/BOX),20,20,10.75,Wood
+AI93610,Silver - Moda - ITL CS (195M/BOX),20,20,10.75,Wood
+AI93611,Charcoal - Moda - ITL CS (195M/BOX),20,20,8.95,Wood
+AI93612,Gloss Black - Moda - ITL CS (195M/BOX),20,20,10.5,Wood
+AI93613,Gloss White - Moda - ITL CS (195M/BOX),20,20,10.5,Wood
+AI93614,Metallic Silver - Moda - ITL CS (195M/BOX),20,20,9.95,Wood
+AI93615,Metallic Gold - Moda - ITL CS (195M/BOX),20,20,9.95,Wood
+AI93619,Metallic Rose Gold - Moda - ITL CS (195M/BOX),20,20,9.95,Wood
+AI93701,Black - Moda - ITL CS (120M/BOX),20,30,10.75,Wood
+AI93702,Teak - Moda - ITL CS (120M/BOX),20,30,11.25,Wood
+AI93703,Mahogany - Moda - ITL CS (120M/BOX),20,30,11.25,Wood
+AI93704,Walnut - Moda - ITL CS (120M/BOX),20,30,11.25,Wood
+AI93705,White - Moda - ITL CS (120M/BOX),20,30,10.75,Wood
+AI93706,Lime Wash - Moda - ITL CS (120M/BOX),20,30,11.25,Wood
+AI93707,Natural - Moda - ITL CS (120M/BOX),20,30,11.25,Wood
+AI93708,Silver Crosshatch - Moda - ITL CS (120M/BOX),20,30,13.5,Wood
+AI93709,Gold - Moda - ITL CS (120M/BOX),20,30,13.5,Wood
+AI93710,Silver - Moda - ITL CS (120M/BOX),20,30,13.5,Wood
+AI93711,Charcoal - Moda - ITL CS (120M/BOX),20,30,11.25,Wood
+AI93712,Gloss Black - Moda - ITL CS (120M/BOX),20,30,13.25,Wood
+AI93713,Gloss White - Moda - ITL CS (120M/BOX),20,30,13.25,Wood
+AI93714,DISC - Metallic Silver - Moda - ITL CS (120M/BOX),20,30,18.35,Wood
+AI93719,Metallic Rose Gold - Moda - ITL CS (120M/BOX),20,30,18.35,Wood
+AI96001,Black - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96002,Teak - Moda - ITL CS (75M/BOX),20,60,21.95,Wood
+AI96003,Mahogany - Moda - ITL CS (75M/BOX),20,60,21.95,Wood
+AI96004,Walnut - Moda - ITL CS (75M/BOX),20,60,21.95,Wood
+AI96005,White - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96006,Lime Wash - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96007,Natural - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96008,Silver Crosshatch - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96009,Gold - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96010,Silver - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96011,Charcoal - Moda - ITL CS (75M/BOX),20,60,19.95,Wood
+AI96012,Gloss Black - Moda - ITL CS (75M/BOX),20,60,23.95,Wood
+AI96013,Gloss White - Moda - ITL CS (75M/BOX),20,60,23.95,Wood
+AI96014,Metallic Silver - Moda - ITL CS (53M/BOX),20,60,28.05,Wood
+AI96101,Black - Moda - ITL CS (130M/BOX),40,20,14.75,Wood
+AI96102,Teak - Moda - ITL CS (130M/BOX),40,20,16.25,Wood
+AI96103,Mahogany - Moda - ITL CS (130M/BOX),40,20,16.25,Wood
+AI96104,Walnut - Moda - ITL CS (130M/BOX),40,20,16.25,Wood
+AI96105,White - Moda - ITL CS (130M/BOX),40,20,14.75,Wood
+AI96106,Lime Wash - Moda - ITL CS (130M/BOX),40,20,16.25,Wood
+AI96107,Natural - Moda - ITL CS (130M/BOX),40,20,16.25,Wood
+AI96108,Silver Crosshatch - Moda - ITL CS (130M/BOX),40,20,18.95,Wood
+AI96109,Gold - Moda - ITL CS (130M/BOX),40,20,18.95,Wood
+AI96110,Silver - Moda - ITL CS (130M/BOX),40,20,18.95,Wood
+AI96111,Charcoal - Moda - ITL CS (130M/BOX),40,20,16.25,Wood
+AI96112,Gloss Black - Moda - ITL CS (130M/BOX),40,20,17.65,Wood
+AI96113,Gloss White - Moda - ITL CS (130M/BOX),40,20,17.65,Wood
+AI96114,Metallic Silver - Moda - ITL CS (130M/BOX),40,20,22.5,Wood
+AI96119,Metallic Rose Gold - Moda - ITL CS (130M/BOX),40,20,22.5,Wood
+AI96201,Cream - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96202,Guacamole - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96203,Kiwi - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96204,Navy Blue - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96205,Kingfisher Blue - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96206,Powder Blue - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96207,Violet - Paintbox - ITL CS (115M/BOX),20,30,12.95,Wood
+AI96208,Fuschia - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96209,Blush - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96210,Powder Pink - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96211,Poppy - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96212,Tangerine - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96213,Sunflower - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96214,DISC Chocolate - Paintbox - ITL CS (126M/BOX),20,30,6.8,Wood
+AI96215,Stormy Grey - Paintbox - ITL CS (126M/BOX),20,30,12.95,Wood
+AI96401,DISC Gloss Black - Venezia - ITL CS (96M/BOX),20,40,17.75,Wood
+AI96402,DISC Gloss White - Venezia - ITL CS (96M/BOX),20,40,17.75,Wood
+AI96403,DISC Gloss Red - Venezia - ITL CS (96M/BOX),20,40,17.75,Wood
+AI96404,DISC Gun Metal - Venezia - ITL CS (96M/BOX),20,40,19.05,Wood
+AI96501,DISC Gloss Black - Venezia - ITL CS (30M/BOX),35,90,44.4,Wood
+AI96502,DISC Gloss White - Venezia - ITL CS (30M/BOX),35,90,44.4,Wood
+AI96503,DISC Gloss Red - Venezia - ITL CS (30M/BOX),35,90,44.4,Wood
+AI96504,DISC Gun Metal - Venezia - ITL CS (30M/BOX),35,90,45.7,Wood
+AI96601,DISC Black - Baita - ITL CS (96M/BOX),30,40,16.65,Wood
+AI96602,DISC White - Baita - ITL CS (96M/BOX),30,40,16.65,Wood
+AI96603,DISC Brown - Baita - ITL CS (96M/BOX),30,40,16.65,Wood
+AI96604,DISC Natural - Baita - ITL CS (96M/BOX),30,40,16.65,Wood
+AI96701,DISC Black - Baita - ITL CS (36M/BOX),30,70,27.6,Wood
+AI96702,DISC White - Baita - ITL CS (36M/BOX),30,70,27.6,Wood
+AI96703,DISC Brown - Baita - ITL CS (36M/BOX),30,70,27.6,Wood
+AI96704,DISC Natural - Baita - ITL CS (36M/BOX),30,70,27.6,Wood
+AI96801,DISC Black - Baita - ITL CS (36M/BOX),45,90,38.05,Wood
+AI96802,DISC White - Baita - ITL CS (36M/BOX),45,90,38.05,Wood
+AI96803,DISC Brown - Baita - ITL CS (36M/BOX),45,90,38.05,Wood
+AI96804,DISC Natural - Baita - ITL CS (36M/BOX),45,90,38.05,Wood
+AI96901,Gold/Black - Dama - ITL CS (72M/BOX),35,35,25.7,Wood
+AI96902,DISC - Silver/Black - Dama - ITL CS (72M/BOX),35,35,25.7,Wood
+AI96903,DISC Black /Silver - Dama - ITL CS (72M/BOX),35,35,21.3,Wood
+AI96904,DISC White/Gold - Dama - ITL CS (72M/BOX),35,35,21.3,Wood
+AI97001,DISC - Gold/Black - Dama - ITL CS (130M/BOX),27,25,21.8,Wood
+AI97002,Silver/Black - Dama - ITL CS (130M/BOX),27,25,21.8,Wood
+AI97003,DISC - Black/Silver - Dama - ITL CS (130M/BOX),27,25,21.7,Wood
+AI97004,DISC - White/Gold - Dama - ITL CS (130M/BOX),27,25,21.7,Wood
+AI97101,DISC - Gold/Black - Dama - ITL CS (228M/BOX),20,18,17.65,Wood
+AI97102,Silver/Black - Dama - ITL CS (228M/BOX),20,18,17.65,Wood
+AI97103,DISC - Black/Silver - Dama - ITL CS (228M/BOX),20,18,17.65,Wood
+AI97104,White/Gold - Dama - ITL CS (228M/BOX),20,18,17.65,Wood
+AI97901,DISC - Black - Moda - ITL CS (30M/BOX),30,90,37.45,Wood
+AI97905,DISC - White - Moda - ITL CS (30M/BOX),30,90,37.45,Wood
+AI97912,DISC Gloss Black - Moda - ITL CS (30M/BOX),30,90,33.7,Wood
+AI97913,DISC - Gloss White - Moda - ITL CS (30M/BOX),30,90,37.45,Wood
+AI97914,DISC Metallic Silver - Moda - ITL CS (30M/BOX),30,90,25.1,Wood
+AI97916,DISC Gloss Red - Moda - ITL CS (30M/BOX),30,90,21.8,Wood
+AI98012,DISC - Gloss Black - Moda - ITL CS (300M/BOX),10,10,6.45,Wood
+AI98013,DISC - Gloss White - Moda - ITL CS (300M/BOX),10,10,6.45,Wood
+AI98014,DISC - Metallic Silver - Moda - ITL CS (300M/BOX),10,10,7.45,Wood
+AI98015,DISC - Metallic Gold - Moda - ITL CS (300M/BOX),10,10,7.45,Wood
+AI98016,DISC - Gloss Red - Moda - ITL CS (300M/BOX),10,10,6.45,Wood
+AI98019,DISC - Metallic Rose Gold - Moda - ITL CS (300M/BOX),10,10,7.45,Wood
+AI98101,DISC Black - Granita - ITL CS (300M/BOX),18,16,6.05,Wood
+AI98102,DISC White - Granita - ITL CS (300M/BOX),18,16,6.05,Wood
+AI98103,DISC Lead - Granita - ITL CS (300M/BOX),18,16,6.05,Wood
+AI98104,DISC Red - Granita - ITL CS (300M/BOX),18,16,6.05,Wood
+AI98201,Oak - Essenza - ITL CS (66M/BOX),35,40,26.75,Wood
+AI98301,Oak - Essenza - ITL CS (48M/BOX),50,35,34.95,Wood
+AI98401,Oak - Essenza - ITL CS (78M/BOX),54,30,28.95,Wood
+AI98501,Oak - Essenza - ITL CS (200M/BOX),30,20,15.6,Wood
+AI98601,Oak - Essenza - ITL CS (144M/BOX),40,20,22.25,Wood
+AI98701,Oak - Essenza - ITL CS (72M/BOX),54,45,39.95,Wood
+AI98801,Oak - Essenza - ITL CS (120M/BOX),32,40,27.5,Wood
+AI98901,White - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98902,Black - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98903,Grey - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98904,Taupe - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98905,Cream - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98906,Burgundy - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98907,Cherry - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98908,Lemon - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98909,Orange - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98910,Navy - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI98911,Olive - Positano - ITL CS (360M/BOX),22,15,12.25,Wood
+AI99001,Black  - Moda - ITL CS (45M/BOX),50,35,25.05,Wood
+AI99005,White - Moda - ITL CS (45M/BOX),50,35,25.05,Wood
+AI99101,Black - Moda - ITL CS (72M/BOX),60,21,35.1,Wood
+AI99105,White - Moda - ITL CS (72M/BOX),60,21,35.1,Wood
+AI99201,DISC - DISC - Gold - Romantica - ITL CS (216M/BOX),20,20,14.95,Wood
+AI99202,Silver - Romantica - ITL CS (216M/BOX),20,20,14.95,Wood
+AI99203,DISC - Black/Gold - Romantica - ITL CS (216M/BOX),20,20,14.95,Wood
+AI99204,White/Silver - Romantica - ITL CS (216M/BOX),20,20,14.95,Wood
+AI99301,DISC - Black/Silver  - Palio - ITL CS (211M/BOX),20,20,11.95,Wood
+AI99302,DISC - White/Gold  - Palio - ITL CS (211M/BOX),20,20,11.95,Wood
+AI99401,DISC Gold - Renaissance - ITL CS (96M/BOX),20,40,16.2,Wood
+AI99402,DISC Silver - Renaissance - ITL CS (96M/BOX),20,40,13.7,Wood
+AI99403,DISC Black - Renaissance - ITL CS (96M/BOX),20,40,14.55,Wood
+AI99404,DISC White - Renaissance - ITL CS (96M/BOX),20,40,13.7,Wood
+AI99501,DISC - Gold - Renaissance - ITL CS (114M/BOX),20,30,12.45,Wood
+AI99502,DISC - Silver - Renaissance - ITL CS (114M/BOX),20,30,15.05,Wood
+AI99503,DISC Black  - Renaissance - ITL CS (114M/BOX),20,30,12.45,Wood
+AI99504,DISC White - Renaissance - ITL CS (114M/BOX),20,30,12.45,Wood
+AI99601,DISC Gold - Renaissance - ITL CS (154M/BOX),30,20,11.7,Wood
+AI99602,DISC Silver - Renaissance - ITL CS (154M/BOX),30,20,11.7,Wood
+AI99603,DISC Black - Renaissance - ITL CS (154M/BOX),30,20,13.85,Wood
+AI99604,DISC White - Renaissance - ITL CS (154M/BOX),30,20,12.45,Wood
+AI99701,Gold  - Renaissance - ITL CS (216M/BOX),20,20,13.1,Wood
+AI99702,DISC - Silver - Renaissance - ITL CS (216M/BOX),20,20,13.1,Wood
+AI99703,Black - Renaissance - ITL CS (216M/BOX),20,20,12,Wood
+AI99704,DISC - White - Renaissance - ITL CS (216M/BOX),20,20,12,Wood
+AI99801,Black  - Moda - ITL CS (110M/BOX),40,20,16.95,Wood
+AI99805,White  - Moda - ITL CS (110M/BOX),40,20,16.95,Wood
+AR10BWRV,Blackwood - Natural Real Veneer (104M/Box),38,20,15.6,Wood
+AR10OAK,Raw  - Australian Oak (85M/BOX),38,20,12.45,Wood
+AR10OAKC,Raw - Natural Oak  (69 MTRS/BOX),38,20,15.95,Wood
+AR10OAKRV,Oak - Natural Real Veneer (104M/Box),38,20,15.6,Wood
+AR11OAK,Raw  - Australian Oak (200M/BOX),29,16,10.85,Wood
+AR11OAKC,Raw - Natural Oak  (120 MTRS/BOX),29,16,10.7,Wood
+AR16OAK,Raw  - Australian Oak (100M/BOX),47,13,14.25,Wood
+AR16OAKC,Raw - Natural Oak  (102 MTRS/BOX),47,13,12.35,Wood
+AR17OAK,Raw  - Australian Oak (125M/BOX),37,13,13.7,Wood
+AR17OAKC,Raw - Natural Oak  (145 MTRS/BOX),37,13,10.05,Wood
+AR18OAK,Raw  - Australian Oak (100M/BOX),45,28,25.85,Wood
+AR18OAKC,Raw - Natural Oak  (51 MTRS/BOX),45,28,23.8,Wood
+AR19OAK,Raw  - Australian Oak (100M/BOX),58,21,18.25,Wood
+AR19OAKC,Raw - Natural Oak  (48 MTRS/BOX),58,21,22.25,Wood
+AR21OAK,Raw  - Australian Oak Spacer (100M/BOX),5,20,6.4,Wood
+AR21OAKC,Raw - Natural Oak  (100 MTRS/BOX),20,5,5.9,Wood
+AR22OAK,Raw  - Australian Oak Spacer (100M/BOX),5,12,5.5,Wood
+AR22OAKC,Raw - Natural Oak  (100 MTRS/BOX),12,5,5,Wood
+AR23OAK,Raw  - Australian Oak Spacer (100M/BOX),8,20,5.8,Wood
+AR23OAKC,Raw - Natural Oak  (100 MTRS/BOX),20,8,6.15,Wood
+AR24BWRV,Float - Natural Real Veneer (64M/Box),55,35,24.95,Wood
+AR24OAK,Raw  - Australian Oak (43M/BOX),55,35,26.9,Wood
+AR24OAKC,Raw - Natural Oak  (48 MTRS/BOX),55,35,21.4,Wood
+AR24OAKRV,Float - Natural Real Veneer (64M/Box),55,35,24.95,Wood
+AR25OAK,Raw  - Australian Oak (200M/BOX),20,13,8.15,Wood
+AR25OAKC,DISC Raw - Natural Oak  (180 MTRS/BOX),20,13,6.35,Wood
+AR26OAK,Raw  - Australian Oak (125M/BOX),30,20,10.85,Wood
+AR26OAKC,Raw - Natural Oak  (90 MTRS/BOX),30,20,13.55,Wood
+AR27BWRV,Blackwood - Natural Real Veneer (104M/Box),20,40,15.5,Wood
+AR27OAK,Raw  - Australian Oak (70M/BOX),20,40,13.5,Wood
+AR27OAKC,Raw - Natural Oak  (54 MTRS/BOX),20,40,16.5,Wood
+AR27OAKRV,Oak - Natural Real Veneer (104M/Box),20,40,15.5,Wood
+AR28BWRV,Blackwood - Natural Real Veneer (174M/Box),20,30,13.95,Wood
+AR28OAK,Raw  - Australian Oak (100M/BOX),20,30,11.6,Wood
+AR28OAKC,Raw - Natural Oak  (69 MTRS/BOX),20,30,13.55,Wood
+AR28OAKRV,Oak - Natural Real Veneer (174M/Box),20,30,13.95,Wood
+AR29BWRV,Blackwood - Natural Real Veneer (232M/Box),20,20,12.95,Wood
+AR29OAK,Raw  - Australian Oak (185M/BOX),20,20,9.7,Wood
+AR29OAKC,Raw - Natural Oak  (108 MTRS/BOX),20,20,9.95,Wood
+AR29OAKRV,Oak - Natural Real Veneer (232M/Box),20,20,12.95,Wood
+AR30OAK,Australia Oak (120M/BOX),38,20,14.25,Wood
+AR30OAKC,Raw - Natural Oak  (60 MTRS/BOX),38,20,15.95,Wood
+AR31OAK,Australia Oak (180M/BOX),25,15,12.45,Wood
+AR31OAKC,DISC Raw - Natural Oak  (148 MTRS/BOX),25,15,7.65,Wood
+AR32OAK,Australia Oak (120M/BOX),40,20,14.25,Wood
+AR32OAKC,Raw - Natural Oak  (81 MTRS/BOX),40,20,16.5,Wood
+AR33OAKC,Raw - Natural Oak  (36 MTRS/BOX),60,30,37.7,Wood
+AR34OAKC,Raw - Natural Oak  (54 MTRS/BOX),65,20,23.5,Wood
+AR35OAKC,Raw - Natural Oak  (108 MTRS/BOX),40,16,13.2,Wood
+AR36OAKC,Raw - Natural Oak  (150 MTRS/BOX),28,13,7.95,Wood
+AR40OAKC,Raw - Natural Oak  (97 MTRS/BOX),40,10,9.45,Wood
+AR660OAK,Raw - Australian Oak (60M/BOX),34,45,23.6,Wood
+AR660OAKC,Raw - Natural Oak  (54 MTRS/BOX),45,34,19.3,Wood
+AR661OAKC,Natural Oak - Float Raw  (54M/Box),34,45,19.3,Wood
+AR10OAKCLR,Raw Clear Coat - Natural Oak  (69 MTRS/BOX),38,20,17.15,Wood
+AR24OAKCLR,Raw Clear Coat - Natural Oak  (48 MTRS/BOX),55,35,22.95,Wood
+AR27OAKCLR,Raw Clear Coat - Natural Oak  (54 MTRS/BOX),20,40,17.4,Wood
+AR28OAKCLR,Raw Clear Coat - Natural Oak  (69 MTRS/BOX),20,30,14.55,Wood
+AR29OAKCLR,Raw Clear Coat - Natural Oak  (108 MTRS/BOX),20,20,11.15,Wood
+AR10WALRV,Oak - Natural Real Veneer - Walnut,38,20,15.6,Wood
+AR18BWRV,Oak - Natural Real Veneer - Blackwood,45,28,22.95,Wood
+AR18OAKRV,Oak - Natural Real Veneer - Oak,45,28,22.95,Wood
+AR18WALRV,Oak - Natural Real Veneer - Walnut,45,28,22.95,Wood
+AR24WALRV,Oak - Natural Real Veneer - Float Walnut,55,35,24.95,Wood
+AR27WALRV,Oak - Natural Real Veneer - Walnut,20,40,15.5,Wood
+AR28WALRV,Oak - Natural Real Veneer - Walnut,20,30,13.95,Wood
+AR29WALRV,Oak - Natural Real Veneer - Walnut,20,20,12.95,Wood
+B10001,Traditional-Gold,81,104,190.45,Wood
+B10101,DISC Traditional-Gold,62,63,78,Wood
+B10102,DISC Traditional-Verdigris,62,63,78,Wood
+B10401,Contemporary-Black/Gold,26,19,35.3,Wood
+B10402,Contemporary-Black/Silver,26,19,35.3,Wood
+B10501,Traditional-Gold,53,56,103.1,Wood
+B10502,Traditional-Silver,53,56,103.1,Wood
+B10601,DISC Traditional-Gold,79,78,106.9,Wood
+B10602,DISC Traditional-Silver,79,78,106.9,Wood
+B10701,DISC Traditional-Gold,67,82,130.4,Wood
+B10702,DISC Traditional-Black,67,82,130.4,Wood
+B10901,DISC Traditional-Gold,50,68,75.3,Wood
+B10902,DISC Traditional-Black,50,68,75.3,Wood
+B11001,DISC Traditional-Gold,73,113,152.8,Wood
+B11101,DISC Traditional-Gold,34,66,65.4,Wood
+B11102,DISC Traditional-Silver,34,66,65.4,Wood
+B11103,DISC Traditional-Black,34,66,65.4,Wood
+B11201,DISC Traditional-Gold,54,117,130.4,Wood
+B11202,DISC Traditional-Silver,54,117,130.4,Wood
+B11203,DISC Traditional - Black,54,117,130.4,Wood
+B11301,DISC Traditional-Gold,31,30,37.6,Wood
+B11302,DISC Traditional-Silver,31,30,37.6,Wood
+B11401,DISC Traditional-Silver,27,37,32.3,Wood
+B11601,DISC Traditional-Gold,26,15,22.3,Wood
+B11602,DISC Traditional-Silver,26,15,22.3,Wood
+B11701,Traditional-Gold,21,19,29.5,Wood
+B11702,Traditional-Silver,21,19,29.5,Wood
+B11703,Traditional-Black/Silver,21,19,29.5,Wood
+B11801,Traditional-Gold,20,17,26.45,Wood
+B11802,Traditional-Silver,20,17,26.45,Wood
+B11901,Designer-Gold,30,64,89.6,Wood
+B11902,Designer-Silver,30,64,89.6,Wood
+B11903,Designer-Black/Gold,30,64,89.6,Wood
+B12001,DISC Designer-Gold,46,104,92.3,Wood
+B12002,DISC Designer-Silver,46,104,92.3,Wood
+B12003,DISC Designer-Black/Gold,46,104,92.3,Wood
+B12102,DISC Designer - Black/Silver,31,63,44.4,Wood
+B12103,DISC Designer - White/Gold,31,63,44.4,Wood
+B12202,DISC Designer-Silver,24,34,38.3,Wood
+B12402,DISC Contemporary-Black/Silver,26,45,39.5,Wood
+B12501,DISC Contemporary - Black/Gold,26,85,52.3,Wood
+B12502,DISC Contemporary-Black/Silver,26,85,52.3,Wood
+B12601,Traditional-Gold,70,70,123,Wood
+B12602,Traditional-Silver,70,70,123,Wood
+B12701,DISC Contemporary - Gold,28,99,57.1,Wood
+B12801,DISC Contemporary-Gold,26,87,53.8,Wood
+B12802,DISC Contemporary-Silver,26,87,53.8,Wood
+B12901,Contemporary-Gold,25,15,28.7,Wood
+B12902,Contemporary-Silver,25,15,28.7,Wood
+B13001,Contemporary-Gold,16,16,25.55,Wood
+B13002,Contemporary-Silver,16,16,25.55,Wood
+B13101,Contemporary-Gold,20,20,35.9,Wood
+B13102,Contemporary-Silver,20,20,35.9,Wood
+B13201,Contemporary-Gold,28,35,42.5,Wood
+B13202,Contemporary-Silver,28,35,42.5,Wood
+B13301,Traditional-Gold,17,22,35.6,Wood
+B13302,Traditional-Silver,17,22,35.6,Wood
+B13401,Contemporary-Gold,13,11,15.85,Wood
+B13402,Contemporary-Silver,13,11,15.85,Wood
+B13501,DISC Contemporary-Gold,13,45,21.6,Wood
+B13502,DISC Contemporary-Silver,13,45,21.6,Wood
+B13601,Contemporary-Gold/Black,30,41,51.05,Wood
+B13602,Contemporary-Silver/Black,30,41,51.05,Wood
+B13603,Contemporary-Black/Silver,30,41,51.05,Wood
+B13701,Contemporary-Gold/Black,46,71,94.85,Wood
+B13702,Contemporary-Silver/Black,46,71,94.85,Wood
+B13703,Contemporary-Black/Silver,46,71,94.85,Wood
+B13801,DISC Contemporary-Gold/Black,69,115,120.65,Wood
+B13802,DISC Contemporary-Silver/Black,69,115,114.9,Wood
+B13803,DISC Contemporary-Black/Silver,69,115,114.9,Wood
+B13901,DISC Contemporary-Gold/Black,35,56,45.7,Wood
+B13902,DISC Contemporary-Silver/Black,35,56,45.7,Wood
+B14001,DISC Contemporary-Black/Gold,50,93,48.56,Wood
+B14002,DISC Contemporary-Black/Silver,50,93,74.7,Wood
+B14101,DISC Contemporary-Silver,71,100,101.6,Wood
+B14202,DISC Contemporary - Silver/Black,54,154,122.5,Wood
+B14301,Timber-Olive Veneer Black,23,30,47.4,Wood
+B14302,Timber-Olive Veneer Brown,23,30,47.4,Wood
+B14303,DISC Timber-Olive Veneer Natural,23,30,30,Wood
+B14401,Timber-Olive Veneer Black,31,70,97.3,Wood
+B14402,Timber-Olive Veneer Brown,31,70,97.3,Wood
+B14403,Timber-Olive Veneer Natural,31,70,97.3,Wood
+B14501,Timber-Olive Veneer Black,51,102,149.25,Wood
+B14502,Timber-Olive Veneer Brown,51,102,149.25,Wood
+B14503,Timber-Olive Veneer Natural,51,102,149.25,Wood
+B14601,DISC Timber-Olive Veneer Black,71,112,97.76,Wood
+B14602,DISC Timber-Olive Veneer Brown,71,112,97.76,Wood
+B14603,DISC Timber-Olive Veneer Natural,71,112,150.4,Wood
+B14701,DISC Designer-Reeded Gold,13,29,18.9,Wood
+B14702,DISC Designer-Reeded Silver,13,29,18.9,Wood
+B14801,DISC Designer-Gold,15,52,31.7,Wood
+B14802,DISC Designer-Silver,15,52,31.7,Wood
+B15101,DISC Designer-White/Gold,31,119,96.6,Wood
+B15202,DISC Designer-White/Silver,31,119,96.6,Wood
+B16001,Timber-Olive Veneer Black,14,20,37.4,Wood
+B16002,Timber-Olive Veneer Brown,14,20,37.4,Wood
+B16003,DISC Timber-Olive Veneer  Natural,14,20,24.9,Wood
+B16201,DISC Designer-Gold,14,29,20.1,Wood
+B16202,DISC Designer-Silver,14,29,20.1,Wood
+B16203,DISC Designer-Black,14,29,20.1,Wood
+B16501,DISC Designer - Gold,75,106,68.9,Wood
+B16503,DISC Designer - Black,75,106,68.9,Wood
+B16802,DISC Timber - Teak,25,67,31.7,Wood
+B17001,Traditional-Gold,70,71,190.15,Wood
+B17002,Traditional-Silver,70,71,190.15,Wood
+B17003,DISC Traditional-Black,70,71,113.3,Wood
+B17004,DISC Traditional-White,70,71,113.3,Wood
+B17101,DISC Traditional-Gold,35,93,100.3,Wood
+B17102,DISC Traditional-Silver,35,93,100.3,Wood
+B17103,DISC Traditional-Black,35,93,87.6,Wood
+B17301,DISC Contemporary - Black,54,105,59,Wood
+B17402,DISC Designer - White,37,79,40,Wood
+B17403,DISC Designer - Red,37,79,40,Wood
+B17405,DISC Designer-Gold,28,79,63.6,Wood
+B17501,Traditional-Soft Gold,64,95,158,Wood
+B17502,Traditional-Soft Silver,64,95,158,Wood
+B17503,Traditional-Soft Black,64,95,158,Wood
+B17601,DISC Traditional - Gold,71,151,135,Wood
+B17603,DISC Traditional-Soft Black,71,151,171.4,Wood
+B17701,DISC Contemporary-Gold,20,20,19.1,Wood
+B17702,DISC Contemporary-Silver,20,20,19.1,Wood
+B17703,DISC Contemporary-Black,20,20,19.1,Wood
+B17704,DISC Timber-Dark Veneer,20,20,19.1,Wood
+B17705,DISC Timber-Light Veneer,20,20,19.1,Wood
+B17801,Contemporary- Gold,45,28,50.25,Wood
+B17802,Contemporary-Silver,45,28,50.25,Wood
+B17803,Contemporary-Black,45,28,50.25,Wood
+B17804,DISC Timber-Dark Veneer,45,28,31.8,Wood
+B17805,DISC Timber-Light Veneer,45,28,31.8,Wood
+B17901,DISC Contemporary-Gold,35,45,34.55,Wood
+B17902,DISC Contemporary-Silver,35,45,34.55,Wood
+B17903,DISC Contemporary-Black,35,45,32.9,Wood
+B17904,DISC Timber-Dark Veneer,35,45,32.9,Wood
+B17905,DISC Timber-Light Veneer,35,45,32.9,Wood
+B18001,DISC Contemporary-Gold,75,90,120.7,Wood
+B18002,DISC Contemporary-Silver,75,90,120.7,Wood
+B18003,DISC Contemporary-Black,75,90,120.7,Wood
+B18004,DISC Timber-Dark Veneer,75,90,120.7,Wood
+B18005,DISC Timber-Light Veneer,75,90,120.7,Wood
+B18006,DISC Timber-White,75,90,120.7,Wood
+B18201,DISC Traditional - Black/Gold,44,105,64.95,Wood
+B18202,DISC Traditional - White/Gold,44,105,64.95,Wood
+B18301,DISC Contemporary-Gold,16,20,18.7,Wood
+B18302,DISC Contemporary-Silver,16,20,18.7,Wood
+B18303,DISC Contemporary-Black,16,20,18.7,Wood
+B18304,DISC Contemporary-Red,16,20,18.7,Wood
+B18305,DISC Contemporary-Green,16,20,18.7,Wood
+B18306,DISC Contemporary-White,16,20,17.8,Wood
+B18401,DISC - Traditional-Gold,16,20,27.25,Wood
+B18402,DISC Traditional-Silver,16,20,20.2,Wood
+B18501,DISC - Traditional-Black/Gold,24,30,34.5,Wood
+B18502,DISC Traditional-White/Gold,24,30,25.55,Wood
+B18601,DISC - Traditional-Black/Gold,48,64,81.05,Wood
+B18602,DISC Traditional-White/Gold,48,64,60.1,Wood
+B18701,DISC Traditional-Black/Teak,34,60,44.6,Wood
+B18702,DISC Traditional-Cherry/Teak,34,60,44.6,Wood
+B18703,DISC Traditional-Teak,34,60,46.85,Wood
+B18704,DISC Traditional-White/Teak,34,60,44.6,Wood
+B18801,DISC Traditional - Black/Teak,48,105,69.95,Wood
+B18802,DISC Traditional - Cherry/Teak,48,105,69.95,Wood
+B18803,DISC Traditional - Teak,48,105,69.95,Wood
+B18804,DISC Traditional - White/Teak,48,105,45.47,Wood
+B18902,DISC Designer - Silver/Bronze,60,44,39.95,Wood
+B19002,DISC Designer - Silver/Bronze,90,71,86.3,Wood
+B19101,DISC Contemporary - Black/Gold,20,27,15.95,Wood
+B19102,DISC Contemporary-Black/Silver,20,27,20.4,Wood
+B19201,DISC Contemporary-Black/Gold,36,27,33,Wood
+B19202,DISC Contemporary-Black/Silver,36,27,33,Wood
+B19301,DISC Timber-Dark Walnut,24,28,21.45,Wood
+B19302,DISC Timber-Mahogany,24,28,21.45,Wood
+B19303,Timber-Teak,24,28,32.25,Wood
+B19401,DISC Timber-Dark Walnut,49,54,40.05,Wood
+B19402,DISC Timber-Mahogany,49,54,40.05,Wood
+B19403,Timber-Teak,49,54,60.25,Wood
+B19501,DISC Timber-Dark Walnut,84,94,93.35,Wood
+B19502,DISC Timber-Mahogany,84,94,93.35,Wood
+B19503,Timber-Teak,84,94,139,Wood
+B19601,Timber-Black/Gold,60,130,169.95,Wood
+B19701,DISC Traditional - Black/Gold,54,125,84.95,Wood
+B19702,DISC Traditional - Walnut,54,125,84.95,Wood
+B20401,DISC Designer-Gold,27,40,33,Wood
+B20402,DISC Designer-Champagne,27,40,33,Wood
+B20403,DISC Designer-Black,27,40,25.4,Wood
+B20404,DISC Designer-Ivory,27,40,25.4,Wood
+B20405,DISC Designer-Taupe,27,40,25.4,Wood
+B20406,DISC Designer-Mocha,27,40,25.4,Wood
+B20501,DISC Designer-Gold,50,68,82.5,Wood
+B20502,DISC Designer-Champagne,50,68,82.5,Wood
+B20503,DISC Designer-Black,50,68,69.8,Wood
+B20504,DISC Designer-Ivory,50,68,69.8,Wood
+B20505,DISC Designer-Taupe,50,68,69.8,Wood
+B20506,DISC Designer-Mocha,50,68,69.8,Wood
+B20601,DISC Designer-Black,28,47,28,Wood
+B20602,DISC Designer-White,28,47,28,Wood
+B20603,DISC Designer-Red,28,47,28,Wood
+B20604,DISC Designer-Silver,28,47,38.1,Wood
+B20605,DISC Designer-Gold,28,47,38.1,Wood
+B20701,Traditional-Gold,35,41,58.3,Wood
+B20702,Traditional-Silver,35,41,58.3,Wood
+B20801,Traditional-Gold,88,117,309.9,Wood
+B20802,Traditional-Silver,88,117,309.9,Wood
+B20903,DISC Traditional-Black,37,43,37.6,Wood
+B20904,DISC Traditional-White,37,43,37.6,Wood
+B21003,DISC Traditional-Black,57,82,63.5,Wood
+B21004,DISC Traditional-White,57,82,63.5,Wood
+B21101,Traditional-Gold,42,35,70.45,Wood
+B21102,Traditional-Silver,42,35,70.45,Wood
+B21201,Traditional-Gold,53,73,112.05,Wood
+B21202,Traditional-Silver,53,73,112.05,Wood
+B21301,DISC - Traditional-Gold,59,115,161.9,Wood
+B21302,Traditional-Silver,59,115,178.5,Wood
+B21401,Contemporary-Matt Black,61,21,47.55,Wood
+B21402,Contemporary-Matt White,61,21,47.55,Wood
+B21403,Contemporary-Gloss Black,61,21,47.55,Wood
+B21404,Contemporary-Gloss White,61,21,47.55,Wood
+B21405,Contemporary-Silver,61,21,61.5,Wood
+B21406,Contemporary-Chrome,61,21,61.5,Wood
+B21407,DISC Contemporary-Taupe,61,21,31.9,Wood
+B21408,DISC Contemporary - Light Taupe,61,21,31.9,Wood
+B21409,DISC Contemporary-Classic Cream,61,21,31.9,Wood
+B21501,DISC Contemporary-Matt Black,30,40,28,Wood
+B21502,DISC Contemporary-Matt White,30,40,29.4,Wood
+B21503,DISC Contemporary-Gloss Black,30,40,29.4,Wood
+B21504,DISC Contemporary-Gloss White,30,40,29.4,Wood
+B21505,DISC Contemporary-Silver,30,40,37.4,Wood
+B21506,DISC Contemporary-Chrome,30,40,37.4,Wood
+B21507,DISC Contemporary-Woodland Gray,30,40,28,Wood
+B21508,DISC Contemporary - Taupe,30,40,28,Wood
+B21509,DISC Contemporary-Classic Cream,30,40,28,Wood
+B21601,DISC Designer-Gold,32,58,46.85,Wood
+B21602,DISC Designer-Silver,32,58,46.85,Wood
+B21603,DISC Designer-Matt Black,32,58,44.6,Wood
+B21604,DISC Designer-Matt White,32,58,46.85,Wood
+B21605,DISC Designer-Gloss Black,32,58,44.6,Wood
+B21606,DISC Designer-Gloss White,32,58,46.85,Wood
+B21607,DISC Designer-Gloss Grey,32,58,46.85,Wood
+B21608,DISC Designer-Gloss Blue,32,58,46.85,Wood
+B21609,DISC Designer-Gloss Ruby,32,58,46.85,Wood
+B21610,DISC Designer-Gloss Red,32,58,46.85,Wood
+B21701,DISC Designer-Gold,53,106,76.2,Wood
+B21702,DISC Designer-Silver,53,106,76.2,Wood
+B21703,DISC Designer-Matt Black,53,106,76.2,Wood
+B21704,DISC Designer-Matt White,53,106,76.2,Wood
+B21705,DISC Designer-Gloss Black,53,106,76.2,Wood
+B21706,DISC Designer-Gloss White,53,106,76.2,Wood
+B21707,DISC Designer-Gloss Grey,53,106,76.2,Wood
+B21708,DISC Designer-Gloss Blue,53,106,76.2,Wood
+B21709,DISC Designer-Gloss Ruby,53,106,76.2,Wood
+B21710,DISC Designer-Gloss Red,53,106,76.2,Wood
+B21801,DISC Pierre Cardin-Black,21,20,19.2,Wood
+B21802,DISC Pierre Cardin-White,21,20,20.2,Wood
+B21803,DISC Pierre Cardin-Grey,21,20,20.2,Wood
+B21804,DISC Pierre Cardin-Brown,21,20,20.2,Wood
+B21805,DISC Pierre Cardin-Red,21,20,20.2,Wood
+B21901,DISC Pierre Cardin-Black,35,65,43.2,Wood
+B21902,DISC Pierre Cardin-White,35,65,43.2,Wood
+B21903,DISC Pierre Cardin-Grey,35,65,43.2,Wood
+B21904,DISC Pierre Cardin-Brown,35,65,43.2,Wood
+B21905,DISC Pierre Cardin-Red,35,65,43.2,Wood
+B22001,DISC Pierre Cardin-Black,44,110,76.2,Wood
+B22002,DISC Pierre Cardin-White,44,110,76.2,Wood
+B22003,DISC Pierre Cardin-Grey,44,110,76.2,Wood
+B22004,DISC Pierre Cardin-Brown,44,110,76.2,Wood
+B22005,DISC Pierre Cardin-Red,44,110,76.2,Wood
+B22101,DISC Pierre Cardin-Black,53,41,45.4,Wood
+B22102,DISC Pierre Cardin-White,53,41,45.4,Wood
+B22103,DISC Pierre Cardin-Grey,53,41,43.2,Wood
+B22104,DISC Pierre Cardin-Brown,53,41,45.4,Wood
+B22105,DISC Pierre Cardin-Red,53,41,45.4,Wood
+B22201,DISC Designer-Gold,24,32,24.9,Wood
+B22202,DISC Designer-Silver,24,32,23.7,Wood
+B22203,DISC Designer-Matt Black,24,32,23.7,Wood
+B22204,DISC Designer-Matt White,24,32,24.9,Wood
+B22205,DISC Designer-Gloss Black,24,32,24.9,Wood
+B22206,DISC Designer-Gloss White,24,32,23.7,Wood
+B22207,DISC Designer-Gloss Grey,24,32,23.7,Wood
+B22208,DISC Designer-Gloss Blue,24,32,24.9,Wood
+B22209,DISC Designer-Gloss Ruby,24,32,24.9,Wood
+B22210,DISC Designer-Gloss Red,24,32,23.7,Wood
+B22301,Timber-Walnut/Gold,29,50,67.25,Wood
+B22302,Timber-Charcoal/Silver,29,50,67.25,Wood
+B22401,Timber-Walnut/Gold,29,25,46.7,Wood
+B22402,Timber-Charcoal/Silver,29,25,46.7,Wood
+B22501,DISC Timber-Charcoal,71,81,115.2,Wood
+B22502,DISC Timber-Brown,71,81,115.2,Wood
+B22503,DISC Timber-Natural,71,81,115.2,Wood
+B22601,DISC Timber-White,33,90,80.55,Wood
+B22602,DISC Timber-Natural,33,90,76.7,Wood
+B22603,DISC Timber-Black,33,90,76.7,Wood
+B22701,DISC Timber-White,39,85,69.45,Wood
+B22702,DISC Timber-Natural,39,85,66.1,Wood
+B22703,DISC Timber-Black,39,85,66.1,Wood
+B22801,DISC Timber-White,26,50,34.8,Wood
+B22802,DISC Timber-Natural,26,50,34.8,Wood
+B22803,DISC Timber-Black,26,50,33.1,Wood
+B22901,DISC Timber-White,35,40,56.25,Wood
+B22902,DISC Timber-Natural,35,40,53.05,Wood
+B22903,DISC - Timber-Black,35,40,62.45,Wood
+B23001,DISC Pierre Cardin-Black,50,35,40.8,Wood
+B23002,DISC Pierre Cardin-White,50,35,40.8,Wood
+B23003,DISC Pierre Cardin-Grey,50,35,40.8,Wood
+B23004,DISC Pierre Cardin-Brown,50,35,40.8,Wood
+B23005,DISC Pierre Cardin-Red,50,35,40.8,Wood
+B23101,DISC Pierre Cardin-Black Copper,45,110,98.1,Wood
+B23102,DISC Pierre Cardin-White Ice,45,110,98.1,Wood
+B23201,DISC Pierre Cardin-Black Copper,35,65,55.2,Wood
+B23202,DISC Pierre Cardin-White Ice,35,65,55.2,Wood
+B23301,DISC Pierre Cardin-Black Copper,50,40,58,Wood
+B23302,DISC Pierre Cardin-White Ice,50,40,58,Wood
+B23401,DISC Pierre Cardin-Black Copper,50,35,44.1,Wood
+B23402,DISC Pierre Cardin-White Ice,50,35,44.1,Wood
+B23501,DISC Pierre Cardin-Black Copper,20,20,24.3,Wood
+B23502,DISC Pierre Cardin-White Ice,20,20,24.3,Wood
+B23601,DISC Contemporary-Black,25,74,40.8,Wood
+B23602,DISC Contemporary-White,25,74,40.8,Wood
+B23603,DISC Contemporary-Gloss Black,25,74,42.85,Wood
+B23604,DISC Contemporary-Gloss White,25,74,40.8,Wood
+B23605,DISC Contemporary-Silver,25,74,51.8,Wood
+B23606,DISC Contemporary-Chrome,25,74,51.8,Wood
+B23607,DISC Contemporary-Woodland Grey,25,74,44.1,Wood
+B23608,DISC Contemporary - Taupe,25,74,44.1,Wood
+B23609,DISC Contemporary-Classic Cream,25,74,44.1,Wood
+B23701,DISC Contemporary-Black,20,20,18.6,Wood
+B23702,DISC Contemporary-White,20,20,18.6,Wood
+B23703,DISC Contemporary-Gloss Black,20,20,18.6,Wood
+B23704,DISC Contemporary-Gloss White,20,20,18.6,Wood
+B23705,Contemporary-Silver,20,20,28.05,Wood
+B23706,Contemporary-Chrome,20,20,28.05,Wood
+B23707,DISC Contemporary-Woodland Grey,20,20,17.7,Wood
+B23709,DISC Contemporary-Paperbark,20,20,17.7,Wood
+B24001,DISC Contemporary-Walnut Grey Veneer,34,90,60.85,Wood
+B24002,DISC Contemporary-Dark Brown Walnut Veneer,34,90,60.85,Wood
+B24003,DISC Contemporary-Wenge Veneer,34,90,60.85,Wood
+B24004,DISC Contemporary-Palissandro Veneer,34,90,60.85,Wood
+B24005,DISC Contemporary-Olive Veneer,34,90,60.85,Wood
+B24101,DISC Contemporary-Black,34,90,52.45,Wood
+B24102,DISC Contemporary-White,34,90,52.45,Wood
+B24103,DISC Contemporary-Red,34,90,52.45,Wood
+B24301,DISC Contemporary-Walnut Grey Veneer,25,55,47.2,Wood
+B24302,DISC Contemporary-Dark Brown Walnut Veneer,25,55,29.22,Wood
+B24303,DISC Contemporary-Wenge Veneer,25,55,44.95,Wood
+B24304,DISC Contemporary-Palissandro Veneer,25,55,44.95,Wood
+B24305,DISC Contemporary-Olive Veneer,25,55,47.2,Wood
+B24401,DISC Contemporary-Black,25,55,38.95,Wood
+B24402,DISC Contemporary-White,25,55,38.95,Wood
+B24403,DISC Contemporary-Red,25,55,38.95,Wood
+B24501,Timber-Olive Veneer Charcoal,35,35,34.75,Wood
+B24502,Timber-Olive Veneer  Brown,35,35,34.75,Wood
+B24503,DISC Timber-Olive Veneer Natural,35,35,21.95,Wood
+B24601,Traditional-Black,65,120,130.7,Wood
+B24602,Traditional-Gold,65,120,148.5,Wood
+B24603,Traditional-Silver,65,120,148.5,Wood
+B24604,Traditional-Rose Gold (64Hx120H),64,120,148.5,Wood
+B24701,Traditional-Black,40,70,67.75,Wood
+B24702,Traditional-Gold,40,70,75.6,Wood
+B24703,Traditional-Silver,40,70,75.6,Wood
+B24704,Traditional-Rose Gold (40Hx70W),40,70,75.6,Wood
+B25001,DISC Contemporary-Black,51,102,94.7,Wood
+B25002,DISC - Contemporary-Grey,51,102,134.05,Wood
+B25003,DISC - Contemporary-Brown,51,102,134.05,Wood
+B25101,DISC Contemporary-Black,31,70,64.8,Wood
+B25102,DISC - Contemporary-Grey,31,70,87.35,Wood
+B25103,DISC - Contemporary-Brown,31,70,87.35,Wood
+B25201,DISC - Contemporary-Black,20,30,32.5,Wood
+B25202,DISC - Contemporary-Grey,20,30,32.5,Wood
+B25203,DISC - Contemporary-Brown,20,30,32.5,Wood
+B25301,DISC Contemporary-Black,35,35,31.5,Wood
+B25302,DISC Contemporary-Grey,35,35,34.35,Wood
+B25303,DISC Contemporary-Brown,35,35,31.5,Wood
+B25401,DISC Contemporary-Black/White,70,80,99.95,Wood
+B25402,DISC Contemporary-Grey/White,70,80,99.95,Wood
+B25501,DISC Contemporary-Black/White,80,70,87.95,Wood
+B25502,DISC Contemporary-Grey/White,80,70,87.95,Wood
+B25601,DISC Contemporary-Black/White,40,90,64.95,Wood
+B25602,DISC Contemporary-Grey/White,40,90,64.95,Wood
+B25701,Traditional-Gold,56,75,188.9,Wood
+B25702,Traditional-Silver,56,75,188.9,Wood
+B25801,Traditional-Gold,65,95,141.8,Wood
+B25802,Traditional-Silver,65,95,141.8,Wood
+B25901,DISC Contemporary-Gold Leaf Laquer-Gold,60,115,115.45,Wood
+B25902,DISC Contemporary - Silver Leaf Laquer-Silver,60,115,115.45,Wood
+B25903,DISC Contemporary-Rose Gold Leaf Laquer-Rose,60,115,115.45,Wood
+B26001,DISC Contemporary-Gold Leaf Laquer-Gold,55,74,83.95,Wood
+B26002,DISC Contemporary-Silver Leaf Laquer-Silver,55,74,83.95,Wood
+B26003,DISC Contemporary -Rose Gold Leaf Laquer-Rose,55,74,83.95,Wood
+B26101,DISC Contemporary-Gold Leaf Laquer-Gold,35,42,39.95,Wood
+B26102,DISC Contemporary - Silver Leaf Laquer-Silver,35,42,39.95,Wood
+B26103,DISC Contemporary-Rose Gold Leaf Laquer-Rose,35,42,41.95,Wood
+B26701,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,65,47,52.45,Wood
+B26702,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,65,47,52.45,Wood
+B26801,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,53,33,41.95,Wood
+B26802,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,53,33,41.95,Wood
+B26901,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,30,16,36.7,Wood
+B26902,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,30,16,36.7,Wood
+B27001,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,35,35,27.25,Wood
+B27002,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,35,35,27.25,Wood
+B27101,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,20,40,25.15,Wood
+B27102,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,20,40,25.15,Wood
+B27201,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,15,16,15.7,Wood
+B27202,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,15,16,15.7,Wood
+B27301,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,40,20,19.9,Wood
+B27302,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,40,20,19.9,Wood
+B27401,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,50,13,18.85,Wood
+B27402,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,50,13,18.85,Wood
+B27501,DISC CONTEMPORARY-WATERGUILD-GOLD/BLACK,30,18,16.75,Wood
+B27502,DISC CONTEMPORARY-WATERGUILD-SILVER/BLACK,30,18,16.75,Wood
+B27601,DISC -  Traditional-Antique Gold,92,100,188.55,Wood
+B27602,DISC - Traditional-Walnut/Platinum,92,100,169.85,Wood
+B27603,DISC Traditional-Black/Platinum,92,100,146.95,Wood
+B27604,DISC -  Traditional-Antique Silver,92,100,188.55,Wood
+B27605,DISC - Traditional-Silver/White,92,100,198,Wood
+B27701,DISC - Traditional-Dutch Ripple-Black(48Hx125W),48,125,127.35,Wood
+B27801,Traditional-Dutch Ripple-Black(36Hx69W),36,69,70.9,Wood
+B27901,DISC - Traditional-Dutch Ripple-Black(27Hx37W),27,37,44.65,Wood
+B28001,Fillet-Gold Leaf (8Hx11W),8,11,8.8,Wood
+B28002,Fillet-Silver Leaf  (8Hx11W),8,11,8.8,Wood
+B28101,DISC Traditional-Guillochet-Gold Leaf (40hx20W),40,20,40.05,Wood
+B28102,DISC Traditional-Guillochet-Silver Leaf (40hx20W),40,20,40.05,Wood
+B28201,Traditional-Epoque Gold Leaf (27Hx31W),27,31,47.35,Wood
+B28202,Traditional-Epoque-Silver Leaf (27Hx31W),27,31,47.35,Wood
+B28301,Traditional-Baroque-Gold Leaf (37Hx31W),37,31,59.9,Wood
+B28302,Traditional-Baroque-Silver Leaf (37Hx31W),37,31,59.9,Wood
+B28303,Traditional-Baroque-Antique Black (37Hx31W),37,31,59.9,Wood
+B28401,Traditional-Epoque-Gold Leaf (46Hx52W),46,52,100.15,Wood
+B28402,Traditional-Epoque-Silver Leaf (46Hx52W),46,52,100.15,Wood
+B28501,Traditional-Prestigio-Gold Leaf (46Hx54W),46,54,100.15,Wood
+B28502,Traditional-Prestigio-Silver Leaf (46Hx54W),46,54,100.15,Wood
+B28601,Traditional-Prestigio-Gold Leaf (31Hx35W),31,35,66.25,Wood
+B28602,Traditional-Prestigio-Silver Leaf (31Hx35W),31,35,66.25,Wood
+B28701,DISC Traditional-Waterguild-Gold (54Hx19W),54,19,24.1,Wood
+B28702,DISC Traditional-Waterguild-Silver (54Hx19W),54,19,24.1,Wood
+B28801,DISC Traditional-Waterguild-Gold (40Hx19W),40,19,20.95,Wood
+B28802,DISC Traditional-Waterguild-Silver (40Hx19W),40,19,20.95,Wood
+B28901,DISC Traditional-Waterguild-Gold (25Hx13W),25,13,15.7,Wood
+B28902,DISC Traditional-Waterguild-Silver (25Hx13W),25,13,15.7,Wood
+B29001,Contemporary-Stucco-Black (63Hx45W),63,45,118.85,Wood
+B29002,Contemporary-Stucco-White (63Hx45W),63,45,118.85,Wood
+B29101,Contemporary-Stucco-Black (35Hx88W),35,88,118.85,Wood
+B29102,Contemporary-Stucco-White (35Hx88W),35,88,118.85,Wood
+B29201,DISC - Contemporary-Officina-Rust (59Hx115W),59,115,173.8,Wood
+B29202,Contemporary-Officina-Grey (59Hx115W),59,115,191.65,Wood
+B29203,Contemporary-Officina-Black (59Hx115W),59,115,191.65,Wood
+B29301,DISC Contemporary-Officina-Rust (53Hx73W),53,73,133.45,Wood
+B29302,Contemporary-Officina-Grey (53Hx73W),53,73,147.2,Wood
+B29303,Contemporary-Officina-Black (53Hx73W),53,73,147.2,Wood
+B29401,Contemporary-Officina-Rust (42Hx35W),42,35,72.9,Wood
+B29402,Contemporary-Officina-Grey (42Hx35W),42,35,72.9,Wood
+B29403,Contemporary-Officina-Black (42Hx35W),42,35,72.9,Wood
+B30001,DISC Fillet-Soft Gold,10,21,10.8,Wood
+B30002,DISC Fillet-Soft Silver,10,21,10.8,Wood
+B30003,DISC Fillet-Black,10,21,10.8,Wood
+B30004,DISC Fillet-Gold,10,21,10.8,Wood
+B30101,DISC Fillet-Black,8,27,8.9,Wood
+B30102,DISC Contemporary - Rosa - Gold,47,70,99.7,Wood
+B30103,DISC - Contemporary - Rosa - Champagne,47,70,99.7,Wood
+B30104,DISC - Contemporary - Rosa - Antique Black,47,70,67.55,Wood
+B30201,DISC Fillet-Olive Veneer Black,7,15,7.2,Wood
+B30202,DISC Fillet-Olive Veneer Brown,7,15,7.2,Wood
+B30301,DISC Fillet-Gold,8,16,7.2,Wood
+B30302,DISC Fillet-Silver,8,16,7.2,Wood
+B30303,DISC Fillet-Black,8,16,7.2,Wood
+B30401,Fillet-Gold,9,22,19.95,Wood
+B30402,Fillet-Silver,9,22,19.95,Wood
+B30501,Contemporary - Rosa - Gold,20,40,34.95,Wood
+B30502,Contemporary - Rosa - Champagne,20,40,34.95,Wood
+B30503,Contemporary - Rosa - Antique Black,20,40,25.4,Wood
+B30601,Contemporary - Rosa - Gold,17,23,27.55,Wood
+B30602,Contemporary - Rosa - Champagne,17,23,27.55,Wood
+B30603,Contemporary - Rosa - Antique Black,17,23,19.05,Wood
+B40001,Contemporary Murano - Black,35,40,37.85,Wood
+B40002,Contemporary Murano - Gold/Black,35,40,37.85,Wood
+B40003,Contemporary Murano - Silver/Black,35,40,37.85,Wood
+B40004,Contemporary Murano - Champagne/Black,35,40,37.85,Wood
+B40101,Contemporary Murano - Black,32,23,29.95,Wood
+B40102,Contemporary Murano - Gold/Black,32,23,29.95,Wood
+B40103,Contemporary Murano - Silver/Black,32,23,29.95,Wood
+B40104,Contemporary Murano - Champagne/Black,32,23,29.95,Wood
+B40201,Contemporary Murano - Black,29,20,28.4,Wood
+B40202,Contemporary Murano - Gold/Black,29,20,28.4,Wood
+B40203,Contemporary Murano - Silver/Black,29,20,28.4,Wood
+B40204,Contemporary Murano - Champagne/Black,29,20,28.4,Wood
+B40301,Contemporary Murano - Black,20,15,22.15,Wood
+B40302,Contemporary Murano - Gold/Grey,20,15,22.15,Wood
+B40303,Contemporary Murano - Silver/Grey,20,15,22.15,Wood
+B40304,Contemporary Murano - Champagne/Grey,20,15,22.15,Wood
+B40401,Contemporary Murano - Gold,20,50,39.45,Wood
+B40402,Contemporary Murano - Silver,20,50,39.45,Wood
+B40403,Contemporary Murano - Black/Gold,20,50,39.45,Wood
+B40404,Contemporary Murano - Black/Silver,20,50,39.45,Wood
+B40501,Contemporary Murano - Gold,29,35,38.95,Wood
+B40502,Contemporary Murano - Silver,29,35,38.95,Wood
+B40601,Contemporary Murano - Gold,29,20,29.95,Wood
+B40602,Contemporary Murano - Silver,29,20,29.95,Wood
+B40701,Contemporary Murano - Black/Gold,35,40,41.05,Wood
+B40702,Contemporary Murano - Black/Silver,35,40,41.05,Wood
+B40703,Contemporary Murano - Gold,35,40,41.05,Wood
+B40704,Contemporary Murano - Silver,35,40,41.05,Wood
+B40801,Contemporary Murano - Black/Gold,29,20,29.95,Wood
+B40802,Contemporary Murano - Black/Silver,29,20,29.95,Wood
+B40803,Contemporary Murano - Gold,29,20,29.95,Wood
+B40804,Contemporary Murano - Silver,29,20,29.95,Wood
+B42001,Contemporary Viola - Black,35,40,36.4,Wood
+B42002,Contemporary Viola - Gold,35,40,36.4,Wood
+B42003,Contemporary Viola - Silver,35,40,36.4,Wood
+B42101,Contemporary Viola - Black,45,65,64.9,Wood
+B42102,Contemporary Viola - Gold,45,65,64.9,Wood
+B42103,Contemporary Viola - Silver,45,65,64.9,Wood
+B43001,Gold - Traditional Caesar,54,75,94.5,Wood
+B43002,Silver - Traditional Caesar,35,75,94.5,Wood
+B43003,Black/Gold - Traditional Caesar,35,75,94.5,Wood
+B43004,Black/Silver - Traditional Caesar,29,75,94.5,Wood
+B43101,Black - Contemporary Tropea,42,96,105.95,Wood
+B43102,White - Contemporary Tropea,42,96,105.95,Wood
+B43103,Gold - Contemporary Tropea,42,96,116.55,Wood
+B43104,Silver - Contemporary Tropea,42,96,116.55,Wood
+B43201,Gold - Traditional Venus,31,57,45.55,Wood
+B43202,Silver - Traditional Venus,31,57,45.55,Wood
+B43301,Gold - Traditional Venus,52,55,66.75,Wood
+B43302,Silver - Traditional Venus,52,55,66.75,Wood
+B23805,Matrix - Contemporary - Silver,13,15,17.95,Wood
+B23806,Matrix - Contemporary - Chrome,13,15,17.95,Wood
+B23810,Matrix - Contemporary - Bronze,13,15,17.95,Wood
+B23811,Matrix - Contemporary - Gold,13,15,17.95,Wood
+B42901,Caesar - Traditional - Gold,30,45,49.5,Wood
+B42902,Caesar - Traditional - Silver,30,45,49.5,Wood
+B42903,Caesar - Traditional - Black/Gold,30,45,49.5,Wood
+B42904,Caesar - Traditional - Black/Silver,30,45,49.5,Wood
+B42905,Caesar - Traditional - Brown/Gold,30,45,49.5,Wood
+B43005,Caesar - Traditional - Brown/Gold,54,75,94.5,Wood
+B43501,Fenice - Traditional - Gold,50,85,102.5,Wood
+B43502,Fenice - Traditional - Silver,50,85,102.5,Wood
+B43601,Fenice - Traditional - Gold,40,58,72,Wood
+B43602,Fenice - Traditional - Silver,40,58,72,Wood
+B43801,DISC - Cognac - Traditional - Brown,31,50,63,Wood
+B43802,DISC - Cognac - Traditional - Red,31,50,63,Wood
+B43803,DISC - Cognac - Traditional - Green,31,50,63,Wood
+B44001,DISC - Highline - Contemporary - Black,50,23,55,Wood
+B44002,DISC - Highline - Contemporary - White,50,23,55,Wood
+B44003,DISC - Highline - Contemporary - Dove Grey,50,23,55,Wood
+B44004,DISC - Highline - Contemporary - Blue,50,23,55,Wood
+B44005,DISC - Highline - Contemporary - Sky Blue,50,23,55,Wood
+B44006,DISC - Highline - Contemporary - Burnt Orange,50,23,55,Wood
+B44007,DISC - Highline - Contemporary - Rose,50,23,55,Wood
+B44008,DISC - Highline - Contemporary - Green,50,23,55,Wood
+B44009,DISC - Highline - Contemporary - Sage Green,50,23,55,Wood
+B44010,DISC - Highline - Contemporary - Mustard,50,23,55,Wood
