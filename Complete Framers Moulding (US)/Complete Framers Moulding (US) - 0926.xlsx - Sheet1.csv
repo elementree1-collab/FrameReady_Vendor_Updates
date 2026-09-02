@@ -1,0 +1,3292 @@
+item,Description,size fraction,cost,Chop,Join,group
+0101,Raw Stretcher Bar,2 1/2,5.58,10.06,13.19,Extender
+01011,"Gallery Wrap 2 3/8""",7/8,5.58,10.06,13.19,Extender
+0202,"1 1/2"" x 1 3/8"" Stretcher Bar",1 1/2,4.80,8.65,11.35,Extender
+0701,Instant Edge Silver ,1/8,1.12,,,Wood
+0702,Instant Edge Gold,1/8,1.12,,,Wood
+0703,Instant Edge Black,1/8,1.12,,,Wood
+1045,Gold w Beaded Lip,3/4,4.09,7.94,10.33,Wood
+2025,Broken Gold w Bead,2,7.00,12.74,16.64,Wood
+2514603,Forged Pewter,3/4,6.16,10.17,13.22,Wood
+2514604,Forged Iron,3/4,6.16,10.17,13.22,Wood
+2514606,Forged Brass,3/4,6.16,10.17,13.22,Wood
+2514609,Forged Bronze,3/4,6.16,10.17,13.22,Wood
+2514703,Forged Pewter,1 1/4,8.07,13.32,17.32,Wood
+2514704,Forged Iron,1 1/4,8.07,13.32,17.32,Wood
+2514706,Forged Brass,1 1/4,8.07,13.32,17.32,Wood
+2514709,Forged Bronze,1 1/4,8.07,13.32,17.32,Wood
+2514803,Forged Pewter,2 3/8,11.71,19.33,25.12,Wood
+2514804,Forged Iron,2 3/8,11.71,19.33,25.12,Wood
+2514806,Forged Brass,2 3/8,11.71,19.33,25.12,Wood
+2514809,Forged Bronze,2 3/8,11.71,19.33,25.12,Wood
+2517004,Ebony w/Natural Edge,2,8.98,14.82,19.27,Wood
+2517005,White Oak w/Black Edge,2,8.98,14.82,19.27,Wood
+2517009,Mahogany w/Black Edge,2,8.98,14.82,19.27,Wood
+2517013,Black Walnut w/Black Edge,2,8.98,14.82,19.27,Wood
+2517017,Honey Birch w/Black Edge,2,8.98,14.82,19.27,Wood
+2517027,Hickory w/Black Edge,2,8.98,14.82,19.27,Wood
+2517104,Ebony w/Natural Edge,1 1/2,7.25,11.96,15.54,Wood
+2517105,White Oak w/Black Edge,1 1/2,7.25,11.96,15.54,Wood
+2517109,Mahogany w/Black Edge,1 1/2,7.25,11.96,15.54,Wood
+2517113,Black Walnut w/Black Edge,1 1/2,7.25,11.96,15.54,Wood
+2517117,Honey Birch w/Black Edge,1 1/2,7.25,11.96,15.54,Wood
+2517127,Hickory w/Black Edge,1 1/2,7.25,11.96,15.54,Wood
+2517403,Colonna Windswept,1 1/2,7.25,11.96,15.54,Wood
+2517404,Colonna Gilded Black,1 1/2,7.25,11.96,15.54,Wood
+2517409,Colonna Sepia,1 1/2,7.25,11.96,15.54,Wood
+2517481,Colonna Sage,1 1/2,7.25,11.96,15.54,Wood
+2517491,Colonna Terra,1 1/2,7.25,11.96,15.54,Wood
+2517492,Colonna Slate,1 1/2,7.25,11.96,15.54,Wood
+2517503,Colonna Windswept,2 1/4,9.04,14.91,19.39,Wood
+2517504,Colonna Gilded Black,2 1/4,9.04,14.91,19.39,Wood
+2517509,Colonna Sepia,2 1/4,9.04,14.91,19.39,Wood
+2517581,Colonna Sage,2 1/4,9.04,14.91,19.39,Wood
+2517591,Colonna Terra,2 1/4,9.04,14.91,19.39,Wood
+2517592,Colonna Slate,2 1/4,9.04,14.91,19.39,Wood
+2517607,Painted Desert Nouveau Sun,1 3/8,9.68,15.98,20.77,Wood
+2517609,Painted Desert Nouveau Grey,1 3/8,9.68,15.98,20.77,Wood
+2517641,Painted Desert Nouveau Noir,1 3/8,9.68,15.98,20.77,Wood
+2517681,Painted Desert Nouveau Sage,1 3/8,9.68,15.98,20.77,Wood
+2517691,Painted Desert Nouveau Clay,1 3/8,9.68,15.98,20.77,Wood
+2517692,Painted Desert Nouveau Fog,1 3/8,9.68,15.98,20.77,Wood
+2517703,Rialto Pelican,1 3/4,7.26,11.99,15.58,Wood
+2517704,Rialto Cypress,1 3/4,7.26,11.99,15.58,Wood
+2517707,Painted Desert Deco Sun,1 3/8,9.68,15.98,20.77,Wood
+2517709,Rialto Walnut,1 3/4,7.26,11.99,15.58,Wood
+2517741,Painted Desert Deco Noir,1 3/8,9.68,15.98,20.77,Wood
+2517781,Painted Desert Deco Sage,1 3/8,9.68,15.98,20.77,Wood
+2517791,Rialto Cedar,1 3/4,7.26,11.99,15.58,Wood
+2517792,Painted Desert Deco Fog,1 3/8,9.68,15.98,20.77,Wood
+2517793,Painted Desert Deco Grey,1 3/8,9.68,15.98,20.77,Wood
+2517794,Painted Desert Deco Clay,1 3/8,9.68,15.98,20.77,Wood
+2517803,Rialto Pelican,2 1/2,9.22,15.22,19.78,Wood
+2517804,Rialto Cypress,2 1/2,9.22,15.22,19.78,Wood
+2517809,Rialto Walnut,2 1/2,9.22,15.22,19.78,Wood
+2517891,Rialto Cedar,2 1/2,9.22,15.22,19.78,Wood
+2517902,Marrakesh Medina Silver,1,4.86,8.02,10.43,Wood
+2517914,Marrakesh Galena Black,1,4.86,8.02,10.43,Wood
+2517915,Marrakesh Tajine,1,4.86,8.02,10.43,Wood
+2517941,Marrakesh Saffron Gold,1,4.86,8.02,10.43,Wood
+2518002,Marrakesh Medina Silver,2 1/4,9.83,16.05,20.87,Wood
+2518014,Marrakesh Galena Black,2 1/4,9.83,16.05,20.87,Wood
+2518015,Marrakesh Tajine,2 1/4,9.83,16.05,20.87,Wood
+2518041,Marrakesh Saffron Gold,2 1/4,9.83,16.05,20.87,Wood
+2518102,Marrakesh Medina Silver,1 3/8,7.61,12.56,16.34,Wood
+2518114,Marrakesh Galena Black,1 3/8,7.61,12.56,16.34,Wood
+2518115,Marrakesh Tajine,1 3/8,7.61,12.56,16.34,Wood
+2518141,Marrakesh Saffron Gold,1 3/8,7.61,12.56,16.34,Wood
+2518302,Marrakesh Minis Medina Silver,3/4,3.94,6.50,8.45,Wood
+2518314,Marrakesh Minis Galena Black,3/4,3.94,6.50,8.45,Wood
+2518315,Marrakesh Minis Saffron Gold,3/4,3.94,6.50,8.45,Wood
+2518341,Marrakesh Minis Tajine,3/4,3.94,6.50,8.45,Wood
+2518402,Marrakesh Minis Medina Silver,5/8,3.57,5.90,7.67,Wood
+2518414,Marrakesh Minis Galena Black,5/8,3.57,5.90,7.67,Wood
+2518415,Marrakesh Minis Saffron Gold,5/8,3.57,5.90,7.67,Wood
+2518441,Marrakesh Minis Tajine,5/8,3.57,5.90,7.67,Wood
+2519104,Nantucket Black Cap,3/4,4.33,7.15,9.29,Wood
+2519123,Nantucket Dover Grey Cap,3/4,4.33,7.15,9.29,Wood
+2519127,Nantucket Taupe Cap,3/4,4.33,7.15,9.29,Wood
+2519131,Nantucket Driftwood Cap,3/4,4.33,7.15,9.29,Wood
+2519192,Nantucket Blue Grey Cap,3/4,4.33,7.15,9.29,Wood
+2519304,Nantucket Black Flat,1 3/4,5.63,9.30,12.11,Wood
+2519323,Nantucket Dover Grey Flat,1 3/4,5.63,9.30,12.11,Wood
+2519327,Nantucket Taupe Flat,1 3/4,5.63,9.30,12.11,Wood
+2519331,Nantucket Driftwood Flat,1 3/4,5.63,9.30,12.11,Wood
+2519392,Nantucket Blue Grey Flat,1 3/4,5.63,9.30,12.11,Wood
+2542331,American Hardwood Natural Maple,5/8,6.86,11.33,14.74,Wood
+2542332,American Hardwood White Wash Maple,5/8,6.17,10.20,13.26,Wood
+2542414,American Hardwood Black Ash,3/4,6.33,10.48,13.63,Wood
+2542431,American Hardwood Natural Maple,3/4,7.52,12.44,16.18,Wood
+2542432,American Hardwood White Wash Maple,3/4,8.07,13.34,17.38,Wood
+2542631,American Hardwood Natural Maple,3/4,11.63,19.20,24.95,Wood
+2545204,Provence Charred Black w/Beveled Lip,3/4,4.24,6.98,9.07,Wood
+2545207,Provence Cottage White w/Beveled Lip,3/4,4.24,6.98,9.07,Wood
+2545209,Provence Weathered Brown w/Beveled Lip,3/4,4.24,6.98,9.07,Wood
+2545304,Provence Charred Black w/Beveled Lip,1 1/8,3.85,6.36,8.28,Wood
+2545307,Provence Cottage White w/Beveled Lip,1 1/8,3.85,6.36,8.28,Wood
+2545309,Provence Weathered Brown w/Beveled Lip,1 1/8,3.85,6.36,8.28,Wood
+2545404,Provence Charred Black w/Beveled Lip,1 1/4,6.60,10.88,14.13,Wood
+2545407,Provence Cottage White w/Beveled Lip,1 1/4,6.60,10.88,14.13,Wood
+2545604,Provence Charred Black w/Beveled Lip,1 7/8,7.30,12.03,15.64,Wood
+2545607,Provence Cottage White w/Beveled Lip,1 7/8,7.30,12.03,15.64,Wood
+2545609,Provence Weathered Brown w/Beveled Lip,1 7/8,7.30,12.03,15.64,Wood
+2546101,Minis Antique Gold Leaf,5/8,4.64,7.68,10.01,Wood
+2546102,Minis Antique Silver Leaf,5/8,4.64,7.68,10.01,Wood
+2546104,Minis Antique Black,5/8,3.58,5.92,7.69,Wood
+2546111,Minis Black w/Gold Leaf Lip,5/8,3.95,6.50,8.46,Wood
+2546112,Minis Black w/Silver Leaf Lip,5/8,3.95,6.50,8.46,Wood
+2546116,Minis Copper,5/8,4.05,6.70,8.72,Wood
+2546198,Minis Black Verdigris,5/8,4.05,6.70,8.72,Wood
+2546205,Minis Oxidized Copper,5/8,4.99,8.23,10.71,Wood
+2546207,Minis Oxidized Gold,5/8,4.84,8.00,10.41,Wood
+2546209,Minis Oxidized Silver,5/8,4.84,8.00,10.41,Wood
+2546242,Minis Oxidized Black,5/8,4.43,7.34,9.54,Wood
+2546307,Minis Beaded Oxidized Gold,5/8,5.30,8.74,11.36,Wood
+2546309,Minis Beaded Oxidized Silver,5/8,5.09,8.40,10.92,Wood
+2546342,Minis Beaded Oxidized Black,5/8,4.43,7.34,9.54,Wood
+2546501,Minis Antique Gold,9/16,3.86,6.35,8.27,Wood
+2546502,Minis Antique Silver,9/16,3.86,6.35,8.27,Wood
+2546504,Minis Antique Black,9/16,3.36,5.55,7.23,Wood
+2546601,Minis Antique Gold Leaf Scoop,3/4,4.56,7.52,9.76,Wood
+2546671,Minis Brown & Gold Leaf Scoop,3/4,4.04,6.66,8.67,Wood
+2565201,Treviso Sterling Silver Scoop,1,9.44,15.56,20.24,Wood
+2565202,Treviso Gold Scoop,1,9.44,15.56,20.24,Wood
+2565204,Treviso Midnight Black Scoop,1,6.65,11.00,14.30,Wood
+2565206,Treviso Aged Brass,1,9.44,15.56,20.24,Wood
+2565207,Treviso Pewter Scoop,1,9.48,15.66,20.37,Wood
+2565214,Treviso Matte Black Scoop,1,9.44,15.56,20.24,Wood
+2565243,Treviso Ebony,1,9.44,15.56,20.24,Wood
+2565301,Treviso Sterling Silver Reverse,1 3/4,14.21,23.47,30.50,Wood
+2565302,Treviso Gold Reverse,1 3/4,14.21,23.47,30.50,Wood
+2565304,Treviso Midnight Black Reverse,1 3/4,11.18,18.46,24.01,Wood
+2565306,Treviso Aged Brass,1 3/4,14.21,23.47,30.50,Wood
+2565307,Treviso Pewter Reverse,1 3/4,14.29,23.56,30.67,Wood
+2565314,Treviso Matte Black Reverse,1 3/4,14.29,23.56,30.67,Wood
+2565343,Treviso Ebony,1 3/4,14.21,23.47,30.50,Wood
+2565401,Treviso Sterling Silver Scoop,2 3/4,18.44,30.43,39.56,Wood
+2565402,Treviso Gold Scoop,2 3/4,18.80,31.02,40.34,Wood
+2565404,Treviso Midnight Black Scoop,2 3/4,13.52,22.31,28.99,Wood
+2565406,Treviso Aged Brass,2 5/16,18.44,30.43,39.56,Wood
+2565407,Treviso Pewter Scoop,2 3/4,18.71,30.87,40.12,Wood
+2565414,Treviso Matte Black Scoop,2 3/4,18.80,31.02,40.34,Wood
+2565443,Treviso Ebony,2 5/16,18.44,30.43,39.56,Wood
+2585741,Heritage Black w/Gold Square,3/4,6.63,10.96,14.26,Wood
+2585744,Heritage Brown w/Gold Square,3/4,6.63,10.96,14.26,Wood
+2585841,Heritage Black w/Gold Flat,1 1/4,8.21,13.56,17.64,Wood
+2585844,Heritage Brown w/Gold Flat,1 1/4,8.21,13.56,17.64,Wood
+2585941,Heritage Black w/Gold Flat,2 1/8,11.18,18.46,24.01,Wood
+2585944,Heritage Brown w/Gold Flat,2 1/8,11.18,18.46,24.01,Wood
+2586041,Heritage Black w/Gold Reverse,1 3/4,13.66,22.56,29.32,Wood
+2586044,Heritage Brown w/Gold Reverse,1 3/4,13.66,22.56,29.32,Wood
+2586141,Heritage Black w/Gold Scoop,2,15.24,25.17,32.72,Wood
+2586144,Heritage Brown w/Gold Scoop,2,15.24,25.17,32.72,Wood
+2586241,Heritage Black w/Gold Scoop,1 3/8,11.03,18.22,23.69,Wood
+2586244,Heritage Brown w/Gold Scoop,1 3/8,11.03,18.22,23.69,Wood
+2593809,Hygge Carbon Scoop,2 5/16,11.70,19.31,25.10,Wood
+2593817,Hygge Natural Scoop,2 5/16,11.70,19.31,25.10,Wood
+2593823,Hygge Dover Grey Scoop,2 5/16,11.70,19.31,25.10,Wood
+2593827,Hygge Walnut Scoop,2 5/16,11.70,19.31,25.10,Wood
+2593831,Hygge Driftwood Scoop,2 5/16,11.70,19.31,25.10,Wood
+2593909,Hygge Carbon Small Scoop,1,6.78,11.20,14.56,Wood
+2593917,Hygge Natural Small Scoop,1,6.78,11.20,14.56,Wood
+2593923,Hygge Dover Grey Small Scoop,1,6.78,11.20,14.56,Wood
+2593927,Hygge Walnut Small Scoop,1,6.78,11.20,14.56,Wood
+2593931,Hygge Driftwood Small Scoop,1,6.78,11.20,14.56,Wood
+2594009,Hygge Carbon Reverse,2 3/16,10.57,17.45,22.70,Wood
+2594017,Hygge Natural Reverse,2 3/16,10.57,17.45,22.70,Wood
+2594023,Hygge Dover Grey Reverse,2 3/16,10.57,17.45,22.70,Wood
+2594027,Hygge Walnut Reverse,2 3/16,10.57,17.45,22.70,Wood
+2594031,Hygge Driftwood Reverse,2 3/16,10.57,17.45,22.70,Wood
+2597101,Palladio Color Antique Gold,3/4,6.95,11.48,14.94,Wood
+2597102,Palladio Color Antique Silver,3/4,6.95,11.48,14.94,Wood
+2597132,Palladio Color Wedgewood Blue w/Silver Leaf,3/4,6.95,11.48,14.94,Wood
+2597141,Palladio Color Expresso w/Gold Leaf,3/4,6.95,11.46,14.90,Wood
+2597142,Palladio Color Graphite w/Silver Leaf,3/4,6.95,11.48,14.94,Wood
+2597181,Palladio Color Evergreen w/Gold Leaf,3/4,6.95,11.48,14.94,Wood
+2597191,Palladio Color Rosewood w/Gold Leaf,3/4,6.95,11.48,14.94,Wood
+2597201,Palladio Color Antique Gold,1 1/2,10.45,17.24,22.43,Wood
+2597202,Palladio Color Antique Silver,1 1/2,10.45,17.24,22.43,Wood
+2597232,Palladio Color Wedgewood Blue w/Silver Leaf,1 1/2,10.45,17.24,22.43,Wood
+2597241,Palladio Color Expresso w/Gold Leaf,1 1/2,10.45,17.24,22.43,Wood
+2597242,Palladio Color Graphite w/Silver Leaf,1 1/2,10.49,17.30,22.51,Wood
+2597281,Palladio Color Evergreen w/Gold Leaf,1 1/2,10.49,17.30,22.51,Wood
+3478870,Small Gold Bamboo,5/8,5.15,10.30,13.38,Wood
+3478871,Small Silver Bamboo,5/8,5.15,10.30,13.38,Wood
+3478872,Small Black Bamboo,5/8,4.65,9.30,12.09,Wood
+3478873,Small Natural Bamboo,5/8,4.65,9.30,12.09,Wood
+3478874,Small Walnut Bamboo,5/8,4.65,9.30,12.09,Wood
+3478875,Medium Gold Bamboo,1,5.81,11.04,14.36,Wood
+3478876,Medium Silver Bamboo,1,5.81,11.04,14.36,Wood
+3478877,Medium Black Bamboo,1,5.72,10.87,14.14,Wood
+3478879,Medium Walnut Bamboo,1,5.72,10.87,14.14,Wood
+3480993,Dark Bronze Panel,4 1/8,17.53,30.16,39.21,Wood
+3480994,Gold Panel w/Raised Back,3,12.34,21.23,27.61,Wood
+3480995,Dark Bronze Panel,3,12.34,21.23,27.61,Wood
+3483360,Hammered Silver Scoop,1 3/16,4.62,9.71,12.63,Wood
+3483367,Black w/Red Scoop w/Gold Lip,3,12.43,21.38,27.80,Wood
+3483368,Deep Silver Scoop,3,12.43,21.38,27.80,Wood
+3483381,Gold Panel,1 1/2,8.35,15.87,20.64,Wood
+3483383,Black Panel w/Gold Lip & Back,1 1/2,8.35,15.87,20.64,Wood
+3483384,Black Panel w/Silver Lip & Back,1 1/2,8.35,15.87,20.64,Wood
+3483385,Silver Panel,1 1/2,8.35,15.87,20.64,Wood
+3483386,White Panel,1 1/2,8.35,15.87,20.64,Wood
+3483452,Distressed Cream w/Silver Lip,7/8,6.28,11.94,15.53,Wood
+3483472,White Wood Grain,1 1/2,6.02,12.65,16.45,Wood
+3483477,White Wood Grain Scoop,1 3/4,4.95,10.40,13.53,Wood
+3483530,White Barnwood Scoop,1 1/2,6.54,12.43,16.15,Wood
+3483531,Grey Barnwood Scoop,1 1/2,6.54,12.43,16.15,Wood
+3483533,White Barnwood Scoop,2,7.65,13.16,17.12,Wood
+3483534,Grey Barnwood Scoop,2,7.65,13.16,17.12,Wood
+3483536,White Barnwood Scoop,3,9.68,16.66,21.66,Wood
+3483562,Whisky Veneer Square w/Gold Embossing,1 5/8,16.10,27.70,36.02,Wood
+3483563,Whisky Veneer Scoop w/Gold Embossing,1 1/2,12.12,20.85,27.11,Wood
+3483637,Amaretto Olive Veneer Scoop,3 1/4,33.99,50.99,66.29,Wood
+3483638,Amaretto Olive Veneer Scoop,2 1/8,20.96,31.45,40.88,Wood
+3483726,Glossy Crimson Scoop,1 1/4,7.49,12.89,16.76,Wood
+3483727,Glossy Tangerine Scoop,1 1/4,7.49,12.89,16.76,Wood
+3483728,Glossy Canary Scoop,1 1/4,7.49,12.89,16.76,Wood
+3483729,Glossy Lime Scoop,1 1/4,7.49,12.89,16.76,Wood
+3483730,Glossy Sky Scoop,1 1/4,7.49,12.89,16.76,Wood
+3483731,Glossy Charcoal Scoop,1 1/4,7.49,12.89,16.76,Wood
+3483732,Glossy Crimson Scoop,3/4,6.16,11.71,15.23,Wood
+3483733,Glossy Tangerine Scoop,3/4,6.16,11.71,15.23,Wood
+3483734,Glossy Canary Scoop,3/4,6.16,11.71,15.23,Wood
+3483735,Glossy Lime Scoop,3/4,6.16,11.71,15.23,Wood
+3483736,Glossy Sky Scoop,3/4,6.16,11.71,15.23,Wood
+3483737,Glossy Charcoal Scoop,3/4,6.16,11.71,15.23,Wood
+3483752,Miramar Distressed White,1 1/2,7.02,13.34,17.35,Wood
+3483753,Miramar Distressed Driftwood,1 1/2,7.02,13.34,17.35,Wood
+3483754,Miramar Distressed Charcoal Grey,1 1/2,7.02,13.34,17.35,Wood
+3483755,Miramar Distressed White,2 1/2,9.77,18.57,24.14,Wood
+3483756,Miramar Distressed Driftwood,2 1/2,9.77,18.57,24.14,Wood
+3483757,Miramar Distressed Charcoal Grey,2 1/2,9.77,18.57,24.14,Wood
+3483803,Rustique Aged White Square,1 1/4,6.47,12.30,15.99,Wood
+3483804,Rustique Scorched Walnut Square,1 1/4,6.47,12.30,15.99,Wood
+3483805,Rustique Aged White Panel,1 3/4,7.59,14.43,18.76,Wood
+3483806,Rustique Scorched Walnut Panel,1 3/4,7.59,14.43,18.76,Wood
+3483811,Ermine Antique Gold Ornate,1 5/8,7.85,14.92,19.40,Wood
+3483812,Ermine Silver Ornate,1 5/8,7.85,14.92,19.40,Wood
+3483813,Ermine Black Ornate,1 5/8,6.88,13.07,17.00,Wood
+3483836,Hampshire Rustic White,3/4,7.09,12.19,15.86,Wood
+3483838,Hampshire Rustic Sable,3/4,7.09,12.19,15.86,Wood
+3483839,Hampshire Rustic Chestnut,3/4,7.09,12.19,15.86,Wood
+3483840,Hampshire Rustic Caramel,3/4,7.09,12.19,15.86,Wood
+3483841,Hampshire Rustic Green,3/4,7.09,12.19,15.86,Wood
+3483842,Hampshire Rustic White,2,9.08,17.26,22.43,Wood
+3483844,Hampshire Rustic Sable,2,9.08,17.26,22.43,Wood
+3483845,Hampshire Rustic Chestnut,2,9.08,17.26,22.43,Wood
+3483846,Hampshire Rustic Caramel,2,9.08,17.26,22.43,Wood
+3483878,Mercer Tall Square Antique Gold,1 3/4,11.58,19.92,25.91,Wood
+3483879,Mercer Tall Square Antique Silver,1 3/4,11.58,19.92,25.91,Wood
+3483880,Mercer Tall Square Antique Black,1 3/4,11.58,19.92,25.91,Wood
+3483881,Mercer Tall Square Antique Red,1 3/4,11.58,19.92,25.91,Wood
+3483882,Mercer Tall Square Antique White w/Silver,1 3/4,11.58,19.92,25.91,Wood
+3483883,Mercer Tall Square Antique Silver/Grey,1 3/4,11.58,19.92,25.91,Wood
+3483884,Mercer Tall Square Antique Gold,1 1/4,5.97,10.27,13.36,Wood
+3483885,Mercer Square Antique Silver,1 1/4,5.97,10.27,13.36,Wood
+3483886,Mercer Square Antique Black,1 1/4,5.97,10.27,13.36,Wood
+3483887,Mercer Square Antique Red,1 1/4,5.97,10.27,13.36,Wood
+3483888,Mercer Square Antique White w/Silver,1 1/4,5.97,10.27,13.36,Wood
+3483889,Mercer Square Antique Silver/Grey,1 1/4,5.97,10.27,13.36,Wood
+3483902,Aspen White Distressed w/Silver Lip Cap,3/4,6.76,12.84,16.70,Wood
+3483903,Aspen Flax Distressed w/Gold Lip Cap,3/4,6.76,12.84,16.70,Wood
+3483904,Aspen Grey Distressed w/Silver Lip Cap,3/4,6.76,12.84,16.70,Wood
+3483905,Aspen Walnut Distressed w/Gold Lip Cap,3/4,6.76,12.84,16.70,Wood
+3483931,Orion Mottled Gold Panel w/Step,1 3/8,8.44,14.52,18.89,Wood
+3483932,Orion Mottled Silver Panel w/Step,1 3/8,8.44,14.52,18.89,Wood
+3483933,Orion Mottled Pewter Panel w/Step,1 3/8,8.44,14.52,18.89,Wood
+3483934,Orion Tall Mottled Gold w/Step,1,8.44,14.52,18.89,Wood
+3483935,Orion Tall Mottled Silver w/Step,1,8.44,14.52,18.89,Wood
+3483936,Orion Tall Mottled Pewter w/Step,1,8.44,14.52,18.89,Wood
+3483937,Serenity Tall White Square w/Silver,3/4,4.62,9.71,12.63,Wood
+3483938,Serenity Tall Tan Square w/Silver,3/4,4.62,9.71,12.63,Wood
+3483939,Serenity Tall Brown Square w/Gold,3/4,4.62,9.71,12.63,Wood
+3483940,Serenity Tall Black Square w/Gold,3/4,4.62,9.71,12.63,Wood
+3483941,Serenity Chalk White Square w/Silver,1 1/8,4.24,8.91,11.59,Wood
+3483942,Serenity Chalk Tan Square w/Silver,1 1/8,4.24,8.91,11.59,Wood
+3483943,Serenity Chalk Brown Square w/Gold,1 1/8,4.24,8.91,11.59,Wood
+3483944,Serenity Chalk Black Square w/Gold,1 1/8,4.24,8.91,11.59,Wood
+3483949,High Line White Panel w/Silver Edges,1 1/8,8.07,13.88,18.05,Wood
+3483950,High Line Silver Panel w/Silver Edges,1 1/8,8.07,13.88,18.05,Wood
+3483951,High Line Grey Panel w/Silver Edges,1 1/8,8.07,13.88,18.05,Wood
+3483952,High Line Charcoal Panel w/Silver Edges,1 1/8,8.07,13.88,18.05,Wood
+3483953,High Line White Panel w/Silver Edges,1 5/8,10.79,18.56,24.13,Wood
+3483954,High Line Silver Panel w/Silver Edges,1 5/8,10.79,18.56,24.13,Wood
+3483955,High Line Grey Panel w/Silver Edges,1 5/8,10.79,18.56,24.13,Wood
+3483956,High Line Charcoal Panel w/Silver Edges,1 5/8,10.79,18.56,24.13,Wood
+3483958,Plateau Silver Flat,1 1/4,3.62,7.61,9.90,Wood
+3483961,Plateau Silver Cap,3/4,3.08,6.47,8.43,Wood
+3483962,Plateau Silver Square,1 5/8,5.95,11.31,14.71,Wood
+3483987,Relics Weathered Brown,3 3/4,10.69,18.39,23.92,Wood
+3483988,Relics Weathered Grey,3 3/4,10.69,18.39,23.92,Wood
+3483989,Relics Weathered Brown,2 5/8,6.92,13.15,17.11,Wood
+3483990,Relics Weathered Grey,2 5/8,6.92,13.15,17.11,Wood
+3483991,Relics Weathered Brown,1 5/8,4.46,9.37,12.18,Wood
+3483992,Relics Weathered Grey,1 5/8,4.46,9.37,12.18,Wood
+3483993,Relics Weathered Brown Cap,7/8,5.02,10.55,13.72,Wood
+3483994,Relics Weathered Grey Cap,7/8,5.02,10.55,13.72,Wood
+3483995,Relics Weathered Brown Floater,1 3/4,7.13,13.55,17.62,Wood
+3483996,Relics Weathered Grey Floater,1 3/4,7.13,13.55,17.62,Wood
+3483997,Jensen Natural Tall w/Slant,3/4,6.90,11.87,15.44,Wood
+3483998,Jensen Grey Tall w/Slant,3/4,6.90,11.87,15.44,Wood
+3483999,Jensen Slate Tall w/Slant,3/4,6.90,11.87,15.44,Wood
+3484000,Jensen Cappuccino Tall w/Slant,3/4,6.90,11.87,15.44,Wood
+3484001,Jensen Natural Flat,1 1/2,5.41,9.31,12.12,Wood
+3484002,Jensen Grey Flat,1 1/2,5.41,9.31,12.12,Wood
+3484003,Jensen Slate Flat,1 1/2,5.41,9.31,12.12,Wood
+3484004,Jensen Cappuccino Flat,1 1/2,5.41,9.31,12.12,Wood
+3484005,Jensen Natural Cap,7/8,4.88,8.40,10.93,Wood
+3484006,Jensen Grey Cap,7/8,4.88,8.40,10.93,Wood
+3484007,Jensen Slate Cap,7/8,4.88,8.40,10.93,Wood
+3484008,Jensen Cappuccino Cap,7/8,4.88,8.40,10.93,Wood
+3484009,Jensen Natural Floater,1 1/8,8.58,14.76,19.20,Wood
+3484010,Jensen Grey Floater,1 1/8,8.58,14.76,19.20,Wood
+3484011,Jensen Slate Floater,1 1/8,8.58,14.76,19.20,Wood
+3484012,Jensen Cappuccino Floater,1 1/8,8.58,14.76,19.20,Wood
+3484030,Prism Gloss Ruby,1/2,6.85,13.02,16.94,Wood
+3484031,Prism Gloss Tangerine,1/2,6.85,13.02,16.94,Wood
+3484032,Prism Gloss Canary,1/2,6.85,13.02,16.94,Wood
+3484033,Prism Gloss Emerald,1/2,6.85,13.02,16.94,Wood
+3484034,Prism Gloss True Blue,1/2,6.85,13.02,16.94,Wood
+3484035,Prism Gloss Azure,1/2,6.85,13.02,16.94,Wood
+3484036,Prism Gloss Powder Blue,1/2,6.85,13.02,16.94,Wood
+3484037,Prism Gloss Vanilla,1/2,6.85,13.02,16.94,Wood
+3484048,Theo Grey/Pewter Scoop,1 5/8,11.01,18.94,24.63,Wood
+3484049,Theo Rust/Pewter Scoop,1 5/8,11.01,18.94,24.63,Wood
+3484050,Theo Bisque/Pewter Scoop,1 5/8,11.01,18.94,24.63,Wood
+3484051,Theo Grey/Pewter Scoop,2 3/4,17.74,30.52,39.68,Wood
+3484052,Theo Rust/Pewter Scoop,2 3/4,17.74,30.52,39.68,Wood
+3484053,Theo Bisque/Pewter Scoop,2 3/4,17.74,30.52,39.68,Wood
+3484068,Adrienne Gold Reverse,1 3/8,8.21,14.13,18.37,Wood
+3484069,Adrienne Silver Reverse,1 3/8,8.21,14.13,18.37,Wood
+3484070,Adrienne Gold Reverse,2,10.43,17.95,23.34,Wood
+3484071,Adrienne Silver Reverse,2,10.43,17.95,23.34,Wood
+3484081,Adrienne Tall Gold w/Step,3/4,7.59,13.06,16.99,Wood
+3484082,Adrienne Tall Silver w/Step,3/4,7.59,13.06,16.99,Wood
+3484083,Gloss Crimson Angle w/White Top,3/4,7.49,12.89,16.76,Wood
+3484084,Gloss Tangerine Angle w/White Top,3/4,7.49,12.89,16.76,Wood
+3484085,Gloss Canary Angle w/White Top,3/4,7.49,12.89,16.76,Wood
+3484086,Gloss Lime Green Angle w/White Top,3/4,7.49,12.89,16.76,Wood
+3484087,Gloss Sky Blue Angle w/White Top,3/4,7.49,12.89,16.76,Wood
+3484088,Gloss Charcoal Angle w/White Top,3/4,7.49,12.89,16.76,Wood
+3484099,Aspen Distressed White w/Silver Lip,1,4.28,9.00,11.70,Wood
+3484100,Aspen Distressed White w/Gold Lip,1,4.28,9.00,11.70,Wood
+3484101,Aspen Distressed Flax w/Gold Lip,1,4.28,9.00,11.70,Wood
+3484102,Aspen Distressed Grey w/Silver Lip,1,4.28,9.00,11.70,Wood
+3484103,Aspen Distressed Walnut w/Gold Lip,1,4.28,9.00,11.70,Wood
+3484118,Weathered White Floater,1 5/8,8.06,15.32,19.93,Wood
+3484119,Weathered Driftwood Floater,1 5/8,8.06,15.32,19.93,Wood
+3484120,Weathered Anthracite Floater,1 5/8,8.06,15.32,19.93,Wood
+3484121,Weathered White Square w/Gold Lip,1 3/4,8.23,15.64,20.34,Wood
+3484122,Weathered White Square w/Silver Lip,1 3/4,8.23,15.64,20.34,Wood
+3484123,Weathered Driftwood Square w/Silver Lip,1 3/4,8.23,15.64,20.34,Wood
+3484124,Weathered Anthracite Square w/Silver Lip,1 3/4,8.23,15.64,20.34,Wood
+3484125,Weathered White Square w/Gold Lip,7/8,5.55,10.55,13.73,Wood
+3484126,Weathered White Square w/Silver Lip,7/8,5.55,10.55,13.73,Wood
+3484127,Weathered Driftwood Square w/Silver Lip,7/8,5.55,10.55,13.73,Wood
+3484128,Weathered Anthracite Square w/Silver Lip,7/8,5.55,10.55,13.73,Wood
+3484129,Alberta Barnwood White w/Grey Panel,1 1/2,6.54,12.43,16.15,Wood
+3484130,Alberta Barnwood White w/Grey Panel,2,7.65,13.16,17.12,Wood
+3484132,Gold/Bronze Textured Scoop,1 5/16,11.81,20.32,26.42,Wood
+3484133,Grey/Silver Textured Scoop,1 5/16,11.81,20.32,26.42,Wood
+3484134,Pewter/Silver Textured Scoop,1 5/16,11.81,20.32,26.42,Wood
+3484135,Gold/Bronze Textured Scoop,2 1/2,17.02,25.53,33.19,Wood
+3484136,Grey/Silver Textured Scoop,2 1/2,17.02,25.53,33.19,Wood
+3484137,Pewter/Silver Textured Scoop,2 1/2,17.02,25.53,33.19,Wood
+3484138,Relics Weathered White Barnwood Panel,3 3/4,10.69,18.39,23.92,Wood
+3484139,Relics Weathered White Barnwood Panel,2 5/8,6.92,13.15,17.11,Wood
+3484140,Relics Weathered White Barnwood Panel w/Ridge,1 5/8,4.46,9.37,12.18,Wood
+3484141,Relics Weathered White Tall Square,7/8,5.02,10.55,13.72,Wood
+3484142,Relics Weathered White Barnwood Floater,1 3/4,7.13,13.55,17.62,Wood
+3484143,Relics Weathered Brown Barnwood Panel w/Ridge,2 5/8,6.92,13.15,17.11,Wood
+3484144,Relics Weathered Grey Barnwood Panel w/Ridge,2 5/8,6.92,13.15,17.11,Wood
+3484145,Relics Weathered White Barnwood Panel w/Ridge,2 5/8,6.92,13.15,17.11,Wood
+3484146,Bijoux Silver w/White Highlights,5/8,5.88,11.18,14.54,Wood
+3484147,Bijoux Silver w/Black Highlights,5/8,5.88,11.18,14.54,Wood
+3484148,Bijoux Silver w/Red Highlights,5/8,5.88,11.18,14.54,Wood
+3484149,Bijoux Silver w/Yellow Highlights,5/8,5.88,11.18,14.54,Wood
+3484150,Bijoux Silver w/Green Highlights,5/8,5.88,11.18,14.54,Wood
+3484151,Bijoux Silver w/Blue Highlights,5/8,5.88,11.18,14.54,Wood
+3484152,Kaju Whitewash Cap,3/4,3.86,8.11,10.56,Wood
+3484153,Kaju Natural Cap,3/4,3.86,8.11,10.56,Wood
+3484154,Kaju Latte Cap,3/4,3.86,8.11,10.56,Wood
+3484155,Kaju Olivewood Cap,3/4,3.86,8.11,10.56,Wood
+3484156,Kaju Walnut Cap,3/4,3.86,8.11,10.56,Wood
+3484157,Kaju Wenge Cap,3/4,3.86,8.11,10.56,Wood
+3484158,Kaju Driftwood Grey Cap,3/4,3.86,8.11,10.56,Wood
+3484159,Kaju White w/Natural Back,7/8,4.22,8.87,11.53,Wood
+3484160,Kaju White w/Wenge Back,7/8,3.86,8.11,10.56,Wood
+3484161,Kaju Black w/Natural Back,7/8,4.22,8.87,11.53,Wood
+3484162,Kaju Black w/Wenge Back,7/8,4.22,8.87,11.53,Wood
+3484163,Cote d'Azur Aged White Distressed Square,1 1/8,11.48,19.75,25.69,Wood
+3484164,Cote d'Azur Aged Grey Distressed Square,1 1/8,11.48,19.75,25.69,Wood
+3484165,Cote d'Azur Aged Taupe Distressed Square,1 1/8,11.48,19.75,25.69,Wood
+3484166,Cote d'Azur Aged Green Distressed Square,1 1/8,11.48,19.75,25.69,Wood
+3484167,Cote d'Azur Aged Blue Distressed Square,1 1/8,11.48,19.75,25.69,Wood
+3484168,Cote d'Azur Aged Red Distressed Square,1 1/8,11.48,19.75,25.69,Wood
+3484187,Milbrook Black Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484188,Milbrook Taupe Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484189,Milbrook White Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484190,Milbrook Orange Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484191,Milbrook Red Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484192,Milbrook Blue Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484193,Milbrook Green Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484194,Milbrook Moss Rustic Distressed Flat,1 1/16,5.21,10.94,14.23,Wood
+3484245,Parker Plum Bullnose w/Gold Lip,1 5/8,9.74,16.76,21.79,Wood
+3484246,Parker Black Rub Bullnose w/Silver lip,1 5/8,9.74,16.76,21.79,Wood
+3484247,Parker Gold Bullnose w/Scoop Lip,1 5/8,9.74,16.76,21.79,Wood
+3484248,Parker Silver Bullnose w/Scoop Lip,1 5/8,9.74,16.76,21.79,Wood
+3484249,York Black Scoop w/Silver Lip,3/4,6.90,11.87,15.44,Wood
+3484250,York Red Scoop w/Silver Lip,3/4,6.90,11.87,15.44,Wood
+3484251,York Gold Scoop,3/4,6.90,11.87,15.44,Wood
+3484252,York Grey Scoop w/Silver Lip,3/4,6.90,11.87,15.44,Wood
+3484253,York Silver Scoop,3/4,6.90,11.87,15.44,Wood
+3484254,York Marine Blue Scoop w/Silver Lip,3/4,6.90,11.87,15.44,Wood
+3484255,York Plum Scoop w/Silver Lip,3/4,6.90,11.87,15.44,Wood
+3484256,Carlyle Copper Scoop w/Dotted Lip,1 1/8,8.56,14.73,19.16,Wood
+3484257,Carlyle Gold Scoop w/Dotted Lip,1 1/8,8.56,14.73,19.16,Wood
+3484258,Carlyle Pewter Scoop w/Dotted Lip,1 1/8,8.56,14.73,19.16,Wood
+3484259,Carlyle Silver Scoop w/Dotted Lip,1 1/8,8.56,14.73,19.16,Wood
+3484260,Carlyle Plum Scoop w/Dotted Lip,1 1/8,8.56,14.73,19.16,Wood
+3484261,Loft Antique Gold w/Bevel Lip,2 1/2,17.83,30.67,39.88,Wood
+3484262,Loft Dark Pewter w/Bevel Lip,2 1/2,17.83,30.67,39.88,Wood
+3484263,Loft Antique Gold w/Bevel Lip,1 7/16,12.21,21.01,27.32,Wood
+3484264,Loft Dark Pewter w/Bevel Lip,1 7/16,12.21,21.01,27.32,Wood
+3484265,Epoque Silver Scoop w/Walnut,1 3/8,12.42,21.37,27.79,Wood
+3484266,Epoque Gunmetal Scoop w/Black,1 3/8,12.42,21.37,27.79,Wood
+3484267,Epoque Champagne Scoop w/Walnut,1 3/8,12.42,21.37,27.79,Wood
+3484268,Epoque Gold Scoop w/Walnut,1 3/8,12.42,21.37,27.79,Wood
+3484269,Volta Charcoal Cube w/Silver Bevel Lip,1 3/8,11.36,19.55,25.41,Wood
+3484270,Volta Dark Sand Cube w/Gold Bevel Lip,1 3/8,11.36,19.55,25.41,Wood
+3484271,Volta Moss Green Cube w/Silver Bevel Lip,1 3/8,11.36,19.55,25.41,Wood
+3484272,Volta Blue Cube w/Silver Bevel Lip,1 3/8,11.36,19.55,25.41,Wood
+3484273,Volta Pewter Cube w/Silver Bevel Lip,1 3/8,11.36,19.55,25.41,Wood
+3484274,Volta Grey Fog Cube w/Silver Bevel Lip,1 3/8,11.36,19.55,25.41,Wood
+3484275,Gio White Reverse w/Metallic Top,1 3/8,10.77,18.53,24.09,Wood
+3484276,Gio Beige Reverse w/Metallic Top,1 3/8,10.77,18.53,24.09,Wood
+3484277,Gio Brown Reverse w/Metallic Top,1 3/8,10.77,18.53,24.09,Wood
+3484278,Gio Slate Reverse w/Metallic Top,1 3/8,10.77,18.53,24.09,Wood
+3484279,Gio Black Reverse w/Metallic Top,1 3/8,10.77,18.53,24.09,Wood
+3484280,Ava Whitewash Reverse w/Gold Accent,1 3/8,7.32,12.59,16.37,Wood
+3484281,Ava Whitewash Reverse w/Silver Accent,1 3/8,7.32,12.59,16.37,Wood
+3484282,Ava Whitewash Reverse w/Blue Accent,1 3/8,7.32,12.59,16.37,Wood
+3484283,Gehry Silver Square w/Scratch,3/4,7.46,12.84,16.70,Wood
+3484284,Gehry Champagne Square w/Scratch,3/4,7.46,12.84,16.70,Wood
+3484285,Gehry Pewter Square w/Scratch,3/4,7.46,12.84,16.70,Wood
+3484286,Gehry Copper Square w/Scratch,3/4,7.46,12.84,16.70,Wood
+3484287,Gehry Gold Square w/Scratch,3/4,7.46,12.84,16.70,Wood
+3484306,Volta Charcoal Cube w/Silver Bevel Lip,2,20.99,31.49,40.93,Wood
+3484307,Volta Dark Sand Cube w/Gold Bevel Lip,2,20.99,31.49,40.93,Wood
+3484308,Volta Blue Cube w/Silver Bevel Lip,2,20.99,31.49,40.93,Wood
+3484309,Volta Pewter Cube w/Silver Bevel Lip,2,20.99,31.49,40.93,Wood
+3484310,Volta Grey Fog Cube w/Silver Bevel Lip,2,20.99,31.49,40.93,Wood
+3484311,Arielle Ant. Gold Panel w/Raised Lip,1 3/4,10.81,18.60,24.19,Wood
+3484312,Arielle Ant. Silver Panel w/Raised Lip,1 3/4,10.81,18.60,24.19,Wood
+3484313,Arielle Obsidian Panel w/Raised Lip,1 3/4,10.81,18.60,24.19,Wood
+3484314,Arielle Ant. Brass Panel w/Raised Lip,1 3/4,10.81,18.60,24.19,Wood
+3484331,Palais Gold w/Black Back,2 1/2,19.26,28.90,37.56,Wood
+3484332,Palais Silver w/Black Back,2 1/2,19.26,28.90,37.56,Wood
+3484333,Palais Gold w/Black Back,1 1/2,9.72,16.72,21.74,Wood
+3484334,Palais Silver w/Black Back,1 1/2,9.72,16.72,21.74,Wood
+3484335,Palais Gold w/Black Back,1 1/8,5.88,11.76,15.28,Wood
+3484336,Palais Silver w/Black Back,1 1/8,5.88,11.76,15.28,Wood
+3484356,Cinta Gold Wave,3/4,3.60,6.84,8.90,Wood
+3484357,Cinta Silver Wave,3/4,3.60,6.84,8.90,Wood
+3484358,Cinta Black Wave,3/4,3.60,6.84,8.90,Wood
+3484359,Cinta Gold Wave Shadowbox,3/4,7.06,12.71,16.54,Wood
+3484360,Cinta Silver Wave Shadowbox,3/4,7.06,12.71,16.54,Wood
+3484361,Cinta Black Wave Shadowbox,3/4,7.06,12.71,16.54,Wood
+3484379,G24 Rubbed Gold Flat Top,3/4,3.44,6.54,8.51,Wood
+3484380,G24 Rubbed Gold Square,3/4,2.82,5.37,6.98,Wood
+3484381,G24 Rubbed Gold Flat Top,1 1/4,3.03,5.77,7.50,Wood
+3484382,G24 Rubbed Gold Cap,1 1/4,5.21,9.91,12.88,Wood
+3484389,Luxe Brushed Bronze Tall Cap,1,4.87,8.77,11.41,Wood
+3484390,Luxe Brushed Bronze Cube,1 5/8,4.82,8.68,11.29,Wood
+3484391,Luxe Brushed Bronze Flat,1 1/4,2.82,5.08,6.62,Wood
+3484392,Luxe Brushed Bronze Square,1,2.51,4.52,5.88,Wood
+3484393,Luxe Brushed Bronze Small Cap,3/4,2.39,4.31,5.61,Wood
+3484394,Luxe Brushed Bronze Flat,3,6.49,11.68,15.19,Wood
+3484395,Luxe Brushed Bronze Tall Slant,3/4,4.25,7.65,9.95,Wood
+3484405,Grainbow Natural,3/4,4.09,7.36,9.56,Wood
+3484406,Grainbow Whitewash,3/4,4.09,7.36,9.56,Wood
+3484407,Grainbow Walnut,3/4,4.09,7.36,9.56,Wood
+3484408,Grainbow Dark Walnut,3/4,4.09,7.36,9.56,Wood
+3484409,Grainbow Driftwood,3/4,4.09,7.36,9.56,Wood
+3484410,Grainbow Charcoal,3/4,4.09,7.36,9.56,Wood
+3484411,Grainbow Red,3/4,4.09,7.36,9.56,Wood
+3484412,Grainbow Orange,3/4,4.09,7.36,9.56,Wood
+3484413,Grainbow Yellow,3/4,4.09,7.36,9.56,Wood
+3484414,Grainbow Green,3/4,4.09,7.36,9.56,Wood
+3484415,Grainbow Blue,3/4,4.09,7.36,9.56,Wood
+3484444,Volta Charcoal Cap w/Bevel Lip,5/8,5.56,10.01,13.02,Wood
+3484445,Volta Dark Sand Cap w/Bevel Lip,5/8,5.56,10.01,13.02,Wood
+3484446,Volta Moss Green Cap w/Bevel Lip,5/8,5.56,10.01,13.02,Wood
+3484447,Volta Aegean Blue Cap w/Bevel Lip,5/8,5.56,10.01,13.02,Wood
+3484448,Volta Pewter Cap w/Bevel Lip,5/8,5.56,10.01,13.02,Wood
+3484449,Volta Grey Cap w/Bevel Lip,5/8,5.56,10.01,13.02,Wood
+3484453,Angelique Antique Gold Scoop,3/4,6.76,11.49,14.94,Wood
+3484454,Angelique Antique Silver Scoop,3/4,6.76,11.49,14.94,Wood
+3484455,Angelique Antique Bronze Scoop,3/4,6.76,11.49,14.94,Wood
+3484456,Angelique Antique Black Scoop,3/4,6.76,11.49,14.94,Wood
+3484457,Ferro Gold Tall Cap,3/4,6.36,10.81,14.05,Wood
+3484458,Ferro Copper Tall Cap,3/4,6.36,10.81,14.05,Wood
+3484459,Ferro Silver Tall Cap,3/4,6.36,10.81,14.05,Wood
+3484460,Ferro Iron Tall Cap,3/4,6.36,10.81,14.05,Wood
+3484461,Ferro Blue Tall Cap,3/4,6.36,10.81,14.05,Wood
+3484462,Ferro Carbon Tall Cap,3/4,6.36,10.81,14.05,Wood
+3484463,Ferro Gold Square,1 1/8,7.56,12.84,16.70,Wood
+3484464,Ferro Copper Square,1 1/8,7.56,12.84,16.70,Wood
+3484465,Ferro Silver Square,1 1/8,7.56,12.84,16.70,Wood
+3484466,Ferro Iron Square,1 1/8,7.56,12.84,16.70,Wood
+3484467,Ferro Blue Square,1 1/8,7.56,12.84,16.70,Wood
+3484468,Ferro Carbon Square,1 1/8,7.56,12.84,16.70,Wood
+40140,Natural Linen Liner - Scoop,1,4.36,8.28,10.77,Liner
+44004,Raw Liner,1,2.66,5.05,6.57,Liner
+44006,Raw Liner,1 1/2,4.06,7.71,10.03,Liner
+44008,Raw Liner,2,4.44,8.44,10.97,Liner
+44012,Raw Liner,3,5.42,10.30,13.39,Liner
+44130,Natural Linen Liner - Flat,3/4,3.42,6.50,8.45,Liner
+44140,Natural Linen Liner - Flat,1,3.96,7.52,9.78,Liner
+44150,Natural Linen Liner - Flat,1 1/4,4.44,8.44,10.97,Liner
+44180,Natural Linen Liner - Flat,1 1/2,5.06,9.61,12.50,Liner
+44185,Natural Linen Liner - Flat,2,5.96,11.32,14.72,Liner
+44190,Natural Linen Liner - Flat,3,8.28,15.73,20.45,Liner
+44230,White Linen Liner - Flat,3/4,3.42,6.50,8.45,Liner
+44240,White Linen Liner - Flat,1,3.96,7.52,9.78,Liner
+44250,White Linen Liner - Flat,1 1/4,4.44,8.44,10.97,Liner
+44280,White Linen Liner - Flat,1 1/2,5.06,9.61,12.50,Liner
+44285,White Linen Liner - Flat,2,5.96,11.32,14.72,Liner
+44290,White Linen Liner - Flat,3,8.28,15.73,20.45,Liner
+44330,Brussels Natural Linen Liner - Flat,3/4,3.42,6.50,8.45,Liner
+44350,Brussels Natural Linen Liner - Flat,1 1/4,4.44,8.44,10.97,Liner
+44385,Brussels Natural Linen Liner - Flat,2,5.96,11.32,14.72,Liner
+44550,Natural Linen Liner w/ Gold Lip - Flat,1 1/4,5.96,11.32,14.72,Liner
+44580,Natural Linen Liner w/ Gold Lip - Flat,1 1/2,6.50,12.35,16.06,Liner
+44930,Vanilla Silk Liner - Flat,3/4,3.42,6.50,8.45,Liner
+44950,Vanilla Silk Liner - Flat,1 1/4,4.44,8.44,10.97,Liner
+44985,Vanilla Silk Liner - Flat,2,5.96,11.32,14.72,Liner
+451110,Poly Satin Black,7/8,1.43,2.72,3.53,Plastic
+451605,Poly Espresso Floater,7/16,3.21,6.11,7.94,Plastic
+451607,Poly Gold Floater,7/16,3.21,6.11,7.94,Plastic
+451608,Poly Silver Floater,7/16,3.21,6.11,7.94,Plastic
+451610,Poly Black Floater,7/16,3.21,6.11,7.94,Plastic
+451611,Poly White Floater,7/16,3.21,6.11,7.94,Plastic
+451660,Black Ribbed Elegant Float,3/8,3.36,6.39,8.30,Wood
+451667,Gold Ribbed Elegant Float,3/8,3.36,6.39,8.30,Wood
+451668,Silver Ribbed Elegant Float,3/8,3.36,6.39,8.30,Wood
+451670,Black Bead Elegant Float,3/8,3.36,6.39,8.30,Wood
+451677,Gold Bead Elegant Float,3/8,3.36,6.39,8.30,Wood
+451678,Silver Bead Elegant Float,3/8,3.36,6.39,8.30,Wood
+451680,Black Scroll Elegant Float,3/8,3.36,6.39,8.30,Wood
+451687,Gold Scroll Elegant Float,3/8,3.36,6.39,8.30,Wood
+451688,Silver Scroll Elegant Float,3/8,3.36,6.39,8.30,Wood
+451805,Poly Espresso Floater,1/2,1.90,3.61,4.69,Plastic
+451807,Poly Gold Floater,1/2,1.90,3.61,4.69,Plastic
+451808,Poly Silver Floater,1/2,1.90,3.61,4.69,Plastic
+451810,Poly Black Floater,1/2,1.90,3.61,4.69,Plastic
+451811,Poly White Floater,1/2,1.90,3.61,4.69,Plastic
+452100,Poly Satin Black,1 1/4,1.81,3.43,4.47,Plastic
+452111,Poly Satin White,1 1/4,1.81,3.43,4.47,Plastic
+452202,Rattan Natural Floater,5/8,2.87,5.45,7.09,Wood
+452203,Rattan Dark Natural Floater,5/8,2.87,5.45,7.09,Wood
+452204,Rattan Grey Floater,5/8,2.87,5.45,7.09,Wood
+452205,Rattan Walnut Floater,5/8,2.87,5.45,7.09,Wood
+452302,Rattan Natural Slope,2 1/2,3.64,6.91,8.98,Wood
+452303,Rattan Dark Natural Slope,2 1/2,3.64,6.91,9.09,Wood
+452304,Rattan Grey Slope,2 1/2,3.64,6.91,8.98,Wood
+452305,Rattan Walnut Slope,2 1/2,3.64,6.91,8.98,Wood
+452402,Rattan Natural Slope,1  1/4,2.08,3.96,5.14,Wood
+452403,Rattan Dark Natural Slope,1  1/4,2.08,3.96,5.14,Wood
+452404,Rattan Grey Slope,1  1/4,2.08,3.96,5.14,Wood
+452405,Rattan Walnut Slope,1  1/4,2.08,3.96,5.14,Wood
+45530,Poly Black Scratch,1 3/16,1.81,3.43,4.47,Plastic
+45531,Poly Gold Scratch,1 3/16,1.81,3.43,4.47,Plastic
+45532,Poly Silver Scratch,1 3/16,1.81,3.43,4.47,Plastic
+45536,Poly Black Scratch,1 1/2,3.06,5.82,7.58,Plastic
+45537,Poly Gold Scratch,1 1/2,3.06,5.82,7.58,Plastic
+45538,Poly Silver Scratch,1 1/2,3.06,5.82,7.58,Plastic
+45542,Poly Black Scratch,2,2.77,5.26,6.83,Plastic
+45543,Poly Gold Scratch,2,2.77,5.26,6.83,Plastic
+45544,Poly Silver Scratch,2,2.77,5.26,6.83,Plastic
+45653,Poly Mahogany Flat Montalcino,2,4.57,8.69,11.30,Plastic
+457007,Classic Ornate Gold Poly,1 1/8,1.98,3.76,4.88,Plastic
+457008,Classic Ornate Silver Poly,1 1/8,1.98,3.76,4.88,Plastic
+457107,Classic Ornate Gold Poly,1 7/8,3.11,5.91,7.69,Plastic
+457108,Classic Ornate Silver Poly,1 7/8,3.11,5.91,7.69,Plastic
+457207,Classic Ornate Gold Poly,2 3/16,3.36,6.39,8.30,Plastic
+457208,Classic Ornate Silver Poly,2 3/16,3.36,6.39,8.30,Plastic
+457307,Classic Ornate Gold Poly,3 3/4,5.64,10.71,13.92,Plastic
+457308,Classic Ornate Silver Poly,3 3/4,5.64,10.71,13.92,Plastic
+45930,Poly Chrome,1 1/4,1.88,3.57,4.64,Plastic
+460003,Prime Square Open Grain Walnut,3/4,2.70,4.32,5.61,Wood
+460010,Prime Square Matte Black,3/4,3.07,4.91,6.39,Wood
+460011,Prime Square Matte White,3/4,3.07,4.91,6.39,Wood
+460012,Prime Square Open Grain Maple,3/4,2.70,4.32,5.61,Wood
+460018,Prime Square Matte Silver,3/4,3.87,6.18,8.04,Wood
+460110,Prime Square Open Grain Black,3/4,2.70,4.32,5.61,Wood
+460111,Prime Square Open Grain White,3/4,2.70,4.32,5.61,Wood
+4601112,Natural NatureWoods,3/4,2.91,4.67,6.06,Wood
+4601116,Walnut NatureWoods,3/4,2.91,4.67,6.06,Wood
+4601212,Natural NatureWoods,3/4,3.72,5.95,7.73,Wood
+4603507,Gold Floater,5/8,7.21,11.53,15.00,Wood
+4603508,Silver Floater,5/8,7.21,11.53,15.00,Wood
+4603510,Black Floater,5/8,7.21,11.53,15.00,Wood
+4603520,High Gloss Black Floater,5/8,7.90,12.63,16.43,Wood
+4603521,High Gloss White Floater,5/8,7.90,12.63,16.43,Wood
+46042000,Nexus Matte Black,2,2.03,3.25,4.23,Wood
+46042001,Nexus Matte White,2,2.03,3.25,4.23,Wood
+46042003,Nexus Gold,2,2.03,3.25,4.23,Wood
+46042004,Nexus Silver,2,2.03,3.25,4.23,Wood
+46042005,Nexus Pewter,2,2.03,3.25,4.23,Wood
+4607228,Silver Leaf ,1 1/2,6.26,10.01,13.01,Wood
+4610022,Black Linen Liner - Flat,1 1/4,2.97,4.74,6.16,Liner
+46101,Rainbow - White,7/8,2.70,4.32,5.61,Wood
+46102,Rainbow - Red,7/8,2.70,4.32,5.61,Wood
+46103,Rainbow  - Green,7/8,2.70,4.32,5.61,Wood
+46104,Rainbow  - Royal Blue,7/8,2.70,4.32,5.61,Wood
+46108,Rainbow - Navy Blue,7/8,2.70,4.32,5.61,Wood
+461110,Matte Black,3/4,2.50,4.00,5.20,Wood
+461111,Matte White,3/4,2.50,4.00,5.20,Wood
+461130,Diamante Matte Black,7/8,3.31,5.30,6.88,Wood
+461137,Diamante Gold,7/8,3.48,5.57,7.24,Wood
+461138,Diamante Silver,7/8,3.48,5.57,7.24,Wood
+461210,Matte Black,3/4,3.24,5.19,6.75,Wood
+461211,Matte White,3/4,3.68,5.89,7.65,Wood
+461214,Charcoal Cap,3/4,3.07,4.91,6.39,Wood
+461230,Diamante Matte Black Cap,3/4,3.60,5.76,7.49,Wood
+461237,Diamante Gold Cap,3/4,3.82,6.11,7.94,Wood
+461238,Diamante Silver Cap,3/4,3.82,6.11,7.94,Wood
+461267,Gold Stem Fade,13/16,3.97,6.34,8.25,Wood
+461268,Silver Stem Fade,13/16,3.97,6.34,8.25,Wood
+46132001,"Maplex 1"" Cap",3/4,3.60,5.76,7.48,Wood
+46132002,"Maplex 2"" Shadow Box",3/4,5.30,8.48,11.03,Wood
+46132005,"Maplex 1 1/4"" x 1 1/2""",1 1/4,5.66,9.06,11.78,Wood
+461367,Gold Stem Fade,1 3/16,6.03,9.66,12.55,Wood
+461368,Silver Stem Fade,1 3/16,6.03,9.66,12.55,Wood
+46144520,Keystone Matte Black,1 3/8,6.10,9.76,12.68,Wood
+46144522,Keystone Gold,1 3/8,6.10,9.76,12.68,Wood
+46144523,Keystone Silver,1 3/8,6.10,9.76,12.68,Wood
+46144526,Keystone White w/Silver,1 3/8,6.10,9.76,12.68,Wood
+46144528,Keystone White w/Gold,1 3/8,6.10,9.76,12.68,Wood
+461510,"Tall 2"" Black Cap",3/4,4.76,7.62,9.91,Wood
+461540,"1 1/4"" X 4"" Tall Matte Black",1 1/4,13.75,22.00,28.59,Wood
+46162008,Floater Smokey Silver,1 3/8,10.56,16.90,21.96,Wood
+46162020,Floater Mat Black,1 3/8,9.79,15.66,20.36,Wood
+46162607,Edge II Brass Gold Stem,7/8,5.89,9.42,12.24,Wood
+46162608,Edge II Bright Silver Stem,7/8,5.89,9.42,12.24,Wood
+46162644,Edge II Matte Gold Cap,3/4,3.12,4.99,6.50,Wood
+46162654,Edge II Gold Stem,7/8,5.89,9.42,12.24,Wood
+46162664,Edge II Gold Square,1 1/4,3.28,5.25,6.83,Wood
+46162666,Edge II Matte Silver Square,1 1/4,3.28,5.25,6.83,Wood
+461705,"2"" Gallery Float Espresso",3/8,7.03,11.24,14.61,Wood
+461706,"2"" Gallery Float Bordeaux",3/8,7.03,11.24,14.61,Wood
+461707,"2"" Gallery Float Gold Leaf",3/8,9.42,15.07,19.59,Wood
+461708,"2"" Gallery Float Silver Leaf",3/8,9.42,15.07,19.59,Wood
+461712,"2"" Gallery Float Natural",3/8,7.46,11.94,15.53,Wood
+461728,"2"" Silver Floater",3/8,9.42,15.07,19.60,Wood
+461730,Gallery Floater Wood Grain Black,2,5.45,8.72,11.34,Wood
+461732,Gallery Floater Natural,2,5.45,8.72,11.34,Wood
+461733,Gallery Floater Maple,2,5.45,8.72,11.34,Wood
+461734,Gallery Floater Walnut,2,5.45,8.72,11.34,Wood
+461735,Gallery Floater Espresso,2,5.45,8.72,11.34,Wood
+461736,Gallery Floater Bordeaux,2,5.45,8.72,11.34,Wood
+461739,Gallery Floater Light Walnut,2,5.45,8.72,11.34,Wood
+461805,1 Step  Float Espresso,3/8,5.41,8.66,11.26,Wood
+461807,1 Step  Float Gold Leaf,3/8,5.89,9.42,12.24,Wood
+461808,1 Step  Float Silver Leaf,3/8,5.89,9.42,12.24,Wood
+461810,1 Step  Float Black,3/8,5.20,8.32,10.82,Wood
+461811,1 Step  Float White,3/8,5.20,8.32,10.82,Wood
+461814,Charcoal Floater,1 9/16,4.89,7.84,10.18,Wood
+462014,Small Charcoal Slant,3/4,2.70,4.32,5.61,Wood
+462110,Matte Black,1 1/4,3.24,5.19,6.75,Wood
+462210,Matte Black Floater,1/4,5.41,8.66,11.26,Wood
+462214,Charcoal Slant,1 7/16,4.84,7.74,10.06,Wood
+462218,Silver Floater,1/4,5.66,9.06,11.78,Wood
+4622210,Rainbow - Black,1 3/4,4.09,6.54,8.51,Wood
+462420,Brown Barnwood Floater,1,8.52,13.63,17.71,Wood
+462422,Grey Barnwood Floater,1,8.52,13.63,17.71,Wood
+462424,Rustic White Barnwood Floater,1,8.52,13.63,17.71,Wood
+462520,Brown Barnwood Cap,1,4.87,7.78,10.12,Wood
+462522,Grey Barnwood Cap,1,4.87,7.78,10.12,Wood
+462524,Rustic White Barnwood Cap,1,4.87,7.78,10.12,Wood
+462620,Black Stem,13/16,4.92,7.87,10.23,Wood
+462621,White Stem,13/16,4.92,7.87,10.23,Wood
+462622,Gold Stem,13/16,4.92,7.87,10.23,Wood
+462623,Silver Stem,13/16,4.92,7.87,10.23,Wood
+462624,Cool Silver Stem,13/16,4.92,7.87,10.23,Wood
+462626,White with Silver Scratch Stem,13/16,4.92,7.87,10.23,Wood
+462627,Espresso with Silver Scratch Stem,13/16,4.92,7.87,10.23,Wood
+462628,White with Gold Scratch Stem,13/16,4.92,7.87,10.23,Wood
+462629,Champagne Stem,13/16,4.92,7.87,10.23,Wood
+462630,Champagne with Gold Stem,13/16,4.92,7.87,10.23,Wood
+462631,Silver with Gold Stem,13/16,4.92,7.87,10.23,Wood
+462707,Small Gold Collins,7/8,4.46,7.13,9.27,Wood
+462711,Small White Collins,7/8,4.46,7.13,9.27,Wood
+462713,Small Brown Collins,7/8,4.46,7.13,9.27,Wood
+462714,Small Charcoal Collins,7/8,4.46,7.13,9.27,Wood
+462814,Charcoal Cube,1 5/8,5.45,8.72,11.34,Wood
+462914,Tall Charcoal Cap,1 3/16,6.75,10.79,14.04,Wood
+463024,Walnut Bamboo,1,4.62,7.39,9.60,Wood
+46330,Black Linen Liner - Flat,3/4,3.42,6.50,8.45,Liner
+463455,Robles Walnut Tall Cap,1,8.57,13.71,17.83,Wood
+463456,Robles Light Walnut Tiger Tall Cap,1,8.57,13.71,17.83,Wood
+463463,Robles Pickled White Tall Cap,1,8.57,13.71,17.83,Wood
+463464,Robles Light French Oak Tall Cap,1,8.57,13.71,17.83,Wood
+46350,Black Linen Liner - Flat,1 1/4,4.44,8.44,10.97,Liner
+464217,Gold Leaf,1/2,2.08,3.32,4.32,Wood
+464218,Silver Leaf,1/2,2.08,3.32,4.32,Wood
+464227,Gold Leaf,1,2.23,3.57,4.65,Wood
+464228,Silver Leaf,1,2.23,3.57,4.65,Wood
+464237,"Gold Leaf 2"" Shadow Box",3/4,5.85,9.35,12.16,Wood
+464238,"Silver Leaf 2"" Shadow Box",3/4,5.85,9.35,12.16,Wood
+464247,Gold Leaf Scoop,1,3.60,5.76,7.48,Wood
+464248,Silver Leaf Scoop,1,3.60,5.76,7.48,Wood
+464257,Gold Leaf,1 1/4,4.18,6.69,8.70,Wood
+464258,Silver Leaf,1 1/4,4.18,6.69,8.70,Wood
+464267,Gold Leaf Crecent,1 1/2,5.85,9.35,12.16,Wood
+464277,Gold Leaf Chunk,1 1/2,6.38,10.20,13.27,Wood
+464287,Gold Leaf Flat,3,8.06,12.88,16.75,Wood
+464288,Silver Leaf Flat,3,8.06,12.88,16.75,Wood
+464420,Lrg. Matte Black,3,8.98,14.38,18.68,Wood
+464710,Matte Black,1/2,1.96,3.13,4.07,Wood
+465010,Satin Black Fillet,3/8,2.17,3.47,0.00,Fillet
+46501022,Black Linen Liner - Flat,2,4.12,6.58,8.55,Liner
+4670022,Black Linen Liner w/ Gold Lip - Flat,1 1/4,3.28,5.25,6.83,Liner
+467514,Block High Gloss Black,2,7.83,12.54,16.29,Wood
+467515,Block High Gloss White,2,7.83,12.54,16.29,Wood
+467516,Block High Gloss Ferrari Red,2,7.83,12.54,16.29,Wood
+467519,Small Slant High Gloss Black,7/8,3.87,6.18,8.04,Wood
+467521,Small Slant High Gloss Ferrari Red,7/8,3.87,6.18,8.04,Wood
+467710,"Matte Black Floater 3"" x 3""",3,13.85,22.16,28.80,Wood
+467711,"Matte White Floater 3"" x 3""",3,13.85,22.16,28.80,Wood
+467807,Gold Floater,1 1/2,11.09,17.74,23.06,Wood
+467808,Silver Floater,1 1/2,11.09,17.74,23.06,Wood
+467810,Black Floater,1 1/2,11.09,17.74,23.06,Wood
+467811,White Floater,1 1/2,11.09,17.74,23.06,Wood
+4684001,Rustic Dark Grey Floater,2 1/8,10.00,16.00,20.81,Wood
+4684002,Rustic Brown Grey Floater,2 1/8,10.00,16.00,20.81,Wood
+4684003,Rustic Walnut Floater,2 1/8,10.00,16.00,20.81,Wood
+4684004,Rustic Tan Floater,2 1/8,10.00,16.00,20.81,Wood
+4684005,Rustic White Floater,2 1/8,10.00,16.00,20.81,Wood
+4684011,Black w/Silver Floater,2,11.98,19.17,24.90,Wood
+4684012,Grey w/Silver Floater,2,11.98,19.17,24.90,Wood
+4684013,Tan w/Gold Floater,2,11.98,19.17,24.90,Wood
+4684014,Tan w/Silver Floater,2,11.98,19.17,24.90,Wood
+4684015,White w/Silver Floater,2,11.98,19.17,24.90,Wood
+4684023,Rustic Walnut,1 3/4,9.17,14.67,19.07,Wood
+4684024,Rustic Tan,1 3/4,9.16,14.67,19.07,Wood
+4685000,Luminoso Gold,1 1/8,5.33,8.52,11.09,Wood
+4685001,Luminoso Silver,1 1/8,5.33,8.52,11.09,Wood
+4685002,Luminoso Bronze,1 1/8,5.33,8.52,11.09,Wood
+4685003,Luminoso Smoke,1 1/8,5.33,8.52,11.09,Wood
+4685100,Luminoso Gold,1 1/2,7.49,11.98,15.58,Wood
+4685101,Luminoso Silver,1 1/2,7.49,11.98,15.58,Wood
+4685102,Luminoso Bronze,1 1/2,7.49,11.98,15.58,Wood
+4685200,"1/2"" x 2"" Luminoso Gold Floater",1/2,10.65,17.04,22.15,Wood
+4685201,"1/2"" x 2"" Luminoso Silver Floater",1/2,10.65,17.04,22.15,Wood
+4685300,"1 3/4"" x 2"" Luminoso Gold Floater",1 3/4,15.92,25.47,33.10,Wood
+4691002,Oak Grain Natural Cap,3/4,4.25,6.79,8.83,Wood
+4691003,Open Grain Walnut Cap,3/4,4.25,6.79,8.83,Wood
+4691005,Open Grain Charcoal Cap,3/4,4.25,6.79,8.83,Wood
+4691006,Open Grain Mahogany Cap,3/4,4.25,6.79,8.83,Wood
+4691010,Oak Grain Black Cap,3/4,4.25,6.79,8.83,Wood
+4691012,Open Grain Maple Cap,3/4,4.25,6.79,8.83,Wood
+4691210,Open Grain Black Cap,3/4,4.25,6.79,8.83,Wood
+4691211,Open Grain White Cap,3/4,4.25,6.79,8.83,Wood
+4691310,Matte Black Cap,3/4,4.43,7.09,9.21,Wood
+4691311,Matte White Cap,3/4,4.43,7.09,9.21,Wood
+4691407,Danica Open Grain Natural w/Gold,3/4,4.95,7.92,10.29,Wood
+4691507,Danica Open Grain White w/Gold,3/4,4.95,7.92,10.29,Wood
+46920,Charcoal Black,1 1/2,3.00,4.81,6.25,Wood
+4692002,Oak Grain Natural,1 1/4,4.25,6.79,8.83,Wood
+4692003,Open Grain Walnut,1 1/4,4.25,6.79,8.83,Wood
+4692004,Open Grain Mocha,1 1/4,4.25,6.79,8.83,Wood
+4692005,Open Grain Charcoal,1 1/4,4.25,6.79,8.83,Wood
+4692006,Open Grain Mahogany,1 1/4,4.25,6.79,8.83,Wood
+4692010,Oak Grain Black,1 1/4,4.25,6.79,8.83,Wood
+4692012,Open Grain Maple,1 1/4,4.25,6.79,8.83,Wood
+46921,Marshmallow White,1 1/2,3.00,4.81,6.25,Wood
+46922,Whiskey Brown,1 1/2,3.00,4.81,6.25,Wood
+4692210,Open Grain Black,1 1/4,4.25,6.79,8.83,Wood
+4692211,Open Grain White,1 1/4,4.25,6.79,8.83,Wood
+46923,Alabama Red,1 1/2,3.00,4.81,6.25,Wood
+4692310,Matte Black,1 1/4,4.43,7.09,9.21,Wood
+4692311,Matte White,1 1/4,4.43,7.09,9.21,Wood
+46924,Weathered Blue,1 1/2,3.00,4.81,6.25,Wood
+46925,Dixie Grey,1 1/2,3.00,4.81,6.25,Wood
+46926,Southern Yellow,1 1/2,3.00,4.81,6.25,Wood
+46927,Bourbon Orange,1 1/2,3.00,4.81,6.25,Wood
+46928,French Teal,1 1/2,3.00,4.81,6.25,Wood
+46929,Petticoat Pink,1 1/2,3.00,4.81,6.25,Wood
+46930,Sky Blue,1 1/2,3.00,4.81,6.25,Wood
+4693001,Oak Grain Dark Grey Floater,3/8,9.75,15.60,20.29,Wood
+4693002,Oak Grain Natural Floater,3/8,9.75,15.60,20.29,Wood
+4693010,Oak Grain Black Floater,3/8,9.75,15.60,20.29,Wood
+4693011,Oak Grain Light Grey Floater,3/8,9.75,15.60,20.29,Wood
+46931,Mint Julep,1 1/2,3.00,4.81,6.25,Wood
+4693211,Open Grain White Floater,3/8,9.75,15.60,20.29,Wood
+4693307,Danica Open Grain Natural w/Gold Floater,1 1/2,9.88,15.81,20.56,Wood
+4693308,Danica Open Grain Natural w/Silver Floater,1 1/2,9.88,15.81,20.56,Wood
+4693407,Danica Open Grain White w/Gold Floater,1 1/2,9.88,15.81,20.56,Wood
+4693408,Danica Open Grain White w/Silver Floater,1 1/2,9.88,15.81,20.56,Wood
+4693507,Danica Open Grain Grey w/Gold Floater,1 1/2,9.88,15.81,20.56,Wood
+4693508,Danica Open Grain Grey w/Silver Floater,1 1/2,9.88,15.81,20.56,Wood
+46940,Charcoal Black,2 1/2,3.81,6.09,7.92,Wood
+4694002,Oak Grain Natural Large Cap,1 1/2,8.70,13.93,18.11,Wood
+4694010,Oak Grain Black Large Cap,1 1/2,8.70,13.93,18.11,Wood
+46941,Marshmallow White,2 1/2,3.81,6.09,7.92,Wood
+46942,Whiskey Brown,2 1/2,3.81,6.09,7.92,Wood
+4694211,Open Grain White Large Cap,1 1/2,8.70,13.93,18.11,Wood
+46943,Alabama Red,2 1/2,3.81,6.09,7.92,Wood
+46944,Weathered Blue,2 1/2,3.81,6.09,7.92,Wood
+46950,Charcoal Black,3/4,3.00,4.81,6.25,Wood
+4695014,Vail Ash Block,1 1/8,4.59,7.35,9.55,Wood
+4695015,Vail Light Walnut Block,1 1/8,4.59,7.35,9.55,Wood
+4695016,Vail Natural Block,1 1/8,4.59,7.35,9.55,Wood
+4695017,Vail Modern Walnut Block,1 1/8,4.59,7.35,9.55,Wood
+4695018,Vail Ebony Block,1 1/8,4.59,7.35,9.55,Wood
+46951,Marshmallow White,3/4,3.00,4.81,6.25,Wood
+46952,Whiskey Brown,3/4,3.00,4.81,6.25,Wood
+46953,Alabama Red,3/4,3.00,4.81,6.25,Wood
+46954,Weathered Blue,3/4,3.00,4.81,6.25,Wood
+46955,Dixie Grey,3/4,3.00,4.81,6.25,Wood
+46956,Southern Yellow,3/4,3.00,4.81,6.25,Wood
+46957,Bourbon Orange,3/4,3.00,4.81,6.25,Wood
+46958,French Teal,3/4,3.00,4.81,6.25,Wood
+46959,Petticoat Pink,3/4,3.00,4.81,6.25,Wood
+46960,Sky Blue,3/4,3.00,4.81,6.25,Wood
+4696014,Vail Ash Cap,3/4,4.17,6.66,8.67,Wood
+4696015,Vail Light Walnut Cap,3/4,4.17,6.66,8.67,Wood
+4696016,Vail Natural Cap,3/4,4.17,6.66,8.67,Wood
+4696017,Vail Modern Walnut Cap,3/4,4.17,6.66,8.67,Wood
+4696018,Vail Ebony Cap,3/4,4.17,6.66,8.67,Wood
+46961,Mint Julep,3/4,3.00,4.81,6.25,Wood
+46962,Mississippi Mud,3/4,3.00,4.81,6.25,Wood
+46970,Charcoal Black Floater,1 3/8,5.66,9.06,11.78,Wood
+4697014,Vail Ash Narrow Cap,5/8,3.77,6.03,7.84,Wood
+4697015,Vail Light Walnut Narrow Cap,5/8,3.77,6.03,7.84,Wood
+4697016,Vail Natural Narrow Cap,5/8,3.77,6.03,7.84,Wood
+4697017,Vail Modern Walnut Narrow Cap,5/8,3.77,6.03,7.84,Wood
+4697018,Vail Ebony Narrow Cap,5/8,3.77,6.03,7.84,Wood
+46971,Marshmallow White Floater,1 3/8,5.66,9.06,11.78,Wood
+46972,Whiskey Brown Floater,1 3/8,5.66,9.06,11.78,Wood
+46973,Mississippi Mud Floater,1 3/8,5.66,9.06,11.78,Wood
+46974,Weathered Blue Floater,1 3/8,5.66,9.06,11.78,Wood
+46975,Dixie Grey Floater,1 3/8,5.66,9.06,11.78,Wood
+46976,Southern Yellow Floater,1 3/8,5.66,9.06,11.78,Wood
+46977,Bourbon Orange Floater,1 3/8,5.66,9.06,11.78,Wood
+46978,French Teal Floater,1 3/8,5.66,9.06,11.78,Wood
+46992650,Edge Matte Black Stem,7/8,5.39,8.61,11.20,Wood
+46992651,Edge Matte White Stem,7/8,5.39,8.61,11.20,Wood
+46992652,Edge Gloss Black Stem,7/8,6.59,10.54,13.71,Wood
+46992653,Light French Oak Stem,7/8,6.78,10.84,14.09,Wood
+46992655,Danish Walnut Stem,7/8,6.78,10.84,14.09,Wood
+46992657,Light Grey Stem,7/8,6.78,10.84,14.09,Wood
+46992663,Light French Oak,1 1/4,3.28,5.25,6.83,Wood
+46992665,Danish Walnut,1 1/4,3.28,5.25,6.83,Wood
+46992667,Light Grey,1 1/4,3.28,5.25,6.83,Wood
+471001,Matte Black,1 1/4,1.86,3.12,4.07,Wood
+471002,Mahogany,1 1/4,1.94,3.25,4.24,Wood
+471003,Walnut,1 1/4,1.94,3.25,4.24,Wood
+471004,Matte White,1 1/4,1.86,3.12,4.07,Wood
+471013,Walnut w/Gold Lip,1 1/4,2.07,3.47,4.51,Wood
+471015,Brushed Gold,1 1/4,2.02,3.39,4.41,Wood
+471642,Mahogany Scoop JC2,2 1/4,3.05,5.13,6.66,Wood
+471701,Black Step,1 1/4,2.17,3.65,4.76,Wood
+471801,Black Scoop,1 3/4,2.60,4.36,5.67,Wood
+471852,Mahogany Scoop,1 3/4,2.79,4.69,6.10,Wood
+471853,Walnut Scoop,1 3/4,2.79,4.69,6.10,Wood
+471904,Square White,3/4,1.96,3.29,4.29,Wood
+471992,Square Orange,3/4,1.96,3.29,4.29,Wood
+471993,Square Red,3/4,1.96,3.29,4.29,Wood
+471995,Square Yellow,3/4,1.96,3.29,4.29,Wood
+471996,Square Navy Blue,3/4,1.96,3.29,4.29,Wood
+471997,Square Royal Blue,3/4,1.96,3.29,4.29,Wood
+471998,Square Bright Silver,3/4,2.71,4.56,5.92,Wood
+471999,Square Bright Gold,3/4,2.71,4.56,5.92,Wood
+472001,Matte Black Swan,2 1/2,3.27,5.50,7.15,Wood
+472002,Mahogany Dark Lip & Back,2 1/2,3.37,5.67,7.36,Wood
+472003,Walnut Dark Lip & Back,2 1/2,3.37,5.67,7.36,Wood
+472014,Brushed Silver,2 1/2,3.90,6.54,8.51,Wood
+472015,Brushed Gold,2 1/2,3.90,6.54,8.51,Wood
+473501,Round Black,5/8,1.35,2.27,2.95,Wood
+473504,Round White,5/8,1.35,2.27,2.95,Wood
+473530,Round Antique Silver,5/8,1.49,2.51,3.26,Wood
+473531,Round Antique Gold,5/8,1.49,2.51,3.26,Wood
+476201,Matte Black,1 5/8,3.85,6.46,8.40,Wood
+476204,Matte White,1 5/8,3.85,6.46,8.40,Wood
+476301,Matte Black Cube,1 1/4,2.60,4.38,5.69,Wood
+476304,Matte White Cube,1 1/4,2.60,4.38,5.69,Wood
+476504,Tall Matte White Cap,1 1/4,5.04,8.82,11.47,Wood
+476901,"1 7/16"" x 2 1/8"" Chunky Black Cap",1 7/16,3.59,6.03,7.84,Wood
+478001,Matte Black Step Back,1 1/2,2.65,4.45,5.79,Wood
+478002,Matte Mahogany Step Back,1 1/2,2.02,3.39,4.41,Wood
+478003,Matte Walnut Step Back,1 1/2,2.02,3.39,4.41,Wood
+479001,Black,3/4,1.88,3.16,4.11,Wood
+479004,White,3/4,1.88,3.16,4.11,Wood
+479014,Brushed Silver,3/4,2.26,3.80,4.95,Wood
+479015,Brushed Gold,3/4,2.26,3.80,4.95,Wood
+479201,Black,1 1/8,2.12,3.55,4.61,Wood
+479204,White,1 1/8,2.12,3.55,4.61,Wood
+479214,Brushed Silver,1 1/8,2.50,4.19,5.46,Wood
+479215,Brushed Gold,1 1/8,2.50,4.19,5.46,Wood
+479221,Teal,1 1/8,1.81,3.05,3.96,Wood
+479223,Red,1 1/8,1.81,3.05,3.96,Wood
+479224,Blue,1 1/8,1.81,3.05,3.96,Wood
+479225,Yellow,1 1/8,1.81,3.05,3.96,Wood
+479226,Green,1 1/8,1.81,3.05,3.96,Wood
+479253,Shaded Walnut,1 1/8,2.02,3.39,4.41,Wood
+479401,Black,1 5/8,2.84,4.77,6.20,Wood
+479404,White,1 5/8,2.84,4.77,6.20,Wood
+479453,Shaded Walnut,1 5/8,2.55,4.30,5.58,Wood
+479584,Matte White,1 3/4,2.44,4.10,5.33,Wood
+479601,Matte Black,2 3/8,3.87,6.52,8.46,Wood
+479604,Matte White,2 3/8,3.87,6.52,8.46,Wood
+479701,Black Deco,1 5/8,3.01,5.07,6.58,Wood
+479704,White Deco,1 5/8,3.01,5.07,6.58,Wood
+479741,Black Scoop,1 1/8,2.72,4.57,5.94,Wood
+479744,White Scoop,1 1/8,2.72,4.57,5.94,Wood
+479801,Matte Black,2 7/8,3.42,5.75,7.48,Wood
+479804,Matte White,2 7/8,3.42,5.75,7.48,Wood
+479991,Matte Black Floater,2,4.91,8.25,10.72,Wood
+481301,Matte Black Slope,1 1/2,2.31,3.88,5.04,Wood
+481304,Matte White Slope,1 1/2,2.31,3.88,5.04,Wood
+484201,Matte Black w/Slant Back,2,3.32,5.57,7.25,Wood
+484301,Black Stacker,1 1/2,2.77,4.65,6.05,Wood
+484401,Large Black Stacker,1 1/2,5.68,9.55,12.41,Wood
+484501,Black Stacker,1 1/2,2.07,3.47,4.51,Wood
+484701,Black Stacker Cap,1 1/8,2.81,4.72,6.13,Wood
+485001,Matte Black Cap,3/4,2.12,3.55,4.61,Wood
+485004,Matte White Cap,3/4,2.12,3.55,4.61,Wood
+485101,Tall Matte Black Cap,3/4,3.22,5.42,7.03,Wood
+485104,Tall Matte White Cap,3/4,3.22,5.42,7.04,Wood
+485301,Matte Black Cap,3/4,2.84,4.78,6.21,Wood
+485304,Matte White Cap,3/4,2.84,4.78,6.21,Wood
+486101,Matte Black w/Slant,1,1.61,2.70,3.52,Wood
+488010,Silver Ornate,2,4.76,7.99,10.39,Wood
+488011,Gold Ornate,2,4.76,7.99,10.39,Wood
+489129,Silver Floater,2,6.11,10.26,13.35,Wood
+489130,Gold Floater,2,6.11,10.26,13.35,Wood
+491401,Ornate Gloss Black,4,10.03,16.87,21.92,Wood
+491404,Ornate Gloss White,4,10.03,16.87,21.92,Wood
+491414,Ornate Silver,4,12.28,20.62,26.81,Wood
+491415,Ornate Gold,4,12.28,20.62,26.81,Wood
+491418,Aged Rust Ornate,4,7.27,12.22,15.89,Wood
+491419,Grey Ornate,4,7.27,12.22,15.89,Wood
+491429,Deep Silver - KCS,2 3/4,12.27,20.60,26.79,Wood
+491430,Deep Gold - KCS,2 3/4,12.27,20.60,26.79,Wood
+492301,Small Black Scoop w/Rope,1 1/8,2.73,4.59,5.96,Wood
+492304,Small White Scoop w/Rope,1 1/8,2.73,4.59,5.96,Wood
+498142,Light Walnut,4,6.93,11.65,15.14,Wood
+498143,Dark Walnut,4,6.93,11.65,15.14,Wood
+499001,Matte Black Fillet,5/8,1.40,2.45,,Fillet
+499014,Silver Fillet Ice,1/2,1.35,2.36,,Fillet
+499015,Gold Fillet Fire,1/2,1.35,2.36,,Fillet
+499312,Gold Fillet,5/8,1.49,2.61,,Fillet
+499313,Antique Gold Fillet,5/8,1.49,2.61,,Fillet
+499316,Dark Silver Fillet,5/8,1.49,2.61,,Fillet
+499317,Antique Silver Fillet,5/8,1.49,2.61,,Fillet
+499318,Silver Fillet,5/8,1.49,2.61,,Fillet
+5018,Deep Ant. Gold,1 1/2,7.15,12.44,16.19,Wood
+5043,Antique Gold,3/4,3.34,6.76,8.84,Wood
+511303,Antique Silver Slope,1/2,3.01,5.08,6.65,Wood
+511304,Antique Gold Slope,1/2,3.01,5.08,6.65,Wood
+511420,Antique Silver,3/4,3.93,6.61,8.63,Wood
+511421,Antique Gold,3/4,3.93,6.61,8.63,Wood
+512121,Orion Silver,1 1/8,4.91,8.23,10.80,Wood
+512122,Orion Gold,1 1/8,4.91,8.23,10.80,Wood
+512123,Orion Walnut,1 1/8,4.49,7.70,10.00,Wood
+512221,Orion Silver,2,7.75,13.09,16.99,Wood
+512222,Orion Gold,2,7.75,13.09,16.99,Wood
+512223,Orion Walnut,2,7.57,12.85,16.70,Wood
+512242,Grey Bungalow (Has Knots),1 1/8,9.68,16.32,21.25,Wood
+512243,Walnut Bungalow (Has Knots),1 1/8,9.68,16.32,21.25,Wood
+512472,Juliet Gold,7/8,5.11,8.62,11.30,Wood
+512572,Juliet Gold,1 3/4,8.65,14.63,18.95,Wood
+512852,Paddock Walnut,1/2,2.29,3.91,4.99,Wood
+512853,Paddock Chestnut,1/2,2.29,3.91,4.99,Wood
+513574,White Perlita,7/8,5.24,8.85,11.52,Wood
+513575,Silver Perlita,7/8,5.24,8.85,11.52,Wood
+513576,Gold Perlita,7/8,5.24,8.85,11.52,Wood
+513577,Black Perlita,7/8,5.24,8.85,11.52,Wood
+514131,Alumina Silver Livingston,7/8,5.99,10.19,13.21,Wood
+514132,Champagne Silver Livingston,7/8,5.99,10.19,13.21,Wood
+514231,Alumina Silver Livingston,1 3/4,10.07,17.02,22.09,Wood
+514232,Champagne Silver Livingston,1 3/4,10.07,17.02,22.09,Wood
+514331,Alumina Silver Livingston,2 3/4,16.43,27.85,36.10,Wood
+514332,Champagne Silver Livingston,2 3/4,16.43,27.85,36.10,Wood
+514912,Silver with Bead,3/4,3.85,6.57,8.58,Wood
+514913,Gold with bead,3/4,3.85,6.57,8.58,Wood
+514915,Antique Black with Flower,7/8,3.18,5.29,7.08,Wood
+514916,Silver with Flower,7/8,3.05,5.15,6.76,Wood
+514917,Gold with Flower,7/8,3.05,5.15,6.76,Wood
+514918,Flat Silver,7/8,4.78,8.20,10.62,Wood
+515173,Grey Weathered Millwork,1 5/8,7.67,12.97,16.82,Wood
+515271,White Weathered Millwork,2 5/8,12.25,20.70,26.97,Wood
+515272,Green Weathered Millwork,2 5/8,12.25,20.70,26.97,Wood
+515273,Grey Weathered Millwork,2 5/8,11.98,20.24,26.22,Wood
+515851,Cream Pioneer,1 1/4,4.48,7.52,9.84,Wood
+515852,Pecan Pioneer,1 1/4,4.48,7.52,9.84,Wood
+515853,Carob Pioneer,1 1/4,4.48,7.52,9.84,Wood
+515912,Acid Wash Cappuccino Splash,1 1/8,11.28,19.09,24.75,Wood
+515951,Cream Pioneer,2 1/4,6.97,11.71,15.35,Wood
+515952,Pecan Pioneer,2 1/4,6.97,11.71,15.35,Wood
+515953,Carob Pioneer,2 1/4,6.97,11.71,15.35,Wood
+516141,Cream Silver Twila,3/4,5.59,9.49,12.34,Wood
+516142,Grey Silver Twila,3/4,5.59,9.49,12.34,Wood
+516143,Brown Silver Twila,3/4,5.59,9.49,12.34,Wood
+516241,Cream Silver Twila,1,8.47,14.40,18.73,Wood
+516242,Grey Silver Twila,1,8.47,14.40,18.73,Wood
+516243,Brown Silver Twila,1,8.47,14.40,18.73,Wood
+516451,Woodland Distressed Beige,1 5/8,8.85,14.93,19.42,Wood
+516511,Brown Abaco,1 1/4,6.13,10.33,13.43,Wood
+516515,Dark Blue Abaco,1 1/4,6.13,10.33,13.43,Wood
+516516,Light Blue Abaco,1 1/4,6.13,10.33,13.43,Wood
+516517,Green Abaco,1 1/4,6.13,10.33,13.43,Wood
+516518,White Abaco,1 1/4,6.13,10.33,13.43,Wood
+517111,Sprinkles Semi Gloss Black,3/4,5.28,8.89,11.68,Wood
+517112,Sprinkles Semi Gloss White,3/4,5.28,8.89,11.68,Wood
+517113,Sprinkles Semi Gloss Woodbine Green,3/4,5.28,8.89,11.68,Wood
+517114,Sprinkles Semi Gloss Red,3/4,5.28,8.89,11.68,Wood
+517115,Sprinkles Semi Gloss Blue Classic,3/4,5.28,8.89,11.68,Wood
+517116,Sprinkles Semi Gloss Pink,3/4,5.28,8.89,11.68,Wood
+517117,Sprinkles Semi Gloss Green Lucite,3/4,5.28,8.89,11.68,Wood
+517118,Sprinkles Semi Gloss Blue Scuba,3/4,5.28,8.89,11.68,Wood
+517132,Camilla Silver Vine,7/8,6.45,10.93,14.15,Wood
+517133,Camilla Gold Vine,7/8,6.45,10.93,14.15,Wood
+517134,Camilla White Vine,7/8,6.45,10.93,14.15,Wood
+517135,Camilla Black Vine,7/8,6.45,10.93,14.15,Wood
+517211,Brown Slant w/Grain,1,6.09,10.30,13.40,Wood
+517212,Grey Slant w/Grain,1,6.09,10.30,13.40,Wood
+517214,Red Slant w/Grain,1,6.09,10.30,13.40,Wood
+517215,Blue Slant w/Grain,1,6.09,10.30,13.40,Wood
+517216,Purple Slant w/Grain,1,6.09,10.30,13.40,Wood
+517217,Green Slant w/Grain,1,6.09,10.30,13.40,Wood
+517218,Teal Slant w/Grain,1,6.09,10.30,13.40,Wood
+517232,Camilla Silver Vine,1 3/4,10.84,18.27,23.90,Wood
+517233,Camilla Gold Vine,1 3/4,10.84,18.27,23.90,Wood
+517234,Camilla White Vine,1 3/4,10.84,18.27,23.90,Wood
+517235,Camilla Black Vine,1 3/4,10.84,18.27,23.90,Wood
+517801,Gold Bamboo,5/8,3.89,6.51,8.57,Wood
+517802,Walnut Bamboo,5/8,3.89,6.51,8.57,Wood
+517901,Gold Bamboo,1,5.57,9.33,12.26,Wood
+517902,Walnut Bamboo,1,5.57,9.33,12.26,Wood
+517913,Cream Soda Pop,1 1/8,8.17,13.74,17.89,Wood
+517914,Cherry Soda Pop,1 1/8,8.17,13.74,17.89,Wood
+517915,Blueberry Soda Pop,1 1/8,8.17,13.74,17.89,Wood
+517916,Arctic Chill Soda Pop,1 1/8,8.17,13.74,17.89,Wood
+517917,Limeade Soda Pop,1 1/8,8.17,13.74,17.89,Wood
+518213,White Taconic ,3/4,5.09,8.65,11.25,Wood
+518214,Grey Taconic ,3/4,5.09,8.65,11.25,Wood
+518215,Blue Taconic ,3/4,5.09,8.65,11.25,Wood
+518216,Green Taconic ,3/4,5.09,8.65,11.25,Wood
+518217,Black Taconic ,3/4,5.09,8.65,11.25,Wood
+518305,Urban Light Walnut w/Silver Lip,1 5/8,6.63,11.20,14.65,Wood
+518408,Aged Silver,1 1/8,7.90,13.29,17.43,Wood
+518501,Society Silver Leaf Cove,7/8,5.03,8.47,11.04,Wood
+518502,Society Gold Leaf Cove,7/8,5.03,8.47,11.04,Wood
+518601,Society Silver Leaf Cove,1 3/8,9.44,15.88,20.70,Wood
+518602,Society Gold Leaf Cove,1 3/8,9.44,15.88,20.70,Wood
+519501,Silver Cleo,3/4,5.90,9.98,13.04,Wood
+519502,Gold Cleo,3/4,5.90,9.98,13.04,Wood
+519601,Silver Cleo,1 1/8,6.15,10.34,13.55,Wood
+519602,Gold Cleo,1 1/8,6.15,10.34,13.55,Wood
+519613,Hometown White,3/4,4.18,7.08,9.23,Wood
+519614,Hometown Grey,3/4,4.18,7.08,9.23,Wood
+519615,Hometown Blue,3/4,4.18,7.08,9.23,Wood
+519616,Hometown Brick,3/4,4.18,7.08,9.23,Wood
+519617,Hometown Black,3/4,4.18,7.08,9.23,Wood
+54520215,Crème Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520216,Champagne Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520217,Silver Noir Shimmy,15/16,11.35,18.31,23.63,Wood
+54520218,Turquoise Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520219,Moutarde Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520220,Mandarin Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520221,Noir Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520224,Chartreuse Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520225,Ecru Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520226,Denim Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520227,Cabernet Crepe Shimmy,15/16,11.35,18.31,23.63,Wood
+54520257,Ecru Crepe Shimmy Cap,15/16,17.77,28.47,36.90,Wood
+54520258,Turquoise Crepe Shimmy Cap,15/16,17.77,28.47,36.90,Wood
+54520259,Noir Crepe Shimmy Cap,15/16,17.77,28.47,36.90,Wood
+54520260,Mandarin Crepe Shimmy Cap,15/16,17.77,28.47,36.90,Wood
+54520261,Silver Noir Shimmy Cap,15/16,17.77,28.47,36.90,Wood
+54520262,Crème Crepe Shimmy Cap,15/16,17.77,28.47,36.90,Wood
+54520400,Daphne Cerulean Blue Laurel,1,14.32,22.95,29.81,Wood
+54520401,Daphne Pharoah Green Laurel,1,14.32,22.95,29.81,Wood
+54520402,Daphne Royal Heather Laurel,1,14.32,22.95,29.81,Wood
+54520403,Daphne Ebony Rose Laurel,1,14.32,22.95,29.81,Wood
+54520404,Daphne Olive Green Laurel,1,14.32,22.95,29.81,Wood
+54520405,Daphne Chiffon Gold Laurel,1,14.32,22.95,29.81,Wood
+54520505,Bordeuax Pop,5/8,12.83,20.56,26.71,Wood
+54520507,Caramel Pop,5/8,12.83,20.56,26.71,Wood
+54520508,Root Beer Pop,5/8,12.83,20.56,26.71,Wood
+54520510,Jet Black Angle Pop,1 1/8,15.94,25.52,33.13,Wood
+54520511,Electric Blue Angle Pop,1 1/8,15.94,25.52,33.13,Wood
+54520539,Tivoli Violet Sideshow,1,16.66,26.66,34.63,Wood
+54520568,Ellington Cotton Club Pink Tiny Tracks,5/8,12.68,20.29,26.38,Wood
+54520569,Ellington Sophisticated Lilac Tiny Tracks,5/8,12.68,20.29,26.38,Wood
+54520571,Dark Crimson Bay Leaf and Berry,1 3/8,26.27,42.03,54.64,Wood
+54520572,Dark Olive Bay Leaf and Berry,1 3/8,26.27,42.03,54.64,Wood
+54520573,Pharaoh Green Bay Leaf and Berry,1 3/8,26.27,42.03,54.64,Wood
+54520574,Ebony Bay Leaf and Berry,1 3/8,26.27,42.03,54.64,Wood
+54520575,Chiffon Gold Bay Leaf and Berry,1 3/8,26.27,42.03,54.64,Wood
+54520576,Daphne Ebony Petite Arabesque,5/8,15.48,24.77,32.20,Wood
+54520577,Daphne Pharaoh Green Petite Arabesque,5/8,15.48,24.77,32.20,Wood
+54520578,Daphne Cerulean Blue Petite Arabesque,5/8,15.48,24.77,32.20,Wood
+54520579,Daphne Olive Green Petite Arabesque,5/8,15.48,24.77,32.20,Wood
+54520580,Daphne Crimson Petite Arabesque,5/8,15.48,24.77,32.20,Wood
+54520581,Garda Morning Mist Mountain Pine,2,33.76,54.35,70.65,Wood
+54520582,Garda Shadow Black Mountain Pine,2,33.76,54.35,70.65,Wood
+54520583,Garda Lilac Sky Mountain Pine,2,33.76,54.35,70.65,Wood
+54520584,Garda Serene Cerulean Mountain Pine,2,33.76,54.35,70.65,Wood
+54520585,Garda Gilded Sun Mountain Pine,2,33.76,54.35,70.65,Wood
+54520586,Garda Castello Grey Mountain Pine,2,33.76,54.35,70.65,Wood
+54520587,Garda Morning Mist Ornate Ripple Cap,1 1/16,27.14,43.70,56.80,Wood
+54520588,Garda Shadow Black Ornate Ripple Cap,1 1/16,27.14,43.70,56.80,Wood
+54520589,Garda Lilac Sky Ornate Ripple Cap,1 1/16,27.14,43.70,56.80,Wood
+54520590,Garda Serene Cerulean Ornate Ripple Cap,1 1/16,27.14,43.70,56.80,Wood
+54520591,Garda Gilded Sun Ornate Ripple Cap,1 1/16,27.14,43.70,56.80,Wood
+54520592,Garda Castello Grey Ornate Ripple Cap,1 1/16,27.14,43.70,56.80,Wood
+54554623,Tappo Natural Cork,1,9.90,15.94,20.68,Wood
+54554624,Tappo Dove Cork,1,9.90,15.94,20.68,Wood
+54554625,Tappo Cocoa Cork,1,9.90,15.94,20.68,Wood
+54554626,Tappo Concrete Cork,1,9.90,15.94,20.68,Wood
+54554627,Tappo Indigo Cork,1,9.90,15.94,20.68,Wood
+54554628,Tappo Mushroom Cork,1,9.90,15.94,20.68,Wood
+54554630,Round Hammered Titanium,13/16,7.28,11.71,15.18,Wood
+54554692,Harbour Marblehead White,1,11.58,18.59,24.06,Wood
+54554696,Harbour Marblehead White Tall Cap,1,20.66,33.13,43.01,Wood
+54554700,Harbour Marblehead White,2,18.17,29.14,37.84,Wood
+54554701,Harbour New Hampshire Red,2,18.17,29.14,37.84,Wood
+54554702,Harbour Bar Harbor Blue Grey,2,18.17,29.14,37.84,Wood
+54554703,Harbour Adirondack Black,2,18.17,29.14,37.84,Wood
+54554704,Harbour Marblehead White,3,21.70,34.73,45.16,Wood
+54554706,Tappo Gold Leaf Natural Cork,13/16,10.63,16.97,22.06,Wood
+54554707,Tappo Silver Leaf Natural Cork,13/16,10.63,16.97,22.06,Wood
+54554708,Cabaret Bada Bing Bronze Shimmer,11/16,10.30,16.50,21.43,Wood
+54554709,Cabaret Jazz Hands Blue Shimmer,11/16,10.30,16.50,21.43,Wood
+54554711,Cabaret Evening Velvet Shimmer,11/16,10.30,16.50,21.43,Wood
+54554712,Cabaret Moulin Rouge Shimmer,11/16,10.30,16.50,21.43,Wood
+54554713,Cabaret Tap Dance Shimmer,11/16,10.30,16.50,21.43,Wood
+54554714,Cabaret Backstage Black Shimmer,11/16,10.30,16.50,21.43,Wood
+54554715,Cabaret Pink Feather Boa Shimmer,11/16,10.30,16.50,21.43,Wood
+54554716,Cabaret Green With Envy Shimmer,11/16,10.30,16.50,21.43,Wood
+54554718,Frida Black Magic Embossed Flora Block,1 15/16,16.89,27.02,35.14,Wood
+54554719,Frida Xolo Nero Embossed Flora Block,1 15/16,16.89,27.02,35.14,Wood
+54554720,Frida Iron Retablo Embossed Flora Block,1 15/16,16.89,27.02,35.14,Wood
+54554721,Frida Diego Bronze Embossed Flora Block,1 15/16,16.89,27.02,35.14,Wood
+54554722,Frida Aztec Gold Embossed Flora Block,1 15/16,16.89,27.02,35.14,Wood
+54554723,Frida Calla Lily Embossed Flora Block,1 15/16,16.89,27.02,35.14,Wood
+54554725,Frida Black Magic Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554726,Frida Xolo Nero Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554727,Frida Mole Rojo Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554728,Frida Casa Azul Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554729,Frida Corazon Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554730,Frida Quinceanera Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554731,Frida Marigold Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554732,Frida Iron Retablo Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554733,Frida Diego Bronze Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554735,Frida Calla Lily Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554737,Frida Nopales Embossed Flora Cap,11/16,9.90,15.84,20.60,Wood
+54554738,Bungalow Ebony Black Diamond Block,1 1/2,23.04,37.10,48.22,Wood
+54554739,Bungalow Buffalo Brown Diamond Block,1 1/2 ,23.04,37.10,48.22,Wood
+54554740,Bungalow Eggshell White Diamond Block,1 1/2 ,23.04,37.10,48.22,Wood
+54570006,Black Deco Groove w/Bead,1 13/16,12.72,20.49,26.52,Wood
+54570007,Champagne Deco Groove w/Bead,1 13/16,12.72,20.49,26.52,Wood
+54570008,Silver Deco Groove w/Bead,1 13/16,12.72,20.49,26.52,Wood
+54570010,Tiny Black Deco Groove,13/16,8.09,13.01,16.90,Wood
+54570011,Tiny Champagne Deco Groove,13/16,8.09,13.01,16.90,Wood
+54570012,Tiny Silver Deco Groove,13/16,8.09,13.01,16.90,Wood
+54580230,Sumi Small Kabuki White,3/4,7.18,11.49,14.91,Wood
+54580231,Sumi Small Hibachi Charcoal,3/4,7.18,11.49,14.91,Wood
+54580232,Sumi Small Samurai Smoke,3/4,7.18,11.49,14.91,Wood
+54580233,Sumi Small Miso Brown,3/4,7.18,11.49,14.91,Wood
+54580234,Sumi Medium Kabuki White,1 3/8,9.66,15.50,20.13,Wood
+54580235,Sumi Medium Hibachi Charcoal,1 3/8,9.66,15.50,20.13,Wood
+54580236,Sumi Medium Samurai Smoke,1 3/8,9.66,15.50,20.13,Wood
+54580237,Sumi Medium Miso Brown,1 3/8,9.66,15.50,20.13,Wood
+54590001,White Bijou w/Silver,3/4,7.82,12.57,16.26,Wood
+54590002,Red Bijou w/Silver,3/4,9.62,15.46,20.01,Wood
+54590003,Green Bijou w/Gold,3/4,9.62,15.46,20.01,Wood
+54590004,Blue Bijou w/Silver,3/4,9.62,15.46,20.01,Wood
+54590005,Grey Bijou w/Silver,3/4,9.62,15.46,20.01,Wood
+54590006,Taupe Bijou w/Gold,3/4,9.62,15.46,20.01,Wood
+54590007,Black Bijou w/Silver,3/4,9.62,15.46,20.01,Wood
+54590008,Black Bijou w/Bronze,3/4,9.62,15.46,20.01,Wood
+54618514,Purple with Blue Marquetry,3/4,13.62,21.80,28.32,Wood
+54618528,Red with Multi Marquetry,3/4,13.62,21.80,28.32,Wood
+54618540,"Red, Black Checkerboard",3/4,13.09,20.98,27.21,Wood
+54618584,Blue Piano Keys Marquetry,1 1/8,16.29,26.13,33.90,Wood
+54618585,Black & White Piano Keys Marquetry,1 1/8,16.29,26.13,33.90,Wood
+54618636,Black with Multi Marquetry,3/4,13.74,22.07,28.58,Wood
+54618642,Small Cool Mint,3/4,12.62,20.33,26.22,Wood
+54618643,Small Cappuccino,3/4,12.62,20.33,26.22,Wood
+54618645,Small Grape Jelly,3/4,12.62,20.33,26.22,Wood
+54618646,Small Jalapeno,3/4,12.62,20.33,26.22,Wood
+54618647,Small Buttered Popcorn,3/4,12.62,20.33,26.22,Wood
+54618648,Small Berry Blue,3/4,12.62,20.33,26.22,Wood
+54618667,Pearl & Charcoal,1 1/8,17.81,28.62,37.08,Wood
+54618681,White Hearts,3/4,13.50,21.59,28.05,Wood
+54618703,Small Sky Blue Parade,3/4,11.67,18.68,24.26,Wood
+54618704,Small Grass Green Parade,3/4,11.67,18.68,24.26,Wood
+54618705,Small Eggplant Parade,3/4,11.67,18.68,24.26,Wood
+54618706,Small Sunshine Parade,3/4,11.67,18.68,24.26,Wood
+54618707,Small Pistachio Parade,3/4,11.67,18.68,24.26,Wood
+54618708,Small Pink Carnation Parade,3/4,11.67,18.68,24.26,Wood
+54618709,Small Marmalade Parade,3/4,11.67,18.68,24.26,Wood
+54618710,Small Rose Red Parade,3/4,11.67,18.68,24.26,Wood
+54618712,Calzini Medium Angora Ermine Chevron,1 1/8,14.37,23.00,29.88,Wood
+54618713,Calzini Medium Sable Ermine Chevron,1 1/8,14.37,23.00,29.88,Wood
+54618714,Calzini Small Angora Ermine Chevron,3/4,10.15,16.27,21.04,Wood
+54618715,Calzini Small Sable Ermine Chevron,3/4,10.15,16.27,21.04,Wood
+54618716,Medium Rainbow Parade,1 1/8,14.68,23.50,30.53,Wood
+54618717,Small Rainbow Parade,3/4,11.10,17.77,23.08,Wood
+54620001,Forged Silvered Steel Scoop w/Natural Oak Sides,1 15/16,23.74,38.22,49.69,Wood
+54620002,Forged Pewtered Steel Scoop w/Grey Ash Sides,1 15/16,23.74,38.22,49.69,Wood
+54620003,Forged Golden Steel Scoop w/Bronze Ash Sides,1 15/16,23.74,38.22,49.69,Wood
+54620004,Forged Blackened Steel Scoop w/Ebony Walnut Sides,1 15/16 ,23.74,38.22,49.69,Wood
+54620005,Forged Silvered Steel Cap w/Natural Oak,1,16.07,25.88,33.63,Wood
+54620006,Forged Pewtered Steel Cap w/Grey Ash,1,16.07,25.88,33.63,Wood
+54620007,Forged Golden Steel Cap w/Bronze Ash,1,16.07,25.88,33.63,Wood
+54620008,Forged Blackened Steel Cap w/Ebony Walnut,1,16.07,25.88,33.63,Wood
+54620009,Forged Silvered Steel Angle w/Natural Oak Sides,11/16,9.20,14.80,19.25,Wood
+54620010,Forged Pewtered Steel Angle w/Grey Ash Sides,11/16,9.20,14.80,19.25,Wood
+54620011,Forged Golden Steel Angle w/Bronze Ash Sides,11/16,9.20,14.80,19.25,Wood
+54620012,Forged Blackened Steel Angle w/Ebony Walnut Sides,11/16,9.20,14.80,19.25,Wood
+54720062,Ruby on Crimson Large Angle,1 1/8,11.50,18.40,23.87,Wood
+54720063,Pearl on Clay Large Angle,1 1/8,11.50,18.40,23.87,Wood
+54720064,Grey on Grey Large Angle,1 1/8,11.50,18.40,23.87,Wood
+54720065,Indigo on Cobalt Large Angle,1 1/8,11.50,18.40,23.87,Wood
+54720066,Violet on Purple Large Angle,1 1/8,11.50,18.40,23.87,Wood
+54720069,Ruby on Crimson Small Angle,3/4,9.19,14.75,19.08,Wood
+54720070,Pearl on Clay Small Angle,3/4,9.19,14.75,19.08,Wood
+54720071,Grey on Grey Small Angle,3/4,9.19,14.75,19.08,Wood
+54720072,Indigo on Cobalt Small Angle,3/4,9.19,14.75,19.08,Wood
+54720073,Violet on Purple Small Angle,3/4,9.19,14.75,19.08,Wood
+54720123,Varis Wide Black Ice,2 7/8,15.73,25.26,32.70,Wood
+54720124,Varis Wide Polar Ice,2 7/8,15.73,25.26,32.70,Wood
+54720125,Varis Black Ice Cap,1 1/8,11.10,17.85,23.03,Wood
+54720126,Varis Polar Ice Cap,1 1/8,11.10,17.85,23.03,Wood
+54734959,Smoked Bronze Waves,3/4,11.35,18.18,23.62,Wood
+54734960,Milk Chocolate Waves,3/4,11.35,18.18,23.62,Wood
+54734961,Bright Yellow Waves,3/4,10.66,17.06,22.19,Wood
+54734962,Bright Orange Waves,3/4,10.66,17.06,22.19,Wood
+54734963,Purple Waves,3/4,10.66,17.06,22.19,Wood
+54734964,Green Waves,3/4,10.66,17.06,22.19,Wood
+54734965,Blue Waves,3/4,10.66,17.06,22.19,Wood
+54734966,Bright Red Waves,3/4,10.66,17.06,22.19,Wood
+54734967,Black Waves,3/4,10.66,17.06,22.19,Wood
+54734968,White Waves,3/4,10.66,17.06,22.19,Wood
+54734971,Smoked Bronze Leaves,3/4,11.35,18.18,23.62,Wood
+54734977,Hand Pressed Silver Leaf,3/4,7.78,12.59,16.14,Wood
+54734978,Hand Pressed Gold Leaf,3/4,7.78,12.59,16.14,Wood
+54734979,Hand Pressed Silver Leaf,1 7/16,9.90,15.87,20.63,Wood
+54734980,Hand Pressed Gold Leaf,1 7/16,9.90,15.87,20.63,Wood
+54734981,Soft Dimple Black Clay,3/4,7.41,11.96,15.46,Wood
+54734982,Woven Impressions Black Clay,3/4,7.41,11.96,15.46,Wood
+54734983,Hand Pressed Black Clay,3/4,7.41,11.96,15.46,Wood
+54734984,Soft Dimple Black Clay,1 7/16,11.13,17.82,23.15,Wood
+54734985,Woven Impressions Black Clay,1 7/16,11.13,17.82,23.15,Wood
+54734986,Hand Pressed Black Clay,1 7/16,11.13,17.82,23.15,Wood
+54734987,Woven Impressions Silver Leaf,3/4,7.41,11.96,15.46,Wood
+54734988,Soft Dimple Silver Leaf,3/4,7.41,11.96,15.46,Wood
+54734993,Oaxaca Rusted Tin Roof Angle,1,12.38,19.84,25.84,Wood
+54734994,Oaxaca Matte Black Roof Angle,1,8.43,13.63,17.47,Wood
+54734995,Oaxaca Rusted Black Tin Roof Angle,1,8.43,13.63,17.47,Wood
+54734996,Oaxaca Rusted Tin Cap w/Dots,1,11.19,17.93,23.35,Wood
+54734997,Oaxaca Rusted Black Tin Cap w/Dots,1,7.94,12.80,16.56,Wood
+54734999,Oaxaca Harlequin Rusted Black Tin Cap,1,7.56,12.19,15.77,Wood
+54735021,Diana Earl Grey Angle Cap,1,10.10,16.16,20.96,Wood
+54735022,Diana Coral Evening Gown Angle Cap,1,10.10,16.16,20.96,Wood
+54735030,Diana Black Marble Hall Cap,15/16,7.96,12.72,16.54,Wood
+54735031,Diana White Marble Hall Cap,15/16,7.96,12.72,16.54,Wood
+54735032,Diana Black Marble Hall Petite Cap,1/2,6.46,10.35,13.47,Wood
+54735033,Diana White Marble Hall Petite Cap,1/2,6.46,10.35,13.47,Wood
+54740001,Kubik Chroma Grey White Cube,13/16,9.49,15.20,19.76,Wood
+54740002,Kubik Faded Fjord White Cube,13/16,9.49,15.20,19.76,Wood
+54740003,Kubik Luna White Cube,13/16,9.49,15.20,19.76,Wood
+54740004,Kubik Bare Birch White Cube,13/16,9.49,15.20,19.76,Wood
+54740005,Kubik Chroma Grey White Tall Cap,1,14.14,22.66,29.36,Wood
+54740006,Kubik Faded Fjord White Tall Cap,1,14.14,22.66,29.36,Wood
+54740007,Kubik Luna White Tall Cap,1,14.14,22.66,29.36,Wood
+54740008,Kubik Bare Birch White Tall Cap,1,14.14,22.66,29.36,Wood
+54740009,Aurora Black Borealis Block,1 3/16,11.20,17.94,23.28,Wood
+54740010,Aurora Grey Galaxy Block,1 3/16,11.20,17.94,23.28,Wood
+54740011,Aurora Solar Silver Block,1 3/16,11.20,17.94,23.28,Wood
+54740012,Aurora Mauvelous Mercury Block,1 3/16,11.20,17.94,23.28,Wood
+54740013,Aurora Sun Flare Gold Block,1 3/16,11.20,17.94,23.28,Wood
+54740014,Aurora Grey Galaxy Cap,3/4,10.87,17.51,22.68,Wood
+54740015,Aurora Solar Silver Cap,3/4,10.87,17.51,22.68,Wood
+54740016,Aurora Mauvelous Mercury Cap,3/4,10.87,17.51,22.68,Wood
+54740017,Aurora Sun Flare Gold Cap,3/4,10.87,17.51,22.68,Wood
+54740031,Aurora Black Borealis Cap,3/4,10.87,17.51,22.68,Wood
+54740032,Hi-Fi Groovy Vintage Vinyl,15/16,9.33,14.96,19.40,Wood
+54740033,Hi-Fi Groovy Marvin Grey,15/16,9.33,14.96,19.40,Wood
+54740034,Hi-Fi Groovy Smokey Brown,15/16,9.33,14.96,19.40,Wood
+54740035,Hi-Fi Groovy Tina Tanner,15/16,9.33,14.96,19.40,Wood
+54740036,Hi-Fi Groovy Barry White,15/16,9.33,14.96,19.40,Wood
+54740037,Kubik Stone Oak White Cube,13/16,9.46,15.24,19.80,Wood
+54740038,Kubik Autumn Walnut White Cube,13/16,9.46,15.24,19.80,Wood
+54740039,Kubik Sturdy Cherry White Cube,13/16,9.46,15.24,19.80,Wood
+54740040,Kubik Woodland Walnut White Cube,13/16,9.46,15.24,19.80,Wood
+54740041,Kubik Stone Oak White Tall Cap,1,14.10,22.71,29.51,Wood
+54740042,Kubik Autumn Walnut White Tall Cap,1,14.10,22.71,29.51,Wood
+54740043,Kubik Sturdy Cherry White Tall Cap,1,14.10,22.71,29.51,Wood
+54740044,Kubik Woodland Walnut White Tall Cap,1,14.10,22.71,29.51,Wood
+54740045,Kubik Chroma Grey White Block,1 3/16,11.66,18.78,24.41,Wood
+54740046,Kubik Faded Fjord White Block,1 3/16,11.66,18.78,24.41,Wood
+54740047,Kubik Luna White Block,1 3/16,11.66,18.78,24.41,Wood
+54740048,Kubik Bare Birch White Block,1 3/16,11.66,18.78,24.41,Wood
+54740049,Kubik Stone Oak White Block,1 3/16,11.66,18.78,24.41,Wood
+54740050,Kubik Autumn Walnut White Block,1 3/16,11.66,18.78,24.41,Wood
+54740051,Kubik Sturdy Cherry White Block,1 3/16,11.66,18.78,24.41,Wood
+54740052,Kubik Woodland Walnut White Block,1 3/16,11.66,18.78,24.41,Wood
+54740053,Bungalow Oak Lip on Buff Beige,3/4,9.57,15.41,20.04,Wood
+54740054,Bungalow Oak Lip on Minted Sage,3/4,9.57,15.41,20.04,Wood
+54740055,Bungalow Oak Lip on Sesame Grey,3/4,9.57,15.41,20.04,Wood
+54740056,Bungalow Oak Lip on Peony Pink,3/4,9.57,15.41,20.04,Wood
+54740057,Bungalow Oak Lip on Eggshell White,3/4,9.57,15.41,20.04,Wood
+54740058,Bungalow Oak Lip on Golden Mustard,3/4,9.57,15.41,20.04,Wood
+54740059,Bungalow Walnut Lip on Buff Beige,3/4,9.57,15.41,20.04,Wood
+54740060,Bungalow Walnut Lip on Ebony Black,3/4,9.57,15.41,20.04,Wood
+54740061,Bungalow Walnut Lip on Indigo Blue,3/4,9.57,15.41,20.04,Wood
+54740062,Bungalow Walnut Lip on Orange Burst,3/4,9.57,15.41,20.04,Wood
+54770001,Varis Silver Cap w/Black Ice Side,13/16,12.46,19.95,25.96,Wood
+54770002,Varis Silver Cap w/Arctic White Side,13/16,12.46,19.95,25.96,Wood
+54770003,Varis Silver Cap w/Reindeer Side,13/16,12.46,19.95,25.96,Wood
+54770004,Varis Silver Cap w/Viking Grey Side,13/16,12.46,19.95,25.96,Wood
+54770005,Varis Wintergreen Silver Cap,11/16,10.41,16.70,21.66,Wood
+54770006,Varis Baltic Blue Silver Cap,11/16,10.41,16.70,21.66,Wood
+54770007,Varis Goldenrod Silver Cap,11/16,10.41,16.70,21.66,Wood
+54770008,Varis Viking Grey Silver Cap,11/16,10.41,16.70,21.66,Wood
+54770021,Tizon Black Earth Cap,7/8,12.85,20.55,26.70,Wood
+54770022,Tizon Sandstone Cap,7/8,12.85,20.55,26.70,Wood
+54770023,Tizon Deep Canyon Cap,7/8,12.85,20.55,26.70,Wood
+54770024,Tizon Sage Grey Cap,7/8,12.85,20.55,26.70,Wood
+54770025,Tizon Alabaster Cap,7/8,12.85,20.55,26.70,Wood
+54770028,Tizon Deep Canyon Block,1 11/16,17.18,27.49,35.71,Wood
+54770029,Tizon Sage Grey Block,1 11/16,17.18,27.49,35.71,Wood
+54770031,Varis Black Ice Metallic Cube,3/4,7.53,12.13,15.77,Wood
+54770032,Varis Arctic White Metallic Cube,3/4,7.53,12.13,15.77,Wood
+54770033,Varis Wintergreen Metallic Cube,3/4,7.53,12.13,15.77,Wood
+54770034,Varis Reindeer Metallic Cube,3/4,7.53,12.13,15.77,Wood
+54770035,Varis Baltic Blue Metallic Cube,3/4,7.53,12.13,15.77,Wood
+54770036,Varis Frosted Plum Metallic Cube,3/4,7.53,12.13,15.77,Wood
+54770037,Varis Black Ice Metallic Scoop,3/4,12.78,20.58,26.76,Wood
+54770038,Varis Arctic White Metallic Scoop,3/4,12.78,20.58,26.76,Wood
+54770039,Varis Wintergreen Metallic Scoop,3/4,12.78,20.58,26.76,Wood
+54770040,Varis Reindeer Metallic Scoop,3/4,12.78,20.58,26.76,Wood
+54770041,Varis Baltic Blue Metallic Scoop,3/4,12.78,20.58,26.76,Wood
+54770042,Varis Frosted Plum Metallic Scoop,3/4,12.78,20.58,26.76,Wood
+54780053,Vesuvio Volcanic Black Scoop,3 1/2,21.22,34.05,44.14,Wood
+54780054,Vesuvio Excavation Silver Scoop,3 1/2,28.07,45.02,58.46,Wood
+54780055,Vesuvio Excavatio Gold Scoop,2,19.29,30.85,40.07,Wood
+54780056,Vesuvio White Ash Scoop,2,15.09,24.12,31.29,Wood
+54780057,Vesuvio Volcanic Black Scoop,2,15.09,24.12,31.29,Wood
+54780058,Vesuvio Excavation Silver Scoop,2,19.29,30.85,40.07,Wood
+54780086,Porter Silver Steamer Trunk,1 5/8,14.78,23.66,30.75,Wood
+54780088,Porter Silver Steamer Trunk,2 1/2,20.11,32.18,41.83,Wood
+571001,Gold,9/16,2.63,4.21,5.47,Wood
+571002,Silver,9/16,2.63,4.21,5.47,Wood
+571340,Perla Flat White,1 5/8,12.58,20.14,26.15,Wood
+571341,Perla Flat Gold,1 5/8,12.58,20.14,26.15,Wood
+571384,Gold Leaf D'Orsay,1 3/4,12.82,20.52,26.66,Wood
+571385,Silver Leaf D'Orsay,1 3/4,12.82,20.52,26.66,Wood
+6237,Gold Scoop Broken Leaf Fillet,5/16,2.28,5.11,,Fillet
+6241,Gold Thin Broken Leaf Fillet,5/16,2.28,5.11,,Fillet
+6292,Black Lacquer,1 1/2,6.95,13.47,17.53,Wood
+6355,Rev Bkn Gold w/Ornate Lip,1,4.55,8.67,11.39,Wood
+6375,Ant Gold Cap,5/8,3.78,7.64,10.03,Wood
+6377,Ant Gold Cap,3/4,4.60,8.79,11.47,Wood
+6413,Broken Gold w/Bead,1,4.82,9.74,12.84,Wood
+64100723,Silver w/Black Back,2,4.27,7.28,9.51,Wood
+64100823,Silver w/Black Back,3,6.99,11.91,15.55,Wood
+6414110,Satin Gold,1 5/8,4.13,7.02,9.13,Wood
+6414111,Bronze Gold,1 5/8,4.13,7.02,9.13,Wood
+6414121,Espresso,1 5/8,4.13,7.02,9.13,Wood
+64141233,Warm Silver,1 5/8,4.13,7.02,9.13,Wood
+6414133,Stainless Steel,1 5/8,4.13,7.02,9.13,Wood
+6414142,Bleached Natural Woodgrain,1 5/8,4.13,7.02,9.13,Wood
+6414153,Silver w/Black Lines,1 5/8,4.13,7.02,9.13,Wood
+6414173,Silver,1 5/8,4.13,7.02,9.13,Wood
+6414193,Satin Silver,1 5/8,4.13,7.02,9.13,Wood
+6414329,Large Black,2 3/4,6.35,10.92,14.14,Wood
+6414502,Glossy White,1 1/4,2.42,4.12,5.36,Wood
+6414509,Glossy Black,1 1/4,2.42,4.12,5.36,Wood
+6414530,Brass,1 1/4,2.01,3.37,4.48,Wood
+6414533,Stainless Steel,1 1/4,2.01,3.37,4.48,Wood
+6414573,Silver,1 1/4,2.01,3.37,4.48,Wood
+6414593,Satin Silver,1 1/4,2.01,3.37,4.48,Wood
+6415533,Flat Stainless Steel,3 7/8,7.77,13.30,17.23,Wood
+6416421,Contemporary Light Walnut,1 5/16,2.22,3.77,4.93,Wood
+6416424,Contemporary Burgandy,1 5/16,2.22,3.77,4.93,Wood
+6416425,Contemporary Walnut,1 5/16,2.22,3.77,4.93,Wood
+6416521,Contemporary Light Walnut,1 3/4,3.24,5.59,7.28,Wood
+6416524,Contemporary Burgandy,1 3/4,3.24,5.59,7.28,Wood
+6416525,Contemporary Walnut,1 3/4,3.24,5.59,7.28,Wood
+6420320,Ornate Gold,2 3/8,5.08,8.67,11.34,Wood
+6420323,Ornate Silver,2 3/8,5.08,8.67,11.34,Wood
+6421120,Gold Reverse,3 1/8,12.40,21.32,27.72,Wood
+6422553,Silver w/Black Lines,2 3/8,4.77,8.20,10.65,Wood
+6424029,Matte Black,1,5.80,9.98,12.99,Wood
+6424042,Bleached Natural Woodgrain,1,6.12,10.51,13.59,Wood
+6424050,Shiny Gold Deep Cap,1,6.12,10.51,13.59,Wood
+6424053,Silver w/Black Lines Deep Cap,1,6.12,10.51,13.59,Wood
+6424071,Walnut Woodgrain Deep Cap,1,6.12,10.51,13.59,Wood
+6424072,Off White Woodgrain Deep Cap,1,6.12,10.51,13.59,Wood
+6424078,Grey Woodgrain Deep Cap,1,6.12,10.51,13.59,Wood
+6424079,Black Woodgrain Deep Cap,1,6.12,10.51,13.59,Wood
+6424081,Dark Walnut Woodgrain Deep Cap,1,6.12,10.51,13.59,Wood
+6424082,Natural Woodgrain Deep Cap ,1,6.12,10.51,13.59,Wood
+6424088,Charcoal Woodgrain Deep Cap,1,6.12,10.51,13.59,Wood
+6424110,Tall Cap Satin Gold,1 1/4,5.72,9.81,12.76,Wood
+6424111,Tall Cap Bronze Gold,1 1/4,5.72,9.81,12.76,Wood
+6424113,Tall Cap Satin Dark Silver,1 1/4,5.72,9.81,12.76,Wood
+6424115,Tall Cap Satin Bronze,1 1/4,5.72,9.81,12.76,Wood
+6424121,Tall Cap Espresso,1 1/4,5.72,9.81,12.76,Wood
+6424130,Tall Cap Bright Gold,1 1/4,5.72,9.81,12.76,Wood
+6424133,Tall Cap Stainless Steel,1 1/4,5.72,9.81,12.76,Wood
+6424153,Tall Cap Antique Silver,1 1/4,5.75,9.78,12.71,Wood
+6424155,Tall Cap Antique Gold,1 1/4,5.75,9.78,12.71,Wood
+6424173,Tall Cap Silver,1 1/4,5.72,9.81,12.76,Wood
+6424193,Tall Cap Satin Silver,1 1/4,5.72,9.81,12.76,Wood
+6424771,Walnut Woodgrain Deep Cap,3/4,2.54,4.35,5.60,Wood
+6424772,Off White Woodgrain Deep Cap,3/4,2.54,4.35,5.60,Wood
+6424778,Grey Woodgrain Deep Cap,3/4,2.54,4.35,5.60,Wood
+6424779,Black Woodgrain Deep Cap,3/4,2.54,4.35,5.60,Wood
+6424781,Dark Walnut Woodgrain Deep Cap,3/4,2.54,4.35,5.60,Wood
+6424782,Natural Woodgrain Deep Cap ,3/4,2.54,4.35,5.60,Wood
+6424788,Charcoal Woodgrain Deep Cap,3/4,2.54,4.35,5.60,Wood
+6425233,Stainless Flat,2,3.70,6.32,8.14,Wood
+6425271,Walnut Woodgrain Flat,2,4.43,7.57,9.79,Wood
+6425272,Off White Woodgrain Flat,2,4.43,7.57,9.79,Wood
+6425278,Grey Woodgrain Flat,2,4.43,7.57,9.79,Wood
+6425279,Black Woodgrain Flat,2,4.43,7.57,9.79,Wood
+6425281,Dark Walnut Woodgrain Flat,2,4.43,7.57,9.79,Wood
+6425282,Natural Woodgrain Flat ,2,4.43,7.57,9.79,Wood
+6425288,Charcoal Woodgrain Flat,2,4.43,7.57,9.79,Wood
+6425302,Large Flat Glossy White,3,6.32,10.75,13.97,Wood
+6425309,Large Flat Glossy Black,3,6.32,10.75,13.97,Wood
+6425321,Large Flat Espresso,3,5.32,9.11,11.77,Wood
+6425323,Large Flat Silver,3,5.32,9.11,11.77,Wood
+6425333,Large Flat Pattern Silver,3,5.32,9.11,11.77,Wood
+6425343,Large Flat Stainless Silver,3,5.32,9.11,11.77,Wood
+6426621,Square Espresso w/Silver Lines,1,2.63,4.50,5.89,Wood
+6426622,Square White w/Silver Lines,1,2.63,4.50,5.89,Wood
+6426629,Square Black w/Silver Lines,1,2.63,4.50,5.89,Wood
+6426721,Flat Espresso w/Silver Lines,1 7/8,4.00,6.86,8.83,Wood
+6426722,Flat White w/Silver Lines,1 7/8,4.00,6.86,8.83,Wood
+6426729,Flat Black w/Silver Lines,1 7/8,4.00,6.86,8.83,Wood
+6426738,Flat Dark Grey w/Silver Lines,1 7/8,4.00,6.86,8.83,Wood
+6429710,Satin Gold w/Deep Bevel Lip,7/8,4.37,7.43,9.66,Wood
+64297108,Rustic Grey w/Blue w/Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429711,Bronze w/Deep Bevel Lip,7/8,4.37,7.43,9.66,Wood
+64297111,Rustic Dark Brown w/Bevel Lip,7/8,4.37,7.43,9.66,Wood
+64297112,Rustic White Wash Grey w/Bevel Lip,7/8,4.37,7.43,9.66,Wood
+64297118,Rustic Dark Grey w/Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429715,Satin Bronze w/Deep Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429722,Matte White w/Deep Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429723,Silver w/Deep Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429729,Matte Black w/Deep Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429742,Bleached Natural Woodgrain w/Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429750,Shiny Gold w/Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429753,Silver w/Black Lines w/Bevel Lip,7/8,4.37,7.43,9.66,Wood
+6429771,Walnut Woodgrain w/Deep Bevel Lip,7/8,4.43,7.57,9.79,Wood
+6429772,Off White Woodgrain w/Deep Bevel Lip,7/8,4.43,7.57,9.79,Wood
+6429778,Grey Woodgrain w/Deep Bevel Lip,7/8,4.43,7.57,9.79,Wood
+6429779,Black Woodgrain w/Deep Bevel Lip,7/8,4.43,7.57,9.79,Wood
+6429781,Dark Walnut Woodgrain w/Deep Bevel Lip,7/8,4.43,7.57,9.79,Wood
+6429782,Natural Woodgrain w/Deep Bevel Lip ,7/8,4.43,7.57,9.79,Wood
+6429788,Charcoal Woodgrain w/Deep Bevel Lip,7/8,4.43,7.57,9.79,Wood
+6430111,Bronze Floater,1/2,4.36,7.44,9.67,Wood
+6430113,Satin Pewter Floater,1/2,4.36,7.44,9.67,Wood
+6430118,Charcoal Floater,1/2,4.36,7.44,9.67,Wood
+6430121,Espresso Floater,1/2,4.36,7.44,9.67,Wood
+6430122,White Floater,1/2,4.36,7.44,9.67,Wood
+6430129,Black Floater,1/2,4.36,7.44,9.67,Wood
+6430131,Walnut Floater,1/2,4.36,7.44,9.67,Wood
+6430133,Stainless Steel Floater,1/2,4.69,7.99,10.39,Wood
+6430138,Burnished Bronze Floater,1/2,4.36,7.44,9.67,Wood
+6430173,Silver Floater,1/2,4.36,7.44,9.67,Wood
+6430193,Satin Silver Floater,1/2,4.36,7.44,9.67,Wood
+64306233,Warm Silver Floater,1 3/4,3.70,6.32,8.14,Wood
+6430633,Pattern Silver Floater,1 3/4,3.70,6.32,8.14,Wood
+6430638,Burnished Bronze Floater,5/8,3.70,6.32,8.14,Wood
+6430673,Silver Floater,5/8,3.70,6.32,8.14,Wood
+6430693,Satin Silver Floater,5/8,3.70,6.32,8.14,Wood
+6430721,Large Espresso Floater,2 3/4,8.09,13.88,17.96,Wood
+6430729,Large Black Floater,2 3/4,8.09,13.88,17.96,Wood
+64308301,Natural Linen w/Gold,1 1/4,3.31,5.35,6.86,Wood
+64308401,White Linen w/Gold,1 1/4,3.31,5.35,6.86,Wood
+64311401,White Linen w/Gold Lip,2,4.68,7.55,9.75,Wood
+64312301,Natural Linen Liner,1 1/4,2.97,4.81,6.16,Liner
+64312401,White Linen Liner,1 1/4,2.97,4.81,6.16,Liner
+64313301,Natural Linen Liner,2,4.17,6.70,8.64,Liner
+64313401,White Linen Liner,2,4.17,6.70,8.64,Liner
+64315301,Natural Linen Liner,3/4,2.81,4.51,5.88,Liner
+64315401,White Linen Liner,3/4,2.81,4.51,5.88,Liner
+64316301,Natural Linen Liner,3,4.92,8.44,10.96,Liner
+64316401,White Linen Liner,3,4.92,8.44,10.96,Liner
+6431729,Black Floater,1 5/8,4.43,7.57,9.79,Wood
+6431730,Gold Floater,1 5/8,4.43,7.57,9.79,Wood
+6431773,Silver Floater,1 5/8,4.43,7.57,9.79,Wood
+6431929,Black Floater,1/8,2.15,3.64,4.77,Wood
+6432723,Tall Silver Cap,7/8,5.23,8.98,11.59,Wood
+64328183,Silver Cap w/Lt Grey Sides,3/4,7.11,12.23,15.90,Wood
+6432922,"1 1/4"" x 4 1/4"" Matte White Tall Shadow Box ",1 1/4,11.14,19.05,24.76,Wood
+6432929,"1 1/4"" x 4 1/4"" Matte Black Tall Shadow Box",1 1/4,11.14,19.05,24.76,Wood
+64330121,Brown & White Barnwwod Cap,1,5.00,8.53,11.18,Wood
+64330122,White & Brown Barnwwod Cap,1,5.00,8.53,11.18,Wood
+64330125,Dark Brown Barnwwod Cap,1,5.00,8.53,11.18,Wood
+64330128,Light Gray Barnwwod Cap,1,5.00,8.53,11.18,Wood
+64330131,Gray & Brown Barnwwod Cap,1,5.00,8.53,11.18,Wood
+64330138,White & Gray Barnwwod Cap,1,5.00,8.53,11.18,Wood
+6433018,Charcoal Cap,1,4.89,8.42,10.88,Wood
+6433019,Black Cap w/Light Brown Lines,1,4.89,8.42,10.88,Wood
+6433022,Matte White Cap,1,4.89,8.42,10.88,Wood
+6433053,Antique Silver Cap,1,5.00,8.53,11.18,Wood
+6433055,Antique Gold Cap,1,5.00,8.53,11.18,Wood
+6433073,Silver Cap,1,4.89,8.42,10.88,Wood
+6433111,Tall Bronze Cap,7/8,5.47,9.37,12.19,Wood
+6433118,Tall Charcoal Cap,7/8,5.47,9.37,12.19,Wood
+6433129,Tall Matte Black Cap,7/8,5.47,9.37,12.19,Wood
+6433153,Tall Antique Silver Cap,7/8,5.47,9.37,12.19,Wood
+6433155,Tall Antique Gold Cap,7/8,5.47,9.37,12.19,Wood
+6433920,Tall Satin Gold Floater,1 3/4,6.49,11.06,14.44,Wood
+6433921,Tall Espresso Floater,1 3/4,6.49,11.06,14.44,Wood
+6433922,Tall Matte White Floater,1 3/4,6.49,11.06,14.44,Wood
+6433923,Tall Warm Silver Floater,1 3/4,6.49,11.06,14.44,Wood
+6433929,Tall Black Floater,1 3/4,6.49,11.06,14.44,Wood
+6434410,Gold & Black Floater,1 1/8,4.69,7.99,10.39,Wood
+6434423,Silver & Black Floater,1 1/8,4.69,7.99,10.39,Wood
+6434429,Black Floater,1 1/8,4.69,7.99,10.39,Wood
+6434533,Stainless Steel,1 3/4,3.39,5.86,7.56,Wood
+6436002,Glossy White Floater,1 1/8,5.21,8.86,11.52,Wood
+6436009,Glossy Black Floater,1 1/8,5.21,8.86,11.52,Wood
+64360108,Rustic Grey w/Blue Floater,1 1/8,4.95,8.42,10.94,Wood
+6436011,Copper Floater,1 1/8,4.95,8.42,10.94,Wood
+64360111,Rustic Dark Brown Floater,1 1/8,4.95,8.42,10.94,Wood
+64360112,Rustic White Wash Grey Floater,1 1/8,4.95,8.42,10.94,Wood
+64360118,Rustic Dark Grey Floater,1 1/8,4.95,8.42,10.94,Wood
+6436018,Charcoal Floater,1 1/8,4.95,8.42,10.94,Wood
+6436022,Matte White Floater,1 1/8,4.95,8.42,10.94,Wood
+6436023,Warm Silver Floater,1 1/8,4.95,8.42,10.94,Wood
+6436029,Matte Black Floater,1 1/8,4.95,8.42,10.94,Wood
+6436030,Gold Floater,1 1/8,4.95,8.42,10.94,Wood
+6436071,Walnut Woodgrain Floater,1 1/8,4.95,8.42,10.94,Wood
+6436072,Off-White Woodgrain Floater,1 1/8,4.95,8.42,10.94,Wood
+6436073,Silver Floater,1 1/8,4.95,8.42,10.94,Wood
+6436078,Grey Woodgrain Floater,1 1/8,4.95,8.42,10.94,Wood
+6436079,Black Woodgrain Floater,1 1/8,4.95,8.42,10.94,Wood
+6436081,Dark Walnut Woodgrain Floater,1 1/8,4.95,8.42,10.94,Wood
+6436082,Natural Woodgrain Floater,1 1/8,4.95,8.42,10.94,Wood
+6436088,Charcoal Woodgrain Floater,1 1/8,4.95,8.42,10.94,Wood
+64361121,Large Floater Brown & White Barnwood,2 1/8,9.19,15.70,20.46,Wood
+64361122,Large Floater White & Brown Barnwood,2 1/8,9.19,15.70,20.46,Wood
+64361125,Large Floater Dark Brown Barnwood,2 1/8,9.19,15.70,20.46,Wood
+64361128,Large Floater Light Grey Barnwood,2 1/8,9.19,15.70,20.46,Wood
+64361131,Large Floater Grey & Brown Barnwood,2 1/8,9.19,15.70,20.46,Wood
+64361138,Large Floater White & Grey Barnwood,2 1/8,9.19,15.70,20.46,Wood
+6436211,Large Floater Grey w/Beige Lines,2 1/8,7.65,13.15,17.07,Wood
+6436212,Large Floater White w/Red Lines,2 1/8,7.65,13.15,17.07,Wood
+6436219,Large Floater Black w/Light Brown Lines,2 1/8,7.65,13.15,17.07,Wood
+6436228,Large Floater Charcoal w/Light Brown Lines,2 1/8,7.65,13.15,17.07,Wood
+64366183,Silver Floater w/Lt Grey Sides,1 5/8,9.35,16.09,20.92,Wood
+6436822,Deep Matte White Floater,1 3/4,9.03,15.62,20.30,Wood
+6436829,Deep Matte Black Floater,1 3/4,9.03,15.62,20.30,Wood
+6436830,Deep Gold Floater,1 3/4,9.03,15.62,20.30,Wood
+6436831,Deep Light Walnut Floater,1 3/4,9.03,15.62,20.30,Wood
+6436873,Deep True Silver Floater,1 3/4,9.03,15.62,20.30,Wood
+644110,Satin Gold,1 1/4,3.08,5.34,6.87,Wood
+644111,Bronze Gold,1 1/4,3.08,5.34,6.87,Wood
+644121,Espresso,1 1/4,3.08,5.34,6.87,Wood
+6441233,Warm Silver,1 1/4,3.08,5.34,6.87,Wood
+644133,Stainless Steel,1 1/4,3.08,5.34,6.87,Wood
+644142,Bleached Natural Woodgrain,1 1/4,3.08,5.34,6.87,Wood
+644150,Shiny Gold,1 1/4,3.08,5.34,6.87,Wood
+644153,Silver w/Black Lines,1 1/4,3.08,5.34,6.87,Wood
+6442610,Satin Gold Cap w/Bevel Lip,1 1/8,3.74,6.45,8.40,Wood
+6442611,Bronze Cap w/Bevel Lip,1 1/8,3.74,6.45,8.40,Wood
+6442621,Espresso Cap w/Bevel Lip,1 1/8,3.74,6.45,8.40,Wood
+6442622,Matte White Cap w/Bevel Lip,1 1/8,3.74,6.45,8.40,Wood
+6442623,Warm Silver Cap w/Bevel Lip,1 1/8,3.74,6.45,8.40,Wood
+6442629,Matte Black Cap w/Bevel Lip,1 1/8,3.74,6.45,8.40,Wood
+6442633,Stainless Cap w/Bevel Lip,1 1/8,3.74,6.45,8.40,Wood
+6442710,Tall Satin Gold Cap w/Bevel Lip,1 1/8,5.54,9.51,12.31,Wood
+6442711,Tall Bronze Cap w/Bevel Lip,1 1/8,5.54,9.51,12.31,Wood
+6442721,Tall Espresso Cap w/Bevel Lip,1 1/8,5.54,9.51,12.31,Wood
+6442722,Tall Matte White Cap w/Bevel Lip,1 1/8,5.54,9.51,12.31,Wood
+6442723,Tall Warm Silver Cap w/Bevel Lip,1 1/8,5.54,9.51,12.31,Wood
+6442729,Tall Matte Black Cap w/Bevel Lip,1 1/8,5.54,9.51,12.31,Wood
+6442733,Tall Stainless Cap w/Bevel Lip,1 1/8,5.54,9.51,12.31,Wood
+6443210,Satin Gold Cap,7/8,2.39,4.05,5.32,Wood
+6443211,Bronze Gold Cap,7/8,2.39,4.05,5.32,Wood
+6443215,Satin Bronze Cap,7/8,2.39,4.05,5.32,Wood
+64432153,Silver w/Black Lines Cap,7/8,2.39,4.05,5.32,Wood
+6443218,Satin Charcoal Cap,7/8,2.39,4.05,5.32,Wood
+6443220,Antique Gold Cap,7/8,2.84,4.94,6.34,Wood
+6443221,Espresso Cap,7/8,2.39,4.05,5.32,Wood
+6443223,Pale Gold Cap,7/8,2.84,4.94,6.34,Wood
+6443233,Stainless Steel Cap,7/8,2.39,4.05,5.32,Wood
+6443242,Bleached Natural Woodgrain Cap,7/8,2.39,4.05,5.32,Wood
+6443250,Shiny Gold Cap,7/8,2.39,4.05,5.32,Wood
+6443253,Antique Silver Cap,7/8,2.84,4.94,6.34,Wood
+6443255,Antique Gold Cap,7/8,2.84,4.94,6.34,Wood
+6443273,Silver Cap,7/8,2.39,4.05,5.32,Wood
+644329,Black Pyramid,1 1/8,4.00,6.86,8.83,Wood
+6443293,Satin Silver Cap,7/8,2.39,4.05,5.32,Wood
+6443311,Bronze with Distress Edges,7/8,3.32,5.62,7.36,Wood
+6443313,Silver with Distress Edges,7/8,3.32,5.62,7.36,Wood
+6443320,Gold with Distress Edges,7/8,3.32,5.62,7.36,Wood
+6443323,Bronze with Distress Edges,7/8,3.32,5.62,7.36,Wood
+64436108,Rustic Grey w/Blue Cap,3/4,2.84,4.94,6.34,Wood
+64436111,Rustic Dark Brown Cap,3/4,2.84,4.94,6.34,Wood
+64436112,Rustic White Wash Grey Cap,3/4,2.84,4.94,6.34,Wood
+64436118,Rustic Dark Grey Cap,3/4,2.84,4.94,6.34,Wood
+6443918,Light Grey Shallow Scoop,1 1/4,3.11,5.37,6.98,Wood
+6443919,Black Shallow Scoop,1 1/4,3.11,5.37,6.98,Wood
+6443921,Beech Shallow Scoop,1 1/4,3.11,5.37,6.98,Wood
+6443931,Dark Walnut Shallow Scoop,1 1/4,3.11,5.37,6.98,Wood
+6443932,Light Cream Shallow Scoop,1 1/4,3.11,5.37,6.98,Wood
+645820,Gold with Flat Panel,1 5/8,3.66,6.32,8.13,Wood
+645823,Silver with Flat Panel,1 5/8,3.66,6.32,8.13,Wood
+645920,Gold with Flat Panel,2 1/4,5.54,9.51,12.31,Wood
+645923,Silver with Flat Panel,2 1/4,5.54,9.51,12.31,Wood
+6460940,Mahogany Reverse w/Gold Lip,2 1/4,4.80,8.14,10.65,Wood
+64704940,Mahogany Reverse w/Gold Lip,1 1/2,2.84,4.94,6.34,Wood
+6471413,Warm Silver,13/16,2.12,3.63,4.76,Wood
+64724108,Rustic Grey w/Blue Tall Cap,3/4,5.22,8.87,11.54,Wood
+64724111,Rustic Dark Brown Tall Cap,3/4,5.22,8.87,11.54,Wood
+64724112,Rustic White Wash Grey Tall Cap,3/4,5.22,8.87,11.54,Wood
+64724118,Rustic Dark Grey Tall Cap,3/4,5.22,8.87,11.54,Wood
+6475218,Charcoal w/White Lines,1 1/8,2.89,4.92,6.46,Wood
+6475221,Light Brown w/White Lines,1 1/8,2.89,4.92,6.46,Wood
+6475222,White w/Light Brown Lines,1 1/8,2.89,4.92,6.46,Wood
+6475229,Black w/Orange Lines,1 1/8,2.89,4.92,6.46,Wood
+64753293,Distressed Black w/Ornamental Silver Lip,1,4.43,7.57,9.79,Wood
+64754220,Distressed White Scoop w/Gold Beaded Lip,1 1/4,3.21,5.46,7.14,Wood
+6475423,Distressed Silver Scoop w/Beaded Lip,1 1/4,3.42,5.87,7.58,Wood
+64754293,Distressed Black Scoop w/Silver Beaded Lip,1 1/4,3.42,5.87,7.58,Wood
+6475520,Distressed Gold Scoop w/Ornamental Lip,1 1/4,3.42,5.87,7.58,Wood
+6475629,Tall Matte Black,7/8,3.24,5.59,7.28,Wood
+6475720,Small Wavy Ornate Gold with Crosses,1 1/2,2.15,3.64,4.77,Wood
+6475923,Silver w/Bevel Lip,1 1/4,3.64,6.18,8.04,Wood
+6476120,Medium Gold Bamboo,1,4.94,8.50,11.05,Wood
+6476123,Medium Silver Bamboo,1,4.94,8.50,11.05,Wood
+6476129,Medium Black Bamboo,1,4.94,8.50,11.05,Wood
+6476620,Gold Leaf w/Black Lines,1 3/8,5.81,10.00,12.99,Wood
+6476623,Silver Leaf w/Black Lines,1 3/8,5.81,10.00,12.99,Wood
+6477120,Large Gold w/Panel,4 1/8,10.27,17.67,22.98,Wood
+6478518,Navy Blue Ornate,1 1/4,4.45,7.56,9.83,Wood
+6478520,Bright Gold Ornate,1 1/4,4.45,7.56,9.83,Wood
+6478522,White Ornate,1 1/4,4.45,7.56,9.83,Wood
+6478523,Bright Silver Ornate,1 1/4,4.45,7.56,9.83,Wood
+6478528,Grey Ornate,1 1/4,4.45,7.56,9.83,Wood
+6478529,Black Ornate,1 1/4,4.45,7.56,9.83,Wood
+6478535,Coral Ornate,1 1/4,4.45,7.56,9.83,Wood
+64787290,Gold with Black Back,1 3/4,6.71,11.41,14.83,Wood
+64787293,Stainless Steel with Black Back,1 3/4,6.71,11.41,14.83,Wood
+64787393,Silver with Black Back,1 3/4,6.71,11.41,14.83,Wood
+64790212,Ivory Veneer,2,7.33,12.68,16.49,Wood
+64790218,Charcoal Veneer,2,7.33,12.68,16.49,Wood
+64790221,Pecan Veneer,2,7.33,12.68,16.49,Wood
+64790229,Black Veneer,2,7.33,12.68,16.49,Wood
+64790231,Walnut Veneer,2,7.33,12.68,16.49,Wood
+6633,Thin Gold Fillet,1/4,2.28,4.96,,Fillet
+6694,Silver Leaf Scoop Fillet,5/16,2.22,4.94,,Fillet
+71306004, Lead Silver Massimo ,3/4,6.43,10.29,13.37,Wood
+71306006, Champagne Massimo ,3/4,6.43,10.29,13.37,Wood
+71306007,Gold Massimo ,3/4,6.43,10.29,13.37,Wood
+71306008,Silver Massimo,3/4,6.43,10.29,13.37,Wood
+71306009,Dark Silver Massimo,3/4,6.43,10.29,13.37,Wood
+71306017,Black Gold Massimo ,3/4,6.43,10.29,13.37,Wood
+71307001,Burnt Orange Arte,3/4,6.22,9.96,12.94,Wood
+71307002,Yellow Arte,3/4,6.22,9.96,12.94,Wood
+71307003,Forest Green Arte,3/4,6.22,9.96,12.94,Wood
+71307004,Blue Arte,3/4,6.22,9.96,12.94,Wood
+71307005,Grey Arte,3/4,6.22,9.96,12.94,Wood
+71307006,Red Arte,3/4,6.22,9.96,12.94,Wood
+71307007,Antique Gold Arte,3/4,6.22,9.96,12.94,Wood
+71307008,Antique Silver Arte,3/4,6.22,9.96,12.94,Wood
+71307010,Black Arte,3/4,6.22,9.96,12.94,Wood
+71307011,White Arte,3/4,6.22,9.96,12.94,Wood
+71407007,Gold Stella,1 1/4,7.82,12.52,16.27,Wood
+71407008,Silver Stella,1 1/4,7.82,12.52,16.27,Wood
+71407009,Pewter Stella,1 1/4,7.82,12.52,16.27,Wood
+71407011,White Stella,1 1/4,7.82,12.52,16.27,Wood
+71407012,Light Bronze Stella,1 1/4,7.82,12.52,16.27,Wood
+71417007,Gold Stella,1 1/2,10.05,16.08,20.90,Wood
+71417008,Silver Stella,1 1/2,10.05,16.08,20.90,Wood
+71417009,Pewter Stella,1 1/2,10.05,16.08,20.90,Wood
+71417011,White Stella,1 1/2,10.05,16.08,20.90,Wood
+71417012,Light Bronze Stella,1 1/2,10.05,16.08,20.90,Wood
+72161007,Louvre Gold Leaf,1,4.19,6.71,8.72,Wood
+72161008,Louvre Silver Leaf,1,4.19,6.71,8.72,Wood
+72161010,Louvre Grey w/Black Wash,1,3.78,6.04,7.86,Wood
+72161011,Louvre White Wash,1,3.78,6.04,7.86,Wood
+72171007,Louvre Gold Leaf,2,7.70,12.33,16.03,Wood
+72171008,Louvre Silver Leaf,2,7.70,12.33,16.03,Wood
+72171010,Louvre Grey w/Black Wash,2,6.93,11.08,15.37,Wood
+72171011,Louvre White Wash,2,6.93,11.08,15.37,Wood
+72181007,Louvre Gold Leaf,3 1/4,13.59,21.74,28.26,Wood
+72181008,Louvre Silver Leaf,3 1/4,13.59,21.74,28.26,Wood
+72181010,Louvre Grey w/Black Wash,3 1/4,12.24,19.58,25.45,Wood
+72181011,Louvre White Wash,3 1/4,12.24,19.58,25.45,Wood
+72306007,Gold Milano,3/4,7.63,12.20,15.87,Wood
+72306008,Dark Silver Milano,3/4,7.63,12.20,15.87,Wood
+72306009,Champagne Milano ,3/4,7.63,12.20,15.87,Wood
+72306010,Black Milano,3/4,7.63,12.20,15.87,Wood
+72306013,Rose Gold Milano ,3/4,7.63,12.20,15.87,Wood
+72316007,Gold Milano,1 1/2,11.16,17.86,23.22,Wood
+72316008, Dark Silver Milano,1 1/2,11.16,17.86,23.22,Wood
+72316009,Champagne Silver Milano,1 1/2,11.16,17.86,23.22,Wood
+72316010,Black Milano,1 1/2,11.16,17.86,23.22,Wood
+72316013,Rose Gold Milano,1 1/2,11.16,17.86,23.22,Wood
+72407007,Gold Baltica,2,10.39,16.60,21.58,Wood
+72407008,Silver Baltica,2,10.38,16.60,21.58,Wood
+72407009,Pewter Baltica,2,10.38,16.60,21.58,Wood
+72407010,Black Baltica,2,10.38,16.60,21.58,Wood
+72407012,Bronze Baltica,2,10.38,16.60,21.58,Wood
+72501011,White Lino,7/8,6.76,10.80,14.05,Wood
+72501013,Grey Purple Lino,7/8,6.76,10.80,14.05,Wood
+72501015,Bronze Lino,7/8,6.76,10.80,14.05,Wood
+72501016,Dark Grey Lino,7/8,6.76,10.80,14.05,Wood
+72501017,Blue Jean Lino,7/8,6.76,10.80,14.05,Wood
+72511011,White Lino,2,10.02,16.04,20.84,Wood
+72511013,Grey Purple Lino,2,10.02,16.04,20.84,Wood
+72511015,Bronze Lino,2,10.02,16.04,20.84,Wood
+72511016,Dark Grey Lino,2,10.02,16.04,20.84,Wood
+72511017,Blue Jean Lino,2,10.02,16.04,20.84,Wood
+73501007,Gold Marmo,1 9/16,9.65,15.44,21.07,Wood
+73501010,Black Marmo,1 9/16,9.65,15.44,21.07,Wood
+73501013,Platinum Marmo,1 9/16,9.65,15.44,21.07,Wood
+73501014,Pewter Marmo,1 9/16,9.65,15.44,21.07,Wood
+73511007,Gold Marmo,2 1/2,14.72,23.56,30.63,Wood
+73511010,Black Marmo,2 1/2,14.72,23.56,30.63,Wood
+73511013,Platinum Marmo,2 1/2,14.72,23.56,30.63,Wood
+73511014,Pewter Marmo,2 1/2,14.72,23.56,30.63,Wood
+74306013,Black Olive Capri,7/8,8.03,12.84,16.70,Wood
+74306014,Black Noce Capri,7/8,8.03,12.84,16.70,Wood
+74306015,White Ayous Capri,7/8,8.03,12.84,16.70,Wood
+74306016,White Rovere Capri ,7/8,8.03,12.84,16.70,Wood
+74407007,Gold Tintoretto,7/8,6.43,10.29,13.37,Wood
+74407008,Silver Tintoretto,7/8,6.43,10.29,13.37,Wood
+74407009,Pewter Tintoretto,7/8,6.43,10.29,13.37,Wood
+74407010,Black Tintoretto,7/8,6.43,10.29,13.37,Wood
+74417007,Gold Tintoretto,1 1/2,9.60,15.36,19.96,Wood
+74417008,Silver Tintoretto,1 1/2,9.60,15.36,19.96,Wood
+74417009,Pewter Tintoretto,1 1/2,9.60,15.36,19.96,Wood
+74417010,Black Tintoretto,1 1/2,9.60,15.36,19.96,Wood
+74427007,Gold Tintoretto,3,17.16,27.45,35.68,Wood
+74427008,Silver Tintoretto,3,17.16,27.45,35.68,Wood
+74427009,Pewter Tintoretto,3,17.16,27.45,35.68,Wood
+74427010,Black Tintoretto,3,17.16,27.45,35.68,Wood
+74501007,Gold Positano,1 5/8,10.54,16.88,21.93,Wood
+74501008,Silver Positano,1 5/8,10.54,16.88,21.93,Wood
+74501010,Black Positano,1 5/8,10.54,16.88,21.93,Wood
+74511007,Gold Positano,3,16.91,27.06,35.18,Wood
+74511008,Silver Positano,3,16.91,27.06,35.18,Wood
+74511010,Black Positano,3,16.91,27.06,35.18,Wood
+75201007,Zen Gold Leaf Bamboo, 5/8 ,4.26,6.82,8.87,Wood
+75201008,Zen Silver Leaf Bamboo, 5/8 ,4.26,6.82,8.87,Wood
+75211007,Zen Gold Leaf Bamboo, 7/8 ,5.61,8.98,11.67,Wood
+75211008,Zen Silver Leaf Bamboo, 7/8 ,5.61,8.98,11.67,Wood
+75221007,Zen Gold Leaf Bamboo Floater,1 1/2,10.21,16.33,21.23,Wood
+75221008,Zen Silver Leaf Bamboo Floater,1 1/2,10.21,16.33,21.23,Wood
+75306004,Red Bianco,3/4,6.28,10.05,13.07,Wood
+75306005,Blue Bianco,3/4,6.28,10.05,13.07,Wood
+75306010,Black Bianco,3/4,6.28,10.05,13.07,Wood
+75306011,White/Grey Bianco,3/4,6.28,10.05,13.07,Wood
+75316004,Red Bianco,2,10.43,16.68,21.68,Wood
+75316005,Blue Bianco,2,10.43,16.68,21.68,Wood
+75316010,Black Bianco,2,10.43,16.68,21.68,Wood
+75316011,White/Grey Bianco,2,10.43,16.68,21.68,Wood
+76306006,Dark Silver Trevi ,3/4,7.63,12.20,15.87,Wood
+76306007,Gold Trevi ,3/4,7.63,12.20,15.87,Wood
+76306008,Silver Trevi,3/4,7.63,12.20,15.87,Wood
+76316006,Dark Silver Trevi,1 3/8,11.16,17.86,23.22,Wood
+76316007,Gold Trevi,1 3/8,11.16,17.86,23.22,Wood
+76316008,Silver Trevi,1 3/8,11.16,17.86,23.22,Wood
+76316010,Black Trevi,1 3/8,11.16,17.86,23.22,Wood
+76326006,Dark Silver Trevi,2 1/2,17.00,27.19,35.35,Wood
+76326007,Gold Trevi ,2 1/2,17.00,27.19,35.35,Wood
+76326008,Silver Trevi ,2 1/2,17.00,27.19,35.35,Wood
+76326010,Black Trevi,2 1/2,17.00,27.19,35.35,Wood
+76402008,Pewter Unagi,2 3/4,11.16,17.86,23.22,Wood
+76402009,Bronze Unagi,2 3/4,11.16,17.86,23.22,Wood
+76402010,Black Unagi,2 3/4,11.16,17.86,23.22,Wood
+76402011,White Unagi,2 3/4,11.16,17.86,23.22,Wood
+76412008,Pewter Unagi,1 1/4,4.65,7.45,9.68,Wood
+76412009,Bronze Unagi,1 1/4,4.65,7.45,9.68,Wood
+76412010,Black Unagi,1 1/4,4.65,7.45,9.68,Wood
+76412011,White Unagi,1 1/4,4.65,7.45,9.68,Wood
+76422008,Tall Pewter Unagi,1,6.39,10.23,13.30,Wood
+76422009,Tall Bronze Unagi,1,6.39,10.23,13.30,Wood
+76422010,Tall Black Unagi,1,6.39,10.23,13.30,Wood
+76422011,Tall White Unagi,1,6.39,10.23,13.30,Wood
+76432008,Pewter Unagi Floater,5/8,8.36,13.37,17.38,Wood
+76432009,Bronze Unagi Floater,5/8,8.36,13.37,17.38,Wood
+76432010,Black Unagi Floater,5/8,8.36,13.37,17.38,Wood
+76432011,White Unagi Floater,5/8,8.36,13.37,17.38,Wood
+77306007,Gold Classico,3/4,8.60,13.76,17.90,Wood
+77306008,Champage Silver Classico,3/4,8.60,13.76,17.90,Wood
+77306009,Pewter Silver Classico,3/4,8.60,13.76,17.90,Wood
+77316007,Gold Classico,1 1/2,12.71,20.33,26.43,Wood
+77316008, Champagne Silver Classico,1 1/2,12.71,20.33,26.43,Wood
+77316009,Pewter Silver Classico,1 1/2,12.71,20.33,26.43,Wood
+77316013,Rose Gold Classico,1 1/2,12.71,20.33,26.43,Wood
+78161007,Pilastri Gold Leaf,1,4.50,7.19,9.35,Wood
+78161008,Pilastri Silver Leaf,1,4.50,7.19,9.35,Wood
+78161009,Pilastri Rose Gold Leaf,1,4.50,7.19,9.35,Wood
+78161010,Pilastri Matte Black,1,4.07,6.52,8.47,Wood
+78171007,Pilastri Gold Leaf,2,7.70,12.33,16.03,Wood
+78171008,Pilastri Silver Leaf,2,7.70,12.33,16.03,Wood
+78171009,Pilastri Rose Gold Leaf,2,7.70,12.33,16.03,Wood
+78171010,Pilastri Matte Black,2,6.93,11.08,14.41,Wood
+78181007,Pilastri Gold Leaf,2 5/8,11.67,18.68,24.28,Wood
+78181008,Pilastri Silver Leaf,2 5/8,11.67,18.68,24.28,Wood
+78181009,Pilastri Rose Gold Leaf,2 5/8,11.67,18.68,24.28,Wood
+78181010,Pilastri Matte Black,2 5/8,10.53,16.84,21.90,Wood
+82251101,Morgan Silver,2 3/4,3.48,5.44,7.16,Wood
+826042,Blonde Maple,1 1/4,1.86,3.00,3.99,Wood
+826047,Dark Mahogany,1 1/4,1.86,3.00,3.99,Wood
+826049,Pebble Beach Leather,1 1/4,2.51,4.01,5.30,Wood
+826057,Organic Maple,1 1/4,1.86,3.00,3.99,Wood
+826060,Mocha Walnut,1 1/4,1.86,3.00,3.99,Wood
+826061,Espresso Walnut,1 1/4,1.86,3.00,3.99,Wood
+826069,Catalog Honey,1 1/4,1.86,3.00,3.99,Wood
+826074,Satin White,1 1/4,2.51,4.00,5.30,Wood
+8261469,Black Steel,1 1/4,2.47,3.86,5.14,Wood
+8261500,American Barn,1 1/4,1.86,3.00,3.99,Wood
+8261619,Muted Gold Glow,1 1/4,1.86,3.00,3.99,Wood
+8261620,Muted Warm Silver,1 1/4,1.86,3.00,3.99,Wood
+8261621,Muted Cool Silver,1 1/4,1.86,3.00,3.99,Wood
+8261622,Muted Prosecco Gold,1 1/4,1.86,3.00,3.99,Wood
+8261911,Chalked Coffee,1 1/4,1.86,3.00,3.99,Wood
+8261914,Chalked Greige,1 1/4,1.86,3.00,3.99,Wood
+8262085,Dashboard Burl,2,3.05,4.84,6.44,Wood
+8262115,Terracotta Natural,1 1/4,2.03,3.29,4.29,Wood
+8262116,Terracotta White,1 1/4,2.03,3.29,4.29,Wood
+8262117,Terracotta Black,1 1/4,2.03,3.29,4.29,Wood
+8262379,Apple Burl,1 1/4,2.03,3.29,4.29,Wood
+8262401,Koa,1 1/4,1.87,3.00,3.90,Wood
+8262402,Leopardwood,1 1/4,1.87,3.00,3.90,Wood
+8262407,Canarywood,1 1/4,1.87,3.00,3.90,Wood
+8263085,Dashboard Burl,3,3.73,5.86,7.70,Wood
+826355,Woven Gold,1 1/4,2.51,4.01,5.30,Wood
+826356,Woven Silver,1 1/4,2.51,4.01,5.30,Wood
+826361,Trevi Gold ,1 1/4,2.51,4.01,5.30,Wood
+826362,Trevi Silver,1 1/4,2.51,4.01,5.30,Wood
+826365,Super Matte Gold,1 1/4,2.51,4.01,5.30,Wood
+826366,Super Matte Silver,1 1/4,2.51,4.01,5.30,Wood
+826370,Char ,1 1/4,2.51,4.01,5.30,Wood
+826406,Stealth Black,1 1/4,2.51,4.00,5.30,Wood
+826443,Tungsten Alloy,1 1/4,2.51,4.00,5.30,Wood
+826447,Swirled Silver,1 1/4,2.51,4.00,5.30,Wood
+826460,Liquid White,1 1/4,2.51,4.00,5.30,Wood
+826470,Liquid Black,1 1/4,2.51,4.00,5.30,Wood
+826542,Como Crosshatch Silver,1 1/4,2.31,3.71,4.85,Wood
+826603,Lack Luster Blue,1 1/4,2.51,4.01,5.30,Wood
+826604,Lack Luster Green,1 1/4,2.51,4.01,5.30,Wood
+826670,Montauk Beachwood,1 1/4,2.56,3.99,5.28,Wood
+826677,Montauk Night,1 1/4,2.56,3.99,5.28,Wood
+826690,Restoration White,1 1/4,2.51,4.00,5.30,Wood
+826975,Frosted Bronze,1 1/4,3.72,5.95,7.73,Wood
+866042,Blonde Maple,3,3.51,5.57,7.30,Wood
+866047,Dark Mahogany,3,3.98,6.29,8.30,Wood
+866049,Pebble Beach Leather,3,4.85,7.57,9.85,Wood
+866057,Organic Maple,3,3.51,5.57,7.30,Wood
+866060,Mocha Walnut,3,3.98,6.29,8.30,Wood
+866061,Espresso Walnut,3,3.98,6.29,8.30,Wood
+866069,Catalog Honey,3,3.98,6.29,8.30,Wood
+866074,Satin White,3,4.74,7.41,9.70,Wood
+8661500,American Barn,3,3.51,5.57,7.30,Wood
+8661619,Muted Gold Glow,3,3.51,5.57,7.30,Wood
+8661620,Muted Warm Silver,3,3.51,5.57,7.30,Wood
+8661621,Muted Cool Silver,3,3.51,5.57,7.30,Wood
+8661622,Muted Prosecco Gold,3,3.51,5.57,7.30,Wood
+8661914,Chalked Greige,3,3.51,5.57,7.30,Wood
+8661921,Chalked Shagbark,3,3.51,5.57,7.30,Wood
+8662115,Terracotta Natural,3,3.98,6.29,8.30,Wood
+8662116,Terracotta White,3,3.98,6.29,8.30,Wood
+8662117,Terracotta Black,3,3.98,6.29,8.30,Wood
+8662401,Koa,3,3.54,5.66,7.36,Wood
+8662402,Leopardwood,3,3.54,5.66,7.36,Wood
+8662407,Canarywood,3,3.54,5.66,7.36,Wood
+866355,Woven Gold ,3,4.85,7.57,9.85,Wood
+866356,Woven Silver,3,4.85,7.57,9.85,Wood
+866361,Trevi Gold ,3,4.85,7.57,9.85,Wood
+866362,Trevi Silver,3,4.85,7.57,9.85,Wood
+866365,Super Matte Gold  ,3,4.85,7.57,9.85,Wood
+866366,Super Matte Silver,3,4.85,7.57,9.85,Wood
+866370,Char ,3,4.85,7.57,9.85,Wood
+866406,Stealth Black,3,4.74,7.41,9.70,Wood
+866447,Swirled Silver,3,4.74,7.41,9.70,Wood
+866460,Liquid White,3,4.74,7.41,9.70,Wood
+866470,Liquid Black,3,4.74,7.41,9.70,Wood
+866542,Como Crosshatch Silver,3,3.89,6.14,7.99,Wood
+866603,Lack Luster Blue,3,4.85,7.57,9.85,Wood
+866604,Lack Luster Green,3,4.85,7.57,9.85,Wood
+866677,Montauk Night,3,4.85,7.57,9.85,Wood
+866966,Stainless,3,6.73,10.57,13.87,Wood
+866975,Frosted Bronze,3,6.76,10.81,14.06,Wood
+872074,Satin White,3/4,1.90,3.01,4.00,Wood
+872405,Gallery Black,3/4,1.90,3.01,4.00,Wood
+874042,Blonde Maple,2,2.83,4.44,5.86,Wood
+874047,Dark Mahogany,2,2.83,4.44,5.86,Wood
+874057,Organic Maple,2,2.83,4.44,5.86,Wood
+874060,Mocha Walnut,2,2.83,4.44,5.86,Wood
+874061,Espresso Walnut,2,2.83,4.44,5.86,Wood
+874069,Catalog Honey,2,2.83,4.44,5.86,Wood
+874074,Satin White,2,3.32,5.29,6.99,Wood
+8741500,American Barn,2,2.86,4.45,5.87,Wood
+8741619,Muted Gold Glow,2,2.86,4.45,5.87,Wood
+8741620,Muted Warm Silver,2,2.86,4.45,5.87,Wood
+8741621,Muted Cool Silver,2,2.86,4.45,5.87,Wood
+8741622,Muted Prosecco Gold,2,2.86,4.45,5.87,Wood
+8741914,Chalked Greige,2,2.83,4.44,5.86,Wood
+8742115,Terracotta Natural,2,3.17,5.01,6.56,Wood
+8742116,Terracotta White,2,3.17,5.01,6.56,Wood
+8742379,Apple Burl,2,3.17,5.01,6.56,Wood
+8742401,Koa,2,2.84,4.54,5.90,Wood
+8742402,Leopardwood,2,2.84,4.54,5.90,Wood
+8742407,Canarywood,2,2.84,4.54,5.90,Wood
+874355,Woven Gold ,2,3.48,5.44,7.16,Wood
+874356,Woven Silver,2,3.48,5.44,7.16,Wood
+874361,Trevi Gold ,2,3.48,5.44,7.16,Wood
+874362,Trevi Silver,2,3.48,5.44,7.16,Wood
+874365,Super Matte Gold,2,3.48,5.44,7.16,Wood
+874366,Super Matte Silver,2,3.48,5.44,7.16,Wood
+874370,Char ,2,3.48,5.44,7.16,Wood
+874406,Stealth Black,2,3.48,5.44,7.16,Wood
+874447,Swirled Silver,2,3.48,5.44,7.16,Wood
+874460,Liquid White,2,3.48,5.44,7.16,Wood
+874470,Liquid Black,2,3.48,5.44,7.16,Wood
+874542,Como Crosshatch Silver,2,3.12,4.86,6.46,Wood
+874603,Lack Luster Blue,2,3.48,5.44,7.16,Wood
+874604,Lack Luster Green,2,3.48,5.44,7.16,Wood
+874670,Montauk Beachwood,2,3.53,5.57,7.29,Wood
+874677,Montauk Night,2,3.53,5.57,7.29,Wood
+874966,Stainless,2,4.85,7.57,9.85,Wood
+874975,Frosted Bronze,2,4.86,7.77,10.10,Wood
+8792379,Apple Burl,1,2.21,3.46,4.50,Wood
+879350,Venetian Gold,1,2.86,4.45,5.87,Wood
+879353,Aria Champagne ,1,2.86,4.45,5.87,Wood
+879368,Dark Brown Restoration,1,2.86,4.45,5.87,Wood
+879369,Light Brown Restoration ,1,2.86,4.45,5.87,Wood
+879406,Stealth Black,1,2.86,4.45,5.87,Wood
+879409,Satin White,1,2.86,4.45,5.87,Wood
+879460,Liquid White,1,2.86,4.45,5.87,Wood
+879470,Liquid Black,1,2.86,4.45,5.87,Wood
+896470,Liquid Black,4,6.30,10.08,13.11,Wood
+95024,Olea Pecan Fillet,3/4,2.96,5.39,,Fillet
+95025,Olea Cherry Fillet,3/4,2.96,5.39,,Fillet
+95040,Olea Taupe Fillet,3/4,2.96,5.39,,Fillet
+9510,Liso Champagne Fillet,3/8,2.63,4.86,,Fillet
+95100,Gold Round Fillet,3/4,2.59,4.82,,Fillet
+95110,Silver Round Fillet,3/4,2.59,4.82,,Fillet
+95130,Shiny Black Round Fillet,3/4,2.59,4.82,,Fillet
+95170,Matte Black Round Fillet,3/4,2.59,4.82,,Fillet
+9520,Liso Gunmetal Fillet,3/8,2.79,5.16,,Fillet
+95200,Gold Fillet,3/4,2.59,4.82,,Fillet
+9520101,Deep Matte Black Floater,1 3/4,8.38,15.16,19.65,Wood
+9520103,Deep Gloss Black Floater,1 3/4,8.95,16.14,20.94,Wood
+9520108,Deep Soft Gold Floater,1 3/4,10.16,18.40,23.88,Wood
+9520109,Deep Soft Silver Floater,1 3/4,10.16,18.40,23.88,Wood
+9520140,Deep Gold Leaf Floater,1 3/4,10.37,18.79,24.44,Wood
+9520150,Deep Silver Leaf Floater,1 3/4,10.37,18.79,24.44,Wood
+9520160,Deep Matte White Floater,1 3/4,8.43,15.30,19.79,Wood
+9520210,Liso Deep Float Champ Silver,1 3/4,10.16,18.28,23.76,Wood
+9520220,Liso Deep Float Gunmetal ,1 3/4,10.16,18.28,23.76,Wood
+9520230,Liso Deep Float Silver,1 3/4,10.16,18.28,23.76,Wood
+9520240,Liso Deep Float Gold ,1 3/4,10.16,18.28,23.76,Wood
+9520250,Liso Deep Float Brass,1 3/4,10.16,18.28,23.76,Wood
+9520280,Liso Deep Float Soft Gold,1 3/4,10.16,18.28,23.76,Wood
+9520290,Liso Deep Float Arctic Silver,1 3/4,10.16,18.28,23.76,Wood
+95210,Silver Fillet,3/4,2.59,4.82,,Fillet
+9522010,Lumiere Champagne Silver,15/16,8.01,14.44,18.78,Wood
+9522020,Lumiere Gunmetal,15/16,8.01,14.44,18.78,Wood
+9522030,Lumiere Silver,15/16,8.01,14.44,18.78,Wood
+9522040,Lumiere Gold,15/16,8.01,14.44,18.78,Wood
+9522050,Lumiere Brass,15/16,8.01,14.44,18.78,Wood
+9522080,Lumiere Soft Gold,15/16,8.01,14.44,18.78,Wood
+9522090,Lumiere Arctic Silver,15/16,8.01,14.44,18.78,Wood
+9522101,Flat Matte Black,1 5/8,3.30,6.10,7.94,Wood
+9522160,Flat Matte White,1 5/8,3.30,6.10,7.94,Wood
+9522201,Matte Black Cap,1,3.38,6.24,8.13,Wood
+9522260,Matte White Cap,1,3.38,6.24,8.13,Wood
+952233,Silver Bead Fillet,3/4,2.97,5.48,,Fillet
+952243,Gold Bead Fillet,3/4,2.97,5.48,,Fillet
+9522701,Tall Matte Black w/Deep Bevel Lip,15/16,7.35,13.60,17.67,Wood
+9522760,Tall Matte White w/Deep Bevel Lip,15/16,7.35,13.60,17.67,Wood
+9523601,Tall Rounded Matte Black,1 1/8,6.48,11.81,15.31,Wood
+9523901,Tall Matte Black Cap,5/8,3.60,6.66,8.66,Wood
+9523910,Liso Champagne Silver Thin Cap,5/8,5.58,10.04,13.17,Wood
+9523920,Liso Gunmetal Thin Cap,5/8,5.58,10.04,13.17,Wood
+9523930,Liso Silver Thin Cap,5/8,5.58,10.04,13.17,Wood
+9523950,Liso Brass Thin Cap,5/8,5.58,10.04,13.17,Wood
+9523960,Tall Matte White Cap,5/8,3.60,6.66,8.66,Wood
+9523980,Liso Gold Thin Cap,5/8,5.55,9.99,13.10,Wood
+9523990,Liso Arctic Silver Thin Cap,5/8,5.55,9.99,13.10,Wood
+9524101,Small Matte Black Floater,1 5/16,4.23,7.83,10.18,Wood
+9524160,Small Matte White Floater,1 5/16,4.23,7.83,10.18,Wood
+9524601,Flat Matte Black,2,4.22,7.81,10.16,Wood
+9524610,Liso Champagne Silver Flat,2,6.15,11.19,14.48,Wood
+9524620,Liso Gunmetal Flat,2,6.15,11.19,14.48,Wood
+9524630,Liso Silver Flat ,2,6.15,11.19,14.48,Wood
+9524650,Liso Brass Flat,2,6.15,11.19,14.48,Wood
+9524660,Flat Matte White,2,4.22,7.81,10.16,Wood
+9524680,Liso Gold Flat,2,6.15,11.19,14.48,Wood
+9524690,Liso Arctic Silver Flat,2,6.15,11.19,14.48,Wood
+9524701,Matte Black Deep Cap,1,4.33,8.01,10.42,Wood
+9524710,Liso Champagne Silver Deep Cap,1,6.98,12.71,16.47,Wood
+9524720,Liso Gunmetal Deep Cap,1,6.98,12.71,16.47,Wood
+9524730,Liso Silver Deep Cap,1,6.98,12.71,16.47,Wood
+9524740,Liso Gold Deep Cap,1,6.98,12.71,16.47,Wood
+9524750,Liso Brass Deep Cap,1,6.98,12.71,16.47,Wood
+9524760,Matte White Deep Cap,1,4.33,8.01,10.42,Wood
+9524780,Liso Gold Deep Cap,1,6.98,12.71,16.47,Wood
+9524790,Liso Arctic Silver Deep Cap,1,6.98,12.71,16.47,Wood
+9524801,Studio Matte Black Cap,3/4,3.17,5.87,7.63,Wood
+9524860,Studio Matte White Cap,3/4,3.17,5.87,7.63,Wood
+9525101,Studio Matte Black Floater,1 1/2,5.15,9.52,12.38,Wood
+952511,Light Silver Gray,1 1/4,4.70,8.45,11.10,Wood
+9525110,Liso Champagne Silver Floater,1 1/2,8.02,14.49,18.92,Wood
+952512,Dark Silver Gray,1 1/4,4.70,8.45,11.10,Wood
+9525120,Liso Gunmetal Floater,1/2,8.02,14.49,18.92,Wood
+9525130,Liso Silver Floater,1/2,8.02,14.49,18.92,Wood
+9525140,Liso Gold Floater,1/2,8.02,14.49,18.92,Wood
+9525150,Liso Brass Floater,1/2,8.02,14.49,18.92,Wood
+9525160,Studio Matte White Floater,1 1/2,5.15,9.52,12.38,Wood
+9525180,Liso Gold Floater,1/2,8.02,14.49,18.92,Wood
+9525190,Liso Arctic Silver Floater,1/2,8.02,14.49,18.92,Wood
+9525201,Studio Matte Black Small Floater,1 3/4,4.38,8.10,10.54,Wood
+9525260,Studio Matte White Small Floater,1 3/4,4.38,8.10,10.54,Wood
+9525401,Matte Black,2 5/8,7.25,13.08,17.02,Wood
+9526101,Flat Matte Black,1 3/16,2.39,4.43,5.76,Wood
+95261056,Poems Red Floater,1 3/4,8.25,15.02,19.52,Wood
+95261057,Poems Blue Floater,1 3/4,8.25,15.02,19.52,Wood
+95261058,Poems Green Floater,1 3/4,8.25,15.02,19.52,Wood
+95261059,Poems Yellow Floater,1 3/4,8.25,15.02,19.52,Wood
+95261070,Poems Cerulean Blue Floater,1 3/4,8.25,15.02,19.52,Wood
+952611,Light Silver Gray,2,7.59,13.78,17.88,Wood
+9526110,Liso Champagne Silver Flat,1 3/16,4.18,7.56,9.86,Wood
+952612,Dark Silver Gray,2,7.59,13.78,17.88,Wood
+9526120,Liso Gunmetal Flat,1 3/16,4.18,7.56,9.86,Wood
+9526130,Liso Silver Flat ,1 3/16,4.18,7.56,9.86,Wood
+9526140,Liso Gold Flat,1 3/16,4.18,7.56,9.86,Wood
+9526150,Liso Brass Flat,1 3/16,4.18,7.56,9.86,Wood
+9526160,Flat Matte White,1 3/16,2.39,4.43,5.76,Wood
+9526180,Liso Gold Flat,1 3/16,4.18,7.56,9.86,Wood
+9526190,Liso Arctic Silver Flat,1 3/16,4.18,7.56,9.86,Wood
+9526501,Studio Matte Black Small Cap,9/16,1.86,3.43,4.47,Wood
+9526560,Studio Matte White Small Cap,9/16,1.86,3.43,4.47,Wood
+9526601,Studio Matte Black Cap,7/8,3.05,5.65,7.35,Wood
+9526660,Studio Matte White Cap,7/8,3.05,5.65,7.35,Wood
+9526701,Studio Matte Black Flat,1,2.22,4.10,5.33,Wood
+9526710,Liso Champagne Silver Flat,1,3.56,6.40,8.39,Wood
+9526720,Liso Gunmetal Flat,1,3.56,6.40,8.39,Wood
+9526730,Liso Silver Flat ,1,3.56,6.40,8.39,Wood
+9526750,Liso Brass Flat,1,3.56,6.40,8.39,Wood
+9526760,Studio Matte White Flat,1,2.22,4.10,5.33,Wood
+9526780,Liso Gold Flat,1,3.56,6.40,8.39,Wood
+9526790,Liso Arctic Silver Flat,1,3.56,6.40,8.39,Wood
+9526800,Poems II Black  ,11/16,4.69,8.54,11.08,Wood
+9526801,"7/8"" x 3"" Tall Matte Black",7/8,8.70,15.69,20.42,Wood
+9526856,Poems II  Red,11/16,4.69,8.54,11.08,Wood
+9526857,Poems II Blue,11/16,4.69,8.54,11.08,Wood
+9526858,Poems II Green,11/16,4.69,8.54,11.08,Wood
+9526859,Poems !! Yellow,11/16,4.69,8.54,11.08,Wood
+9526860,Poems II White,11/16,4.69,8.54,11.08,Wood
+9526865,Poems II China Red,11/16,4.69,8.54,11.08,Wood
+9526866,Poems II Orange,11/16,4.69,8.54,11.08,Wood
+9526867,Poems II Canary Yellow,11/16,4.69,8.54,11.08,Wood
+9526868,Poems II Aqua Green,11/16,4.69,8.54,11.08,Wood
+9526870,Poems II Cerulean Blue,11/16,4.69,8.54,11.08,Wood
+9526871,Poems II Violet ,11/16,4.69,8.54,11.08,Wood
+9526901,Small Matte Black Cap,3/4,1.90,3.51,4.56,Wood
+9526910,Liso Champagne Silver Small Cap,3/4,3.59,6.58,8.55,Wood
+9526920,Liso Gunmetal Small Cap,3/4,3.59,6.58,8.55,Wood
+9526930,Liso Silver Small Cap,3/4,3.59,6.58,8.55,Wood
+9526950,Liso Brass Small Cap,3/4,3.59,6.58,8.55,Wood
+9526951,Poems Gold,3/4,3.34,6.16,7.97,Wood
+9526954,Poems Metallic Green,3/4,3.34,6.16,7.97,Wood
+9526955,Poems Metallic Violet,3/4,3.34,6.16,7.97,Wood
+9526956,Poems Red,3/4,3.34,6.16,7.97,Wood
+9526957,Poems Blue,3/4,3.34,6.16,7.97,Wood
+9526958,Poems Green,3/4,3.34,6.16,7.97,Wood
+9526959,Poems Yellow,3/4,3.34,6.16,7.97,Wood
+9526960,Poems White,3/4,1.90,3.51,4.56,Wood
+9526961,Poems Metallic Black,3/4,3.34,6.16,7.97,Wood
+9526964,Poems Silver,3/4,3.34,6.16,7.97,Wood
+9526965,Poems China Red,3/4,3.34,6.16,7.97,Wood
+9526966,Poems Orange,3/4,3.34,6.16,7.97,Wood
+9526967,Poems Canary Yellow,3/4,3.34,6.16,7.97,Wood
+9526968,Poems Aqua Green,3/4,3.34,6.16,7.97,Wood
+9526970,Poems Cerulean Blue,3/4,3.34,6.16,7.97,Wood
+9526971,Poems Violet,3/4,3.34,6.16,7.97,Wood
+9526980,Liso Gold Small Cap,3/4,3.64,6.67,8.67,Wood
+9526990,Liso Arctic Silver Small Cap,3/4,3.64,6.67,8.67,Wood
+9527101,Willow Matte Black ,2 3/16,7.92,14.41,18.74,Wood
+9527160,Willow Matte White ,2 3/16,7.92,14.41,18.74,Wood
+9527201,Willow Matte Black,1 3/8,4.54,8.26,10.74,Wood
+9527260,Willow Matte White,1 3/8,4.54,8.26,10.74,Wood
+9527301,Studio Matte Black Cap,1 1/8,4.32,7.99,10.40,Wood
+9527360,Studio Matte White Cap,1 1/8,4.32,7.99,10.40,Wood
+9527401,Studio Matte Black Cube,1 1/4,3.44,6.37,8.29,Wood
+9527460,Studio Matte White Cube,1 1/4,3.44,6.37,8.29,Wood
+9527501,Studio Matte Black Cube,1 5/8,4.36,8.06,10.49,Wood
+9527510,Liso Champagne Silver Cube,1 5/8,6.74,12.17,15.78,Wood
+9527520,Liso Gunmetal Cube,1 5/8,6.74,12.17,15.78,Wood
+9527530,Liso Silver Cube,1 5/8,6.74,12.17,15.78,Wood
+9527550,Liso Brass Cube,1 5/8,6.74,12.17,15.78,Wood
+9527560,Studio Matte White Cube,1 5/8,4.36,8.06,10.49,Wood
+9527580,Liso Gold Cube,1 5/8,6.74,12.17,15.78,Wood
+9527590,Liso Arctic Silver Cube,1 5/8,6.74,12.17,15.78,Wood
+9527701,Studio Matte Black Cap,3/4,2.30,4.25,5.52,Wood
+9527710,Liso Champagne Silver Cap,3/4,4.14,7.40,9.73,Wood
+95277120,Coffee Brown Stain,3/4,5.74,10.45,13.59,Wood
+95277124,Honey Maple Stain,3/4,5.74,10.45,13.59,Wood
+95277125,Cherry Stain,3/4,5.74,10.45,13.59,Wood
+95277128,Walnut Stain,3/4,5.74,10.45,13.59,Wood
+95277129,Clear,3/4,5.74,10.45,13.59,Wood
+95277134,Mahogany Stain,3/4,5.74,10.45,13.59,Wood
+95277145,Charcoal Stain,3/4,5.74,10.45,13.59,Wood
+95277158,Whitewash Stain,3/4,5.74,10.45,13.59,Wood
+95277159,Opaque Black,3/4,5.74,10.45,13.59,Wood
+9527720,Liso Gunmetal Cap,3/4,4.14,7.40,9.73,Wood
+9527730,Liso Silver Cap,3/4,4.14,7.40,9.73,Wood
+9527740,Liso Gold Cap,3/4,4.14,7.40,9.73,Wood
+9527750,Liso Brass Cap,3/4,4.14,7.40,9.73,Wood
+9527760,Studio Matte White Cap,3/4,2.30,4.25,5.52,Wood
+9527780,Liso Gold Cap,3/4,4.14,7.40,9.73,Wood
+9527790,Liso Arctic Silver Cap,3/4,4.14,7.40,9.73,Wood
+9527810,Liso Champagne Silver Large Cap,1 1/2,9.54,17.29,22.42,Wood
+9527820,Liso Gunmetal Large Cap,1 1/2,9.54,17.29,22.42,Wood
+9527830,Liso Silver Large Cap,1 1/2,9.54,17.29,22.42,Wood
+9527850,Liso Brass Large Cap,1 1/2,9.54,17.29,22.42,Wood
+9527880,Liso Gold Large Cap,1 1/2,9.54,17.29,22.42,Wood
+9527890,Liso Arctic Silver Large Cap,1 1/2,9.54,17.29,22.42,Wood
+9527901,Tall Matte Black Cap,1,6.98,12.71,16.47,Wood
+9527960,Tall Matte White Cap,1,7.19,13.04,16.97,Wood
+9528201,Studio Matte Black Tall Cap,1 1/4,6.25,11.57,15.05,Wood
+9528260,Studio Matte White Tall Cap,1 1/4,6.25,11.57,15.05,Wood
+9529601,Matte Black w/Panel,1,3.58,6.62,8.61,Wood
+9529660,Matte White w/Panel,1,3.58,6.62,8.61,Wood
+9529701,Matte Black w/Panel,2 1/16,5.38,9.95,12.93,Wood
+9529760,Matte White w/Panel,2 1/16,5.38,9.95,12.93,Wood
+9530,Liso Silver Fillet,3/8,2.81,5.20,,Fillet
+9530120,Kota Coffee Brown Square,13/16,3.81,7.05,9.06,Wood
+9530124,Kota Pecan Square,13/16,3.81,7.05,9.06,Wood
+9530125,Kota Cherry Square,13/16,3.81,7.05,9.06,Wood
+9530128,Kota Walnut Square,13/16,3.81,7.05,9.06,Wood
+9530129,Kota Natural Square,13/16,3.81,7.05,9.06,Wood
+9530159,Kota Black Square,13/16,3.81,7.05,9.06,Wood
+9530220,Kota Coffee Brown Flat,1 3/4,7.72,13.94,18.14,Wood
+9530224,Kota Pecan Flat,1 3/4,7.72,13.94,18.14,Wood
+9530225,Kota Cherry Flat,1 3/4,7.72,13.94,18.14,Wood
+9530228,Kota Walnut Flat,1 3/4,7.72,13.94,18.14,Wood
+9530229,Kota Natural Flat,1 3/4,7.72,13.94,18.14,Wood
+9530259,Kota Black Flat,1 3/4,7.72,13.94,18.14,Wood
+9530320,Kota Coffee Brown Flat,1 5/16,5.96,10.91,14.07,Wood
+9530324,Kota Pecan Flat,1 5/16,5.96,10.91,14.07,Wood
+9530325,Kota Cherry Flat,1 5/16,5.96,10.91,14.07,Wood
+9530328,Kota Walnut Flat,1 5/16,5.96,10.91,14.07,Wood
+9530329,Kota Natural Flat,1 5/16,5.96,10.91,14.07,Wood
+9530359,Kota Black Flat,1 5/16,5.96,10.91,14.07,Wood
+9530420,Kota Coffee Brown Small Cap,13/16,5.96,10.91,14.07,Wood
+9530424,Kota Pecan Small Cap,13/16,5.96,10.91,14.07,Wood
+9530425,Kota Cherry Small Cap,13/16,5.96,10.91,14.07,Wood
+9530428,Kota Walnut Small Cap,13/16,5.96,10.91,14.07,Wood
+9530429,Kota Natural Small Cap,13/16,5.96,10.91,14.07,Wood
+9530459,Kota Black Small Cap,13/16,5.96,10.91,14.07,Wood
+9530520,Kota Coffee Brown Large Cap,1,8.79,15.94,20.68,Wood
+9530524,Kota Pecan Large Cap,1,8.79,15.94,20.68,Wood
+9530525,Kota Cherry Large Cap,1,8.79,15.94,20.68,Wood
+9530528,Kota Walnut Large Cap,1,8.79,15.94,20.68,Wood
+9530529,Kota Natural Large Cap,1,8.79,15.94,20.68,Wood
+9530559,Kota Black Large Cap,1,8.79,15.94,20.68,Wood
+9530620,Kota Coffee Brown Wide Flat,2 3/8,9.96,17.99,23.35,Wood
+9530624,Kota Pecan Wide Flat,2 3/8,9.96,17.99,23.35,Wood
+9530625,Kota Cherry Wide Flat,2 3/8,9.96,17.99,23.35,Wood
+9530628,Kota Walnut Wide Flat,2 3/8,9.96,17.99,23.35,Wood
+9530629,Kota Natural Wide Flat,2 3/8,9.96,17.99,23.35,Wood
+9530659,Kota Black Wide Flat,2 3/8,9.96,17.99,23.35,Wood
+9532026,Chalet Walnut Wedge,15/16,7.31,13.28,17.11,Wood
+9532027,Chalet Buff Wedge,15/16,7.31,13.28,17.11,Wood
+9532055,Chalet Carob Wedge,15/16,7.31,13.28,17.11,Wood
+9532059,Chalet Black Wedge,15/16,7.31,13.28,17.11,Wood
+9532060,Chalet White Wedge,15/16,7.31,13.28,17.11,Wood
+9533011,Ash White,1,6.67,12.14,15.77,Wood
+9533012,Ash Natural,1,6.67,12.14,15.77,Wood
+9533013,Ash Lt. Walnut,1,6.67,12.14,15.77,Wood
+9533014,Ash Dark Brown,1,6.67,12.14,15.77,Wood
+9533015,Ash Gray,1,6.67,12.14,15.77,Wood
+9533016,Ash Brown,1,6.67,12.14,15.77,Wood
+9533017,Ash Black,1,6.67,12.14,15.77,Wood
+9534120,Kota Coffee Brown Small Floater,1 3/8,5.38,9.70,12.57,Wood
+9534125,Kota Cherry Small Floater,1 3/8,5.38,9.70,12.57,Wood
+9534128,Kota Walnut Small Floater,1 3/8,5.38,9.70,12.58,Wood
+9534129,Kota Natural Small Floater,1 3/8,5.38,9.70,12.57,Wood
+9534159,Kota Black Small Floater,1 3/8,5.38,9.70,12.57,Wood
+9535120,Kota Coffee Brown Floater,1 1/2,8.00,14.40,18.81,Wood
+9535125,Kota Cherry Floater,1 1/2,8.00,14.40,18.81,Wood
+9535128,Kota Walnut Floater,1 1/2,8.00,14.40,18.81,Wood
+9535129,Kota Natural Floater,1 1/2,8.00,14.40,18.81,Wood
+9535159,Kota Black Floater,1 1/2,8.00,14.40,18.81,Wood
+9535320,Kota Large Coffee Brown Floater,1 3/4,9.93,17.88,23.24,Wood
+9535325,Kota Large Cherry Floater,1 3/4,9.93,17.88,23.24,Wood
+9535328,Kota Large Walnut Floater,1 3/4,9.93,17.88,23.24,Wood
+9535329,Kota Large Natural Floater,1 3/4,9.93,17.88,23.24,Wood
+9535359,Kota Large Black Floater,1 3/4,9.93,17.88,23.24,Wood
+95361120,Coffee Brown Stain,1 3/16,5.57,10.15,13.20,Wood
+95361124,Honey Maple Stain,1 3/16,5.57,10.15,13.20,Wood
+95361125,Cherry Stain,1 3/16,5.57,10.15,13.20,Wood
+95361128,Walnut Stain,1 3/16,5.57,10.15,13.20,Wood
+95361129,Clear,1 3/16,5.57,10.15,13.20,Wood
+95361135,Dark Mahogany Stain,1 3/16,5.57,10.15,13.20,Wood
+95361142,Whitewash Stain,1 3/16,5.57,10.15,13.20,Wood
+95361145,Charcoal Stain,1 3/16,5.57,10.15,13.20,Wood
+95361159,Opaque Black,1 3/16,5.57,10.15,13.20,Wood
+9536120,Sierra Walnut Small Floater,1 5/8,5.45,9.81,12.88,Wood
+9536124,Sierra Pecan Small Floater,1 5/8,5.45,9.81,12.88,Wood
+9536127,Sierra Buff Small Floater,1 5/8,5.45,9.81,12.88,Wood
+9536145,Sierra Gray Small Floater,1 5/8,5.45,9.81,12.88,Wood
+9536158,Sierra Beige Small Floater,1 5/8,5.45,9.81,12.88,Wood
+9536220,Sierra Walnut Floater,1 3/4,8.12,14.76,19.02,Wood
+9536224,Sierra Pecan Floater,1 3/4,8.12,14.76,19.02,Wood
+9536227,Sierra Buff Floater,1 3/4,8.12,14.76,19.02,Wood
+9536245,Sierra Gray Floater,1 3/4,8.12,14.76,19.02,Wood
+9536258,Sierra Beige Floater,1 3/4,8.12,14.76,19.02,Wood
+9536320,Sierra Walnut Square,1,5.48,9.93,12.96,Wood
+9536324,Sierra Pecan Square,1,5.48,9.93,12.96,Wood
+9536327,Sierra Buff Square,1,5.48,9.93,12.96,Wood
+9536345,Sierra Gray Square,1,5.48,9.93,12.96,Wood
+9536358,Sierra Beige Square,1,5.48,9.93,12.96,Wood
+9536420,Sierra 3 Walnut Square,3/4,3.02,5.53,7.21,Wood
+9536424,Sierra 3 Pecan Square,3/4,3.02,5.53,7.21,Wood
+9536427,Sierra 3 Buff Square,3/4,3.02,5.53,7.21,Wood
+9536445,Sierra 3 Gray Square,3/4,3.02,5.53,7.21,Wood
+9536458,Sierra 3 Beige Square,3/4,3.02,5.53,7.21,Wood
+9536520,Sierra 3 Walnut Cap,13/16,5.69,10.24,13.43,Wood
+9536524,Sierra 3 Pecan Cap,13/16,5.69,10.24,13.43,Wood
+9536527,Sierra 3 Buff Cap,13/16,5.69,10.24,13.43,Wood
+9536545,Sierra 3 Gray Cap,13/16,5.69,10.24,13.43,Wood
+9536558,Sierra 3 Beige Cap,13/16,5.69,10.24,13.43,Wood
+9536620,Sierra Walnut Flat,1 9/16,7.75,14.07,18.30,Wood
+9536624,Sierra Pecan Flat,1 9/16,7.75,14.07,18.30,Wood
+9536627,Sierra Buff Flat,1 9/16,7.75,14.07,18.30,Wood
+9536645,Sierra Gray Flat,1 9/16,7.75,14.07,18.30,Wood
+9536658,Sierra Beige Flat,1 9/16,7.75,14.07,18.30,Wood
+9536720,Sierra 2 Walnut Scoop,1,6.08,11.10,14.27,Wood
+9536724,Sierra 2 Pecan Scoop,1,6.08,11.10,14.27,Wood
+9536727,Sierra 2 Buff Scoop,1,6.08,11.10,14.27,Wood
+9536745,Sierra 2 Gray Scoop,1,6.08,11.10,14.27,Wood
+9536758,Sierra 2 Beige Scoop,1,6.08,11.10,14.27,Wood
+95368,Crushed Gold Round Fillet,3/4,2.81,5.20,,Fillet
+9536820,Sierra 2 Walnut Large Scoop,1 9/16,8.79,15.94,20.68,Wood
+9536824,Sierra 2 Pecan Large Scoop,1 9/16,8.79,15.94,20.68,Wood
+9536827,Sierra 2 Buff Large Scoop,1 9/16,8.79,15.94,20.68,Wood
+9536845,Sierra 2 Gray Large Scoop,1 9/16,8.79,15.94,20.68,Wood
+9536858,Sierra 2 Beige Large Scoop,1 9/16,8.79,15.94,20.68,Wood
+95369120,Coffee Brown,3/4,3.82,6.96,9.04,Wood
+95369124,Honey Pecan Stain,3/4,3.82,6.96,9.04,Wood
+95369125,Cherry Stain,3/4,3.82,6.96,9.04,Wood
+95369128,Walnut Stain,3/4,3.82,6.96,9.04,Wood
+95369129,Clear,3/4,3.82,6.96,9.04,Wood
+95369134,Mahogany Stain,3/4,3.82,6.96,9.04,Wood
+95369145,Charcoal Stain ,3/4,3.82,6.96,9.04,Wood
+95369158,Whitewash Stain,3/4,3.82,6.96,9.04,Wood
+95369159,Opaque Black,3/4,3.82,6.96,9.04,Wood
+9537010,Harmony Sand Cap,1,6.68,12.17,15.83,Wood
+95370120,Coffee Brown Stain,1 1/8,5.57,10.15,13.19,Wood
+95370124,Honey Pecan Stain,1 1/8,5.57,10.15,13.19,Wood
+95370125,Cherry Stain,1 1/8,5.57,10.15,13.19,Wood
+95370128,Walnut Stain,1 1/8,5.57,10.15,13.19,Wood
+95370134,Mahogany Stain,1 1/8,5.57,10.15,13.19,Wood
+95370159,Opaque Black,1 1/8,5.57,10.15,13.19,Wood
+9537024,Harmony Pecan Cap,1,6.68,12.17,15.83,Wood
+9537043,Harmony Coffee Cap,1,6.68,12.17,15.83,Wood
+9537110,Harmony Sand Cube,1 9/16,10.22,18.60,24.19,Wood
+9537124,Harmony Pecan Cube,1 9/16,10.22,18.60,24.19,Wood
+9537143,Harmony Coffee Cube,1 9/16,10.22,18.60,24.19,Wood
+9538029,Beech Natural Flat,1 3/8,6.12,11.13,14.47,Wood
+9538058,Beech Whitewash Flat,1 3/8,6.12,11.13,14.47,Wood
+9538129,Beech Natural Flat,1 3/4,7.18,13.07,16.99,Wood
+9538158,Beech Whitewash Flat,1 3/4,7.18,13.07,16.99,Wood
+9538229,Beech Natural Cap,3/4,6.04,10.99,14.28,Wood
+9538258,Beech Whitewash Cap,3/4,6.04,10.99,14.28,Wood
+9538329,Beech Natural Floater,1 1/2,7.93,14.44,18.77,Wood
+9538358,Beech Whitewash Floater,1 1/2,7.93,14.44,18.77,Wood
+9539128,ST-Walnut Flat,1 3/16,6.89,12.54,16.31,Wood
+9539228,ST-Walnut Flat,2,10.07,18.33,23.83,Wood
+9539328,ST-Walnut Cap,1,9.27,16.87,21.93,Wood
+9539428,ST-Walnut Cube,1 9/16,11.88,21.63,28.12,Wood
+9539528,ST-Walnut Large Cap,1 1/2,13.60,24.75,32.18,Wood
+954065,Eleve Gold,1 5/16,6.12,11.12,14.44,Wood
+954075,Eleve Silver,1 5/16,6.12,11.12,14.44,Wood
+9540812,Regia Dark Gold,1 1/2,7.22,13.03,16.93,Wood
+9540814,Regia Dark Silver,1 1/2,7.22,13.03,16.93,Wood
+9540822,Regia Gold,1 1/2,7.22,13.03,16.93,Wood
+9540824,Regia Silver,1 1/2,7.22,13.03,16.93,Wood
+954085,Eleve Dark Silver,1 5/16,6.12,11.12,14.44,Wood
+9540912,Regia Dark Gold,1,5.19,9.41,12.22,Wood
+9540914,Regia Dark Silver,1,5.19,9.41,12.22,Wood
+9540922,Regia Gold,1,5.19,9.41,12.22,Wood
+9540924,Regia Silver,1,5.19,9.41,12.22,Wood
+9541012,Regia Two Tone Dark Gold,3/4,5.34,9.75,12.55,Wood
+9541014,Regia Two Tone Dark Silver,3/4,5.34,9.75,12.55,Wood
+9541022,Regia Two Tone Gold,3/4,5.34,9.75,12.55,Wood
+9541024,Regia Two Tone Silver,3/4,5.34,9.75,12.55,Wood
+954165,Eleve Gold Cap,13/16,6.12,11.12,14.44,Wood
+954175,Eleve Silver Cap,13/16,6.12,11.12,14.44,Wood
+954185,Eleve Dark Silver Cap,13/16,6.12,11.12,14.44,Wood
+9542001,Pompeya Green,1 3/8,12.41,22.58,29.36,Wood
+9542002,Pompeya Antique Gold,1 3/8,12.41,22.58,29.36,Wood
+9542003,Pompeya Deep Rose Gold,1 3/8,12.41,22.58,29.36,Wood
+9542004,Pompeya Silver,1 3/8,12.41,22.58,29.36,Wood
+9542005,Pompeya Black,1 3/8,12.41,22.58,29.36,Wood
+9544708,Asti Soft Gold Deep Cap,1,6.65,12.04,15.64,Wood
+9544709,Asti Soft Silver Deep Cap,1,6.65,12.04,15.64,Wood
+9544722,Virtu Small Gold Panel,1,5.34,9.75,12.55,Wood
+9544732,Virtu Small Silver Panel,1,5.34,9.75,12.55,Wood
+9544822,Virtu Large Gold Panel,3 1/4,13.46,24.50,31.85,Wood
+9544832,Virtu Large Silver Panel,3 1/4,13.46,24.50,31.85,Wood
+954520,Adagio Dark Brown,1,4.68,8.55,11.03,Wood
+954524,Adagio Pecan,1,4.68,8.55,11.03,Wood
+954528,Adagio Walnut,1,4.68,8.55,11.03,Wood
+954534,Adagio Mahogany,1,4.68,8.55,11.03,Wood
+954545,Adagio Dark Gray,1,4.68,8.55,11.03,Wood
+9545622,Virtu Gold Panel,1 9/16,6.65,11.93,15.56,Wood
+9545632,Virtu Silver Panel,1 9/16,6.65,11.93,15.56,Wood
+9545722,Virtu Gold Panel,2 1/16,8.58,15.63,20.32,Wood
+9545732,Virtu Silver Panel,2 1/16,8.58,15.63,20.32,Wood
+9545822,Virtu Gold Panel,2 1/2,10.32,18.79,24.43,Wood
+9545832,Virtu Silver Panel,2 1/2,10.32,18.79,24.43,Wood
+9546108,Asti Soft Gold Flat,1 3/16,4.35,7.91,10.24,Wood
+9546109,Asti Soft Silver Flat,1 3/16,4.35,7.91,10.24,Wood
+954620,Adagio Dark Brown,1 1/2,6.46,11.70,15.18,Wood
+954624,Adagio Pecan,1 1/2,6.46,11.70,15.18,Wood
+954628,Adagio Walnut,1 1/2,6.46,11.70,15.18,Wood
+954634,Adagio Mahogany,1 1/2,6.46,11.70,15.18,Wood
+954645,Adagio Dark Gray,1 1/2,6.46,11.70,15.18,Wood
+954720,Forte Coffee,3,10.89,19.63,25.56,Wood
+954728,Forte Walnut,3,10.89,19.63,25.56,Wood
+954734,Forte Mahogany,3,10.89,19.63,25.56,Wood
+954745,Forte Gray,3,10.89,19.63,25.56,Wood
+9547508,Asti Soft Gold Cube,1 5/8,6.86,12.37,16.15,Wood
+9547509,Asti Soft Silver Cube,1 5/8,6.86,12.37,16.15,Wood
+9547708,Asti Soft Gold Cap,3/4,4.15,7.42,9.75,Wood
+9547709,Asti Soft Silver Cap,3/4,4.15,7.42,9.75,Wood
+9548012,Luisant Antique Gold,2 3/16,10.75,19.35,25.16,Wood
+9548013,Luisant Antique Silver,2 3/16,10.75,19.35,25.16,Wood
+9548022,Luisant Dark Copper,2 3/16,10.75,19.35,25.16,Wood
+9548023,Luisant Dark Silver,2 3/16,10.75,19.35,25.16,Wood
+9548101,Elements Gold,2,10.08,18.16,23.60,Wood
+9548102,Elements Silver,2,10.08,18.16,23.60,Wood
+9548103,Elements Black,2,10.08,18.16,23.60,Wood
+9548112,Luisant Antique Gold,1 3/8,6.84,12.31,16.01,Wood
+9548113,Luisant Antique Silver,1 3/8,6.84,12.31,16.01,Wood
+9548122,Luisant Dark Copper,1 3/8,6.84,12.31,16.01,Wood
+9548123,Luisant Dark Silver,1 3/8,6.84,12.31,16.01,Wood
+954820,Forte Coffee,2 3/8,8.40,15.24,19.75,Wood
+9548201,Elements Gold,2 3/4,17.33,31.19,40.55,Wood
+9548202,Elements Silver,2 3/4,17.33,31.19,40.55,Wood
+9548203,Elements Black,2 3/4,17.33,31.19,40.55,Wood
+954828,Forte Walnut,2 3/8,8.40,15.24,19.75,Wood
+9548301,Astoria Gold,1 7/16,9.32,16.78,21.81,Wood
+9548302,Astoria Dark Gold,1 7/16,9.32,16.78,21.81,Wood
+9548303,Astoria Silver,1 7/16,9.32,16.78,21.81,Wood
+9548304,Astoria Arctic Silver,1 7/16,9.32,16.78,21.81,Wood
+9548305,Astoria Dark Silver,1 7/16,9.32,16.78,21.81,Wood
+9548306,Astoria Black,1 7/16,9.32,16.78,21.81,Wood
+954834,Forte Mahogany,2 3/8,8.40,15.24,19.75,Wood
+9548401,Cascade Gold,1 3/16,8.27,14.90,19.36,Wood
+9548402,Cascade Light Bronze,1 3/16,8.27,14.90,19.36,Wood
+9548403,Cascade Platinum,1 3/16,8.27,14.90,19.36,Wood
+9548404,Cascade Dark Silver,1 3/16,8.27,14.90,19.36,Wood
+9548405,Cascade Black,1 3/16,8.27,14.90,19.36,Wood
+954845,Forte Gray,2 3/8,8.40,15.24,19.75,Wood
+9548501,Cascade Gold,1 7/8,9.37,16.94,21.93,Wood
+9548502,Cascade Light Bronze,1 7/8,9.37,16.94,21.93,Wood
+9548503, Cascade Platinum,1 7/8,9.37,16.94,21.93,Wood
+9548504,Cascade Dark Silver,1 7/8,9.37,16.94,21.93,Wood
+9548505,Cascade Black,1 7/8,9.37,16.94,21.93,Wood
+9548601,Cascade II Gold Tall Cap,1,9.28,16.71,21.73,Wood
+9548602,Cascade II Light Bronze Tall Cap,1,9.28,16.71,21.73,Wood
+9548603,Cascade II Platinum Tall Cap,1,9.28,16.71,21.73,Wood
+9548604,Cascade II Dark Silver Tall Cap,1,9.28,16.71,21.73,Wood
+9548605,Cascade II Black Tall Cap,1,9.28,16.71,21.73,Wood
+9548701,Cascade II Gold Flat,2 7/16,11.47,20.65,26.85,Wood
+9548702,Cascade II Light Bronze Flat,2 7/16,11.47,20.65,26.85,Wood
+9548703,Cascade II Platinum Flat,2 7/16,11.47,20.65,26.85,Wood
+9548704,Cascade II Dark Silver Flat,2 7/16,11.47,20.65,26.85,Wood
+9548705,Cascade II Black Flat,2 7/16,11.47,20.65,26.85,Wood
+954920,Forte Coffee,1 3/4,6.20,11.21,14.51,Wood
+954928,Forte Walnut,1 3/4,6.20,11.21,14.51,Wood
+954934,Forte Mahogany,1 3/4,6.20,11.21,14.51,Wood
+954945,Forte Gray,1 3/4,6.20,11.21,14.51,Wood
+9550,Liso Brass Fillet,3/8,2.70,4.99,,Fillet
+95501128,Grove Walnut,13/16,6.26,11.34,14.75,Wood
+95501129,Grove Natural,13/16,6.26,11.34,14.75,Wood
+95501141,Grove Wenge,13/16,6.26,11.34,14.75,Wood
+95501144,Grove Lt. Gray,13/16,6.26,11.34,14.75,Wood
+95501158,Grove White,13/16,6.26,11.34,14.75,Wood
+95502128,Grove Walnut,1 1/2,8.95,16.21,21.07,Wood
+95502129,Grove Natural,1 1/2,8.95,16.21,21.07,Wood
+95502141,Grove Wenge,1 1/2,8.95,16.21,21.07,Wood
+95502144,Grove Lt. Gray,1 1/2,8.95,16.21,21.07,Wood
+95502158,Grove White,1 1/2,8.95,16.21,21.07,Wood
+9551020,Olea Coffee Brown Veneer Cap,3/4,5.60,10.05,13.13,Wood
+9551024,Olea Pecan Veneer Cap,3/4,5.60,10.05,13.13,Wood
+9551025,Olea Cherry Veneer Cap,3/4,5.60,10.05,13.13,Wood
+9551040,Olea Taupe Veneer Cap,3/4,5.60,10.05,13.13,Wood
+9551045,Olea Gray Veneer Cap,3/4,5.60,10.05,13.13,Wood
+9552020,Olea Coffee Brown Veneer Cube,1 3/8,8.16,14.73,19.21,Wood
+9552024,Olea Pecan Veneer Cube,1 3/8,8.16,14.73,19.21,Wood
+9552025,Olea Cherry Veneer Cube,1 3/8,8.16,14.73,19.21,Wood
+9552040,Olea Taupe Veneer Cube,1 3/8,8.16,14.73,19.21,Wood
+9552045,Olea Gray Veneer Cube,1 3/8,8.16,14.73,19.21,Wood
+9553020,Olea Coffee Brown Veneer Large Scoop,2 3/4,16.89,30.52,39.66,Wood
+9553024,Olea Pecan Veneer Large Scoop,2 3/4,16.89,30.52,39.66,Wood
+9553025,Olea Cherry Veneer Large Scoop,2 3/4,16.89,30.52,39.66,Wood
+9553040,Olea Taupe Veneer Large Scoop,2 3/4,16.89,30.52,39.66,Wood
+9553045,Olea Gray Veneer Large Scoop,2 3/4,16.89,30.52,39.66,Wood
+9553103,Onyx Semi-Gloss Black Cap,5/8,4.39,7.91,10.27,Wood
+9554020,Olea Coffee Brown Veneer Small Scoop,1 9/16,9.06,16.33,21.29,Wood
+9554024,Olea Pecan Veneer Small Scoop,1 9/16,9.06,16.33,21.29,Wood
+9554025,Olea Cherry Veneer Small Scoop,1 9/16,9.06,16.33,21.29,Wood
+9554040,Olea Taupe Veneer Small Scoop,1 9/16,9.06,16.33,21.29,Wood
+9554045,Olea Gray Veneer Small Scoop,1 9/16,9.06,16.33,21.29,Wood
+9554703,Onyx Semi-Gloss Black Deep Cap,1,6.38,11.59,14.92,Wood
+9556103,Onyx Semi-Gloss Black Flat,1 3/16,4.05,7.39,9.58,Wood
+9556303,Onyx Semi-Gloss Black Flat,1 3/4,5.51,10.07,12.97,Wood
+9557503,Onyx Semi-Gloss Black Cube,1 5/8,6.78,12.27,15.95,Wood
+9557703,Onyx Semi-Gloss Black Small Cap,3/4,3.80,6.97,9.03,Wood
+9557803,Onyx Semi-Gloss Black Large Cap,1 1/2,9.39,16.99,22.02,Wood
+95601124     ,Milan Pecan,1 3/16,5.52,10.06,13.08,Wood
+95601127     ,Milan Light Walnut,1 3/16,5.52,10.06,13.08,Wood
+95601128     ,Milan Walnut,1 3/16,5.52,10.06,13.08,Wood
+95601140     ,Milan Taupe,1 3/16,5.52,10.06,13.08,Wood
+95601145     ,Milan Charcoal,1 3/16,5.52,10.06,13.08,Wood
+95602124     ,Milan Pecan,2,10.25,18.67,24.27,Wood
+95602127     ,Milan Light Walnut,2,10.25,18.67,24.27,Wood
+95602128     ,Milan Walnut,2,10.25,18.67,24.27,Wood
+95602140     ,Milan Taupe,2,10.25,18.67,24.27,Wood
+95602145     ,Milan Charcoal,2,10.25,18.67,24.27,Wood
+956201,Sabi Green with Gold Lip,1 5/16,6.26,11.27,14.80,Wood
+956202,Sabi Blue with Gold Lip,1 5/16,6.26,11.27,14.80,Wood
+956203,Sabi Brown with Gold Lip,1 5/16,6.26,11.27,14.80,Wood
+956204,Sabi Black with Gold Lip,1 5/16,6.26,11.27,14.80,Wood
+9562320,Armour Gunmetal,1 1/4,6.81,12.41,16.09,Wood
+9562330,Armour Silver,1 1/4,6.81,12.41,16.09,Wood
+9562340,Armour Bronze,1 1/4,6.81,12.41,16.09,Wood
+9562350,Armour Copper,1 1/4,6.81,12.41,16.09,Wood
+956301,Tall Sabi Green with Gold Lip,13/16,6.26,11.27,14.80,Wood
+956302,Tall Sabi Blue with Gold Lip,13/16,6.26,11.27,14.80,Wood
+956303,Tall Sabi Brown with Gold Lip,13/16,6.26,11.27,14.80,Wood
+956304,Tall Sabi Black with Gold Lip,13/16,6.26,11.27,14.80,Wood
+9563320,Armour Gunmetal,1 3/4,7.42,13.44,17.47,Wood
+9563330,Armour Silver,1 3/4,7.42,13.44,17.47,Wood
+9563340,Armour Bronze,1 3/4,7.42,13.44,17.47,Wood
+9563350,Armour Copper,1 3/4,7.42,13.44,17.47,Wood
+9565,Eleve Gold Fillet,3/8,2.79,5.13,,Fillet
+9567024,Willow Pecan,1 3/8,5.54,10.05,13.12,Wood
+9567028,Willow Walnut,1 3/8,5.54,10.05,13.12,Wood
+9567045,Willow Gray,1 3/8,5.54,10.05,13.12,Wood
+9567058,Willow Ivory,1 3/8,5.54,10.05,13.12,Wood
+9567124,Willow Pecan,2 3/16,9.29,16.79,21.82,Wood
+9567128,Willow Walnut,2 3/16,9.29,16.79,21.82,Wood
+9567145,Willow Gray,2 3/16,9.29,16.79,21.82,Wood
+9567158,Willow Ivory,2 3/16,9.29,16.79,21.82,Wood
+9568030,Piatto Silver,1 7/8,9.98,17.96,23.35,Wood
+9568040,Piatto Gold,1 7/8,9.98,17.96,23.35,Wood
+9568059,Piatto Black,1 7/8,9.33,16.97,22.06,Wood
+9568060,Piatto White,1 7/8,9.33,16.97,22.06,Wood
+9568130,Piatto Silver,2 3/4,16.44,29.60,38.48,Wood
+9568140,Piatto Gold,2 3/4,16.44,29.60,38.48,Wood
+9568159,Piatto Black,2 3/4,15.40,28.02,36.43,Wood
+9568160,Piatto White,2 3/4,15.40,28.02,36.43,Wood
+9568230,Piatto Silver,1 3/16,7.28,13.10,17.03,Wood
+9568240,Piatto Gold,1 3/16,7.28,13.10,17.03,Wood
+9568259,Piatto Black,1 3/16,6.60,11.88,15.45,Wood
+957130,Fleur Silver,5/8,5.64,10.26,13.34,Wood
+957135,Fleur Pewter,5/8,5.64,10.26,13.34,Wood
+957140,Fleur Gold,5/8,5.64,10.26,13.34,Wood
+957145,Fleur Antique Gold,5/8,5.64,10.26,13.34,Wood
+957159,Fleur Black,5/8,5.64,10.26,13.34,Wood
+95716,Rounded Matte Black,1,2.77,5.06,6.48,Wood
+957160,Fleur White,5/8,5.64,10.26,13.34,Wood
+9571602,Rounded Black Lacquer,1,4.23,7.68,9.88,Wood
+957230,Aster Silver,5/8,5.64,10.26,13.34,Wood
+957240,Aster Gold,5/8,5.64,10.26,13.34,Wood
+957259,Aster Black,5/8,5.64,10.26,13.34,Wood
+957260,Aster White,5/8,5.64,10.26,13.34,Wood
+9573102,Miore Black Lacquer Flat,1 5/8,6.47,11.98,15.57,Wood
+9573150,Prima White Lacquer Flat,1 5/8,6.47,11.98,15.57,Wood
+9573202,Miore Black Lacquer Cap,1,6.88,12.73,16.55,Wood
+9573250,Prima White Lacquer Cap,1,6.88,12.73,16.55,Wood
+957330,Bijou Ornate Silver,5/8,6.55,12.12,15.76,Wood
+957340,Bijou Ornate Gold,5/8,6.55,12.12,15.76,Wood
+957359,Bijou Ornate Black,5/8,6.55,12.12,15.76,Wood
+957360,Bijou Ornate White,5/8,6.55,12.12,15.76,Wood
+957430,Regal Ornate Silver,7/8,6.83,12.63,16.42,Wood
+957440,Regal Ornate Gold,7/8,6.83,12.63,16.42,Wood
+957459,Regal Ornate Black,7/8,6.83,12.63,16.42,Wood
+957460,Regal Ornate White,7/8,6.83,12.63,16.42,Wood
+9574702,Miore Tall Black Lacquer Cap,1,9.59,17.45,22.62,Wood
+9574750,Prima Tall White Lacquer Cap,1,8.08,14.53,19.08,Wood
+9575,Eleve Silver Fillet,3/8,2.77,5.09,,Fillet
+957530,Flora Ornate Silver,5/8,6.55,12.12,15.76,Wood
+957540,Flora Ornate Gold,5/8,6.55,12.12,15.76,Wood
+957559,Flora Ornate Black,5/8,6.55,12.12,15.76,Wood
+957560,Flora Ornate White,5/8,6.55,12.12,15.76,Wood
+9575702,Miore Tall Black Lacquer Cap,1,7.91,14.63,19.02,Wood
+9575750,Prima Tall White Lacquer Cap,1,9.48,17.53,22.79,Wood
+9576102,Miore Flat Black Lacquer,1 3/16,5.24,9.49,12.30,Wood
+9576150,Prima Flat White Lacquer,1 3/16,5.27,9.52,12.46,Wood
+9577502,Miore Black Lacquer Cube,1 5/8,8.91,16.14,20.94,Wood
+9577550,Prima White Lacquer Cube,1 5/8,8.46,15.22,19.97,Wood
+9577702,Miore Black Lacquer Cap,3/4,5.12,9.32,12.16,Wood
+9577750,Prima White Lacquer Cap,3/4,5.21,9.52,12.27,Wood
+9578002,Luxor Black Cube,1 3/16,7.46,13.44,17.46,Wood
+9578050,Luxor White Cube,1 3/16,7.46,13.44,17.46,Wood
+9578102,Luxor Black Flat,2,8.55,15.40,20.02,Wood
+9578150,Luxor White Flat,2,8.55,15.40,20.02,Wood
+9578202,Luxor Black Floater,1 9/16,10.14,18.24,23.72,Wood
+9578250,Luxor White Floater,1 9/16,10.14,18.24,23.72,Wood
+9580,Liso Gold Fillet,3/8,2.84,5.25,,Fillet
+9580104,Ethos Maple Veneer Tall Cap,3/4,8.84,16.01,20.84,Wood
+9580204,Ethos Maple Veneer Cap,3/4,6.85,12.28,16.03,Wood
+9580304,Ethos Maple Veneer Small Cap,5/8,5.49,10.02,12.90,Wood
+95812,Regia Dark Gold Fillet,3/4,2.82,5.18,,Fillet
+95814,Regia Dark Silver Fillet,3/4,2.82,5.18,,Fillet
+95822,Regia Gold Fillet,3/4,2.82,5.18,,Fillet
+95824,Regia Silver Fillet,3/4,2.82,5.18,,Fillet
+9584104,Ethos Maple Small Floater,1 3/8,5.78,10.52,13.65,Wood
+9585,Eleve Dark Silver Fillet,3/8,2.79,5.13,,Fillet
+9585104,Ethos Maple Floater,1 1/2,8.80,16.00,20.68,Wood
+9590,Liso Arctic Silver Fillet,3/8,2.79,5.16,,Fillet
+9590030,Serene Silver,1 15/16,9.20,16.75,21.77,Wood
+9590040,Serene Gold,1 15/16,9.20,16.75,21.77,Wood
+9590050,Serene Brass,1 15/16,9.20,16.75,21.77,Wood
+9590059,Serene Black,1 15/16,9.20,16.75,21.77,Wood
+9590130,Serene Silver,2 15/16,12.44,22.64,29.44,Wood
+9590140,Serene Gold,2 15/16,12.44,22.64,29.44,Wood
+9590150,Serene Brass,2 15/16,12.44,22.64,29.44,Wood
+9590159,Serene Black,2 15/16,12.44,22.64,29.44,Wood
+981015,Embossed Gold,1,4.59,9.14,11.94,Wood
+981016,Embossed Silver,1,4.59,9.14,11.94,Wood
+985028,French Carved,3 1/2,14.43,23.53,30.72,Wood
+986238,Silver Leaf Scoop Fillet,5/16,2.49,5.57,,Fillet
+986240,Bright Gold Fillet,5/16,2.42,5.38,,Fillet
+986247,Black Lacquer Step,2 1/2,11.23,18.62,24.22,Wood
+986301,Antique Gold,1 1/4,2.73,4.59,5.95,Wood
+986359,Matte Black Fillet,1/2,2.39,5.88,,Fillet
+986661,Antique Silver,1 1/4,2.73,4.59,5.95,Wood
+988080,Gold Ornate,3 1/4,14.28,23.77,31.04,Wood
+988152,Ornate Antique Gold  ,1 1/2,6.45,11.83,15.50,Wood
+988154,Ornate Antique Gold  ,2 1/2,10.12,17.49,22.88,Wood
+988162,Gold Antique Fillet,5/16,2.49,5.57,,Fillet
+988528,Golden Sand Fillet,5/16,3.36,7.13,,Fillet
+988622,"3/4"" Black Linen Liner",3/4,2.76,4.98,6.45,Liner
+988682,Floater Matte Black 1 1/4 Deep,1/2,7.76,13.78,18.03,Wood
+988683,Floater Matte Black 1 7/8 Deep,1/2,7.92,13.91,18.16,Wood
+987836,Dakota Grey Flat Poly,15/16,0.97,1.94,2.53,Plastic
+987837,Dakota Grey Cube Poly,1 1/2,1.81,3.62,4.70,Plastic
+987838,Dakota Grey Flat Poly,2,1.49,2.98,3.88,Plastic
+987839,Dakota Grey Tall Cap Poly,1,2.07,4.14,5.38,Plastic
+987840,Dakota Grey Floater Poly,1 1/2,1.76,3.53,4.58,Plastic
+987846,Dakota Hazelnut Flat Poly,15/16,0.97,1.94,2.53,Plastic
+987847,Dakota Hazelnut Cube Poly,1 1/2,1.81,3.62,4.70,Plastic
+987848,Dakota Hazelnut Flat Poly,2,1.49,2.98,3.88,Plastic
+987849,Dakota Hazelnut Tall Cap Poly,1,2.07,4.14,5.38,Plastic
+987850,Dakota Hazelnut Floater Poly,1 1/2,1.76,3.53,4.58,Plastic
+987851,Dakota Natural Flat Poly,15/16,0.97,1.94,2.53,Plastic
+987852,Dakota Natural Cube Poly,1 1/2,1.81,3.62,4.70,Plastic
+987853,Dakota Natural Flat Poly,2,1.49,2.98,3.88,Plastic
+987854,Dakota Natural Tall Cap Poly,1,2.07,4.14,5.38,Plastic
+987855,Dakota Natural Floater Poly,1 1/2,1.76,3.53,4.58,Plastic
+987856,Dakota Whitewash Flat Poly,15/16,0.97,1.94,2.53,Plastic
+987857,Dakota Whitewash Cube Poly,1 1/2,1.81,3.62,4.70,Plastic
+987858,Dakota Whitewash Flat Poly,2,1.49,2.98,3.88,Plastic
+987859,Dakota Whitewash Tall Cap Poly,1,2.07,4.14,5.38,Plastic
+987860,Dakota Whitewash Floater Poly,1 1/2,1.76,3.53,4.58,Plastic
+989002,Gold Fillet Fire & Ice Fillet,7/16,2.79,5.86,,Fillet
+989003,Silver Fillet Fire & Ice Fillet,7/16,2.96,6.23,,Fillet
+989058,Madrid Gold Fillet,5/16,2.49,5.41,,Fillet
+989059,Madrid Fillet,1/4,2.49,5.41,,Fillet
+988411,Satin Black,1 1/2,2.55,4.28,5.57,Wood
+989437,Gold w Blk & Gold Rub,4,18.40,30.10,39.17,Wood
+989478,Brown Bamboo,2 3/4,8.66,14.99,19.53,Wood
+989531,Black Stacker Cap,7/8,5.08,9.22,12.08,Wood
+989532,"Black Stacker 2 1/2"" Section",1/2,7.40,13.01,16.95,Wood
+989533,"Black Stacker 1 1/2"" Section",1/2,4.85,9.08,11.80,Wood
+989640,"2 1/2"" Black Liner Scoop",2 1/2,8.53,13.60,17.73,Liner
+989665,Gold Bamboo,1 1/2,4.52,8.62,11.35,Wood
+989666,Silver Bamboo,1 1/2,4.52,8.62,11.35,Wood
+989667,Brown Bamboo,1 1/2,4.15,7.87,10.30,Wood
+989668,Black Bamboo,1 1/2,4.15,8.16,10.75,Wood
+989669,Tan Bamboo,1 1/2,4.15,7.87,10.30,Wood
+989704,Steeple Gold Fillet,1/2,2.49,5.41,,Fillet
+989842,Silver Flat ,3/4,3.50,7.86,10.28,Wood
+989843,Silver Flat ,1 1/8,4.30,9.06,11.78,Wood
+989844,Silver Flat ,1 1/2,5.31,9.52,12.39,Wood
+989858,Pewter,1 3/4,5.81,10.74,14.07,Wood
+989861,Stainless Steel,2 1/4,7.22,12.72,16.65,Wood
+989896,Ornate Gold,2 3/4,12.00,19.98,26.03,Wood
+989945,Metal Pewter,1 1/2,5.87,11.35,14.83,Wood
+9810104,Black with Gold Top Floater,1/2,7.40,13.47,17.55,Wood
+9810105,Black with Silver Top Floater,1/2,7.40,13.47,17.55,Wood
+9810117,Matte Black Floater,1 1/4,5.21,9.53,12.39,Wood
+9810246,Rustic Pecan/Tan,2 1/4,8.86,15.58,20.28,Wood
+9810259,Bronze Fillet,5/16,2.54,5.40,,Fillet
+9810272,Bone Bamboo,2 7/8,9.87,17.08,22.26,Wood
+9810319,Rustic White,1 3/8,4.65,9.06,11.78,Wood
+9810320,Rustic Walnut,1 3/8,4.65,9.06,11.78,Wood
+9810321,Rustic Wood,1 3/8,4.65,9.06,11.78,Wood
+9810322,Rustic Grey,1 3/8,4.65,9.06,11.78,Wood
+9810328,Harvest Gold w/Silver Wash ,2 1/2,10.59,18.18,23.64,Wood
+9810329,Harvest Bronze,2 1/2,10.59,18.18,23.64,Wood
+9810330,Harvest Ebony w/Gold Lip,2 1/2,10.59,18.18,23.64,Wood
+9810386,Rustic White,1,3.50,7.10,9.37,Wood
+9810387,Rustic Walnut,1,3.50,7.10,9.37,Wood
+9810388,Rustic Wood,1,3.50,7.10,9.37,Wood
+9810389,Rustic Grey,1,3.50,7.10,9.37,Wood
+9810454,Dark Walnut Veneer,1,5.26,9.98,13.01,Wood
+9810455,Light Walnut Veneer,1,5.26,9.98,13.01,Wood
+9810458,Dark Walnut Veneer,2,7.54,13.33,17.42,Wood
+9810463,Light Walnut Veneer Scoop,3,16.57,26.94,35.10,Wood
+9810465,Antique Gold Floater,1/2,7.52,13.60,17.70,Wood
+9810466,Antique Silver Floater,1/2,7.52,13.60,17.70,Wood
+9810494,Black Floater w/Gold Top,1,4.99,9.36,12.24,Wood
+9810495,Black Floater w/Silver Top,1,4.99,9.36,12.24,Wood
+9810496,Black Floater w/Gold Top,1 5/8,7.00,12.28,16.05,Wood
+9810497,Black Floater w/Silver Top,1 5/8,6.78,11.95,15.59,Wood
+9810498,Black Floater w/Gold Top,1 3/4,7.48,13.77,18.01,Wood
+9810499,Black Floater w/Silver Top,1 3/4,7.48,13.77,18.01,Wood
+9810505,Distressed Gold with Flat Panel,3 1/4,14.17,23.41,30.55,Wood
+9810512,Mahogany Veneer Block,1 3/8,7.83,13.77,18.01,Wood
+9810548,Deep Matte Black Floater,2 7/8,11.90,20.29,26.49,Wood
+9810549,Deep Matte Black Floater w/Gold Top,2 7/8,12.69,21.18,27.53,Wood
+9810550,Deep Matte Black Floater w/Silver Top,2 7/8,12.69,21.18,27.53,Wood
+9810564,Wide Gold Floater,2 1/2,12.78,21.18,27.53,Wood
+9810565,Wide Silver Floater,2 1/2,12.78,21.18,27.53,Wood
+9810627,Wide Black Floater,2 1/2,10.78,18.94,24.67,Wood
+9810679,Matte Black Slope,1 1/4,3.84,7.71,10.13,Wood
+9810681,Gloss Black Slope,1 1/4,4.49,9.54,12.40,Wood
+9810682,Gloss White Slope,1 1/4,4.49,9.54,12.40,Wood
+9810683,Antique Silver Slope,1 5/8,6.62,11.95,15.59,Wood
+9810684,Antique Pewter Slope,1 5/8,6.62,11.05,15.59,Wood
+9810686,Matte Black Slope,1 5/8,6.62,11.95,15.59,Wood
+9810688,Gloss Black Slope,1 5/8,7.45,14.39,18.79,Wood
+9810689,Gloss White Slope,1 5/8,7.45,14.39,18.79,Wood
+9810690,Matte Black Floater,1,5.21,9.84,12.87,Wood
+9810691,Matte Black Floater,1 5/8,6.78,11.95,15.59,Wood
+9810692,Matte Black Floater,1 3/4,7.48,13.77,18.01,Wood
+9810699,Matte Black Slope,2 1/2,9.50,16.34,21.33,Wood
+9810701,Gloss Black Slope,2 1/2,11.74,21.18,27.54,Wood
+9810702,Gloss White Slope,2 1/2,11.74,21.18,27.54,Wood
+9810703,Matte Black w/Silver Lip,1 1/4,5.69,10.44,13.61,Wood
+9810704,Matte Black w/Silver Lip,1 3/4,6.94,12.25,16.02,Wood
+9810764,White Barnwood Floater,1 3/4,7.52,13.60,17.70,Wood
+9810765,Grey Barnwood Floater,1 3/4,7.52,13.60,17.70,Wood
+9810766,Rust Barnwood Floater,1 3/4,7.52,13.60,17.70,Wood
+9810767,Black Barnwood Floater,1 3/4,7.52,13.60,17.70,Wood
+9810772,Aries Gloss White Shadow Box,1,6.49,12.87,16.80,Wood
+9810778,Aries Matte Black Shadow Box,1,5.62,10.29,13.47,Wood
+9810779,Aries Gloss Black Shadow Box,1,6.49,12.87,16.80,Wood
+9810780,Aries Matte White Shadow Box,1,5.62,10.29,13.47,Wood
+9810795,Contemporary Silver,2 3/8,10.98,18.32,23.91,Wood
+9810800,Tetons Matte Black Shadow Box,1 3/16,6.89,12.26,16.04,Wood
+9810801,Tetons Matte White Shadow Box,1 3/16,6.89,12.26,16.04,Wood
+9810802,Tetons Gloss White Shadow Box,1 3/16,8.66,16.50,21.48,Wood
+9810803,Tetons Gloss Black Shadow Box,1 3/16,8.66,16.50,21.48,Wood
+9810804,Tetons Stainless Steel Shadow Box,1 3/16,8.28,15.42,20.13,Wood
+9810805,Square Gloss Black Lacquer,3/4,3.45,7.09,9.35,Wood
+9810806,Square Gloss White Lacquer,3/4,3.45,7.09,9.35,Wood
+9810807,Gloss Black Lacquer Small Cap ,3/4,4.30,8.91,11.64,Wood
+9810808,Gloss White Lacquer Small Cap ,3/4,4.30,8.91,11.64,Wood
+9810854,Patina Distressed Antique Gold,2 3/8,10.43,17.56,22.86,Wood
+9810855,Patina Distressed Antique Silver,2 3/8,10.43,17.56,22.86,Wood
+9810880,Distressed Light Tan w/Dark Tan,1 1/8,4.10,8.46,11.04,Wood
+9810885,Elements Gloss White,2 1/2,9.27,16.50,21.47,Wood
+9810886,Elements Matte White,2 1/2,7.02,12.27,16.05,Wood
+9810887,Elements Gloss Black,2 1/2,9.27,17.25,22.54,Wood
+9810888,Elements Matte Black,2 1/2,7.02,12.27,16.05,Wood
+9810890,Elements Silver,2 1/2,8.70,15.42,20.13,Wood
+9810894,Silver Cross Scratch Floater,1 3/4,7.73,13.75,17.98,Wood
+9810896,Aries Bronze Shadow Box,1,7.02,12.27,16.05,Wood
+9810897,Gallery Gold Shadow Box,1,7.02,12.27,16.05,Wood
+9810898,Gallery Silver Shadow Box,1,7.02,12.27,16.05,Wood
+9810910,Seville Aged Black,2 3/4,11.67,23.09,30.10,Wood
+9810923,Park Slope Bronze,3 1/4,11.95,19.68,25.59,Wood
+9810927,Greyish w/Silver Lip,1 3/4,6.09,11.18,14.67,Wood
+9810932,Whitish w/Silver Lip,2 5/8,8.47,14.97,19.51,Wood
+9810937,Pewter-Black Low Scoop,1 5/8,6.49,12.55,16.34,Wood
+9810948,Silver Shadow Box,1 5/8,6.60,11.65,15.28,Wood
+9810985,Distressed White/Cream w/Light Tan,2,6.68,11.95,15.59,Wood
+9810999,Denali Antique Silver Flat Panel,3,10.51,19.80,25.84,Wood
+9811003,Denali Antique Silver Flat Panel,4,14.21,25.26,32.90,Wood
+9811010,Denali Antique Gold,2,7.14,13.33,17.41,Wood
+9811011,Silver Gallery Floater,1 1/2,7.11,12.94,16.83,Wood
+9811012,Gold Gallery Floater,1 1/2,7.11,12.94,16.83,Wood
+9811014,Silver Gallery Floater,2,8.54,15.19,19.81,Wood
+9811015,Gold Gallery Floater,2,8.54,15.19,19.81,Wood
+9811016,Pewter Gallery Floater,2,8.54,15.19,19.81,Wood
+9811017,Silver Gallery Floater,2 1/4,10.12,17.33,22.62,Wood
+9811018,Gold Gallery Floater,2 1/4,10.12,17.33,22.62,Wood
+9811019,Pewter Gallery Floater,2 1/4,10.12,17.33,22.62,Wood
+9811020,White Gallery Floater,1 1/2,7.32,13.36,17.47,Wood
+9811021,White Gallery Floater,2,8.32,15.18,19.80,Wood
+9811022,White Gallery Floater,2 1/4,10.12,17.33,22.62,Wood
+9811023,Alba Champagne Flat Panel,1 3/4,5.58,10.14,13.34,Wood
+9811024,Alba Silver Flat Panel,1 3/4,5.58,10.14,13.34,Wood
+9811025,Alba Bronze Flat Panel,1 3/4,5.58,10.14,13.34,Wood
+9811026,Alba Gold Flat Panel,1 3/4,5.58,10.14,13.34,Wood
+9811027,Alba Champagne Flat Panel,2 9/16,9.21,18.00,23.45,Wood
+9811028,Alba Silver Flat Panel,2 9/16,9.21,18.00,23.45,Wood
+9811029,Alba Bronze Flat Panel,2 9/16,9.21,18.00,23.45,Wood
+9811030,Alba Gold Flat Panel,2 9/16,9.21,18.00,23.45,Wood
+9811047,Capri W/wash w/Silver Top Floater,1 3/4,9.49,16.87,22.08,Wood
+9811048,Capri Black w/Silver Top Floater,1 3/4,9.49,16.87,22.08,Wood
+9811049,Capri Grey wSilver Top Float,1 3/4,9.49,16.87,22.08,Wood
+9811050,Capri Black Stain Floater,1 3/4,8.76,15.57,20.38,Wood
+9811051,Capri Grey Stain Floater,1 3/4,8.76,15.57,20.38,Wood
+9811061,Gloss White Floater,1 1/4,6.27,11.20,14.69,Wood
+9811062,Gloss White Floater,1 1/2,7.95,13.91,18.15,Wood
+9811063,Gloss White Floater,1 3/4,10.07,17.62,22.91,Wood
+9811077,Gloss Black Floater,1,6.27,11.20,14.69,Wood
+9811078,Gloss Black Floater,1 5/8,7.95,13.91,18.15,Wood
+9811079,Gloss Black Floater,1 3/4,9.14,15.89,20.74,Wood
+9811094,White Distressed Pine,1 1/2,5.31,9.97,12.96,Wood
+9811098,Small Square Silver,3/4,4.35,8.29,10.85,Wood
+9811099,Silver Cap,3/4,4.99,9.93,12.98,Wood
+9811105,Broken Gold Cap w/Lip,15/16,5.91,10.45,13.62,Wood
+9811106,Small Square Gold,3/4,4.35,8.29,10.85,Wood
+9811107,Gold Cap,3/4,4.99,9.93,12.98,Wood
+9811108,Bright Silver w/Compo,3/4,4.58,9.52,12.44,Wood
+9811109,Bright Gold w/Compo,3/4,4.58,9.52,12.44,Wood
+9811111,Excelsior Large Square Silver,1 5/8,6.48,11.66,15.29,Wood
+9811112,Excelsior Silver Shadow Box,5/8,5.41,9.96,12.99,Wood
+9811114,Excelsior Silver Shadow Box,1,6.67,11.96,15.60,Wood
+9811117,Cimarron Black w/Silver,1 1/4,5.71,11.24,14.69,Wood
+9811119,Cimarron Black w/Gold,1 1/4,5.71,11.24,14.69,Wood
+9811121,Cimarron Black w/Silver,1 1/4,7.29,12.95,16.96,Wood
+9811123,Cimarron Black w/Gold,1 1/4,7.29,12.95,16.96,Wood
+9811125,Cimarron Black w/Silver,1 7/8,7.87,14.71,19.29,Wood
+9811126,Cimarron Walnut w/Silver,1 7/8,7.87,14.71,19.29,Wood
+9811127,Cimarron Black w/Gold,1 7/8,7.87,14.71,19.29,Wood
+9811129,Antique Black w/Compo,3/4,4.05,8.40,10.98,Wood
+9811141,Algarve Flat Black,1 3/4,5.32,10.12,13.31,Wood
+9811145,Honors Mahogany,1 3/4,5.18,9.85,12.88,Wood
+9811146,Honors Walnut,1 3/4,5.18,9.85,12.88,Wood
+9811147,Honors Mahogany w/Gold,1 3/4,5.18,9.85,12.88,Wood
+9811148,Honors Black w/Silver,1 3/4,5.18,9.85,12.88,Wood
+9811149,Honors Black w/Gold,1 3/4,5.18,9.85,12.88,Wood
+9811150,Honors Black,1 3/4,5.18,9.85,12.88,Wood
+9811151,Lunar Graphite Scoop,1 3/16,3.28,6.96,9.09,Wood
+9811153,Lunar Dark Silver Scoop,1 3/16,3.28,6.96,9.09,Wood
+9811154,Lunar Dark Silver Scoop,2 1/4,5.45,10.44,13.61,Wood
+9811155,Lunar Bronze Scoop,1 3/16,3.28,6.96,9.09,Wood
+9811156,Lunar Bronze Scoop,2 1/4,5.45,10.44,13.61,Wood
+9811157,Frosted Metallic Silver,3/4,3.69,7.43,9.71,Wood
+9811159,Frosted Metallic Pewter,3/4,3.69,7.43,9.71,Wood
+9811160,Silver Streak Scoop,1 3/4,4.81,9.25,12.12,Wood
+9811161,Gold Streak Scoop,1 3/4,4.81,9.25,12.12,Wood
+9811167,Santa Fe Silver w/Black Stain,3/4,4.52,9.37,12.26,Wood
+9811168,Santa Fe Silver w/White Stain,3/4,4.52,9.37,12.26,Wood
+9811169,Santa Fe Gold w/Black Stain,3/4,4.52,9.37,12.26,Wood
+9811170,Santa Fe Silver w/Black Stain,3/4,6.69,11.95,15.59,Wood
+9811171,Santa Fe Silver w/White Stain,3/4,6.69,11.95,15.59,Wood
+9811172,Santa Fe Gold w/Black Stain,3/4,6.69,11.95,15.59,Wood
+9811173,Santa Fe Silver Floater w/Black Stain,1 1/2,8.45,15.13,19.66,Wood
+9811174,Santa Fe Silver Floater w/White Stain,1 1/2,8.45,15.13,19.66,Wood
+9811175,Santa Fe Gold Floater w/Black Stain,1 1/2,8.45,15.13,19.66,Wood
+9811176,Aurora Silver w/Black Side,1 3/4,6.56,13.17,17.24,Wood
+9811177,Aurora Antique Copper w/Black Side,1 3/4,6.56,13.17,17.24,Wood
+9811179,Aurora Antique Copper w/Black Side,2 1/4,9.47,16.35,21.34,Wood
+9811191,Ravello Brushed Silver,3/4,4.47,9.25,12.12,Wood
+9811192,Ravello Brushed Gold w/Dark Grey Wash,3/4,4.47,9.25,12.12,Wood
+9811193,Ravello Brushed Bronze w/Black Wash,3/4,4.47,9.25,12.12,Wood
+9811194,Ravello Brushed Gold w/Turquoise Wash,3/4,4.47,9.25,12.12,Wood
+9811195,Ravello Brushed Silver w/Grey Wash,3/4,4.47,9.25,12.12,Wood
+9811196,Ravello Brushed Gold w/Grey Wash,3/4,4.47,9.25,12.12,Wood
+9811197,Ravello Brushed White Wash,3/4,4.47,9.25,12.12,Wood
+9811198,Ravello Brushed Dark Silver w/Black Wash,3/4,4.47,9.25,12.12,Wood
+9811199,Blue Mystic Burl,1 5/8,6.53,11.59,15.18,Wood
+9811202,Grey Mystic Burl,1 5/8,6.53,11.59,15.18,Wood
+9811212,Santa Fe Gold w/White Stain,3/4,4.52,9.37,12.26,Wood
+9811213,Santa Fe Deep Gold w/White Stain,3/4,6.69,11.95,15.59,Wood
+9811214,Santa Fe Gold w/White Stain Floater,1 1/2,8.45,15.13,19.66,Wood
+9811215,Oslo Light Grey w/Silver Line,1 1/4,6.33,11.37,14.85,Wood
+9811216,Oslo Light Grey w/Silver Line,2,9.11,15.74,20.59,Wood
+9811217,Oslo Dark Grey w/Silver Line,1 1/4,6.33,11.37,14.85,Wood
+9811218,Oslo Dark Grey w/Silver Line,2,9.11,15.74,20.59,Wood
+9811219,Oslo White w/Silver Line,1 1/4,6.33,11.37,14.85,Wood
+9811220,Oslo White w/Silver Line,2,9.11,15.74,20.59,Wood
+9811221,Oslo Walnut w/Gold Line,1 1/4,6.33,11.37,14.85,Wood
+9811222,Oslo Walnut w/Gold Line,2,9.11,15.74,20.59,Wood
+9811223,Aurora Silver Cap,3/4,4.36,8.48,11.07,Wood
+9811224,Aurora Copper Cap,3/4,4.36,8.48,11.07,Wood
+9811225,Aurora Silver Flat,1 1/8,4.65,8.76,11.48,Wood
+9811226,Aurora Copper Flat,1 1/8,4.65,8.76,11.48,Wood
+9811227,Aurora Silver Flat,1 5/8,7.63,13.60,17.69,Wood
+9811228,Aurora Copper Flat,1 5/8,7.63,13.60,17.69,Wood
+9811229,Aurora Silver Slope,1 3/8,5.18,10.29,13.48,Wood
+9811230,Aurora Copper Slope,1 3/8,5.18,10.29,13.48,Wood
+9811234,Whitewash Compo w/Bead,1 1/4,4.25,8.47,11.05,Wood
+9811235,Whitewash w/Fluted Panel,1,5.52,10.80,14.04,Wood
+9811239,Ornate Gold,1,3.32,7.29,9.54,Wood
+9811240,Ornate Silver,1,3.32,7.29,9.54,Wood
+9811241,Ornate Gold,1 5/8,4.95,9.07,11.79,Wood
+9811242,Ornate Silver,1 5/8,4.95,9.07,11.79,Wood
+9811250,Tacoma Beach Wood Rustic,1,3.73,7.56,9.85,Wood
+9811251,Tacoma Black Wash Rustic,1,3.73,7.56,9.85,Wood
+9811252,Tacoma Gray Wash Rustic,1,3.73,7.56,9.85,Wood
+9811253,Tacoma Hibiscus Rustic,1,3.73,7.56,9.85,Wood
+9811254,Tacoma Beach Wood Rustic,2,5.83,10.43,13.60,Wood
+9811255,Tacoma Black Wash Rustic,2,5.83,10.43,13.60,Wood
+9811256,Tacoma Gray Wash Rustic,2,5.83,10.43,13.60,Wood
+9811257,Tacoma Hibiscus Rustic,2,5.83,10.43,13.60,Wood
+9811258,Tacoma White Wash Rustic,2,5.83,10.43,13.60,Wood
+9811259,Tacoma White Wash Rustic,1,3.73,7.56,9.85,Wood
+9811260,Small Princeton Weathered Black,1,3.51,7.10,9.36,Wood
+9811261,Small Princeton Weathered White,1,3.51,7.10,9.36,Wood
+9811262,Small Princeton Cognac,1,3.51,7.10,9.36,Wood
+9811263,Small Princeton Grey,1,3.51,7.10,9.36,Wood
+9811264,Princeton Weathered Black Cap,3/4,5.05,9.23,12.09,Wood
+9811265,Princeton Weathered White Cap,3/4,5.05,9.23,12.09,Wood
+9811266,Princeton Cognac Cap,3/4,5.05,9.23,12.09,Wood
+9811267,Princeton Grey Cap,3/4,5.05,9.23,12.09,Wood
+9811268,Princeton Weathered Black Cube,1 5/8,6.62,11.95,15.59,Wood
+9811269,Princeton Weathered White Cube,1 5/8,6.62,11.95,15.59,Wood
+9811270,Princeton Cognac Cube,1 5/8,6.62,11.95,15.59,Wood
+9811271,Princeton Grey Cube,1 5/8,6.62,11.95,15.59,Wood
+9811272,Flat Princeton Weathered Black,1 3/4,5.79,10.29,13.47,Wood
+9811273,Flat Princeton Weathered White,1 3/4,5.79,10.29,13.47,Wood
+9811274,Flat Princeton Cognac,1 3/4,5.79,10.29,13.47,Wood
+9811275,Flat Princeton Grey,1 3/4,5.79,10.29,13.47,Wood
+9811276,Princeton Weathered Black Tall Cap,1 1/4,9.03,15.58,20.28,Wood
+9811277,Princeton Weathered White Tall Cap,1 1/4,9.03,15.58,20.28,Wood
+9811278,Princeton Cognac Tall Cap,1 1/4,8.92,15.58,20.29,Wood
+9811279,Princeton Grey Tall Cap,1 1/4,9.03,15.58,20.28,Wood
+9811280,Flat Princeton Weathered Black,2 3/4,10.74,18.00,23.45,Wood
+9811281,Flat Princeton Weathered White,2 3/4,10.74,18.00,23.45,Wood
+9811282,Flat Princeton Cognac,2 3/4,10.74,18.00,23.45,Wood
+9811283,Flat Princeton Grey,2 3/4,10.74,18.00,23.45,Wood
+9811284,Princeton Weathered Black Wedge,7/8,6.22,10.89,14.22,Wood
+9811285,Princeton Weathered White Wedge,7/8,6.22,10.89,14.22,Wood
+9811286,Princeton Cognac Wedge,7/8,6.22,10.89,14.22,Wood
+9811287,Princeton Grey Wedge,7/8,6.22,10.89,14.22,Wood
+9811288,Princeton Weathered Black Floater,1 3/4,7.50,13.16,17.24,Wood
+9811289,Princeton Weathered White Floater,1 3/4,7.50,13.16,17.24,Wood
+9811290,Princeton Cognac Floater,1 3/4,7.50,13.16,17.24,Wood
+9811291,Princeton Grey Floater,1 3/4,7.50,13.16,17.24,Wood
+9811292,Savoy Embossed Gold,3/4,3.41,6.96,9.07,Wood
+9811293,Savoy Embossed Pewter,3/4,3.41,6.96,9.07,Wood
+9811294,Savoy Embossed Black,3/4,3.41,6.96,9.07,Wood
+9811299,Savoy Embossed Gold,1 3/8,5.64,10.28,13.47,Wood
+9811300,Savoy Embossed Pewter,1 3/8,5.64,10.28,13.47,Wood
+9811301,Savoy Embossed Black,1 3/8,5.64,10.28,13.47,Wood
+9811314,Mottled Black w/Silver,1 1/4,6.07,10.74,14.07,Wood
+9811315,Embossed Gold Leaf,1 1/4,6.78,11.96,15.59,Wood
+9811316,Embossed Silver Leaf,1 1/4,6.78,11.96,15.59,Wood
+9811328,Augusta Dark Walnut,1,3.51,7.10,9.36,Wood
+9811329,Augusta Dark Walnut Cap,3/4,5.05,9.23,12.09,Wood
+9811330,Augusta Dark Walnut Cube,1 5/8,6.62,11.95,15.59,Wood
+9811331,Augusta Dark Walnut Flat,1 3/4,5.79,10.29,13.47,Wood
+9811332,Augusta Dark Walnut Tall Cap,1,6.31,11.23,14.60,Wood
+9811333,Augusta Dark Walnut Flat,2 3/4,10.74,18.00,23.45,Wood
+9811334,Augusta Dark Walnut Floater,1 3/4,7.50,13.16,17.24,Wood
+9811340,Stella Gold Flat,3/4,2.50,4.88,6.34,Wood
+9811341,Stella Gold Flat,1 1/8,3.04,5.94,7.71,Wood
+9811342,Stella Gold Cap,3/4,3.26,6.36,8.27,Wood
+9811343,Stella Gold Cube,1 5/8,6.07,11.84,15.39,Wood
+9811344,Stella Gold Deep Cap,1,5.81,11.33,14.72,Wood
+9811345,Stella Gold Floater,1 1/2,6.36,12.40,16.12,Wood
+9811346,Stella Silver Flat,3/4,2.50,4.88,6.34,Wood
+9811347,Stella Silver Flat,1 1/8,3.04,5.94,7.71,Wood
+9811348,Stella Silver Cap,3/4,3.26,6.36,8.27,Wood
+9811349,Stella Silver Cube,1 5/8,6.07,11.84,15.39,Wood
+9811350,Stella Silver Deep Cap,1,5.81,11.33,14.72,Wood
+9811351,Stella Silver Floater,1 1/2,6.36,12.40,16.12,Wood
+9811352,Stella Pewter Flat,3/4,2.50,4.88,6.34,Wood
+9811353,Stella Pewter Flat,1 1/8,3.04,5.94,7.71,Wood
+9811354,Stella Pewter Cap,3/4,3.26,6.36,8.27,Wood
+9811355,Stella Pewter Cube,1 5/8,6.07,11.84,15.39,Wood
+9811356,Stella Pewter Deep Cap,1,5.81,11.33,14.72,Wood
+9811357,Stella Pewter Floater,1 1/2,6.36,12.40,16.12,Wood
+9811358,Woodstock Charcoal Flat,1,3.09,6.03,7.84,Wood
+9811359,Woodstock Charcoal Small Cap,3/4,3.40,6.63,8.63,Wood
+9811360,Woodstock Charcoal Large Cap,1,4.60,8.97,11.67,Wood
+9811361,Woodstock Grey Flat,1,3.09,6.03,7.84,Wood
+9811362,Woodstock Grey Small Cap,3/4,3.40,6.63,8.63,Wood
+9811363,Woodstock Grey Large Cap,1,4.60,8.97,11.67,Wood
+9811364,Woodstock Walnut Flat,1,3.09,6.03,7.84,Wood
+9811365,Woodstock Walnut Small Cap,3/4,3.40,6.63,8.63,Wood
+9811366,Woodstock Walnut Large Cap,1,4.60,8.97,11.67,Wood
+9811367,Woodstock Hazelnut Flat,1,3.09,6.03,7.84,Wood
+9811368,Woodstock Hazelnut Small Cap,3/4,3.40,6.63,8.63,Wood
+9811369,Woodstock Hazelnut Large Cap,1,4.60,8.97,11.67,Wood
+9811370,Woodstock Natural Flat,1,3.09,6.03,7.84,Wood
+9811371,Woodstock Natural Small Cap,3/4,3.40,6.63,8.63,Wood
+9811372,Woodstock Natural Large Cap,1,4.60,8.97,11.67,Wood
+9811387,Giulia Bright Gold Flat,3/4,2.50,4.88,6.34,Wood
+9811388,Giulia Bright Gold Flat,1 1/8,3.04,5.94,7.71,Wood
+9811389,Giulia Bright Gold Cap,3/4,3.26,6.36,8.27,Wood
+9811390,Giulia Bright Gold Cube,1 5/8,6.09,11.84,15.38,Wood
+9811391,Giulia Bright Gold Deep Cap,1,5.81,11.33,14.72,Wood
+9811392,Giulia Bright Gold Floater,1 1/2,6.36,12.40,16.12,Wood
+9811393,Cypress Natural Flat,1,3.80,7.13,9.26,Wood
+9811394,Cypress Natural Cap,3/4,5.40,9.07,11.79,Wood
+9811395,Cypress Natural Cube,1 1/2,7.03,11.75,15.27,Wood
+9811396,Cypress Natural Flat,1 3/4,6.17,10.17,13.22,Wood
+9811397,Cypress Natural Tall Cap,15/16,6.73,11.03,14.34,Wood
+9811398,Cypress Natural Flat,2 3/4,11.53,18.22,23.68,Wood
+9811399,Cypress Natural Floater,1 3/4,7.46,12.09,15.72,Wood
+9811400,Cypress Natural Slant,7/8,6.61,10.71,13.92,Wood
+9811401,Woodstock Charcoal Floater,1 3/16,6.19,10.12,13.15,Wood
+9811402,Woodstock Grey Floater,1 3/16,6.19,10.12,13.15,Wood
+9811403,Woodstock Walnut Floater,1 3/16,6.19,10.12,13.15,Wood
+9811404,Woodstock Hazelnut Floater,1 3/16,6.19,10.12,13.15,Wood
+9811405,Woodstock Natural Floater,1 3/16,6.19,10.12,13.15,Wood
+9811406,Oakmont Natural Flat,1,3.82,7.09,9.21,Wood
+9811407,Oakmont Natural Cap,3/4,5.32,8.95,11.63,Wood
+9811408,Oakmont Natural Flat,1 3/4,6.89,11.09,14.42,Wood
+9811409,Oakmont Natural Flat,2 1/4,12.38,18.47,24.00,Wood
+9811410,Oakmont Natural Floater,1 3/4,8.03,12.32,16.02,Wood
+9811411,Legacy Mah. Scoop w/ Blk Beads,1 3/4,5.39,9.05,11.77,Wood
+9811412,Delray Rustic Black,1 1/2,2.85,5.57,7.24,Wood
+9811413,Delray Rustic White,1 1/2,2.85,5.57,7.24,Wood
+9811414,Delray Rustic Sky Blue,1 1/2,2.85,5.57,7.24,Wood
+9811415,Delray Rustic Navy Blue,1 1/2,2.85,5.57,7.24,Wood
+9811416,Delray Rustic Turquoise,1 1/2,2.85,5.57,7.24,Wood
+9811417,Lucera Gold,13/16,3.86,6.95,9.04,Wood
+9811418,Lucera Silver,13/16,3.86,6.95,9.04,Wood
+9811419,Lucera Champagne,13/16,3.86,6.95,9.04,Wood
+9811420,Lucera Pewter,13/16,3.86,6.95,9.04,Wood
+9811421,Lucera Copper,13/16,3.86,6.95,9.04,Wood
+9811422,Lucera Gold Shadow Box,1,7.08,11.35,14.75,Wood
+9811423,Lucera Silver Shadow Box,1,7.08,11.35,14.75,Wood
+9811424,Lucera Champagne Shadow Box,1,7.08,11.35,14.75,Wood
+9811425,Lucera Pewter Shadow Box,1,7.08,11.35,14.75,Wood
+9811426,Lucera Copper Shadow Box,1,7.08,11.35,14.75,Wood
+9811427,Lucera Black,1,3.86,6.95,9.04,Wood
+9811428,Lucera Black Shadow Box,1,7.08,11.35,14.75,Wood
+9811429,Aria Gloss Black,3/4,4.95,8.03,10.43,Wood
+9811430,Aria Gloss White,3/4,4.95,8.03,10.43,Wood
+9811431,Aria Gloss Black,1 1/4,5.72,10.19,13.24,Wood
+9811432,Aria Gloss White,1 1/4,5.72,10.19,13.24,Wood
+9811433,Aria Gloss Gold,1 1/4,5.72,10.19,13.24,Wood
+9811434,Aria Gloss Silver,1 1/4,5.72,10.19,13.24,Wood
+9811435,Aria Antique Black,1 1/4,5.12,9.66,12.55,Wood
+9811437,Legacy Matte Black w/Blk Beads,1 3/4,5.39,9.05,11.77,Wood
+9811438,Legacy Matte Black w/Gld Beads,1 3/4,5.53,9.28,12.06,Wood
+9811439,Legacy Matte Black w/Slv Beads,1 3/4,5.53,9.28,12.06,Wood
+9811440,Legacy Matte Mah w/Gld Beads,1 3/4,5.53,9.28,12.06,Wood
+9811441,Legacy Black Gloss w/Gld Lines,1 3/4,6.39,10.39,13.51,Wood
+9811442,Legacy Mah Gloss w/Gld Lines,1 3/4,6.39,10.39,13.51,Wood
+9811443,Lucca Ant. Gold w/Beads,3/4,2.83,5.28,6.86,Wood
+9811444,Lucca Ant. Sil. w/Beads,3/4,2.83,5.28,6.86,Wood
+9811445,Lucca Black w/Gold Beads,3/4,2.83,5.28,6.86,Wood
+9811446,Lucca Black w/Sil Beads,3/4,2.83,5.28,6.86,Wood
+9811467,Jubilee Yellow,7/8,2.94,5.50,7.14,Wood
+9811468,Jubilee Red,7/8,2.94,5.50,7.14,Wood
+9811469,Jubilee Purple,7/8,2.94,5.50,7.14,Wood
+9811470,Jubilee Blue,7/8,2.94,5.50,7.14,Wood
+9811471,Jubilee Navy Blue,7/8,2.94,5.50,7.14,Wood
+9811472,Jubilee Light Green,7/8,2.94,5.50,7.14,Wood
+9811473,Jubilee Light Blue,7/8,2.94,5.50,7.14,Wood
+9811474,Jubilee Pastel Yellow,7/8,2.94,5.50,7.14,Wood
+9811475,Jubilee Light Pink,7/8,2.94,5.50,7.14,Wood
+9811476,Jubilee Olive Green,7/8,2.94,5.50,7.14,Wood
+9811477,Jubilee Raspberry Pink,7/8,2.94,5.50,7.14,Wood
+9811478,Jubilee Teal Blue,7/8,2.94,5.50,7.14,Wood
+9811479,Jubilee Orange,7/8,2.94,5.50,7.14,Wood
+9811480,Jubilee Green,7/8,2.94,5.50,7.14,Wood
+9811481,Jubilee Gold,7/8,2.94,5.50,7.14,Wood
+9811482,Jubilee Black,7/8,2.94,5.50,7.14,Wood
+9811483,Jubilee White,7/8,2.94,5.50,7.14,Wood
+9991,"Bracer 1 1/2"" x 1/2""",1 1/2,0.96,2.03,2.63,Extender
+9992,"Raw Stretcher Bar 1 5/16"" x 3/4""",1 1/2,1.13,2.33,3.04,Extender
+9993,"Raw Stretcher Bar 2 1/2"" x 1 1/8"" High",1 1/2,2.33,4.71,6.19,Extender
+9994,"Raw Stretcher Bar 1 1/2"" x 1 1/8""",1 1/2,1.55,3.07,4.09,Extender
+9995,Raw Stretcher Bar 1 7/8 x 1 3/8,1 7/8,2.48,5.9,7.6,Extender
+9996,"Raw Stretcher Bar 1 1/2"" x 1 3/8""",1 1/2,1.83,3.78,5.09,Extender
+9997,"Raw Stretcher Bar 1 1/2"" x 2""",1 1/2,3.64,7.40,9.62,Extender
+9998,Raw Stretcher Bar,2 1/2,1.75,3.91,5.19,Extender
+9999,Raw Stretcher Bar,1 1/2,1.27,2.58,3.49,Extender
+ML1101,11 SILVER,3/8,3.75,5.66,,Metal
+ML1102,11 FROSTED SILVER,3/8,3.75,5.66,,Metal
+ML1103,11 GOLD,3/8,3.75,5.66,,Metal
+ML1104,11 FROSTED GOLD,3/8,3.75,5.66,,Metal
+ML1108,11 FROSTED BRONZE,3/8,4.38,6.59,,Metal
+ML1110,11 GRAPHITE,3/8,4.38,6.59,,Metal
+ML1112,11 FROSTED PEWTER,3/8,4.38,6.59,,Metal
+ML1113,11 CONTRAST GRAY,3/8,4.38,6.59,,Metal
+ML1114,11 GERMAN SILVER,3/8,4.38,6.59,,Metal
+ML11154,11 FLORENTINE GRAY,3/8,4.41,6.73,,Metal
+ML11156,11 FLORENTINE BLACK,3/8,4.41,6.73,,Metal
+ML1120,11 ANODIC BLACK,3/8,4.38,6.59,,Metal
+ML1121,11 MATTE BLACK (ANODIZED),3/8,4.38,6.59,,Metal
+ML1123,11 ANTIQUE GOLD,3/8,3.75,5.66,,Metal
+ML1150,11 BLACK,3/8,3.75,5.66,,Metal
+ML11701,117 SILVER,3/8,4.38,6.59,,Metal
+ML11702,117 FROSTED SILVER,3/8,4.38,6.59,,Metal
+ML11704,117 FROSTED GOLD,3/8,4.38,6.59,,Metal
+ML11710,117 GRAPHITE,3/8,4.91,7.44,,Metal
+ML11712,117 FROSTED PEWTER,3/8,4.91,7.44,,Metal
+ML11714,117 GERMAN SILVER,3/8,4.91,7.44,,Metal
+ML117164,117 DUSK,3/8,4.91,7.44,,Metal
+ML11719,117 FROSTED WALNUT,3/8,4.91,7.44,,Metal
+ML11720,117 ANODIC BLACK,3/8,4.91,7.44,,Metal
+ML117201,117 MAROON,3/8,4.38,6.59,,Metal
+ML117202,117 TIGER ORANGE,3/8,4.38,6.59,,Metal
+ML117203,117 SUNSHINE,3/8,4.38,6.59,,Metal
+ML117204,117 KELLY GREEN,3/8,4.38,6.59,,Metal
+ML117205,117 FOREST GREEN,3/8,4.38,6.59,,Metal
+ML117206,117 AQUA,3/8,4.38,6.59,,Metal
+ML117207,117 MAGIC BLUE,3/8,4.38,6.59,,Metal
+ML117208,117 ROYAL PURPLE,3/8,4.38,6.59,,Metal
+ML11721,117 MATTE BLACK,3/8,4.91,7.44,,Metal
+ML117227,117 TORNADO RED,3/8,5.12,7.79,,Metal
+ML11723,117 ANTIQUE GOLD,3/8,4.91,7.43,,Metal
+ML117230,117 REFLEX SILVER,3/8,5.12,7.79,,Metal
+ML117231,117 GOLD BULLION,3/8,5.12,7.79,,Metal
+ML117232,117 GALACTIC BLUE,3/8,5.12,7.79,,Metal
+ML117233,117 PURPLE HAZE,3/8,5.12,7.79,,Metal
+ML117235,117 TANGERINE TWIST,3/8,5.12,7.79,,Metal
+ML117236,117 CYBER GREEN,3/8,5.12,7.79,,Metal
+ML117237,117 RASPBERRY FIZZ,3/8,5.12,7.79,,Metal
+ML117238,117 TURQUOISE,3/8,5.12,7.79,,Metal
+ML117240,117 AMETHYST,3/8,5.12,7.79,,Metal
+ML117270,117 BURNT SIENNA,3/8,4.91,7.44,,Metal
+ML117280,117 AMERICAN NATURAL,3/8,5.54,7.78,,Metal
+ML117400,117 BRUSHED ALUMIM. SATIN,3/8,5.12,7.79,,Metal
+ML117470,117 BRUSHED SATIN NICKEL,3/8,5.80,8.48,,Metal
+ML117478,117 BRUSHED SATIN PEWTER,3/8,5.80,8.48,,Metal
+ML11750,117 BLACK,3/8,4.38,6.59,,Metal
+ML11752,117 BRIGHT WHITE,3/8,4.38,6.59,,Metal
+ML11755,117 RIGHT RED,3/8,4.38,6.59,,Metal
+ML11758,117 INDIGO,3/8,4.38,6.59,,Metal
+ML1314,13 GERMAN SILVER,3/8,5.46,8.19,,Metal
+ML1321,13 MATTE BLACK,3/8,5.46,8.19,,Metal
+ML1414,14 GERMAN SILVER,3/8,8.88,13.32,,Metal
+ML1421,14 MATTE BLACK,3/8,8.88,13.32,,Metal
+ML1501,15 SILVER,3/8,4.15,6.29,,Metal
+ML1502,15 FROSTED SILVER,3/8,4.15,6.29,,Metal
+ML1503,15 GOLD,3/8,4.15,6.29,,Metal
+ML1504,15 FROSTED GOLD,3/8,4.15,6.29,,Metal
+ML1508,15 FROSTED BRONZE,3/8,4.66,7.07,,Metal
+ML1510,15 GRAPHITE,3/8,4.66,7.07,,Metal
+ML1512,15 FROSTED PEWTER,3/8,4.66,7.07,,Metal
+ML1513,15 CONTRAST GRAY,3/8,4.66,7.07,,Metal
+ML1514,15 GERMAN SILVER,3/8,4.66,7.07,,Metal
+ML15150,15 FLORENTINE SILVER,3/8,4.90,7.37,,Metal
+ML15153,15 FLORENTINE PEWTER,3/8,4.90,7.37,,Metal
+ML15154,15 FLORENTINE GRAY,3/8,4.90,7.37,,Metal
+ML15155,15 FLORENTINE AMBER,3/8,4.90,7.37,,Metal
+ML15156,15 FLORENTINE BLACK,3/8,4.90,7.37,,Metal
+ML15164,15 DUSK,3/8,4.66,7.07,,Metal
+ML15170,15 FROSTED UMBER,3/8,4.66,7.07,,Metal
+ML1519,15 FROSTED WALNUT,3/8,4.66,7.07,,Metal
+ML1520,15 ANODIC BLACK,3/8,4.66,7.07,,Metal
+ML1521,15 MATTE BLACK,3/8,4.66,7.07,,Metal
+ML1523,15 ANTIQUE GOLD,3/8,4.15,6.29,,Metal
+ML1524,15 COBALT,3/8,4.66,7.07,,Metal
+ML1550,15 BLACK,3/8,4.15,6.29,,Metal
+ML1552,15 BRIGHT WHITE,3/8,4.15,6.29,,Metal
+ML1555,15 RIGHT RED,3/8,4.15,6.29,,Metal
+ML1558,15 INDIGO,3/8,4.15,6.29,,Metal
+ML1566,15 LAPIS,3/8,4.15,6.29,,Metal
+ML1568,15 CHINESE RED,3/8,4.15,6.29,,Metal
+ML2108,21 FROSTED ROSE GOLD,3/8,5.65,8.52,,Metal
+ML2121,21 MATTE BLACK (ANODIZED),3/8,5.65,8.52,,Metal
+ML21227,21 TORNADO RED,3/8,5.65,8.52,,Metal
+ML2123,21 ANTIQUE GOLD,3/8,5.65,8.52,,Metal
+ML21233,21 PURPLE HAZE,3/8,5.65,8.52,,Metal
+ML21235,21 TANGERINE TWIST,3/8,5.65,8.52,,Metal
+ML21250,21 MERLOT,3/8,5.65,8.52,,Metal
+ML21257,21 SAPPHIRE,3/8,5.65,8.52,,Metal
+ML21258,21 REALLY TEAL,3/8,5.65,8.52,,Metal
+ML21261,21 DAWN,3/8,5.65,8.52,,Metal
+ML21400,21 CHROME,3/8,5.65,8.52,,Metal
+ML2150,21 MATTE BLACK,3/8,5.65,8.52,,Metal
+ML2201,22 SILVER,3/8,4.75,7.17,,Metal
+ML2202,22 FROSTED SILVER,3/8,4.75,7.17,,Metal
+ML2203,22 GOLD,3/8,4.75,7.17,,Metal
+ML2214,22 GERMAN SILVER,3/8,5.52,8.34,,Metal
+ML2220,22 ANODIC BLACK,3/8,5.52,8.34,,Metal
+ML2221,22 MATTE BLACK,3/8,5.52,8.34,,Metal
+ML9301,93 SILVER,3/8,4.33,6.58,,Metal
+ML9304,93 FROSTED GOLD,3/8,4.33,6.58,,Metal
+ML9314,93 GERMAN SILVER,3/8,4.91,7.44,,Metal
+ML93150,93 FLORENTINE SILVER,3/8,5.24,7.91,,Metal
+ML93154,93 FLORENTINE GRAY,3/8,5.24,7.91,,Metal
+ML93156,93 FLORENTINE BLACK,3/8,5.24,7.91,,Metal
+ML93170,93 FROSTED UMBER,3/8,4.91,7.44,,Metal
+ML9319,93 FROSTED WALNUT,3/8,4.91,7.44,,Metal
+ML9320,93 ANODIC BLACK,3/8,4.91,7.44,,Metal
+ML9321,93 MATTE BLACK,3/8,4.91,7.44,,Metal
+ML9323,93 ANTIQUE GOLD,3/8,4.33,6.58,,Metal
+ML9350,93 BLACK,3/8,4.33,6.58,,Metal
+ML9352,93 BRIGHT WHITE,3/8,4.33,6.58,,Metal
+ML93550,93 TUSCAN LINEN SILVER,3/8,5.24,7.91,,Metal
+ML93552,93 TUSCAN LINEN RAW STEEL,3/8,5.24,7.91,,Metal
+ML93553,93 TUSCAN LINEN CARAMEL,3/8,5.24,7.91,,Metal
+ML93555,93 TUSCAN LINEN AMBER,3/8,5.24,7.91,,Metal
+ML93556,93 TUSCAN LINEN BLACK,3/8,5.24,7.91,,Metal
+ML93557,93 TUSCAN LINEN PEWTER,3/8,5.24,7.91,,Metal
+ML93558,93 TUSCAN LINEN SLATE,3/8,5.24,7.91,,Metal
+ML9714,97 GERMAN SILVER,29/32,5.84,8.81,,Metal
+ML97150,97 FLORENTINE SILVER,29/32,6.66,9.96,,Metal
+ML97151,97 FLORENTINE GOLD,29/32,6.66,9.96,,Metal
+ML97154,97 FLORENTINE GRAY,29/32,6.66,9.96,,Metal
+ML97155,97 FLORENTINE AMBER,29/32,6.66,9.96,,Metal
+ML97156,97 FLORENTINE BLACK,29/32,6.66,9.96,,Metal
+ML97167,97 FLORENTINE WALNUT,29/32,6.66,9.96,,Metal
+ML9721,97 MATTE BLACK (ANODIZED),29/32,5.84,8.81,,Metal
+ML97400,97 BRUSHED SATIN ALUMINUM,29/32,6.66,9.96,,Metal
+ML9750,97 MATTE BLACK,29/32,5.16,7.79,,Metal
+ML97550,97 TUSCAN LINEN SILVER,29/32,6.66,9.96,,Metal
+ML97552,97 TUSCAN LINEN RAW STEEL,29/32,6.66,9.96,,Metal
+ML97553,97 TUSCAN LINEN CARAMEL,29/32,6.66,9.96,,Metal
+ML97555,TUSAN LINEN AMBER,29/32,6.66,9.96,,Metal
+ML97556,TUSCAN LINEN BLK,29/32,6.66,9.96,,Metal
+ML97557,97 TUSCAN LINEN PEWTER,29/32,6.66,9.96,,Metal
+ML97558,97 TUSCAN LINEN SLATE,29/32,6.66,9.96,,Metal
+ML97Z,NIELSEN 97Z RAW ALUMINUM,29/32,2.70,4.46,,Metal
+MN1101,11 SILVER,3/8,3.75,5.66,,Metal
+MN1102,11 FROSTED SILVER,3/8,3.75,5.66,,Metal
+MN1103,11 GOLD,3/8,3.75,5.66,,Metal
+MN1104,11 FROSTED GOLD,3/8,3.75,5.66,,Metal
+MN1108,11 FROSTED BRONZE,3/8,4.38,6.59,,Metal
+MN1110,11 GRAPHITE,3/8,4.38,6.59,,Metal
+MN1112,11 FROSTED PEWTER,3/8,4.38,6.59,,Metal
+MN1113,11 CONTRAST GRAY,3/8,4.38,6.59,,Metal
+MN1114,11 GERMAN SILVER,3/8,4.38,6.59,,Metal
+MN11154,11 FLORENTINE GRAY,3/8,4.41,6.73,,Metal
+MN11156,11 FLORENTINE BLACK,3/8,4.41,6.73,,Metal
+MN1120,11 ANODIC BLACK,3/8,4.38,6.59,,Metal
+MN1121,11 MATTE BLACK (ANODIZED),3/8,4.38,6.59,,Metal
+MN1123,11 ANTIQUE GOLD,3/8,3.75,5.66,,Metal
+MN1150,11 BLACK,3/8,3.75,5.66,,Metal
+MN11701,117 SILVER,3/8,4.38,6.59,,Metal
+MN11702,117 FROSTED SILVER,3/8,4.38,6.59,,Metal
+MN11704,117 FROSTED GOLD,3/8,4.38,6.59,,Metal
+MN11710,117 GRAPHITE,3/8,4.91,7.44,,Metal
+MN11712,117 FROSTED PEWTER,3/8,4.91,7.44,,Metal
+MN11714,117 GERMAN SILVER,3/8,4.91,7.44,,Metal
+MN117164,117 DUSK,3/8,4.91,7.44,,Metal
+MN11719,117 FROSTED WALNUT,3/8,4.91,7.44,,Metal
+MN11720,117 ANODIC BLACK,3/8,4.91,7.44,,Metal
+MN117201,117 MAROON,3/8,4.38,6.59,,Metal
+MN117202,117 TIGER ORANGE,3/8,4.38,6.59,,Metal
+MN117203,117 SUNSHINE,3/8,4.38,6.59,,Metal
+MN117204,117 KELLY GREEN,3/8,4.38,6.59,,Metal
+MN117205,117 FOREST GREEN,3/8,4.38,6.59,,Metal
+MN117206,117 AQUA,3/8,4.38,6.59,,Metal
+MN117207,117 MAGIC BLUE,3/8,4.38,6.59,,Metal
+MN117208,117 ROYAL PURPLE,3/8,4.38,6.59,,Metal
+MN11721,117 MATTE BLACK,3/8,4.91,7.44,,Metal
+MN117227,117 TORNADO RED,3/8,5.12,7.79,,Metal
+MN11723,117 ANTIQUE GOLD,3/8,4.91,7.43,,Metal
+MN117230,117 REFLEX SILVER,3/8,5.12,7.79,,Metal
+MN117231,117 GOLD BULLION,3/8,5.12,7.79,,Metal
+MN117232,117 GALACTIC BLUE,3/8,5.12,7.79,,Metal
+MN117233,117 PURPLE HAZE,3/8,5.12,7.79,,Metal
+MN117235,117 TANGERINE TWIST,3/8,5.12,7.79,,Metal
+MN117236,117 CYBER GREEN,3/8,5.12,7.79,,Metal
+MN117237,117 RASPBERRY FIZZ,3/8,5.12,7.79,,Metal
+MN117238,117 TURQUOISE,3/8,5.12,7.79,,Metal
+MN117240,117 AMETHYST,3/8,5.12,7.79,,Metal
+MN117270,117 BURNT SIENNA,3/8,4.91,7.44,,Metal
+MN117280,117 AMERICAN NATURAL,3/8,5.54,7.78,,Metal
+MN117400,117 BRUSHED ALUMIM. SATIN,3/8,5.12,7.79,,Metal
+MN117470,117 BRUSHED SATIN NICKEL,3/8,5.80,8.48,,Metal
+MN117478,117 BRUSHED SATIN PEWTER,3/8,5.80,8.48,,Metal
+MN11750,117 BLACK,3/8,4.38,6.59,,Metal
+MN11752,117 BRIGHT WHITE,3/8,4.38,6.59,,Metal
+MN11755,117 RIGHT RED,3/8,4.38,6.59,,Metal
+MN11758,117 INDIGO,3/8,4.38,6.59,,Metal
+MN1314,13 GERMAN SILVER,3/8,5.46,8.19,,Metal
+MN1321,13 MATTE BLACK,3/8,5.46,8.19,,Metal
+MN1414,14 GERMAN SILVER,3/8,8.88,13.32,,Metal
+MN1421,14 MATTE BLACK,3/8,8.88,13.32,,Metal
+MN1501,15 SILVER,3/8,4.15,6.29,,Metal
+MN1502,15 FROSTED SILVER,3/8,4.15,6.29,,Metal
+MN1503,15 GOLD,3/8,4.15,6.29,,Metal
+MN1504,15 FROSTED GOLD,3/8,4.15,6.29,,Metal
+MN1508,15 FROSTED BRONZE,3/8,4.66,7.07,,Metal
+MN1510,15 GRAPHITE,3/8,4.66,7.07,,Metal
+MN1512,15 FROSTED PEWTER,3/8,4.66,7.07,,Metal
+MN1513,15 CONTRAST GRAY,3/8,4.66,7.07,,Metal
+MN1514,15 GERMAN SILVER,3/8,4.66,7.07,,Metal
+MN15150,15 FLORENTINE SILVER,3/8,4.90,7.37,,Metal
+MN15153,15 FLORENTINE PEWTER,3/8,4.90,7.37,,Metal
+MN15154,15 FLORENTINE GRAY,3/8,4.90,7.37,,Metal
+MN15155,15 FLORENTINE AMBER,3/8,4.90,7.37,,Metal
+MN15156,15 FLORENTINE BLACK,3/8,4.90,7.37,,Metal
+MN15164,15 DUSK,3/8,4.66,7.07,,Metal
+MN15170,15 FROSTED UMBER,3/8,4.66,7.07,,Metal
+MN1519,15 FROSTED WALNUT,3/8,4.66,7.07,,Metal
+MN1520,15 ANODIC BLACK,3/8,4.66,7.07,,Metal
+MN1521,15 MATTE BLACK,3/8,4.66,7.07,,Metal
+MN1523,15 ANTIQUE GOLD,3/8,4.15,6.29,,Metal
+MN1524,15 COBALT,3/8,4.66,7.07,,Metal
+MN1550,15 BLACK,3/8,4.15,6.29,,Metal
+MN1552,15 BRIGHT WHITE,3/8,4.15,6.29,,Metal
+MN1555,15 RIGHT RED,3/8,4.15,6.29,,Metal
+MN1558,15 INDIGO,3/8,4.15,6.29,,Metal
+MN1566,15 LAPIS,3/8,4.15,6.29,,Metal
+MN1568,15 CHINESE RED,3/8,4.15,6.29,,Metal
+MN2108,21 FROSTED ROSE GOLD,3/8,5.65,8.52,,Metal
+MN2121,21 MATTE BLACK (ANODIZED),3/8,5.65,8.52,,Metal
+MN21227,21 TORNADO RED,3/8,5.65,8.52,,Metal
+MN2123,21 ANTIQUE GOLD,3/8,5.65,8.52,,Metal
+MN21233,21 PURPLE HAZE,3/8,5.65,8.52,,Metal
+MN21235,21 TANGERINE TWIST,3/8,5.65,8.52,,Metal
+MN21250,21 MERLOT,3/8,5.65,8.52,,Metal
+MN21257,21 SAPPHIRE,3/8,5.65,8.52,,Metal
+MN21258,21 REALLY TEAL,3/8,5.65,8.52,,Metal
+MN21261,21 DAWN,3/8,5.65,8.52,,Metal
+MN21400,21 CHROME,3/8,5.65,8.52,,Metal
+MN2150,21 MATTE BLACK,3/8,5.65,8.52,,Metal
+MN2201,22 SILVER,3/8,4.75,7.17,,Metal
+MN2202,22 FROSTED SILVER,3/8,4.75,7.17,,Metal
+MN2203,22 GOLD,3/8,4.75,7.17,,Metal
+MN2214,22 GERMAN SILVER,3/8,5.52,8.34,,Metal
+MN2220,22 ANODIC BLACK,3/8,5.52,8.34,,Metal
+MN2221,22 MATTE BLACK,3/8,5.52,8.34,,Metal
+MN9301,93 SILVER,3/8,4.33,6.58,,Metal
+MN9304,93 FROSTED GOLD,3/8,4.33,6.58,,Metal
+MN9314,93 GERMAN SILVER,3/8,4.91,7.44,,Metal
+MN93150,93 FLORENTINE SILVER,3/8,5.24,7.91,,Metal
+MN93154,93 FLORENTINE GRAY,3/8,5.24,7.91,,Metal
+MN93156,93 FLORENTINE BLACK,3/8,5.24,7.91,,Metal
+MN93170,93 FROSTED UMBER,3/8,4.91,7.44,,Metal
+MN9319,93 FROSTED WALNUT,3/8,4.91,7.44,,Metal
+MN9320,93 ANODIC BLACK,3/8,4.91,7.44,,Metal
+MN9321,93 MATTE BLACK,3/8,4.91,7.44,,Metal
+MN9323,93 ANTIQUE GOLD,3/8,4.33,6.58,,Metal
+MN9350,93 BLACK,3/8,4.33,6.58,,Metal
+MN9352,93 BRIGHT WHITE,3/8,4.33,6.58,,Metal
+MN93550,93 TUSCAN LINEN SILVER,3/8,5.24,7.91,,Metal
+MN93552,93 TUSCAN LINEN RAW STEEL,3/8,5.24,7.91,,Metal
+MN93553,93 TUSCAN LINEN CARAMEL,3/8,5.24,7.91,,Metal
+MN93555,93 TUSCAN LINEN AMBER,3/8,5.24,7.91,,Metal
+MN93556,93 TUSCAN LINEN BLACK,3/8,5.24,7.91,,Metal
+MN93557,93 TUSCAN LINEN PEWTER,3/8,5.24,7.91,,Metal
+MN93558,93 TUSCAN LINEN SLATE,3/8,5.24,7.91,,Metal
+MN9714,97 GERMAN SILVER,29/32,5.84,8.81,,Metal
+MN97150,97 FLORENTINE SILVER,29/32,6.66,9.96,,Metal
+MN97151,97 FLORENTINE GOLD,29/32,6.66,9.96,,Metal
+MN97154,97 FLORENTINE GRAY,29/32,6.66,9.96,,Metal
+MN97155,97 FLORENTINE AMBER,29/32,6.66,9.96,,Metal
+MN97156,97 FLORENTINE BLACK,29/32,6.66,9.96,,Metal
+MN97167,97 FLORENTINE WALNUT,29/32,6.66,9.96,,Metal
+MN9721,97 MATTE BLACK (ANODIZED),29/32,5.84,8.81,,Metal
+MN97400,97 BRUSHED SATIN ALUMINUM,29/32,6.66,9.96,,Metal
+MN9750,97 MATTE BLACK,29/32,5.16,7.79,,Metal
+MN97550,97 TUSCAN LINEN SILVER,29/32,6.66,9.96,,Metal
+MN97552,97 TUSCAN LINEN RAW STEEL,29/32,6.66,9.96,,Metal
+MN97553,97 TUSCAN LINEN CARAMEL,29/32,6.66,9.96,,Metal
+MN97555,TUSAN LINEN AMBER,29/32,6.66,9.96,,Metal
+MN97556,TUSCAN LINEN BLK,29/32,6.66,9.96,,Metal
+MN97557,97 TUSCAN LINEN PEWTER,29/32,6.66,9.96,,Metal
+MN97558,97 TUSCAN LINEN SLATE,29/32,6.66,9.96,,Metal
+OEM15B,15 Anodic Black (Shiny),3/8,2.70,4.61,,Metal
+OEM15FG,15 Frosted Gold,3/8,2.42,4.11,,Metal
+OEM15FS,15 Frosted Silver,3/8,2.42,4.11,,Metal
+OEM15G,15 Shiny Gold,3/8,2.42,4.11,,Metal
+OEM15MB,15 Anodic Matte Black,3/8,2.70,4.61,,Metal
+OEM15S,15 Shiny Silver,3/8,2.42,4.11,,Metal
+OEM1B,11 Anodic Black (Shiny),3/8,2.32,3.94,,Metal
+OEM1FG,11 Frosted Gold,3/8,2.15,3.67,,Metal
+OEM1FS,11 Frosted Silver,3/8,2.15,3.67,,Metal
+OEM1G,11 Shiny Gold,3/8,2.15,3.67,,Metal
+OEM1MB,11 Anodic Matte Black,3/8,2.32,3.94,,Metal
+OEM1S,11 Shiny Silver,3/8,2.15,3.67,,Metal
