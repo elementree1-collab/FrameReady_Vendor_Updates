@@ -1,0 +1,1131 @@
+item,Description,size decimal,cost,chop,join,group
+ANBK212,"CFC Angles Black/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKBL212,"CFC Angles Black/Blue 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKBRN212,"CFC Angles Black/Brown 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKDRKGRN212,"CFC Angles Black/Dark Green 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKGLD212,"CFC Angles Black / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANBKGRN212,CFC Angles Black/Green 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBKGRY212,"CFC Angles Black/Gray 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKLAV212,CFC Angles Black/Lavender 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBKLEN212,"CFC Angles Black/Lentil 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKNAT212,CFC Angles Black/Natural 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBKOR212,"CFC Angles Black/Orange 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKPNK212,"CFC Angles Black/Pink 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKPRP212,"CFC Angles Black/Purple 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKPUT212,"CFC Angles Black/Putty 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKRD212,CFC Angles Black/Red 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBKSG212,"CFC Angles Black/Sage 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKTL212,"CFC Angles Black/Teal 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBKTRQ212,CFC Angles Black/Turquoise 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBKWT212,CFC Angles Black/White 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBKY212,CFC Angles Black/Yellow 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBL212,"CFC Angles Blue/Blue 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBLBK212,"CFC Angles Blue/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBLGLD212,"CFC Angles Blue / Gold 2  1/2""",2.5,25.00,25.00,25.00,Wood
+ANBLNAT212,CFC Angles Blue/Natural 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANBLWHT212,"CFC Angles Blue/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBRN212,"CFC Angles Brown/Brown 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBRNBK212,"CFC Angles Brown/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBRNGLD212,"CFC Angles Brown / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANBRNNAT212,"CFC Angles Brown/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANBRNWHT212,"CFC Angles Brown/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANCUST212,CFC Angles Custom Color 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANCUSTGLD212,"CFC Angles Custom / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANDRKGRN212,"CFC Angles Dark Green/Dark Green 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANDRKGRNBK212,"CFC Angles Dark Green/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANDRKGRNGLD212,"CFC Angles Dark Green / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANDRKGRNNAT212,"CFC Angles Dark Green/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANDRKGRNWHT212,"CFC Angles Dark Green/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANGRNGLD212,"CFC Angles Green / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANGRNNAT212,CFC Angles Green/Natural 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANGRY212,"CFC Angles Gray/Gray 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANGRYBK212,"CFC Angles Gray/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANGRYGLD212,"CFC Angles Gray / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANGRYNAT212,"CFC Angles Gray/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANGRYRD212,"CFC Angles Gray/Red 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANGRYWHT212,"CFC Angles Gray/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANLAV212,"CFC Angles Lavender/Lavender 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANLAVBK212,"CFC Angles Lavender/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANLAVGLD212,"CFC Angles Lavender / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANLAVNAT212,CFC Angles Lavender/Natural 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANLAVWHT212,"CFC Angles Lavender/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANLEN212,"CFC Angles Lentil/Lentil 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANLENBK212,"CFC Angles Lentil/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANLENGLD212,"CFC Angles Lentil / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANLENNAT212,"CFC Angles Lentil/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANLENWHT212,"CFC Angles Lentil/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNAT212,"CFC Angles Natural/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATBK212,CFC Angles Natural/Black 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANNATBL212,CFC Angles Natural/Blue 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANNATBRN212,"CFC Angles Natural/Brown 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATDRKGRN212,"CFC Angles Natural/Dark Green 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATGLD212,"CFC Angles Natural / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANNATGRN212,CFC Angles Natural/Green 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANNATGRY212,"CFC Angles Natural/Gray 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATLAV212,CFC Angles Natural/Lavender 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANNATLEN212,"CFC Angles Natural/Lentil 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATOR212,"CFC Angles Natural/Orange 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATPNK212,"CFC Angles Natural/Pink 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATPRP212,"CFC Angles Natural/Purple 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATPUT212,"CFC Angles Natural/Putty 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATRD212,CFC Angles Natural/Red 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANNATSG212,"CFC Angles Natural/Sage 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATTL212,"CFC Angles Natural/Teal 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANNATTRQ212,CFC Angles Natural/Turquoise 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANNATWT212,CFC Angles Natural/White 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANNATY212,CFC Angles Natural/Yellow 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANOR212,"CFC Angles Orange/Orange 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANORBK212,"CFC Angles Orange/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANORGLD212,"CFC Angles Orange / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANORNAT212,"CFC Angles Orange/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANORWHT212,"CFC Angles Orange/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPNK212,"CFC Angles Pink/Pink 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPNKBK212,"CFC Angles Pink/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPNKGLD212,"CFC Angles Pink / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANPNKNAT212,"CFC Angles Pink/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPNKWHT212,"CFC Angles Pink/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPRP212,"CFC Angles Purple/Purple 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPRPBK212,"CFC Angles Purple/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPRPGLD212,"CFC Angles Purple / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANPRPNAT212,"CFC Angles Purple/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPRPWHT212,"CFC Angles Purple/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPUT212,"CFC Angles Putty/Putty 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPUTBK212,"CFC Angles Putty/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPUTGLD212,"CFC Angles Putty / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANPUTNAT212,"CFC Angles Putty/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANPUTWHT212,"CFC Angles Putty/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANRD212,"CFC Angles Red/Red 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANRDBK212,"CFC Angles Red/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANRDGLD212,"CFC Angles Red / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANRDGRY212,"CFC Angles Red/Gray 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANRDNAT212,CFC Angles Red/Natural 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANRDTL212,"CFC Angles Red/Teal 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANRDWHT212,"CFC Angles Red/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANSB1CUST,"Angles Shadow Box 1"" Deep",2.5,25.00,25.00,25.00,Wood
+ANSB2CUST,"Angles Shadow Box 2"" Deep",2.5,28.00,28.00,28.00,Wood
+ANSB3CUST,"Angles Shadow Box 3"" Deep",2.5,30.00,30.00,30.00,Wood
+ANSB4CUST,"Angles Shadow Box 4"" Deep",2.5,32.00,32.00,32.00,Wood
+ANSG212,"CFC Angles Sage/Sage 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANSGBK212,"CFC Angles Sage/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANSGGLD212,"CFC Angles Sage / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANSGNAT212,"CFC Angles Sage/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANSGWHT212,"CFC Angles Sage/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANTL212,"CFC Angles Teal/Teal 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANTLBK212,"CFC Angles Teal/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANTLGLD212,"CFC Angles Teal / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANTLNAT212,"CFC Angles Teal/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANTLRD212,"CFC Angles Teal/Red 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANTRQNAT212,CFC Angles Turquoise/Natural 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANTRQOR212,"CFC Angles Turquoise / Orange 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANTURQ212,"CFC Angles Turquoise / Turquoise 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANTURQGLD212,"CFC Angles Turquoise / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANTURQWHT212,"CFC Angles Turquoise / White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHT212,"CFC Angles White/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTBRN212,"CFC Angles White/Brown 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTDRKGRN212,"CFC Angles White/Dark Green 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTGRY212,"CFC Angles White/Gray 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTLEN212,"CFC Angles White/Lentil 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTNAT212,"CFC Angles White/Natural 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTOR212,"CFC Angles White/Orange 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTPNK212,"CFC Angles White/Pink 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTPRP212,"CFC Angles White/Purple 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTPUT212,"CFC Angles White/Putty 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWHTSG212,"CFC Angles White/Sage 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANWTBK212,CFC Angles White/Black 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANWTBL212,CFC Angles White/Blue 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANWTGLD212,"CFC Angles White / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANWTGRN212,CFC Angles White/Green 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANWTLAV212,CFC Angles White/Lavender 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANWTRD212,CFC Angles White/Red 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANWTTRQ212,CFC Angles White/Turquoise 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANWTY212,CFC Angles White/Yellow 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANY212,"CFC Angles Yellow/Yellow 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANYBK212,"CFC Angles Yellow/Black 2 1/2""",2.5,21.00,21.00,21.00,Wood
+ANYGLD212,"CFC Angles Yellow / Gold 2 1/2""",2.5,25.00,25.00,25.00,Wood
+ANYNAT212,CFC Angles Yellow/Natural 2 1/2,2.5,21.00,21.00,21.00,Wood
+ANYWHT212,"CFC Angles Yellow/White 2 1/2""",2.5,21.00,21.00,21.00,Wood
+BLKGRY114,CFC Soho - Black Over Gray 1 1/4,1.25,15.00,15.00,15.00,Wood
+BLKGRY58,CFC Soho - Black Over Gray 5/8,0.625,14.00,14.00,14.00,Wood
+BLKWHT114,CFC Soho - Black Over White 1 1/4,1.25,15.00,15.00,15.00,Wood
+BLKWHT58,CFC Soho - Black Over White 5/8,0.625,14.00,14.00,14.00,Wood
+BSB1CUST,"Brights Shadow Box 1"" Deep",1.25,17.50,17.50,17.50,Wood
+BSB2CUST,"Brights Shadow Box 2"" Deep",1.25,18.50,18.50,18.50,Wood
+BSB3CUST,"Brights Shadow Box 3"" Deep",1.25,20.00,20.00,20.00,Wood
+BSB4CUST,"Brights Shadow Box 4"" Deep",1.25,22.00,22.00,22.00,Wood
+BSB5CUST,"Brights Shadow Box 5"" Deep",1.25,26.00,26.00,26.00,Wood
+BSB6CUST,"Brights Shadow Box 6"" Deep",1.25,28.00,28.00,28.00,Wood
+BWW2CUST,"Brights Wider Width Custom 2""",2,18.50,18.50,18.50,Wood
+BWW3CUST,"Brights Wider Width Custom 3""",3,20.00,20.00,20.00,Wood
+BWW4CUST,"Brights Wider Width Custom 4""",4,22.00,22.00,22.00,Wood
+CAPCUST,"CFC Cap Custom 2"" Deep",0.75,19.50,19.50,19.50,Wood
+CRNBL114,"CFC Crayon Blue 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNBL58,"CFC Crayon Blue 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNBRGR114,"CFC Crayon Bright Green 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNBRGR58,"CFC Crayon Bright Green 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNGR114,"CFC Crayon Green 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNGR58,"CFC Crayon Green 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNLAV114,"CFC Crayon Lavender 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNLAV58,"CFC Crayon Lavender 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNLTBL114,"CFC Crayon Lite Blue 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNLTBL58,"CFC Crayon Lite Blue 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNOR114,"CFC Crayon Orange 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNOR58,"CFC Crayon Orange5/8""",0.625,14.00,14.00,14.00,Wood
+CRNPRP114,"CFC Crayon Purple 1 1/4"" ",1.25,15.00,15.00,15.00,Wood
+CRNPRP58,"CFC Crayon Purple 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNRD114,"CFC Crayon Red 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNRD58,"CFC Crayon Red 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNSB1CUST,"Crayon Shadow Box 1"" Deep",1.25,17.50,17.50,17.50,Wood
+CRNSB2CUST,"Crayon Shadow Box 2"" Deep",1.25,18.50,18.50,18.50,Wood
+CRNSB3CUST,"Crayon Shadow Box 3"" Deep",1.25,20.00,20.00,20.00,Wood
+CRNSB4CUST,"Crayon Shadow Box 4"" Deep",1.25,22.00,22.00,22.00,Wood
+CRNSB5CUST,"Crayon Shadow Box 5"" Deep",1.25,26.00,26.00,26.00,Wood
+CRNSB6CUST,"Crayon Shadow Box 6"" Deep",1.25,28.00,28.00,28.00,Wood
+CRNTRQ114,"CFC Crayon Turquoise 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNTRQ58,"CFC Crayon Turquoise 5/8""",0.625,14.00,14.00,14.00,Wood
+CRNWW2CUST,"Crayon Wider Width Custom 2""",2,18.50,18.50,18.50,Wood
+CRNWW3CUST,"Crayon Wider Width Custom 3""",3,20.00,20.00,20.00,Wood
+CRNWW4CUST,"Crayon Wider Width Custom 4""",4,22.00,22.00,22.00,Wood
+CRNY114,"CFC Crayon Yellow 1 1/4""",1.25,15.00,15.00,15.00,Wood
+CRNY58,"CFC Crayon Yellow 5/8""",0.625,14.00,14.00,14.00,Wood
+DISBK58,CFC Distressed - Black 5/8,0.625,14.00,14.00,14.00,Wood
+DISBL114,CFC Distressed - Blue  1 1/4,1.25,15.00,15.00,15.00,Wood
+DISBL58,CFC Distressed - Blue 5/8,0.625,14.00,14.00,14.00,Wood
+DISBLK114,CFC Distressed - Black 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISBRN114,CFC Distressed - Brown 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISBRN58,CFC Distressed - Brown 5/8,0.625,14.00,14.00,14.00,Wood
+DISCUST114,CFC Distressed Custom 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISDRKGRN114,CFC Distressed - Dark Green 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISDRKGRN58,CFC Distressed - Dark Green 5/8,0.625,14.00,14.00,14.00,Wood
+DISGR114,CFC Distressed - Green  1 1/4,1.25,15.00,15.00,15.00,Wood
+DISGR58,CFC Distressed - Green 5/8,0.625,14.00,14.00,14.00,Wood
+DISGRY114,CFC Distressed - Gray 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISGRY58,CFC Distressed - Gray 5/8,0.625,14.00,14.00,14.00,Wood
+DISLAV114,CFC Distressed - Lavender 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISLAV58,CFC Distressed - Lavender 5/8,0.625,14.00,14.00,14.00,Wood
+DISLEN114,CFC Distressed - Lentil 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISLEN58,CFC Distressed - Lentil 5/8,0.625,14.00,14.00,14.00,Wood
+DISNAT114,CFC Distressed - Natural 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISNAT58,CFC Distressed - Natural 5/8,0.625,14.00,14.00,14.00,Wood
+DISOR114,CFC Distressed - Orange 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISOR58,CFC Distressed - Orange 5/8,0.625,14.00,14.00,14.00,Wood
+DISPNK114,CFC Distressed - Pink 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISPNK58,CFC Distressed - Pink 5/8,0.625,14.00,14.00,14.00,Wood
+DISPRP114,CFC Distressed - Purple 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISPRP58,CFC Distressed - Purple 5/8,0.625,14.00,14.00,14.00,Wood
+DISPUT114,CFC Distressed - Putty 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISPUT58,CFC Distressed - Putty 5/8,0.625,14.00,14.00,14.00,Wood
+DISRD114,CFC Distressed - Red  1 1/4,1.25,15.00,15.00,15.00,Wood
+DISRD58,CFC Distressed - Red 5/8,0.625,14.00,14.00,14.00,Wood
+DISSB1CUST,"Distressed Shadow Box 1"" Deep",1.25,17.50,17.50,17.50,Wood
+DISSB2CUST,"Distressed Shadow Box 2"" Deep",1.25,18.50,18.50,18.50,Wood
+DISSB3CUST,"Distressed Shadow Box 3"" Deep",1.25,20.00,20.00,20.00,Wood
+DISSB4CUST,"Distressed Shadow Box 4"" Deep",1.25,22.00,22.00,22.00,Wood
+DISSB5CUST,"Distressed Shadow Box 5"" Deep",1.25,26.00,26.00,26.00,Wood
+DISSB6CUST,"Distressed Shadow Box 6"" Deep",1.25,28.00,28.00,28.00,Wood
+DISSG114,CFC Distressed - Sage 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISSG58,CFC Distressed - Sage 5/8,0.625,14.00,14.00,14.00,Wood
+DISTL114,CFC Distressed - Teal 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISTL58,CFC Distressed - Teal 5/8,0.625,14.00,14.00,14.00,Wood
+DISTURQ114,CFC Distressed - Turquoise 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISTURQ58,CFC Distressed - Turquoise 5/8,0.625,14.00,14.00,14.00,Wood
+DISWHT114,CFC Distressed - White 1 1/4,1.25,15.00,15.00,15.00,Wood
+DISWHT58,CFC Distressed - White 5/8,0.625,14.00,14.00,14.00,Wood
+DISWW2CUST,"Distressed Wider Width Custom 2""",2,18.50,18.50,18.50,Wood
+DISWW3CUST,"Distressed Wider Width Custom 3""",3,20.00,20.00,20.00,Wood
+DISWW4CUST,"Distressed Wider Width Custom 4""",4,22.00,22.00,22.00,Wood
+DISWW5CUST,"Distressed Wider Width Custom 5""",5,24.00,24.00,24.00,Wood
+DISY58,CFC Distressed - Yellow 5/8,0.625,14.00,14.00,14.00,Wood
+DISYEL114,CFC Distressed - Yellow  1 1/4,1.25,15.00,15.00,15.00,Wood
+DKGRRD114,CFC Brights - Dark Green Over Red 1 1/4,1.25,15.00,15.00,15.00,Wood
+DKGRRD58,CFC Brights - Dark Green Over Red 5/8,0.625,14.00,14.00,14.00,Wood
+DWGRY114,CFC Driftwood - Gray 1 1/4,1.25,15.00,15.00,15.00,Wood
+DWGRY2,CFC Drfitwood - Gray 2 inches,2,17.50,17.50,17.50,Wood
+DWGRY3,CFC Drfitwood - Gray 3 inches,3,19.00,19.00,19.00,Wood
+DWGRY58,CFC Driftwood - Gray 5/8,0.625,14.00,14.00,14.00,Wood
+FBKGRY,Fillet Black over Gray 1/4”,0.25,8.50,8.50,8.50,Fillet
+FBKWT,Fillet Black over White 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISBK,Fillet Distressed Black 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISBL,Fillet Distressed Blue 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISGRN,Fillet Distressed Green 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISGRY,Fillet Distressed Gray 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISNAT,Fillet Distressed Natural 1/4” ,0.25,8.50,8.50,8.50,Fillet
+FDISOR,Fillet Distressed Orange 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISPRP,Fillet Distressed Purple 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISRD,Fillet Distressed Red 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDISWT,Fillet Distressed White 1/4”,0.25,8.50,8.50,8.50,Fillet
+FDKGRRD,Fillet Dark Green over Red 1/4”,0.25,8.50,8.50,8.50,Fillet
+FGROR,Fillet Green Over Orange 1/4”,0.25,8.50,8.50,8.50,Fillet
+FGRPRP,Fillet Green over Purple 1/4”,0.25,8.50,8.50,8.50,Fillet
+FGRYBK,Fillet Gray overt Black 1/4”,0.25,8.50,8.50,8.50,Fillet
+FGRYRD,Fillet Gray over Red 1/4”,0.25,8.50,8.50,8.50,Fillet
+FGRYWT,Fillet Gray over White 1/4”,0.25,8.50,8.50,8.50,Fillet
+FLBKGRY1,Floater Black/Gray 1”,0.375,19.00,19.00,19.00,Wood
+FLBKGRY2,Floater Black/Gray 2”,0.375,21.00,21.00,21.00,Wood
+FLBKWHT1,Floater Black/White 1”,0.375,19.00,19.00,19.00,Wood
+FLBKWHT2,Floater Black/White 2”,0.375,21.00,21.00,21.00,Wood
+FLDIDBKSIL1,Floater Distressed Black/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDIDBKSIL2,Floater Distressed Black/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISBK1,Floater Distressed Black 1”,0.375,19.00,19.00,19.00,Wood
+FLDISBK2,Floater Distressed Black 2”,0.375,21.00,21.00,21.00,Wood
+FLDISBKGLD1,Floater Distressed Black/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISBKGLD2,Floater Distressed Black/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISBL1,Floater Distressed Blue 1”,0.375,19.00,19.00,19.00,Wood
+FLDISBL2,Floater Distressed Blue 2”,0.375,21.00,21.00,21.00,Wood
+FLDISBLGLD1,Floater Distressed Blue/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISBLGLD2,Floater Distressed Blue/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISBLSIL1,Floater Distressed Blue/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISBLSIL2,Floater Distressed Blue/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISGRN1,Floater Distressed Green 1”,0.375,19.00,19.00,19.00,Wood
+FLDISGRN2,Floater Distressed Green 2”,0.375,21.00,21.00,21.00,Wood
+FLDISGRNGLD1,Floater Distressed Green/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISGRNGLD2,Floater Distressed Green/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISGRNSIL1,Floater Distressed Green/Silver1”,0.375,24.00,24.00,24.00,Wood
+FLDISGRNSIL2,Floater Distressed Green/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISLAV1,Floater Distressed Lavender 1”,0.375,19.00,19.00,19.00,Wood
+FLDISLAV2,Floater Distressed Lavender 2”,0.375,21.00,21.00,21.00,Wood
+FLDISLAVGLD1,Floater Distressed Lavender/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISLAVGLD2,Floater Distressed Lavender/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISLAVSIL1,Floater Distressed Lavender/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISLAVSIL2,Floater Distressed Lavender/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISNAT1,Floater Distressed Natural 1”,0.375,19.00,19.00,19.00,Wood
+FLDISNAT2,Floater Distressed Natural 2”,0.375,21.00,21.00,21.00,Wood
+FLDISNATGLD1,Floater Distressed Natural/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISNATGLD2,Floater Distressed Natural/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISNATSIL1,Floater Distressed Natural/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISNATSIL2,Floater Distressed Natural/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISOR1,Floater Distressed Orange 1”,0.375,19.00,19.00,19.00,Wood
+FLDISOR2,Floater Distressed Orange 2”,0.375,21.00,21.00,21.00,Wood
+FLDISORGLD1,Floater Distressed Orange/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISORGLD2,Floater Distressed Orange/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISORSIL1,Floater Distressed Orange/Silver1”,0.375,24.00,24.00,24.00,Wood
+FLDISORSIL2,Floater Distressed Orange/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISPRP1,Floater Distressed Purple 1”,0.375,19.00,19.00,19.00,Wood
+FLDISPRP2,Floater Distressed Purple 2”,0.375,21.00,21.00,21.00,Wood
+FLDISPRPGLD1,Floater Distressed Purple/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISPRPGLD2,Floater Distressed Purple/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISPRPSIL1,Floater Distressed Purple/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISPRPSIL2,Floater Distressed Purple/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISRD1,Floater Distressed Red 1”,0.375,19.00,19.00,19.00,Wood
+FLDISRD2,Floater Distressed Red 2”,0.375,21.00,21.00,21.00,Wood
+FLDISRDGLD1,Floater Distressed Red/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISRDGLD2,Floater Distressed Red/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISRDSIL1,Floater Distressed Red/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISRDSIL2,Floater Distressed Red/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISSG1,Floater Distressed Sage 1”,0.375,19.00,19.00,19.00,Wood
+FLDISSG2,Floater Distressed Sage 2”,0.375,21.00,21.00,21.00,Wood
+FLDISSGGLD1,Floater Distressed Sage/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISSGGLD2,Floater Distressed Sage/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISSGSIL1,Floater Distressed Sage/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISSGSIL2,Floater Distressed Sage/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISTRQ1,Floater Distressed Turquoise 1”,0.375,19.00,19.00,19.00,Wood
+FLDISTRQ2,Floater Distressed Turquoise 2”,0.375,21.00,21.00,21.00,Wood
+FLDISTRQGLD1,Floater Distressed Turquoise/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISTRQGLD2,Floater Distressed Turquoise/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISTRQSIL1,Floater Distressed Turquoise/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISTRQSIL2,Floater Distressed Turquoise/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDISWHT1,Floater Distressed White 1”,0.375,19.00,19.00,19.00,Wood
+FLDISWHT2,Floater Distressed White 2”,0.375,21.00,21.00,21.00,Wood
+FLDISWHTGLD1,Floater Distressed White/Gold 1”,0.375,24.00,24.00,24.00,Wood
+FLDISWHTGLD2,Floater Distressed White/Gold 2”,0.375,26.00,26.00,26.00,Wood
+FLDISWHTSIL1,Floater Distressed White/Silver 1”,0.375,24.00,24.00,24.00,Wood
+FLDISWHTSIL2,Floater Distressed White/Silver 2”,0.375,26.00,26.00,26.00,Wood
+FLDRKGRRD1,Floater Dark Green/Red 1”,0.375,19.00,19.00,19.00,Wood
+FLDRKGRRD2,Floater Dark Green/Red 2”,0.375,21.00,21.00,21.00,Wood
+FLGRNOR1,Floater Green/Orange 1”,0.375,19.00,19.00,19.00,Wood
+FLGRNOR2,Floater Green/Orange 2”,0.375,21.00,21.00,21.00,Wood
+FLGRPRP1,Floater Green/Purple 1”,0.375,19.00,19.00,19.00,Wood
+FLGRPRP2,Floater Green/Purple 2”,0.375,21.00,21.00,21.00,Wood
+FLGRYBK1,Floater Gray/Black 1”,0.375,19.00,19.00,19.00,Wood
+FLGRYBK2,Floater Gray/Black 2”,0.375,21.00,21.00,21.00,Wood
+FLGRYWHT1,Floater Gray/White 1”,0.375,19.00,19.00,19.00,Wood
+FLGRYWHT2,Floater Gray/White 2”,0.375,21.00,21.00,21.00,Wood
+FLLTBLRD1,Floater Light Blue/Red 1”,0.375,19.00,19.00,19.00,Wood
+FLLTBLRD2,Floater Light Blue/Red 2”,0.375,21.00,21.00,21.00,Wood
+FLPRPOR1,Floater Purple/Red 1”,0.375,19.00,19.00,19.00,Wood
+FLPRPRD1,"Floater Purple/Red 1""",0.375,19.00,19.00,19.00,Wood
+FLPRPRD2,Floater Purple Red 2”,0.375,21.00,21.00,21.00,Wood
+FLRDPRP1,Floater Red/Purple 1”,0.375,19.00,19.00,19.00,Wood
+FLRDPRP2,Floater Red/Purple 2”,0.375,21.00,21.00,21.00,Wood
+FLTBLRD,Fillet Light Blue over Red 1/4”,0.25,8.50,8.50,8.50,Wood
+FLTRQOR1,Floater Turquoise /Orange 1”,0.375,19.00,19.00,19.00,Wood
+FLTRQOR2,Floater Turquoise /Orange 2”,0.375,21.00,21.00,21.00,Wood
+FLWHTBK1,Floater White/Black 1”,0.375,19.00,19.00,19.00,Wood
+FLWHTBK2,Floater White/Black 2”,0.375,21.00,21.00,21.00,Wood
+FLWHTGRY1,Floater White/Gray 1”,0.375,19.00,19.00,19.00,Wood
+FLWHTGRY2,Floater White/Gray 2”,0.375,21.00,21.00,21.00,Wood
+FLYGR1,Floater Yellow/Green 1”,0.375,19.00,19.00,19.00,Wood
+FLYGR2,Floater Yellow/Green 2”,0.375,21.00,21.00,21.00,Wood
+FPRPOR,Fillet Purple over Orange 1/4”,0.25,8.50,8.50,8.50,Wood
+FPRPRD,Fillet Purple over Red 1/4”,0.25,8.50,8.50,8.50,Wood
+FRDPRP,Fillet Red over Purple 1/4”,0.25,8.50,8.50,8.50,Wood
+FWTBK,Fillet White over Black 1/4”,0.25,8.50,8.50,8.50,Wood
+FWTGRY,Fillet White over Gray 1/4”,0.25,8.50,8.50,8.50,Wood
+GRBL114,CFC Brights - Green Over Blue 1 1/4,1.25,15.00,15.00,15.00,Wood
+GRBL58,CFC Brights - Green Over Blue 5/8,0.625,14.00,14.00,14.00,Wood
+GROR114,CFC Brights - Green Over Orange 1 1/4,1.25,15.00,15.00,15.00,Wood
+GROR58,CFC Brights - Green Over Orange 5/8,0.625,14.00,14.00,14.00,Wood
+GRPRP114,CFC Brights - Green Over Purple 1 1/4,1.25,15.00,15.00,15.00,Wood
+GRPRP58,CFC Brights - Green Over Purple 5/8,0.625,14.00,14.00,14.00,Wood
+GRYBLK114,CFC Soho - Gray Over Black 1 1/4,1.25,15.00,15.00,15.00,Wood
+GRYBLK58,CFC Soho - Gray Over Black 5/8,0.625,14.00,14.00,14.00,Wood
+GRYWHT114,CFC Soho - Gray Over White 1 1/4,1.25,15.00,15.00,15.00,Wood
+GRYWHT58,CFC Soho - Gray Over White 5/8,0.625,14.00,14.00,14.00,Wood
+LTBLRD114,CFC Brights - Light Blue Over Red 1 1/4,1.25,15.00,15.00,15.00,Wood
+LTBLRD58,CFC Brights - Light Blue Over Red 5/8,0.625,14.00,14.00,14.00,Wood
+PRPOR114,CFC Brights - Purple Over Orange 1 1/4,1.25,15.00,15.00,15.00,Wood
+PRPOR58,CFC Brights - Purple Over Orange 5/8,0.625,14.00,14.00,14.00,Wood
+PRPRD114,CFC Brights - Purple Over Red 1 1/4,1.25,15.00,15.00,15.00,Wood
+PRPRD58,CFC Brights - Purple Over Red 5/8,0.625,14.00,14.00,14.00,Wood
+RDPRP114,CFC Brights - Red Over Purple 1 1/4,1.25,15.00,15.00,15.00,Wood
+RDPRP58,CFC Brights - Red Over Purple 5/8,0.625,14.00,14.00,14.00,Wood
+RDYL114,CFC Brights - Red Over Yellow 1 1/4,1.25,15.00,15.00,15.00,Wood
+RDYL58,CFC Brights - Red Over Yellow 5/8,0.625,14.00,14.00,14.00,Wood
+RKBK134,CFC Rockland Black/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKBL134,CFC Rockland Black/Blue 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKBRN134,CFC Rockland Black/Brown 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKDRKGRN134,CFC Rockland Black/Dark Green 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKGRY134,CFC Rockland Black/Gray 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKLAV134,CFC Rockland Black/Lavender 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKLEN134,CFC Rockland Black/Lentil 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKNAT134,CFC Rockland Black/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKOR134,CFC Rockland Black/Orange 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKPNK134,CFC Rockland Black/Pink 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKPRP134,CFC Rockland Black/Purple 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKPUT134,CFC Rockland Black/Putty 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKRD134,CFC Rockland Black/Red 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKSG134,CFC Rockland Black/Sage 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKTL134,CFC Rockland Black/Teal 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKTURQ134,CFC Rockland Black/Turquoise 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKWHT134,CFC Rockland Black/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBKY134,CFC Rockland Black/Yellow 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBL134,CFC Rockland Blue/Blue 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBLBK134,CFC Rockland Blue/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBLNAT134,CFC Rockland Blue/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBLRD134,CFC Rockland Blue/Red 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBLWHT134,CFC Rockland Blue/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBRN134,CFC Rockland Brown/Brown 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBRNBK134,CFC Rockland Brown/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBRNNAT134,CFC Rockland Brown/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKBRNWHT134,CFC Rockland Brown/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKCUST134,CFC Rockland Custom Color 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKDRKGRN134,CFC Rockland Dark Green/Dark Green 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKDRKGRNBK134,CFC Rockland Dark Green/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKDRKGRNNAT134,CFC Rockland Dark Green/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKDRKGRNWHT134,CFC Rockland Dark Green/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKGRNNAT134,CFC Rockland Green/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKGRNOR134,CFC Rockland Green/Orange 1 3/4”,1.75,20.00,20.00,20.00,Wood
+RKGRPRP134,CFC Rockland Green/Purple 1 3/4”,1.75,20.00,20.00,20.00,Wood
+RKGRY134,CFC Rockland Gray/Gray 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKGRYBK134,CFC Rockland Gray/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKGRYNAT134,CFC Rockland Gray/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKGRYRD134,CFC Rockland Gray/Red 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKGRYWHT134,CFC Rockland Gray/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLAV134,CFC Rockland Lavender/Lavender 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLAVBK134,CFC Rockland Lavender/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLAVNAT134,CFC Rockland Lavender/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLAVWHT134,CFC Rockland Lavender/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLEN134,CFC Rockland Lentil/Lentil 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLENBK134,CFC Rockland Lentil/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLENNAT134,CFC Rockland Lentil/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKLENWHT134,CFC Rockland Lentil/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNAT134,CFC Rockland Natural/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATBK134,CFC Rockland Natural/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATBL134,CFC Rockland Natural/Blue 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATBRN134,CFC Rockland Natural/Brown 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATDRKGRN134,CFC Rockland Natural/Dark Green 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATGRN134,CFC Rockland Natural/Green 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATGRY134,CFC Rockland Natural/Gray 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATLAV134,CFC Rockland Natural/Lavender 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATLEN134,CFC Rockland Natural/Lentil 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATOR134,CFC Rockland Natural/Orange 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATPNK134,CFC Rockland Natural/Pink 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATPRP134,CFC Rockland Natural/Purple 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATPUT134,CFC Rockland Natural/Putty 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATRD134,CFC Rockland Natural/Red 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATSG134,CFC Rockland Natural/Sage 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATTL134,CFC Rockland Natural/Teal 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATTURQ134,CFC Rockland Natural/Turquoise 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATWHT134,CFC Rockland Natural/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKNATY134,CFC Rockland Natural/Yellow 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKOR134,CFC Rockland Orange/Orange 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKORBK134,CFC Rockland Orange/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKORGRN134,CFC Rockland Orange/Green 1 3/4”,1.75,20.00,20.00,20.00,Wood
+RKORNAT134,CFC Rockland Orange/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKORWHT134,CFC Rockland Orange/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPNK134,CFC Rockland Pink/Pink 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPNKBK134,CFC Rockland Pink/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPNKNAT134,CFC Rockland Pink/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPNKWHT134,CFC Rockland Pink/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPRP134,CFC Rockland Purple/Purple 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPRPBK134,CFC Rockland Purple/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPRPGRN134,CFC Rockland Purple/Green 1 3/4”,1.75,20.00,20.00,20.00,Wood
+RKPRPNAT134,CFC Rockland Purple/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPRPWHT134,CFC Rockland Purple/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPRPY134,CFC Rockland Purple/Yellow 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPUT134,CFC Rockland Putty/Putty 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPUTBK134,CFC Rockland Putty/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPUTNAT134,CFC Rockland Putty/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKPUTWHT134,CFC Rockland Putty/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKRD134,CFC Rockland Red/Red 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKRDBK134,CFC Rockland Red/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKRDBL134,CFC Rockland Red/Blue 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKRDGRY134,CFC Rockland Red/Gray 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKRDNAT134,CFC Rockland Red/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKRDTL134,CFC Rockland Red/Teal 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKRDWHT134,CFC Rockland Red/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKSB1CUST,"Rockland Shadow Box 1"" Deep",1.625,22.00,22.00,22.00,Wood
+RKSB2CUST,"Rockland Shadow Box 2"" Deep",1.625,24.00,24.00,24.00,Wood
+RKSB3CUST,"Rockland Shadow Box 3"" Deep",1.625,26.00,26.00,26.00,Wood
+RKSB4CUST,"Rockland Shadow Box 4"" Deep",1.625,28.00,28.00,28.00,Wood
+RKSB5CUST,"Rockland Shadow Box 5"" Deep",1.625,30.00,30.00,30.00,Wood
+RKSB6CUST,"Rockland Shadow Box 6"" Deep",1.625,32.00,32.00,32.00,Wood
+RKSG134,CFC Rockland Sage/Sage 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKSGBK134,CFC Rockland Sage/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKSGNAT134,CFC Rockland Sage/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKSGWHT134,CFC Rockland Sage/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTL134,CFC Rockland Teal/Teal 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTLBK134,CFC Rockland Teal/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTLNAT134,CFC Rockland Teal/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTLRD134,CFC Rockland Teal/Red 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTURQ134,CFC Rockland Turquoise/Turquoise 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTURQBK134,CFC Rockland Turquoise/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTURQNAT134,CFC Rockland Turquoise/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKTURQWHT134,CFC Rockland Turquoise/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHT134,CFC Rockland White/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTBK134,CFC Rockland White/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTBL134,CFC Rockland White/Blue 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTBRN134,CFC Rockland White/Brown 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTDRKGRN134,CFC Rockland White/Dark Green 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTGRY134,CFC Rockland White/Gray 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTLAV134,CFC Rockland White/Lavender 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTLEN134,CFC Rockland White/Lentil 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTNAT134,CFC Rockland White/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTOR134,CFC Rockland White/Orange 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTPNK134,CFC Rockland White/Pink 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTPRP134,CFC Rockland White/Purple 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTPUT134,CFC Rockland White/Putty 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTRD134,CFC Rockland White/Red 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTSG134,CFC Rockland White/Sage 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTTURQ134,CFC Rockland White/Turquoise 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTY134,CFC Rockland White/Yellow 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKWHTY134,CFC Rockland White/Yellow 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKY134,CFC Rockland Yellow/Yellow 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKYBK134,CFC Rockland Yellow/Black 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKYNAT134,CFC Rockland Yellow/Natural 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKYPRP134,CFC Rockland Yellow/Purple 1 3/4,1.75,20.50,20.50,20.50,Wood
+RKYRD134,CFC Rockland Yellow/Red  1 3/4”,1.75,20.00,20.00,20.00,Wood
+RKYWHT134,CFC Rockland Yellow/White 1 3/4,1.75,20.50,20.50,20.50,Wood
+SHSB1CUST,"SoHo Shadow Box 1"" Deep",1.25,17.50,17.50,17.50,Wood
+SHSB2CUST,"SoHo Shadow Box 2"" Deep",1.25,18.50,18.50,18.50,Wood
+SHSB3CUST,"SoHo Shadow Box 3"" Deep",1.25,20.00,20.00,20.00,Wood
+SHSB4CUST,"SoHo Shadow Box 4"" Deep",1.25,22.00,22.00,22.00,Wood
+SHSB5CUST,"SoHo Shadow Box 5"" Deep",1.25,26.00,26.00,26.00,Wood
+SHSB6CUST,"SoHo Shadow Box 6"" Deep",1.25,28.00,28.00,28.00,Wood
+SHWW2CUST,"SoHo Wider Width Custom 2""",2,18.50,18.50,18.50,Wood
+SHWW3CUST,"SoHo Wider Width Custom 3""",3,20.00,20.00,20.00,Wood
+SHWW4CUST,"SoHo Wider Width Custom 4""",4,22.00,22.00,22.00,Wood
+STBK134,CFC Steps Black/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKBL134,CFC Steps Black/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKBRN134,CFC Steps Black/Brown 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKDRKGRN134,CFC Steps Black/Dark Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKGLD134,"CFC Steps Black / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STBKGRN134,CFC Steps Black/Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKGRY134,CFC Steps Black/Gray 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKLAV134,CFC Steps Black/Lavender 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKLEN134,CFC Steps Black/Lentil 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKNAT135,CFC Steps Black/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKOR134,CFC Steps Black/Orange 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKPNK134,CFC Steps Black/Pink 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKPRP134,CFC Steps Black/Purple 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKPUT134,CFC Steps Black/Putty 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKRD134,CFC Steps Black/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKSG134,CFC Steps Black/Sage 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKTL134,CFC Steps Black/Teal 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKTURQ134,CFC Steps Black/Turquoise 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKWT134,CFC Steps Black/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBKY134,CFC Steps Black/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBL134,CFC Steps Blue/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBLBK134,CFC Steps Blue/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBLGLD134,"CFC Steps Blue / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STBLGRN134,CFC Steps Blue/Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBLNAT134,CFC Steps Blue/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBLRD134,CFC Steps Blue/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBLWT134,CFC Steps Blue/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBLY134,CFC Steps Blue/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBRN134,CFC Steps Brown/Brown 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBRNBK134,CFC Steps Brown/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBRNGLD134,"CFC Steps Brown / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STBRNNAT134,CFC Steps Brown/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STBRNWHT134,CFC Steps Brown/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STCUST134,CFC Steps Custom 1 3/4,1.75,18.00,18.00,18.00,Wood
+STCUST134,CFC Steps Custom Colors 1 3/4,1.75,18.00,18.00,18.00,Wood
+STCUST234,CFC Steps Custom Colors 2 3/4 ,2.75,18.00,18.00,18.00,Wood
+STCUSTGLD134,"CFC Steps Custom / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STDRKGRN134,CFC Steps Dark Green/Dark Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STDRKGRN134,CFC Steps Dark Green/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STDRKGRNBK134,CFC Steps Dark Green/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STDRKGRNGLD134,"CFC Steps Dark Green / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STDRKGRNNAT134,CFC Steps Dark Green/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRNBK134,CFC Steps Green/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRNBL134,CFC Steps Green/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRNGLD134,"CFC Steps Green / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STGRNLAV134,CFC Steps Green/Lavender 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRNNAT134,CFC Steps Green/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRNRD134,CFC Steps Green/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRNWT134,CFC Steps Green/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRNY134,CFC Steps Green/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRY134,CFC Steps Gray/Gray 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRYBK134,CFC Steps Gray/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRYGLD134,"CFC Steps Gray / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STGRYNAT134,CFC Steps Gray/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRYRD,CFC Steps Gray/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STGRYWHT134,CFC Steps Gray/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLAV134,CFC Steps Lavender/Lavender 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLAVBK134,CFC Steps Lavender/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLAVGLD134,"CFC Steps Lavender / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STLAVNAT134,CFC Steps Lavender/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLAVRD134,CFC Steps Lavender/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLAVTRQ134,CFC Steps Lavender/Turquoise 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLAVWT134,CFC Steps Lavender/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLEN134,CFC Steps Lentil/Lentil 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLENBK134,CFC Steps Lentil/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLENGLD134,"CFC Steps Lentil / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STLENNAT134,CFC Steps Lentil/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STLENWHT134,CFC Steps Lentil/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNAT134,CFC Steps Natural/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATBK134,CFC Steps Natural/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATBL134,CFC Steps Natural/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATBRN134,CFC Steps Natural/Brown 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATDRKGRN134,CFC Steps Natural/Dark Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATGLD134,"CFC Steps Natural / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STNATGRN134,CFC Steps Natural/Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATGRY134,CFC Steps Natural/Gray 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATLAV134,CFC Steps Natural/Lavender 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATLEN134,CFC Steps Natural/Lentil 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATOR134,CFC Steps Natural/Orange 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATPNK134,CFC Steps Natural/Pink 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATPRP134,CFC Steps Natural/Purple 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATPUT134,CFC Steps Natural/Putty 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATRD134,CFC Steps Natural/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATSG134,CFC Steps Natural/Sage 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATTL134,CFC Steps Natural/Teal 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATTRQ134,CFC Steps Natural/Turquoise 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATWHT134,CFC Steps Natural/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATWT134,CFC Steps Natural/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STNATY134,CFC Steps Natural/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STOR134,CFC Steps Orange/Orange 1 3/4,1.75,18.00,18.00,18.00,Wood
+STORBK134,CFC Steps Orange/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STORGLD134,"CFC Steps Orange / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STORNAT134,CFC Steps Orange/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STORWHT134,CFC Steps Orange/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPNK134,CFC Steps Pink/Pink 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPNKBK134,CFC Steps Pink/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPNKGLD134,"CFC Steps Pink / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STPNKNAT134,CFC Steps Pink/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPNKWHT134,CFC Steps Pink/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPRP134,CFC Steps Purple/Purple 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPRPBK134,CFC Steps Purple/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPRPGLD134,"CFC Steps Purple / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STPRPNAT134,CFC Steps Purple/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPRPWHT134,CFC Steps Purple/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPRPY134,CFC Steps Purple/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPUT134,CFC Steps Putty/Putty 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPUTBK134,CFC Steps Putty/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPUTGLD134,"CFC Steps Putty / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STPUTNAT134,CFC Steps Putty/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STPUTWHT134,CFC Steps Putty/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRD134,CFC Steps Red/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDBK134,CFC Steps Red/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDBL134,CFC Steps Red/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDGLD134,"CFC Steps Red / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STRDGRN134,CFC Steps Red/Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDGRY134,CFC Steps Red/Gray 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDNAT134,CFC Steps Red/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDTL134,CFC Steps Red/Teal 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDTRQ134,CFC Steps Red/Turquoise 1 3/4,1.75,18.00,18.00,18.00,Wood
+STRDWT134,CFC Steps Red/White 1  3/4,1.75,18.00,18.00,18.00,Wood
+STRDY134,CFC Steps Red/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STSB1CUST,"Steps Shadow Box 1"" Deep",1.75,21.00,21.00,21.00,Wood
+STSB2CUST,"Steps Shadow Box 2"" Deep",1.75,23.00,23.00,23.00,Wood
+STSB3CUST,"Steps Shadow Box 3"" Deep",1.75,26.00,26.00,26.00,Wood
+STSB4CUST,"Steps Shadow Box 4"" Deep",1.75,28.00,28.00,28.00,Wood
+STSB5CUST,"Steps Shadow Box 5"" Deep",1.75,30.00,30.00,30.00,Wood
+STSG134,CFC Steps Sage/Sage 1 3/4,1.75,18.00,18.00,18.00,Wood
+STSGBK134,CFC Steps Sage/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STSGGLD134,"CFC Steps Sage / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STSGNAT134,CFC Steps Sage/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STSGWHT134,CFC Steps Sage/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTL134,CFC Steps Teal/Teal 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTLBK134,CFC Steps Teal/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTLGLD134,"CFC Steps Teal / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STTLNAT134,CFC Steps Teal/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTLRD134,CFC Steps Teal/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTRQBK134,CFC Steps Turquoise/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTRQBL134,CFC Steps Turquoise/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTRQGRN134,CFC Steps Turquoise/Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTRQLAV134,CFC Steps Turquoise/Lavender 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTRQOR134,"CFC Steps Turquoise/Orange 1 3/4""",1.75,18.00,18.00,18.00,Wood
+STTRQWT134,CFC Steps Turquoise/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTRQY134,CFC Steps Turquoise /Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTURQ134,CFC Steps Turquoise/Turquoise 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTURQBK134,CFC Steps Turquoise/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTURQGLD134,"CFC Steps Turquoise / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STTURQNAT134,CFC Steps Turquoise/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STTURQWHT134,CFC Steps Turquoise/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHT134,CFC Steps White/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTBRN134,CFC Steps White/Brown 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTDRKGRN134,CFC Steps White/Dark Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTGRY134,CFC Steps White/Gray 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTLEN134,CFC Steps White/Lentil 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTNAT134,CFC Steps White/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTOR134,CFC Steps White/Orange 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTPNK134,CFC Steps White/Pink 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTPRP134,CFC Steps White/Purple 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTPUT134,CFC Steps White/Putty 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWHTSG134,CFC Steps White/Sage 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTBK134,CFC Steps White/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTBL134,CFC Steps White/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTGLD134,"CFC Steps White / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STWTGRN134,CFC Steps White/Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTLAV134,CFC Steps White/Lavender 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTNAT134,CFC Steps White/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTRD134,CFC Steps White/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTTRQ134,CFC Steps White/Turquoise 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWTY134,CFC Steps White/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STWW2CUST,"Steps Wider Width Custom 2""",2,24.00,24.00,24.00,Wood
+STWW3CUST,"Steps Wider Width Custom 3""",3,26.00,26.00,26.00,Wood
+STWW4CUST,"Steps Wider Width Custom 4""",4,28.00,28.00,28.00,Wood
+STY134,CFC Steps Yellow/Yellow 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYBK134,CFC Steps Yellow/Black 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYBL134,CFC Steps Yellow/Blue 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYGLD134,"CFC Steps Yellow / Gold 1 3/4""",1.75,24.00,24.00,24.00,Wood
+STYGRN134,CFC Steps Yellow/Green 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYNAT134,CFC Steps Yellow/Natural 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYPRP134,CFC Steps Yellow/Purple 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYRD134,CFC Steps Yellow/Red 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYTRQ134,CFC Steps Yellow/Turquoise 1 3/4,1.75,18.00,18.00,18.00,Wood
+STYWT134,CFC Steps Yellow/White 1 3/4,1.75,18.00,18.00,18.00,Wood
+SWBK2,CFC Essex Black/Black 2,2,22.00,22.00,22.00,Wood
+SXBKBL2,CFC Essex Black/Blue 2,2,22.00,22.00,22.00,Wood
+SXBKBRN2,CFC Essex Black/Brown 2,2,22.00,22.00,22.00,Wood
+SXBKDRKGRN2,CFC Essex Black/Dark Green 2,2,22.00,22.00,22.00,Wood
+SXBKGLD2,"CFC Essex Black/Gold 2""",2,26.50,26.50,26.50,Wood
+SXBKGRY2,CFC Essex Black/Gray 2,2,22.00,22.00,22.00,Wood
+SXBKLAV2,CFC Essex Black/Lavender 2,2,22.00,22.00,22.00,Wood
+SXBKLEN2,CFC Essex Black/Lentil 2,2,22.00,22.00,22.00,Wood
+SXBKNAT2,CFC Essex Black/Natural 2,2,22.00,22.00,22.00,Wood
+SXBKOR2,CFC Essex Black/Orange 2,2,22.00,22.00,22.00,Wood
+SXBKPNK2,CFC Essex Black/Pink 2,2,22.00,22.00,22.00,Wood
+SXBKPRP2,CFC Essex Black/Purple 2,2,22.00,22.00,22.00,Wood
+SXBKPUT2,CFC Essex Black/Putty 2,2,22.00,22.00,22.00,Wood
+SXBKRD2,CFC Essex Black/Red 2,2,22.00,22.00,22.00,Wood
+SXBKSG2,CFC Essex Black/Sage 2,2,22.00,22.00,22.00,Wood
+SXBKSIL2,"CFC Essex Black / Silver 2""",2,26.50,26.50,26.50,Wood
+SXBKTL2,CFC Essex Black/Teal 2,2,22.00,22.00,22.00,Wood
+SXBKTURQ2,CFC Essex Black/Turquoise 2,2,22.00,22.00,22.00,Wood
+SXBKWHT2,CFC Essex Black/White 2,2,22.00,22.00,22.00,Wood
+SXBKY2,CFC Essex Black/Yellow 2,2,22.00,22.00,22.00,Wood
+SXBL2,CFC Essex Blue/Blue 2,2,22.00,22.00,22.00,Wood
+SXBLBK2,CFC Essex Blue/Black 2,2,22.00,22.00,22.00,Wood
+SXBLGLD2,"CFC Essex Blue/ Gold 2""",2,26.50,26.50,26.50,Wood
+SXBLNAT2,CFC Essex Blue/Natural 2,2,22.00,22.00,22.00,Wood
+SXBLWHT2,CFC Essex Blue/White 2,2,22.00,22.00,22.00,Wood
+SXBRN2,CFC Essex Brown/Brown 2,2,22.00,22.00,22.00,Wood
+SXBRNBK2,CFC Essex Brown/Black 2,2,22.00,22.00,22.00,Wood
+SXBRNGLD2,"CFC Essex Brown / Gold 2""",2,26.50,26.50,26.50,Wood
+SXBRNNAT2,CFC Essex Brown/Natural 2,2,22.00,22.00,22.00,Wood
+SXBRNWHT2,CFC Essex Brown/White 2,2,22.00,22.00,22.00,Wood
+SXDRKGRN2,CFC Essex Dark Green/Dark Green 2,2,22.00,22.00,22.00,Wood
+SXDRKGRNBK2,CFC Essex Dark Green/Black 2,2,22.00,22.00,22.00,Wood
+SXDRKGRNGLD2,"CFC Essex Dark Green / Gold 2""",2,26.50,26.50,26.50,Wood
+SXDRKGRNNAT2,CFC Essex Dark Green/Natural 2,2,22.00,22.00,22.00,Wood
+SXDRKGRNWHT2,CFC Essex Dark Green/White 2,2,22.00,22.00,22.00,Wood
+SXGRNGLD2,"CFC Essex Green / Gold 2""",2,26.50,26.50,26.50,Wood
+SXGRY2,CFC Essex Gray/Gray 2,2,22.00,22.00,22.00,Wood
+SXGRYBK2,CFC Essex Gray/Black 2,2,22.00,22.00,22.00,Wood
+SXGRYGLD2,"CFC Essex Gray / Gold 2""",2,26.50,26.50,26.50,Wood
+SXGRYNAT2,CFC Essex Gray/Natural 2,2,22.00,22.00,22.00,Wood
+SXGRYRD2,CFC Essex Gray/Red 2,2,22.00,22.00,22.00,Wood
+SXGRYWHT2,CFC Essex Gray/White 2,2,22.00,22.00,22.00,Wood
+SXLAV2,CFC Essex Lavender/Lavender 2,2,22.00,22.00,22.00,Wood
+SXLAVBK2,CFC Essex Lavender/Black 2,2,22.00,22.00,22.00,Wood
+SXLAVGLD2,"CFC Essex Lavender / Gold 2""",2,26.50,26.50,26.50,Wood
+SXLAVNAT2,CFC Essex Lavender/Natural 2,2,22.00,22.00,22.00,Wood
+SXLAVWHT2,CFC Essex Lavender/White 2,2,22.00,22.00,22.00,Wood
+SXLEN2,CFC Essex Lentil/Lentil 2,2,22.00,22.00,22.00,Wood
+SXLENBK2,CFC Essex Lentil/Black 2,2,22.00,22.00,22.00,Wood
+SXLENGLD2,"CFC Essex Lentil / Gold 2""",2,26.50,26.50,26.50,Wood
+SXLENNAT2,CFC Essex Lentil/Natural 2,2,22.00,22.00,22.00,Wood
+SXLENWHT2,CFC Essex Lentil/White 2,2,22.00,22.00,22.00,Wood
+SXNAT2,CFC Essex Natural/Natural 2,2,22.00,22.00,22.00,Wood
+SXNATBK2,CFC Essex Natural/Black 2,2,22.00,22.00,22.00,Wood
+SXNATBL2,CFC Essex Natural/Blue 2,2,22.00,22.00,22.00,Wood
+SXNATBRN2,CFC Essex Natural/Brown 2,2,22.00,22.00,22.00,Wood
+SXNATDRKGRN2,CFC Essex Natural/Dark Green 2,2,22.00,22.00,22.00,Wood
+SXNATGLD2,"CFC Essex Natural / Gold 2""",2,26.50,26.50,26.50,Wood
+SXNATGRY2,CFC Essex Natural/Gray 2,2,22.00,22.00,22.00,Wood
+SXNATLAV2,CFC Essex Natural/Lavender 2,2,22.00,22.00,22.00,Wood
+SXNATLEN2,CFC Essex Natural/Lentil 2,2,22.00,22.00,22.00,Wood
+SXNATOR2,CFC Essex Natural/Orange 2,2,22.00,22.00,22.00,Wood
+SXNATPNK2,CFC Essex Natural/Pink 2,2,22.00,22.00,22.00,Wood
+SXNATPRP2,CFC Essex Natural/Purple 2,2,22.00,22.00,22.00,Wood
+SXNATPUT2,CFC Essex Natural/Putty 2,2,22.00,22.00,22.00,Wood
+SXNATRD2,CFC Essex Natural/Red 2,2,22.00,22.00,22.00,Wood
+SXNATSG2,CFC Essex Natural/Sage 2,2,22.00,22.00,22.00,Wood
+SXNATTL2,CFC Essex Natural/Teal 2,2,22.00,22.00,22.00,Wood
+SXNATTURQ2,CFC Essex Natural/Turquoise 2,2,22.00,22.00,22.00,Wood
+SXNATWHT2,CFC Essex Natural/White 2,2,22.00,22.00,22.00,Wood
+SXNATY2,CFC Essex Natural/Yellow 2,2,22.00,22.00,22.00,Wood
+SXOR2,CFC Essex Orange/Orange 2,2,22.00,22.00,22.00,Wood
+SXORBK2,CFC Essex Orange/Black 2,2,22.00,22.00,22.00,Wood
+SXORGLD2,"CFC Essex Orange / Gold 2""",2,26.50,26.50,26.50,Wood
+SXORNAT2,CFC Essex Orange/Natural 2,2,22.00,22.00,22.00,Wood
+SXORWHT2,CFC Essex Orange/White 2,2,22.00,22.00,22.00,Wood
+SXPNK2,CFC Essex Pink/Pink 2,2,22.00,22.00,22.00,Wood
+SXPNKBK2,CFC Essex Pink/Black 2,2,22.00,22.00,22.00,Wood
+SXPNKGLD2,"CFC Essex Pink / Gold 2""",2,26.50,26.50,26.50,Wood
+SXPNKNAT2,CFC Essex Pink/Natural 2,2,22.00,22.00,22.00,Wood
+SXPNKWHT2,CFC Essex Pink/White 2,2,22.00,22.00,22.00,Wood
+SXPRP2,CFC Essex Purple/Purple 2,2,22.00,22.00,22.00,Wood
+SXPRPBK2,CFC Essex Purple/Black 2,2,22.00,22.00,22.00,Wood
+SXPRPGLD2,"CFC Essex Purple / Gold 2""",2,26.50,26.50,26.50,Wood
+SXPRPNAT2,CFC Essex Purple/Natural 2,2,22.00,22.00,22.00,Wood
+SXPRPWHT2,CFC Essex Purple/White 2,2,22.00,22.00,22.00,Wood
+SXPUT2,CFC Essex Putty/Putty 2,2,22.00,22.00,22.00,Wood
+SXPUTBK2,CFC Essex Putty/Black 2,2,22.00,22.00,22.00,Wood
+SXPUTGLD2,"CFC Essex Putty / Gold 2""",2,26.50,26.50,26.50,Wood
+SXPUTNAT2,CFC Essex Putty/Natural 2,2,22.00,22.00,22.00,Wood
+SXPUTWHT2,CFC Essex Putty/White 2,2,22.00,22.00,22.00,Wood
+SXRD2,CFC Essex Red/Red 2,2,22.00,22.00,22.00,Wood
+SXRDBK2,CFC Essex Red/Black 2,2,22.00,22.00,22.00,Wood
+SXRDGLD2,"CFC Essex Red / Gold 2""",2,26.50,26.50,26.50,Wood
+SXRDGRY2,CFC Essex Red/Gray 2,2,22.00,22.00,22.00,Wood
+SXRDNAT2,CFC Essex Red/Natural 2,2,22.00,22.00,22.00,Wood
+SXRDTL2,CFC Essex Red/Teal 2,2,22.00,22.00,22.00,Wood
+SXRDWHT2,CFC Essex Red/White 2,2,22.00,22.00,22.00,Wood
+SXSG2,CFC Essex Sage/Sage 2,2,22.00,22.00,22.00,Wood
+SXSGBK2,CFC Essex Sage/Black 2,2,22.00,22.00,22.00,Wood
+SXSGGLD2,"CFC Essex Sage / Gold 2""",2,26.50,26.50,26.50,Wood
+SXSGNAT2,CFC Essex Sage/Natural 2,2,22.00,22.00,22.00,Wood
+SXSGWHT2,CFC Essex Sage/White 2,2,22.00,22.00,22.00,Wood
+SXTL2,CFC Essex Teal/Teal 2,2,22.00,22.00,22.00,Wood
+SXTLBK2,CFC Essex Teal/Black 2,2,22.00,22.00,22.00,Wood
+SXTLGLD2,"CFC Essex Teal / Gold 2""",2,26.50,26.50,26.50,Wood
+SXTLNAT2,CFC Essex Teal/Natural 2,2,22.00,22.00,22.00,Wood
+SXTLRD2,CFC Essex Teal/Red 2,2,22.00,22.00,22.00,Wood
+SXTURQ2,CFC Essex Turquoise/Turquoise 2,2,22.00,22.00,22.00,Wood
+SXTURQGLD2,"CFC Essex Turquoise / Gold 2""",2,26.50,26.50,26.50,Wood
+SXTURQNAT2,CFC Essex Turquoise/Natural 2,2,22.00,22.00,22.00,Wood
+SXTURQWHT2,CFC Essex Turquoise/White 2,2,22.00,22.00,22.00,Wood
+SXWHT2,CFC Essex White/White 2,2,22.00,22.00,22.00,Wood
+SXWHTBK2,CFC Essex White/Black 2,2,22.00,22.00,22.00,Wood
+SXWHTBL2,CFC Essex White/Blue 2,2,22.00,22.00,22.00,Wood
+SXWHTBRN2,CFC Essex White/Brown 2,2,22.00,22.00,22.00,Wood
+SXWHTDRKGRN2,CFC Essex White/Dark Green 2,2,22.00,22.00,22.00,Wood
+SXWHTGRY2,CFC Essex White/Gray 2,2,22.00,22.00,22.00,Wood
+SXWHTLAV2,CFC Essex White/Lavender 2,2,22.00,22.00,22.00,Wood
+SXWHTLEN2,CFC Essex White/Lentil 2,2,22.00,22.00,22.00,Wood
+SXWHTNAT2,CFC Essex White/Natural 2,2,22.00,22.00,22.00,Wood
+SXWHTNAT2,CFC Essex White/Natural 2,2,22.00,22.00,22.00,Wood
+SXWHTOR2,CFC Essex White/Orange 2,2,22.00,22.00,22.00,Wood
+SXWHTPNK2,CFC Essex White/Pink 2,2,22.00,22.00,22.00,Wood
+SXWHTPRP2,CFC Essex White/Purple 2,2,22.00,22.00,22.00,Wood
+SXWHTPUT2,CFC Essex White/Putty 2,2,22.00,22.00,22.00,Wood
+SXWHTRD2,CFC Essex White/Red 2,2,22.00,22.00,22.00,Wood
+SXWHTSG2,CFC Essex White/Sage 2,2,22.00,22.00,22.00,Wood
+SXWHTTURQ2,CFC Essex White/Turquoise 2,2,22.00,22.00,22.00,Wood
+SXWHTY2,CFC Essex White/Yellow 2,2,22.00,22.00,22.00,Wood
+SXWTGLD2,"CFC Essex White / Gold 2""",2,26.50,26.50,26.50,Wood
+SXWTSIL2,"CFC Essex White/ Silver 2""",2,26.50,26.50,26.50,Wood
+SXY2,CFC Essex Yellow/Yellow 2,2,22.00,22.00,22.00,Wood
+SXYBK2,CFC Essex Yellow/Black 2,2,22.00,22.00,22.00,Wood
+SXYGLD2,"CFC Essex Yellow / Gold 2""",2,26.50,26.50,26.50,Wood
+SXYNAT2,CFC Essex Yellow/Natural 2,2,22.00,22.00,22.00,Wood
+SXYWHT2,CFC Essex Yellow/White 2,2,22.00,22.00,22.00,Wood
+TBBKNAT114,"CFC Timberline Black/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBBLNAT114,"CFC Timberline Blue/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBBRNNAT114,"CFC Timberline Brown/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBDRKGRN114,"CFC Timberline Dark Green/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBGRNNAT114,CFC Timberline Green/Natural 1 1/4”,1.25,20.00,20.00,20.00,Wood
+TBGRYNAT114,"CFC Timberline Gray/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBLAVNAT114,"CFC Timberline Lavender/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBLENNAT114,"CFC Timberline Lentil/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBNAT114,"CFC Timberline Natural/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBORNAT114,"CFC Timberline Orange/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBPNKNAT114,"CFC Timberline Pink/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBPRPNAT114,"CFC Timberline Purple/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBPUTNAT114,"CFC Timberline Putty/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBRDNAT114,"CFC Timberline Red/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBSB1CUST,"Timberline Shadow Box 1"" Deep",1.25,23.00,23.00,23.00,Wood
+TBSB2CUST,"Timberline Shadow Box 2"" Deep",1.25,24.00,24.00,24.00,Wood
+TBSB3CUST,"Timberline Shadow Box 3"" Deep",1.25,26.00,26.00,26.00,Wood
+TBSB4CUST,"Timberline Shadow Box 4"" Deep",1.25,28.00,28.00,28.00,Wood
+TBSB5CUST,"Timberline Shadow Box 5"" Deep",1.25,30.00,30.00,30.00,Wood
+TBSB6CUST,"Timberline Shadow Box 6"" Deep",1.25,32.00,32.00,32.00,Wood
+TBSGNAT114,"CFC Timberline Sage/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBTLNAT114,"CFC Timberline Teal/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBTURQNAT114,"CFC Timberline Turquoise/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBWHT114,"CFC Timberline White/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TBYNAT114,"CFC Timberline Yellow/Natural 1 1/4""",1.25,20.00,20.00,20.00,Wood
+TURQYL114,CFC Brights - Turquoise Over Yellow 1 1/4,1.25,15.00,15.00,15.00,Wood
+TURQYL58,CFC Brights - Turquoise Over Yellow 5/8,0.625,14.00,14.00,14.00,Wood
+VBK114,CFC Voyager Black/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKBL114,CFC Voyager Black/Blue 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKBRN114,CFC Voyager Black/Brown 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKDRKGRN114,CFC Voyager Black/Dark Green 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKGRY114,CFC Voyager Black/Gray 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKLAV114,CFC Voyager Black/Lavender 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKLEN114,CFC Voyager Black/Lentil 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKNAT114,CFC Voyager Black/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKOR114,CFC Voyager Black/Orange 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKPNK114,CFC Voyager Black/Pink 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKPRP114,CFC Voyager Black/Purple 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKPUT114,CFC Voyager Black/Putty 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKRD114,CFC Voyager Black/Red 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKSG114,CFC Voyager Black/Sage 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKTL114,CFC Voyager Black/Teal 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKTURQ114,CFC Voyager Black/Turquoise 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBKWT114,CFC Voyager Black/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBL114,CFC Voyager Blue/Blue 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBLBK114,CFC Voyager Blue/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBLKY114,CFC Voyager Black/Yellow 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBLNAT114,CFC Voyager Blue/Natural 1 1 /4,1.25,17.50,17.50,17.50,Wood
+VBLRD114,CFC Voyager Blue/Red 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBLWT114,CFC Voyager Blue/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBRN114,CFC Voyager Brown/Brown 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBRNBK114,CFC Voyager Brown/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBRNNAT114,CFC Voyager Brown/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VBRNWHT114,CFC Voyager Brown/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VCUST114,CFC Voyager Custom Color 1 1/4,1.25,17.50,17.50,17.50,Wood
+VCUST214,CFC Voyager Custom Color 2 1/4,2.25,17.50,17.50,17.50,Wood
+VDRKGRN114,CFC Voyager Dark Green/Dark Green 1 1/4,1.25,17.50,17.50,17.50,Wood
+VDRKGRNBK114,CFC Voyager Dark Green/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VDRKGRNNAT114,CFC Voyager Dark Green/Natural1 1/4,1.25,17.50,17.50,17.50,Wood
+VDRKGRNWHT114,CFC Voyager Dark Green/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VGRNNAT114,CFC Voyager Green/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VGRY114,CFC Voyager Gray/Gray 1 1/4,1.25,17.50,17.50,17.50,Wood
+VGRYBK114,CFC Voyager Gray/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VGRYNAT114,CFC Voyager Gray/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VGRYRD114,CFC Voyager Gray/Red 1 1/4,1.25,17.50,17.50,17.50,Wood
+VGRYWT114,CFC Voyager Gray/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLAV114,CFC Voyager Lavender/Lavender 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLAVBK114,CFC Voyager Lavender/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLAVNAT114,CFC Voyager Lavender/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLAVWT114,CFC Voyager Lavender/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLEN114,CFC Voyager Lentil/Lentil 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLENBK114,CFC Voyager Lentil/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLENNAT114,CFC Voyager Lentil/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VLENWHT114,CFC Voyager Lentil/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VMBK34,CFC Voyager Mini Black/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKBL34,CFC Voyager Mini Black/Blue  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKBRN34,CFC Voyager Mini Black/Brown  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKDRKGRN34,CFC Voyager Mini Black/Dark Green  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKGRY34,CFC Voyager Mini Black/Gray  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKLAV34,CFC Voyager Mini Black/Lavender  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKLEN34,CFC Voyager Mini Black/Lentil  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKNAT34,CFC Voyager Mini Black/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKOR34,CFC Voyager Mini Black/Orange  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKPNK34,CFC Voyager Mini Black/Pink  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKPRP34,CFC Voyager Mini Black/Purple  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKPUT34,CFC Voyager Mini Black/Putty  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKRD34,CFC Voyager Mini Black/Red  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKSG34,CFC Voyager Mini Black/Sage  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKTL34,CFC Voyager Mini Black/Teal  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKTURQ34,CFC Voyager Mini Black/Turquoise  3/4,0.75,16.00,16.00,16.00,Wood
+VMBKWT34,CFC Voyager Mini Black/White 3/4,0.75,16.00,16.00,16.00,Wood
+VMBL34,CFC Voyager Mini Blue/Blue  3/4,0.75,16.00,16.00,16.00,Wood
+VMBLBK34,CFC Voyager Mini Blue/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMBLKY34,CFC Voyager Mini Black/Yellow  3/4,0.75,16.00,16.00,16.00,Wood
+VMBLNAT34,CFC Voyager Mini Blue/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMBLRD34,CFC Voyager Mini Blue/Red  3/4,0.75,16.00,16.00,16.00,Wood
+VMBLWT34,CFC Voyager Mini Blue/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMBRN34,CFC Voyager Mini Brown/Brown  3/4,0.75,16.00,16.00,16.00,Wood
+VMBRNBK34,CFC Voyager Mini Brown/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMBRNNAT34,CFC Voyager Mini Brown/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMBRNWHT34,CFC Voyager Mini Brown/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMCUST34,CFC Voyager Mini Custom Color  3/4,0.75,16.00,16.00,16.00,Wood
+VMCUST34,CFC Voyager Mini Custom Color  3/4,0.75,16.00,16.00,16.00,Wood
+VMDRKGRN34,CFC Voyager Mini Dark Green/Dark Green  3/4,0.75,16.00,16.00,16.00,Wood
+VMDRKGRNBK34,CFC Voyager Mini Dark Green/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMDRKGRNNAT34,CFC Voyager Mini Dark Green/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMDRKGRNWHT34,CFC Voyager Mini Dark Green/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMGRNNAT34,CFC Voyager Mini Green/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMGRY34,CFC Voyager Mini Gray/Gray  3/4,0.75,16.00,16.00,16.00,Wood
+VMGRYBK34,CFC Voyager Mini Gray/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMGRYNAT34,CFC Voyager Mini Gray/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMGRYRD34,CFC Voyager Mini Gray/Red  3/4,0.75,16.00,16.00,16.00,Wood
+VMGRYWT34,CFC Voyager Mini Gray/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMLAV34,CFC Voyager Mini Lavender/Lavender  3/4,0.75,16.00,16.00,16.00,Wood
+VMLAVBK34,CFC Voyager Mini Lavender/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMLAVNAT34,CFC Voyager Mini Lavender/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMLAVWT34,CFC Voyager Mini Lavender/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMLEN34,CFC Voyager Mini Lentil/Lentil  3/4,0.75,16.00,16.00,16.00,Wood
+VMLENBK34,CFC Voyager Mini Lentil/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMLENNAT34,CFC Voyager Mini Lentil/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMLENWHT34,CFC Voyager Mini Lentil/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMNAT34,CFC Voyager Mini Natural/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATBK34,CFC Voyager Mini Natural/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATBL34,CFC Voyager Mini Natural/Blue  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATBRN34,CFC Voyager Mini Natural/Brown  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATDRKGRN34,CFC Voyager Mini Natural/Dark Green  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATGRN34,CFC Voyager Mini Natural/Green  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATGRY34,CFC Voyager Mini Natural/Gray  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATLAV34,CFC Voyager Mini Natural/Lavender  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATLEN34,CFC Voyager Mini Natural/Lentil  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATOR34,CFC Voyager Mini Natural/Orange  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATPNK34,CFC Voyager Mini Natural/Pink  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATPRP34,CFC Voyager Mini Natural/Purple  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATPUT34,CFC Voyager Mini Natural/Putty  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATRD34,CFC Voyager Mini Natural/Red  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATSG34,CFC Voyager Mini Natural/Sage  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATTL34,CFC Voyager Mini Natural/Teal  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATTRQ34,CFC Voyager Mini Natural/Turquoise  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATWT34,CFC Voyager Mini Natural/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMNATY34,CFC Voyager Mini Natural/Yellow  3/4,0.75,16.00,16.00,16.00,Wood
+VMOR34,CFC Voyager Mini Orange/Orange  3/4,0.75,16.00,16.00,16.00,Wood
+VMORBK34,CFC Voyager Mini Orange/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMORNAT34,CFC Voyager Mini Orange/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMORWHT34,CFC Voyager Mini Orange/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMPNK34,CFC Voyager Mini Pink/Pink  3/4,0.75,16.00,16.00,16.00,Wood
+VMPNKBK34,CFC Voyager Mini Pink/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMPNKNAT34,CFC Voyager Mini Pink/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMPNKWHT34,CFC Voyager Mini Pink/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMPRP34,CFC Voyager Mini Purple/Purple  3/4,0.75,16.00,16.00,16.00,Wood
+VMPRPBK34,CFC Voyager Mini Purple/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMPRPNAT34,CFC Voyager Mini Purple/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMPRPWHT34,CFC Voyager Mini Purple/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMPRPY34,CFC Voyager Mini Purple/Yellow  3/4,0.75,16.00,16.00,16.00,Wood
+VMPUT34,CFC Voyager Mini Putty/Putty  3/4,0.75,16.00,16.00,16.00,Wood
+VMPUTBK34,CFC Voyager Mini Putty/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMPUTNAT34,CFC Voyager Mini Putty/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMPUTWHT34,CFC Voyager Mini Putty/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMRD34,CFC Voyager Mini Red/Red  3/4,0.75,16.00,16.00,16.00,Wood
+VMRDBK34,CFC Voyager Mini Red/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMRDBL34,CFC Voyager Mini Red/Blue 3/4,0.75,16.00,16.00,16.00,Wood
+VMRDGRY34,CFC Voyager Mini Red/Gray  3/4,0.75,16.00,16.00,16.00,Wood
+VMRDNAT34,CFC Voyager Mini Red/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMRDTL34,CFC Voyager Mini Red/Teal  3/4,0.75,16.00,16.00,16.00,Wood
+VMRDWT34,CFC Voyager Mini Red/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMSG34,CFC Voyager Mini Sage/Sage  3/4,0.75,16.00,16.00,16.00,Wood
+VMSGBK34,CFC Voyager Mini Sage/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMSGNAT34,CFC Voyager Mini Sage/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMSGWHT34,CFC Voyager Mini Sage/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMTL34,CFC Voyager Mini Teal/Teal  3/4,0.75,16.00,16.00,16.00,Wood
+VMTLBK34,CFC Voyager Mini Teal/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMTLNAT34,CFC Voyager Mini Teal/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMTLRD34,CFC Voyager Mini Teal/Red  3/4,0.75,16.00,16.00,16.00,Wood
+VMTRQNAT34,CFC Voyager Mini Turquoise/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMTRQWT34,CFC Voyager Mini Turquoise/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMTURQ34,CFC Voyager Mini Turquoise/Turquoise  3/4,0.75,16.00,16.00,16.00,Wood
+VMTURQBK34,CFC Voyager Mini Turquoise/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHT34,CFC Voyager Mini White/White  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTBL34,CFC Voyager Mini White/Blue  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTBRN34,CFC Voyager Mini White/Brown  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTDRKGRN34,CFC Voyager Mini White/Dark Green  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTLEN34,CFC Voyager Mini White/Lentil  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTOR34,CFC Voyager MiniWhite/Orange  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTPNK34,CFC Voyager Mini White/Pink  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTPRP34,CFC Voyager Mini White/Purple  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTPUT34,CFC Voyager Mini White/Putty  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTSG34,CFC Voyager Mini White/Sage  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTY34,CFC Voyager Mini White/Yellow  3/4,0.75,16.00,16.00,16.00,Wood
+VMWHTY34,CFC Voyager Mini White/Yellow  3/4,0.75,16.00,16.00,16.00,Wood
+VMWTBK34,CFC Voyager Mini White/Black. 3/4,0.75,16.00,16.00,16.00,Wood
+VMWTGRY34,CFC Voyager Mini White/Gray  3/4,0.75,16.00,16.00,16.00,Wood
+VMWTLAV34,CFC Voyager Mini White/Lavender 3/4 ,0.75,16.00,16.00,16.00,Wood
+VMWTNAT34,CFC Voyager Mini White/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMWTRD34,CFC Voyager Mini White/Red  3/4,0.75,16.00,16.00,16.00,Wood
+VMWTTRQ34,CFC Voyager Mini White/Turquoise 3/4,0.75,16.00,16.00,16.00,Wood
+VMY34,CFC Voyager Mini Yellow/Yellow  3/4,0.75,16.00,16.00,16.00,Wood
+VMYBK34,CFC Voyager Mini Yellow/Black  3/4,0.75,16.00,16.00,16.00,Wood
+VMYNAT34,CFC Voyager Mini Yellow/Natural  3/4,0.75,16.00,16.00,16.00,Wood
+VMYPRP34,CFC Voyager Mini Yellow/Purple  3/4,0.75,16.00,16.00,16.00,Wood
+VMYWHT34,CFC Voyager Mini Yellow/White  3/4,0.75,16.00,16.00,16.00,Wood
+VNAT114,CFC Voyager Natural/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATBK114,CFC Voyager Natural/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATBL114,CFC Voyager Natural/Blue 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATBRN114,CFC Voyager Natural/Brown 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATDRKGRN114,CFC Voyager Natural/Dark Green 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATGRN114,CFC Voyager Natural/Green 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATGRY114,CFC Voyager Natural/Gray 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATLAV114,CFC Voyager Natural/Lavender 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATLEN114,CFC Voyager Natural/Lentil 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATOR114,CFC Voyager Natural/Orange 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATPNK114,CFC Voyager Natural/Pink 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATPRP114,CFC Voyager Natural/Purple 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATPUT114,CFC Voyager Natural/Putty 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATRD114,CFC Voyager Natural/Red 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATSG114,CFC Voyager Natural/Sage 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATTL114,CFC Voyager Natural/Teal 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATTRQ114,CFC Voyager Natural/Turquoise 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATWT114,CFC Voyager Natural/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VNATY114,CFC Voyager Natural/Yellow 1 1/4,1.25,17.50,17.50,17.50,Wood
+VOR114,CFC Voyager Orange/Orange 1 1/4,1.25,17.50,17.50,17.50,Wood
+VORBK114,CFC Voyager Orange/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VORNAT114,CFC Voyager Orange/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VORWHT114,CFC Voyager Orange/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPNK114,CFC Voyager Pink/Pink 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPNKBK114,CFC Voyager Pink/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPNKNAT114,CFC Voyager Pink/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPNKWHT114,CFC Voyager Pink/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPRP114,CFC Voyager Purple/Purple 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPRPBK114,CFC Voyager Purple/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPRPNAT114,CFC Voyager Purple/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPRPWHT114,CFC Voyager Purple/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPRPY114,CFC Voyager Purple/Yellow 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPUT114,CFC Voyager Putty/Putty 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPUTBK114,CFC Voyager Putty/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPUTNAT114,CFC Voyager Putty/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VPUTWHT114,CFC Voyager Putty/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VRD114,CFC Voyager Red/Red 1 1/4,1.25,17.50,17.50,17.50,Wood
+VRDBK114,CFC Voyager Red/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VRDBL114,CFC Voyager Red/Blue 1 1/4,1.25,17.50,17.50,17.50,Wood
+VRDGRY114,CFC Voyager Red/Gray 1 1/4,1.25,17.50,17.50,17.50,Wood
+VRDNAT114,CFC Voyager Red/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VRDTL114,CFC Voyager Red/Teal 1 1/4,1.25,17.50,17.50,17.50,Wood
+VRDWT114,CFC Voyager Red/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VSB1CUST,"Voyager Shadow Box 1"" Deep",1.25,21.00,21.00,21.00,Wood
+VSB2CUST,"Voyager Shadow Box 2"" Deep",1.25,23.00,23.00,23.00,Wood
+VSB3CUST,"Voyager Shadow Box 3"" Deep",1.25,26.00,26.00,26.00,Wood
+VSB4CUST,"Voyager Shadow Box 4"" Deep",1.25,27.00,27.00,27.00,Wood
+VSG114,CFC Voyager Sage/Sage 1 1/4,1.25,17.50,17.50,17.50,Wood
+VSGBK114,CFC Voyager Sage/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VSGNAT114,CFC Voyager Sage/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VSGWHT114,CFC Voyager Sage/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTL114,CFC Voyager Teal/Teal 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTLBK114,CFC Voyager Teal/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTLNAT114,CFC Voyager Teal/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTLRD114,CFC Voyager Teal/Red 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTRQNAT114,CFC Voyager Turquoise/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTRQWT114,CFC Voyager Turquoise/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTURQ114,CFC Voyager Turquoise/Turquoise 1 1/4,1.25,17.50,17.50,17.50,Wood
+VTURQBK114,CFC Voyager Turquoise/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHT114,CFC Voyager White/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTBRN114,CFC Voyager White/Brown 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTDRKGRN114,CFC Voyager White/Dark Green 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTLEN114,CFC Voyager White/Lentil 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTOR114,CFC Voyager White/Orange 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTPNK114,CFC Voyager White/Pink 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTPRP114,CFC Voyager White/Purple 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTPUT114,CFC Voyager White/Putty 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTSG114,CFC Voyager White/Sage 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTY114,CFC Voyager White/Yellow 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWHTY114,CFC Voyager White/Yellow 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWTBK114,CFC Voyager White/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWTBL114,CFC Voyager White/Blue 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWTGRY114,CFC Voyager White/Gray 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWTLAV114,CFC Voyager White/Lavender 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWTNAT114,CFC Voyager White/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWTRD114,CFC Voyager White/Red 1 1/4,1.25,17.50,17.50,17.50,Wood
+VWTTRQ114,CFC Voyager White/Turquoise 1 1/4,1.25,17.50,17.50,17.50,Wood
+VY114,CFC Voyager Yellow/Yellow 1 1/4,1.25,17.50,17.50,17.50,Wood
+VYBK114,CFC Voyager Yellow/Black 1 1/4,1.25,17.50,17.50,17.50,Wood
+VYNAT114,CFC Voyager Yellow/Natural 1 1/4,1.25,17.50,17.50,17.50,Wood
+VYPRP114,CFC Voyager Yellow/Purple 1 1/4,1.25,17.50,17.50,17.50,Wood
+VYWHT114,CFC Voyager Yellow/White 1 1/4,1.25,17.50,17.50,17.50,Wood
+WHTBLK114,CFC Soho - White Over Black 1 1/4,1.25,15.00,15.00,15.00,Wood
+WHTBLK58,CFC Soho - White Over Black 5/8,0.625,14.00,14.00,14.00,Wood
+WHTGRY114,CFC Soho - White Over Gray 1 1/4,1.25,15.00,15.00,15.00,Wood
+WHTGRY58,CFC Soho - White Over Gray 5/8,0.625,14.00,14.00,14.00,Wood
+YLGR114,CFC Brights - Yellow Over Green 1 1/4,1.25,15.00,15.00,15.00,Wood
+YLGR58,CFC Brights - Yellow Over Green 5/8,0.625,14.00,14.00,14.00,Wood
