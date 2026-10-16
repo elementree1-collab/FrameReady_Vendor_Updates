@@ -1,0 +1,1156 @@
+ITEM,DESCRIPTION,cost,code txt,size decimal,rabbet decimal,group
+10,"SR, Molto, 5/8"" Weathered Zinc",2.21,RM006,0.625,0.375,Wood
+11,"SR, Molto, 5/8"" Brushed Gold",2.21,RM006,0.625,0.375,Wood
+12,"SR, Molto 5/8"" Polished Chrome",2.21,RM006,0.625,0.375,Wood
+13,"SR, Molto, 5/8"" Polished Gold",2.21,RM006,0.625,0.375,Wood
+23,"Palio, 3/4"" Cool Silver",5.90,RM007,0.75,0.375,Wood
+24,"Palio, 3/4"" Cool Gold",5.90,RM007,0.75,0.375,Wood
+48,"La Contessa, 3/8"" Beaded Silver Leaf",3.91,RM004,0.375,0.25,Wood
+49,"La Contessa, 3/8"" Antique Gold Leaf",3.91,RM004,0.375,0.25,Wood
+54,"La Contessa, 3/8"" Silver Leaf",3.91,RM004,0.375,0.25,Wood
+55,"La Contessa, 3/8"" Gold Leaf",3.91,RM004,0.375,0.25,Wood
+57,"La Contessa, 3/8"" Raven Black",3.91,RM004,0.375,0.375,Wood
+84,"La Contessa, 3/8"" Silver Leaf",6.37,RM009,0.375,0.375,Wood
+103,"Metro, 1/2"" Urban Silver Leaf",3.45,RM004,0.5,0.375,Wood
+104,"Metro, 1/2"" Urban Gold Leaf",3.45,RM004,0.5,0.375,Wood
+108,"Provence, 3/8"" Decape Crème",4.04,RM004,0.375,0.25,Wood
+110,"Provence, 3/8"" Decape Noir",4.04,RM004,0.375,0.25,Wood
+111,"Provence, 3/8"" Decape Cacao",4.04,RM004,0.375,0.25,Wood
+125,"SR, Stretcher bar  1 1/4""",1.11,RM001,1.25,0.875,Extender
+140,"SR- Stretcher Bar, 1 1/2""",1.93,RM004,1.5,0.875,Extender
+151,"Stretcher bar, 1 1/2""",2.16,RM005,1.5,1,Extender
+180,"SR- Stretcher Bar, Crossbar",1.80,RM004,1.375,0.625,Extender
+200,"1 1/2"" Stretcher Bar Black",2.06,RM005,1.5,0.75,Extender
+201,"SR-Stretcher Bar FJP, 1 5/8""",2.34,RM005,1.625,1,Extender
+220,"Stretcher Bar 2""",4.20,RM010,2,2.25,Extender
+352,"SR, Molto, 1 3/8"" Weathered Zinc",6.75,RM016,1.375,1.375,Wood
+353,"SR, Molto, 1 3/8""  Brushed Gold",6.75,RM016,1.375,1.375,Wood
+355,"SR, Molto, 1 3/8"" Polished Gold",6.75,RM016,1.375,1.375,Wood
+752,"SR, Molto, 3"" Weathered Zinc",21.33,RM055,3,2.5,Wood
+753,"SR, Molto, 3"" Brushed Gold",21.33,RM055,3,2.5,Wood
+755,"SR, Molto, 3"" Polished Gold",21.33,RM055,3,2.5,Wood
+1054,"SR,Gianni, 3/4"" Frosted Silver",5.49,RM008,0.75,0.625,Wood
+1055,"SR, Gianni, 3/4"" Frosted Gold",5.49,RM008,0.75,0.625,Wood
+2001,"Burlwood 7/8"" Organic White Burl",5.43,RM012,0.875,1.25,Wood
+2002,"Burlwood 7/8"" Organic Natural Burl",5.43,RM012,0.875,1.25,Wood
+2003,"Burlwood 7/8"" Organic Grey Burl",5.43,RM012,0.875,1.25,Wood
+2006,"SR - Organic, 3/4"" Natural Oak",7.51,RM022,0.75,1.375,Wood
+2007,"SR - Organic, 3/4"" White Maple",7.51,RM022,0.75,1.375,Wood
+2008,"SR - Organic, 3/4"" Brown Walnut",7.51,RM022,0.75,1.375,Wood
+2011,"La Galleria, 3/4"" Purple Iris",8.49,RM018,0.75,1.375,Wood
+2012,"La Galleria, 3/4"" Electric Sky",8.49,RM018,0.75,1.375,Wood
+2013,"La Galleria, 3/4"" Lemon Grass",8.49,RM018,0.75,1.375,Wood
+2014,"La Galleria, 3/4"" Heathered White",8.49,RM018,0.75,1.375,Wood
+2015,"La Galleria, 3/4"" Powder Rosee",8.49,RM018,0.75,1.375,Wood
+2030,"RO, Vola 7/8"" Night Hush",5.31,RM012,0.875,1.375,Wood
+2031,"RO, Vola 7/8"" Metro Fade",5.31,RM012,0.875,1.375,Wood
+2032,"RO, Vola 7/8"" Azure Flow",5.31,RM012,0.875,1.375,Wood
+2033,"RO, Vola 7/8"" Verde Mint",5.31,RM012,0.875,1.375,Wood
+2034,"RO, Vola 7/8"" Rebel Rose",5.31,RM012,0.875,1.375,Wood
+2035,"RO, Vola 7/8"" Oro Drip",5.31,RM012,0.875,1.375,Wood
+2036,"RO, Vola 7/8"" Arco Mist",5.31,RM012,0.875,1.375,Wood
+2054,"SR- Vintage, 3/4"" Frosted Silver",4.30,RM009,0.75,0.875,Wood
+2055,"SR- Vintage, 3/4"" Frosted Gold",4.30,RM009,0.75,0.875,Wood
+2146,"SR- Icon, 1"" Maple Leaf Red",6.73,RM018,1,1.5,Wood
+2148,"SR- Icon, 1"" Peace White",6.73,RM018,1,1.5,Wood
+2150,"SR- Icon, 1"" Glory Blue",6.73,RM018,1,1.5,Wood
+2245,"SR- Icon, 1"" Passion Black",6.73,RM018,1,1.5,Wood
+2246,"SR- Icon, 1"" Virtue Red",6.73,RM018,1,1.5,Wood
+2248,"SR- Icon, 1"" Honor White",6.73,RM018,1,1.5,Wood
+2250,"SR- Icon, 1"" Purity Blue",6.73,RM018,1,1.5,Wood
+2254,"SR- Icon, 1"" Bold Silver",6.73,RM018,1,1.5,Wood
+2506," SR - Organic, 1""  Natural Organic Oak",16.31,RM045,1,2.5,Wood
+2507," SR - Organic, 1""  Natural Organic Maple",16.31,RM045,1,2.5,Wood
+2508," SR - Organic, 1"" Natural Organic Walnut",16.31,RM045,1,2.5,Wood
+2554,"SR-Gianni, 1"" Aged Silver",7.93,RM014,1,1.375,Wood
+2555,"SR-Gianni, 1"" Aged Gold",7.93,RM014,1,1.375,Wood
+2754,"Vintage, 1"" Etched Silver",8.94,RM016,1,1.375,Wood
+2755,"Vintage, 1"" Etched Gold",8.94,RM016,1,1.375,Wood
+2854,"SR- Vintage, 1 1/8"" Frosted Silver",5.77,RM013,1.125,1.5,Wood
+2855,"SR- Vintage, 1 1/8"" Frosted Gold",5.77,RM013,1.125,1.5,Wood
+3006,"SR - Organic, 1 1/8"" Natural Oak",9.32,RM025,1.125,1,Wood
+3007,"SR - Organic, 1 1/8"" White Maple",9.32,RM025,1.125,1,Wood
+3008,"SR - Organic, 1 1/8"" Brown Walnut",9.32,RM025,1.125,1,Wood
+3011,"La Galleria, 1 1/4"" Purple Iris",8.49,RM018,1.25,1,Wood
+3012,"La Galleria, 1 1/4"" Electric Sky",8.49,RM018,1.25,1,Wood
+3013,"La Galleria, 1 1/4"" Lemongrass",8.49,RM018,1.25,1,Wood
+3014,"La Galleria, 1 1/4"" Heathered White",8.49,RM018,1.25,1,Wood
+3015,"La Galleria, 1 1/4"" Powder Rosée",8.49,RM018,1.25,1,Wood
+3101,"Burlwood 1 1/4"" Organic White Burl",7.93,RM019,1.25,1.25,Wood
+3102,"Burlwood 1 1/4"" Organic Natural Burl",7.93,RM019,1.25,1.25,Wood
+3103,"Burlwood 1 1/4"" Organic Grey Burl",7.93,RM019,1.25,1.25,Wood
+3254,"SR- Vintage, 7/8"" Frosted Silver",4.98,RM012,0.875,1.375,Wood
+3255,"SR- Vintage, 7/8"" Frosted Gold",4.98,RM012,0.875,1.375,Wood
+3354,"SR-Gianni, 1 3/8"" Aged Silver",12.25,RM028,1.375,2,Wood
+3355,"SR-Gianni, 1 3/8"" Aged Gold",12.25,RM028,1.375,2,Wood
+3454,"SR- Vintage, 2 1/8"" Frosted Silver",10.16,RM020,2.125,1.375,Wood
+3455,"SR- Vintage, 2 1/8"" Frosted Gold",10.16,RM020,2.125,1.375,Wood
+3554,"Vintage, 1 3/8"" Etched Silver",13.55,RM029,1.375,2,Wood
+3555,"Vintage, 1 3/8"" Etched Gold",13.55,RM029,1.375,2,Wood
+4430,"RO, Vola 1 3/4"" Night Hush",11.53,RM025,1.75,1.75,Wood
+4431,"RO, Vola 1 3/4"" Metro Fade",11.53,RM025,1.75,1.75,Wood
+4435,"RO, Vola 1 3/4"" Oro Drip",11.53,RM025,1.75,1.75,Wood
+4436,"RO, Vola 1 3/4"" Arco Mist",11.53,RM025,1.75,1.75,Wood
+6230,"RO, Vola F 3/4"" Night Hush",13.77,RM023,1.75,2.125,Wood
+6231,"RO, Vola F 3/4"" Metro Fade",13.77,RM023,1.75,2.125,Wood
+6235,"RO, Vola F 3/4"" Oro Drip",13.77,RM023,1.75,2.125,Wood
+6236,"RO, Vola F 3/4"" Arco Mist",13.77,RM023,1.75,2.125,Wood
+10732,"SR, Lavo 7/8"" Seaport Blue",4.10,RM007,0.875,1.25,Wood
+10737,"SR, Lavo 7/8"" Plum Purple",4.10,RM007,0.875,1.25,Wood
+10741,"SR, Lavo, 7/8"" Orange Marmalade",4.10,RM007,0.875,1.25,Wood
+10747,"SR, Lavo, 7/8"" Fresh Lime",4.10,RM007,0.875,1.25,Wood
+10752,"SR,Molto, 7/8"" Weathered Zinc",4.01,RM007,0.875,1.25,Wood
+10753,"SR, Molto, 7/8"" Brushed Gold",4.01,RM007,0.875,1.25,Wood
+10754,"SR, Molto, 7/8"" Polished Chrome",4.01,RM007,0.875,1.25,Wood
+10755,"SR, Molto 7/8"" Polished Gold",4.01,RM007,0.875,1.25,Wood
+10774,"SR, Lavo 7/8"" Sunburst Yellow",4.10,RM007,0.875,1.25,Wood
+10776,"SR, Lavo, 7/8"" Cherry Red",4.10,RM007,0.875,1.25,Wood
+10777,"SR, Lavo 7/8 "" Capri Teal",4.10,RM007,0.875,1.25,Wood
+12308,"Vintage, 5/8"" Dark Walnut",4.25,,0.625,"1""",Wood
+12345,"Vintage, 5/8"" Antique Black",4.25,,0.625,"1""",Wood
+12354,"Vintage, 5/8"" Antique Silver",4.99,,0.625,"1""",Wood
+12355,"Vintage, 5/8"" Antique Gold",4.99,,0.625,"1""",Wood
+12382,"Vintage, 5/8"" Natural Wood",4.25,,0.625,"1""",Wood
+12954,"Vintage, 2 3/4"" Silver Leaf",30.89,RM045,2.75,2.125,Wood
+12955,"Vintage, 2 3/4"" Gold Leaf",30.89,RM045,2.75,2.125,Wood
+14354,"Fiori, 5/8"" Silver Leaf",7.51,RM010,0.625,0.625,Wood
+14355,"Fiori, 5/8"" Gold Leaf",7.51,RM010,0.625,0.625,Wood
+14455,"Vintage, 3/4"" Gold Leaf",8.33,RM014,0.75,0.75,Wood
+15154,"Vintage, 2 5/8"" Gilded Silver Leaf",45.96,RM070,2.625,2.625,Wood
+15155,"Vintage, 2 5/8"" Gilded Gold Leaf",45.96,RM070,2.625,2.625,Wood
+15209,"SR- Vintage, 1 1/4"" Urban White",5.99,RM010,1.25,1,Wood
+15245,"SR- Vintage, 1 1/4"" Urban Black",5.99,RM010,1.25,1,Wood
+15254,"SR- Vintage, 1 1/4"" Gilded Silver Leaf",5.99,RM010,1.25,1,Wood
+15255,"SR- Vintage, 1 1/4"" Gilded Gold Leaf",5.99,RM010,1.25,1,Wood
+15309,"SR- Vintage, 2"" Urban White",9.28,RM018,2,1.25,Wood
+15345,"SR- Vintage, 2"" Urban Black",9.71,RM018,2,1.25,Wood
+15354,"SR- Vintage, 2"" Gilded Silver Leaf",9.71,RM018,2,1.25,Wood
+15355,"SR- Vintage, 2"" Gilded Gold Leaf",9.71,RM018,2,1.25,Wood
+17200,"Elements, 1 1/4"" Raven Black",14.52,RM023,1.25,0.75,Wood
+17254,"Elements, 1 1/4"" Silver Leaf",14.52,RM023,1.25,0.75,Wood
+17255,"Elements, 1 1/4"" Gold Leaf",14.52,RM023,1.25,0.75,Wood
+20154,"Portfolio, 5/8"" Silver Leaf",6.07,RM007,0.625,1,Wood
+20155,"Portfolio, 5/8"" Gold Leaf",6.07,RM007,0.625,1,Wood
+20254,"Portfolio, 1"" Silver Leaf",8.42,RM010,1,1.25,Wood
+20255,"Portfolio, 1"" Gold Leaf",8.42,RM010,1,1.25,Wood
+20321,"SR, Arber 7/8"" Light Oak",2.69,RM007,0.875,1.25,Wood
+20322,"SR, Arber 7/8"" Light Walnut",2.69,RM007,0.875,1.25,Wood
+20323,"SR, Arber 7/8"" Dark Walnut",2.69,RM007,0.875,1.25,Wood
+20324,"SR, Arber 7/8"" Dark Oak",2.69,RM007,0.875,1.25,Wood
+20555,"Portfolio, 1 3/4"" Gold Leaf",11.48,RM016,1.75,1.25,Wood
+25800,"Vintage, 1 1/2"" Raven Black",16.56,RM022,1.5,1,Wood
+25831,"Vintage, 1 1/2"" Antique Gold Leaf",16.56,RM022,1.5,1,Wood
+25854,"Vintage, 1 1/2"" Silver Leaf",16.56,RM022,1.5,1,Wood
+25855,"Vintage, 1 1/2"" Gold Leaf",16.56,RM022,1.5,1,Wood
+26206,"SR- Eleganza, 1 1/2"" Urban Black",8.26,RM012,1.5,1.125,Wood
+26254,"SR- Eleganza, 1 1/2"" Gilded Silver",8.26,RM012,1.5,1.125,Wood
+26255,"SR- Eleganza, 1 1/2"" Gilded Gold",8.26,RM012,1.5,1.125,Wood
+26306,"SR- Eleganza, 2"" Urban Black",11.63,RM016,2,1.75,Wood
+26354,"SR- Eleganza, 2"" Gilded Silver",11.63,RM016,2,1.75,Wood
+26355,"SR- Eleganza, 2"" Gilded Gold",11.63,RM016,2,1.75,Wood
+26506,"SR- Eleganza, 1 1/8"" Urban Black",7.80,RM010,1.125,1,Wood
+26554,"SR- Eleganza, 1 1/8"" Gilded Silver",7.80,RM010,1.125,1,Wood
+26555,"SR- Eleganza, 1 1/8"" Gilded Gold",7.80,RM010,1.125,1,Wood
+26654,"SR- Eleganza, 2"" Gilded Silver",11.63,RM016,2,1.5,Wood
+26655,"SR- Eleganza, 2"" Gilded Gold",11.63,RM016,2,1.5,Wood
+26854,"SR- Eleganza, 1 3/8"" Gilded Silver",8.26,RM012,1.375,1.125,Wood
+26855,"SR- Eleganza, 1 3/8"" Gilded Gold",8.26,RM012,1.375,1.125,Wood
+27052,"SR, Molto, 1 1/8"" Weathered Zinc",6.57,RM014,1.125,1.625,Wood
+27053,"SR, Molto, 1 1/8"" Brushed Gold",6.57,RM014,1.125,1.625,Wood
+27054,"SR, Molto 1 1/8"" Polished Chrome",6.57,RM014,1.125,1.625,Wood
+27055,"SR, Molto 1 1/8"" Polished Gold",6.57,RM014,1.125,1.625,Wood
+27371,"SR, Arber 1 1/8"" Light Oak",3.60,RM008,1.125,1.5,Wood
+27372,"SR, Arber 1 1/8"" Light Walnut",3.60,RM008,1.125,1.5,Wood
+27373,"SR, Arber 1 1/8"" Dark Walnut",3.60,RM008,1.125,1.5,Wood
+27374,"SR, Arber 1 1/8"" Dark Oak",3.60,RM008,1.125,1.5,Wood
+27654,"La Contessa, 1 1/8"" Silver Leaf",9.56,RM014,1.125,0.5,Wood
+27655,"La Contessa, 1 1/8"" Gold Leaf",9.56,RM014,1.125,0.5,Wood
+28354,"Metro, 2 1/8"" Urban Silver Leaf",20.01,RM027,2.125,1.375,Wood
+28355,"Metro, 2 1/8"" Urban Gold Leaf",20.01,RM027,2.125,1.375,Wood
+28454,"Metro, 3 1/2"" Urban Silver Leaf",34.85,RM055,3.5,2,Wood
+28455,"Metro, 3 1/2"" Urban Gold Leaf",34.85,RM055,3.5,2,Wood
+29000,"Metro, 3/4"" Black Iron",6.69,RM008,0.75,0.75,Wood
+29054,"Metro, 3/4"" Urban Silver Leaf",6.69,RM008,0.75,0.75,Wood
+29055,"Metro, 3/4"" Urban Gold Leaf",6.69,RM008,0.75,0.75,Wood
+29087,"Metro, 3/4"" Boulevard Brown",6.69,RM008,0.75,0.75,Wood
+29454,"Eleganza, 5/8"" Gilded Silver",8.24,RM012,0.625,1,Wood
+29455,"Eleganza, 5/8"" Gilded Gold",8.24,RM012,0.625,1,Wood
+29554,"Eleganza, 7/8"" Gilded Silver",11.16,RM017,0.875,1.25,Wood
+29555,"Eleganza, 7/8"" Gilded Gold",11.16,RM017,0.875,1.25,Wood
+29754,"Eleganza, 1 3/4"" Gilded Silver Leaf",16.24,RM025,1.75,1.125,Wood
+29755,"Eleganza, 1 3/4"" Gilded Gold Leaf",16.24,RM025,1.75,1.125,Wood
+29854,"Eleganza, 2 3/4"" Gilded Silver Leaf",27.98,RM040,2.75,1.875,Wood
+29855,"Eleganza, 2 3/4"" Gilded Gold Leaf",27.98,RM040,2.75,1.875,Wood
+30345,"Metro, 3/4"" Urban Black",8.73,RM014,0.75,0.75,Wood
+30354,"Metro, 3/4"" Urban Silver Leaf",8.73,RM014,0.75,0.75,Wood
+30355,"Metro, 3/4"" Urban Gold Leaf",8.73,RM014,0.75,0.75,Wood
+30445,"Metro, 1 3/8"" Urban Black",12.56,RM018,1.375,1,Wood
+30454,"Metro, 1 3/8"" Urban Silver Leaf",12.56,RM018,1.375,1,Wood
+30455,"Metro, 1 3/8"" Urban Gold Leaf",12.56,RM018,1.375,1,Wood
+30554,"Eleganza, 1 3/8"" Gilded Silver",12.88,RM022,1.375,1.25,Wood
+30555,"Eleganza, 1 3/8"" Gilded Gold",12.88,RM022,1.375,1.25,Wood
+30645,"Eleganza, 2 3/4"" Urban Black",28.71,RM050,2.75,2.625,Wood
+30654,"Eleganza, 2 3/4"" Gilded Silver",28.71,RM050,2.75,2.625,Wood
+30655,"Eleganza, 2 3/4"" Gilded Gold",28.71,RM050,2.75,2.625,Wood
+30755,"Eleganza, 2 3/8"" Gilded Gold",19.15,RM028,2.375,1.5,Wood
+30854,"Eleganza, 3 3/4"" Gilded Silver",37.12,RM055,3.75,2.5,Wood
+30855,"Eleganza, 3 3/4"" Gilded Gold",37.12,RM055,3.75,2.5,Wood
+30955,"Eleganza, 6"" Gilded Gold",50.08,RM070,6,2.625,Wood
+31554,"Eleganza, 7/8"" Gilded Silver",9.04,RM013,0.875,0.625,Wood
+31555,"Eleganza, 7/8"" Gilded Gold",9.04,RM013,0.875,0.625,Wood
+31754,"Eleganza, 5/8"" Gilded Silver",6.27,RM008,0.625,0.625,Wood
+31755,"Eleganza, 5/8"" Gilded Gold",6.27,RM008,0.625,0.625,Wood
+31905,"Eleganza, 3/4"" Urban Black With Gold",9.47,RM014,0.75,1,Wood
+31906,"Eleganza, 3/4"" Urban Black With Silver",9.47,RM014,0.75,1,Wood
+31954,"Eleganza, 3/4"" Gilded Silver",9.47,RM014,0.75,1,Wood
+31955,"Eleganza, 3/4"" Gilded Gold",9.47,RM014,0.75,1,Wood
+32200,"Vintage, 2 7/8"" Raven Black",32.31,RM051,2.875,2.125,Wood
+32255,"Vintage, 2 7/8"" Antique Gold Leaf",32.31,RM051,2.875,2.125,Wood
+33354,"SR, Vintage 7/8"" Urban Silver Leaf",4.23,RM007,0.875,1.375,Wood
+33355,"SR, Vintage 7/8"" Urban Gold Leaf",4.23,RM007,0.875,1.375,Wood
+33654,"SR, Vintage F 5/8"" Urban Silver Leaf",8.47,RM015,1.5,2.375,Wood
+33655,"SR, Vintage F 5/8"" Urban Gold Leaf",8.47,RM015,1.5,2.375,Wood
+34000,"SR, Molto F 3/8"" D 1 3/4"" Satin Black",7.29,RM016,1.375,2 1/8,Wood
+34008,"SR, Arber, F 3/8"" D 1 3/4"" Dark Walnut",7.29,RM016,1.375,2 1/8,Wood
+34009,"SR, Ramino F 3/8"" D 1 3/4"" Satin White",7.29,RM016,1.375,2 1/8,Wood
+34054,"SR,Molto F 3/8"" D 1 3/4""Polished Chrome",7.29,RM016,1.375,2 1/8,Wood
+34055,"SR, Molto F 3/8"" D 1 3/4"" Polished Gold",7.29,RM016,1.375,2 1/8,Wood
+34056,"SR- Ramino, 1 3/8"" Night Silver Floater",7.29,RM016,1.375,2.125,Wood
+34057,"SR- Ramino, 1 3/8"" Night Gold Floater",7.29,RM016,1.375,2.125,Wood
+34082,"SR, Molto F 3/8"" D 1 3/4"" American Maple",7.29,RM016,1.375,2.125,Wood
+34083,"SR, Arber,  F 3/8"" D 1 3/4"" Natural",7.29,RM016,1.375,2.125,Wood
+34084,"SR, Arber,  F 3/8"" D 1 3/4"" White Oak",7.29,RM016,1.375,2.125,Wood
+39200,"Vintage, 1/2"" Raven Black",10.44,RM014,0.5,1,Wood
+39211,"Vintage, 1/2"" Bronze Leaf",10.44,RM014,0.5,1,Wood
+39254,"Vintage, 1/2"" Silver Leaf",10.44,RM014,0.5,1,Wood
+39255,"Vintage, 1/2"" Gold Leaf",10.44,RM014,0.5,1,Wood
+39256,"Vintage, 1/2"" Pewter Leaf",10.44,RM014,0.5,1,Wood
+39700,"Vintage, 1/2"" Raven Black",10.38,RM014,0.5,1,Wood
+39754,"Vintage, 1/2"" Silver Leaf",10.38,RM014,0.5,1,Wood
+39755,"Vintage, 1/2"" Gold Leaf",10.38,RM014,0.5,1,Wood
+42200,"Vintage, 4"" Raven Black",54.73,RM105,4,3,Wood
+42254,"Vintage, 4"" Silver Leaf",54.73,RM105,4,3,Wood
+42255,"Vintage, 4"" Gold Leaf",54.73,RM105,4,3,Wood
+44461,"SR, Arber 1 3/4"" Light Oak",5.89,RM012,1.75,1.875,Wood
+44462,"SR, Arber 1 3/4"" Light Walnut",5.89,RM012,1.75,1.875,Wood
+44463,"SR, Arber 1 3/4"" Dark Walnut",5.89,RM012,1.75,1.875,Wood
+44464,"SR, Arber 1 3/4"" Dark Oak",5.89,RM012,1.75,1.875,Wood
+57343,"Venetian, 2 3/8"" Antique Gold",29.18,RM042,2.375,1.25,Wood
+57344,"Venetian, 2 3/8"" Antique Silver",29.18,RM042,2.375,1.25,Wood
+57345,"Venetian, 2 3/8"" Black with Silver",29.18,RM042,2.375,1.25,Wood
+57543,"Venetian, 2 3/8"" Antique Gold",35.43,RM055,2.375,2,Wood
+57544,"Venetian, 2 3/8"" Antique Silver",35.43,RM055,2.375,2,Wood
+57545,"Venetian, 2 3/8"" Black with Silver",35.43,RM055,2.375,2,Wood
+57551,"Venetian, 2 3/8"" Antique Ivory",33.73,RM055,2.375,2,Wood
+58243,"Venetian, 2 1/2"" Antique Gold",35.43,RM055,2.5,1.875,Wood
+58244,"Venetian, 2 1/2"" Antique Silver",35.43,RM055,2.5,1.875,Wood
+58511,"Hyde, 2"" Cinnamon Stick",10.84,RM016,2,1.25,Wood
+58545,"Hyde, 2"" Dark Ash",10.84,RM016,2,1.25,Wood
+58611,"Hyde, 3"" Cinnamon Stick",17.42,RM027,3,1.5,Wood
+58645,"Hyde, 3"" Dark Ash",17.42,RM027,3,1.5,Wood
+58811,"Hyde, 1 3/8"" Cinnamon Stick",7.66,RM013,1.375,0.75,Wood
+58845,"Hyde, 1 3/8"" Dark Ash",7.66,RM013,1.375,0.75,Wood
+59345,"  Moda, 3 1/4"" Black Lacquer",26.69,RM045,3.25,2.5,Wood
+60210,"Tabacchino, 1 1/8"" Tobacco Leaf",11.28,RM020,1.125,0.875,Wood
+60245,"Tabacchino, 1 1/8"" Dark Ash",11.28,RM020,1.125,0.875,Wood
+60247,"Tabacchino, 1 1/8"" Forest Leaf",11.28,RM020,1.125,0.875,Wood
+60253,"Tabacchino, 1 1/8"" Cognac",11.28,RM020,1.125,0.875,Wood
+60283,"Tabacchino, 1 1/8"" Bourbon",11.28,RM020,1.125,0.875,Wood
+60287,"Tabacchino, 1 1/8"" Cigar Leaf",11.28,RM020,1.125,0.875,Wood
+60310,"Tabacchino, 7/8"" Tobacco Leaf",7.34,RM011,0.875,0.5,Wood
+60345,"Tabacchino, 7/8"" Dark Ash",7.34,RM011,0.875,0.5,Wood
+60347,"Tabacchino, 7/8"" Forest Leaf",7.34,RM011,0.875,0.5,Wood
+60353,"Tabacchino, 7/8"" Cognac",7.34,RM011,0.875,0.5,Wood
+60383,"Tabacchino, 7/8"" Bourbon",7.34,RM011,0.875,0.5,Wood
+60387,"Tabacchino, 7/8"" Cigar Leaf",7.34,RM011,0.875,0.5,Wood
+60410,"Tabacchino, 1 3/8"" Tobacco Leaf",15.68,RM030,1.375,1.375,Wood
+60445,"Tabacchino, 1 3/8"" Dark Ash",15.68,RM030,1.375,1.375,Wood
+60453,"Tabacchino, 1 3/8"" Cognac",15.68,RM030,1.375,1.375,Wood
+60483,"Tabacchino, 1 3/8"" Bourbon",15.68,RM030,1.375,1.375,Wood
+60487,"Tabacchino, 1 3/8"" Cigar Leaf",15.68,RM030,1.375,1.375,Wood
+60510,"Tabacchino, 2 3/4"" Tobacco Leaf",22.90,RM044,2.75,1,Wood
+60545,"Tabacchino, 2 3/4"" Dark Ash",22.90,RM044,2.75,1,Wood
+60583,"Tabacchino, 2 3/4"" Bourbon",22.90,RM044,2.75,1,Wood
+60587,"Tabacchino, 2 3/4"" Cigar Leaf",22.90,RM044,2.75,1,Wood
+60645,"Tabacchino, 4"" DarK Ash",34.56,RM055,4,2,Wood
+60687,"Tabacchino, 4"" Cigar Leaf",34.56,RM055,4,2,Wood
+62681,"SR, Arber 2 1/2"" Light Oak",9.99,RM018,2.5,2.75,Wood
+62682,"SR, Arber 2 1/2"" Light Walnut",9.99,RM018,2.5,2.75,Wood
+62683,"SR, Arber 2 1/2"" Dark Walnut",9.99,RM018,2.5,2.75,Wood
+62684,"SR, Arber 2 1/2"" Dark Oak",9.99,RM018,2.5,2.75,Wood
+68443,"Vintage, 3"" Antique Gold",50.20,RM090,3,3,Wood
+68444,"Vintage, 3"" Antique Silver",50.20,RM090,3,3,Wood
+68445,"Vintage, 3"" Black with Silver Undertones",50.20,RM090,3,3,Wood
+68543,"Vintage, 2 1/8"" Antique Gold",33.29,RM053,2.125,2,Wood
+68544,"Vintage, 2 1/8"" Antique Silver",33.29,RM053,2.125,2,Wood
+68545,"Vintage, 2 1/8"" Black with Silver",33.29,RM053,2.125,2,Wood
+87254,"Bambu, 1"" Silver Leaf",10.38,RM020,1,1,Wood
+87255,"Bambu, 1"" Gold Leaf",10.38,RM020,1,1,Wood
+88754,"Regatta, 1 1/4"" Silver Leaf",16.89,RM025,1.25,1,Wood
+88755,"Regatta, 1 1/4"" Gold Leaf",16.89,RM025,1.25,1,Wood
+88854,"Regatta, 2"" Silver Leaf",26.85,RM036,2,1.375,Wood
+88855,"Regatta, 2"" Gold Leaf",26.85,RM036,2,1.375,Wood
+89054,"Regatta, 3/4"" Silver Leaf",11.03,RM014,0.75,1,Wood
+89055,"Regatta, 3/4"" Gold Leaf",11.03,RM014,0.75,1,Wood
+104005,"SR- Ramino, 1 1/2"" Black and Gold",6.39,RM010,1.5,1.125,Wood
+104054,"SR- Ramino, 1 1/2"" Silver",7.30,RM010,1.5,1.125,Wood
+104055,"SR- Ramino, 1 1/2"" Gold",6.99,RM010,1.5,1.125,Wood
+114011,"SR- Messina, 1 1/2""  Rubbed Bronze",7.71,RM010,1.5,0.875,Wood
+114045,"SR- Messina, 1 1/2""  Formal Black",7.71,RM010,1.5,0.875,Wood
+114054,"SR- Messina, 1 1/2""  Rubbed Silver",7.71,RM010,1.5,0.875,Wood
+114055,"SR- Messina, 1 1/2"" Rubbed Gold",7.71,RM010,1.5,0.875,Wood
+114056,"SR- Messina, 1 1/2"" Rubbed Pewter",7.71,RM010,1.5,0.875,Wood
+114111,"SR- Messina, 2 3/4"" Rubbed Bronze",15.70,RM021,2.75,1,Wood
+114145,"SR- Messina, 2 3/4"" Formal Black",15.70,RM021,2.75,1,Wood
+114154,"SR- Messina, 2 3/4"" Rubbed Silver",15.70,RM021,2.75,1,Wood
+114155,"SR- Messina, 2 3/4"" Rubbed Gold",15.70,RM021,2.75,1,Wood
+114156,"SR- Messina, 2 3/4"" Rubbed Pewter",15.70,RM021,2.75,1,Wood
+120700,"SR- Ramino, 1 1/2"" Satin Black",4.74,RM008,1.5,0.75,Wood
+120845,"SR- Ramino, 1 5/8"" Black Lacquer w Gold",5.86,RM019,1.625,0.75,Wood
+120900,"SR- Ramino, 1 1/2"" Satin Black",4.85,RM007,1.5,0.75,Wood
+120910,"SR- Ramino, 1 1/2"" Matte Mahogany",4.85,RM007,1.5,0.75,Wood
+120953,"SR- Ramino, 1 1/2"" Mahogany Lacquer",5.27,RM007,1.5,0.75,Wood
+120987,"SR- Ramino, 1 1/2"" Walnut",4.85,RM007,1.5,0.75,Wood
+121045,"SR- Savoir, 3/4"" Charcoal",5.99,RM006,0.75,0.625,Wood
+121053,"SR- Savoir, 3/4"" Burnt Brown",5.99,RM006,0.75,0.625,Wood
+121083,"SR- Savoir, 3/4"" Café Crème",5.99,RM006,0.75,0.625,Wood
+121087,"SR- Savoir, 3/4"" Dark Brown",5.99,RM006,0.75,0.625,Wood
+122045,"SR- Savoir, 3/4"" Charcoal",8.08,RM008,0.75,1.375,Wood
+122053,"SR- Savoir, 3/4"" Burnt Brown",8.08,RM008,0.75,1.375,Wood
+122083,"SR- Savoir, 3/4"" Café Crème",8.08,RM008,0.75,1.375,Wood
+122087,"SR- Savoir, 3/4"" Dark Brown",8.08,RM008,0.75,1.375,Wood
+123045,"SR- Savoir, 1 1/2"" Charcoal",10.43,RM012,1.5,1.375,Wood
+123053,"SR- Savoir, 1 1/2"" Burnt Brown",10.43,RM012,1.5,1.375,Wood
+123087,"SR- Savoir, 1 1/2"" Dark Brown",10.43,RM012,1.5,1.375,Wood
+124110,"SR- Versailles, 2 5/8"" Bourbon",14.81,RM020,2.625,1.125,Wood
+124145,"SR- Versailles, 2 5/8"" Dark Ash",14.81,RM020,2.625,1.125,Wood
+124187,"SR- Versailles, 2 5/8"" Bravo Brown",14.81,RM020,2.625,1.125,Wood
+124210,"SR- Versailles, 1 5/8"" Bourbon",7.71,RM010,1.625,1,Wood
+124245,"SR- Versailles, 1 5/8"" Dark Ash",7.71,RM010,1.625,1,Wood
+124287,"SR- Versailles, 1 5/8"" Bravo Brown",7.71,RM010,1.625,1,Wood
+127010,"SR- Versailles, 7/8"" Bourbon",4.71,RM007,0.875,0.625,Wood
+127045,"SR- Versailles, 7/8"" Dark Ash",4.71,RM007,0.875,0.625,Wood
+127087,"SR- Versailles, 7/8"" Bravo Brown",4.71,RM007,0.875,0.625,Wood
+127110,"SR- Versailles, 3/4"" Bourbon",5.97,RM009,0.75,1.125,Wood
+127145,"SR- Versailles, 3/4"" Dark Ash",5.97,RM009,0.75,1.125,Wood
+127187,"SR- Versailles, 3/4"" Bravo Brown",5.97,RM009,0.75,1.125,Wood
+127210,"SR- Versailles, 1 1/4"" Bourbon",7.95,RM010,1.25,1.125,Wood
+127245,"SR- Versailles, 1 1/4"" Dark Ash",7.95,RM010,1.25,1.125,Wood
+127287,"SR- Versailles, 1 1/4"" Bravo Brown",7.95,RM010,1.25,1.125,Wood
+133001,"SR- Ramino, 1 3/8"" Satin Black",6.08,RM009,1.375,1.375,Wood
+133303,"SR- Ramino, 1 3/8"" Brushed Gold",6.66,RM010,1.375,1.375,Wood
+138011,"SR- Messina, 1"" Rubbed Bronze",8.65,RM017,1,1.25,Wood
+138045,"SR- Messina, 1"" Formal Black",8.65,RM017,1,1.25,Wood
+138054,"SR- Messina, 1"" Rubbed Silver",8.65,RM017,1,1.25,Wood
+138055,"SR- Messina, 1"" Rubbed Gold",8.65,RM017,1,1.25,Wood
+138056,"SR- Messina, 1"" Rubbed Pewter",8.65,RM017,1,1.25,Wood
+153010,"SR- Versailles, 7/8"" Light Walnut",5.71,RM006,0.875,0.5,Wood
+153069,"SR- Versailles, 7/8"" Dark Charcoal",5.71,RM006,0.875,0.5,Wood
+153087,"SR- Versailles, 7/8"" Dark Walnut",5.71,RM006,0.875,0.5,Wood
+154010,"SR- Versailles, 2"" Light Walnut",9.50,RM012,2,1,Wood
+154069,"SR- Versailles, 2"" Dark Charcoal",9.50,RM012,2,1,Wood
+154087,"SR- Versailles, 2"" Dark Walnut",9.50,RM012,2,1,Wood
+156010,"SR- Versailles, 7/8"" Light Walnut",6.81,RM008,0.875,1.125,Wood
+156069,"SR- Versailles, 7/8"" Dark Charcoal",6.81,RM008,0.875,1.125,Wood
+156087,"SR- Versailles, 7/8"" Dark Walnut",6.81,RM008,0.875,1.125,Wood
+158010,"SR- Versailles, 1 5/8"" Light Walnut",9.18,RM011,1.625,1.125,Wood
+158069,"SR- Versailles, 1 5/8"" Dark Charcoal",9.18,RM011,1.625,1.125,Wood
+158087,"SR- Versailles, 1 5/8"" Dark Walnut",9.18,RM011,1.625,1.125,Wood
+159045,"Vintage,  3/4"" Black",6.97,RM015,0.75,0.75,Wood
+159054,"Vintage, 3/4"" Pewter & Black",6.97,RM015,0.75,0.75,Wood
+159055,"Vintage,  3/4"" Gold & Black",6.97,RM015,0.75,0.75,Wood
+159056,"Vintage, 3/4"" Silver & White",6.97,RM015,0.75,0.75,Wood
+160045,"Vintage, 3/4"" Black",8.65,RM017,0.75,1.375,Wood
+160054,"Vintage, 3/4"" Pewter & Black",8.65,RM017,0.75,1.375,Wood
+160055,"Vintage, 3/4"" Gold & Black",8.65,RM017,0.75,1.375,Wood
+160056,"Vintage, 3/4"" Silver & White",8.65,RM017,0.75,1.375,Wood
+162045,"Vintage, 3/4"" Black",11.64,RM022,0.75,2,Wood
+162054,"Vintage, 3/4"" Pewter & Black",11.64,RM022,0.75,2,Wood
+162055,"Vintage, 3/4"" Gold & Black",11.64,RM022,0.75,2,Wood
+162056,"Vintage, 3/4"" Silver & White",11.64,RM022,0.75,2,Wood
+163045,"Vintage, 1"" Black",14.23,RM028,1,2.5,Wood
+163054,"Vintage, 1"" Pewter & Black",14.23,RM028,1,2.5,Wood
+163055,"Vintage, 1"" Gold & Black",14.23,RM028,1,2.5,Wood
+163056,"Vintage, 1"" Silver & White",14.23,RM028,1,2.5,Wood
+163200,"Vintage, 5/8"" Carbon Black",6.06,RM009,0.625,1.25,Wood
+163209,"Vintage, 5/8"" Urban White",6.06,RM009,0.625,1.25,Wood
+163254,"Vintage, 5/8"" Urban Silver Leaf",6.33,RM009,0.625,1.25,Wood
+163255,"Vintage, 5/8"" Urban Gold Leaf",6.33,RM009,0.625,1.25,Wood
+164009,"SR - Arber, 3/4"" Light Sand",7.43,RM013,0.75,0.75,Wood
+164045,"SR - Arber, 3/4"" Chocolate",7.43,RM013,0.75,0.75,Wood
+164070,"SR - Arber, 3/4"" Dark Walnut",7.43,RM013,0.75,0.75,Wood
+164086,"SR - Arber, 3/4"" Chestnut",7.43,RM013,0.75,0.75,Wood
+164087,"SR - Arber, 3/4"" Light Walnut",7.43,RM013,0.75,0.75,Wood
+165009,"SR - Arber, 3/4"" Light Sand",9.13,RM015,0.75,1.375,Wood
+165045,"SR - Arber, 3/4"" Chocolate",9.13,RM015,0.75,1.375,Wood
+165070,"SR - Arber, 3/4"" Dark Walnut",9.13,RM015,0.75,1.375,Wood
+165086,"SR - Arber, 3/4"" Chestnut",9.13,RM015,0.75,1.375,Wood
+165087,"SR - Arber, 3/4"" Light Walnut",9.13,RM015,0.75,1.375,Wood
+167009,"SR -Arber, 1 1/4"" Light Sand",9.47,RM017,1.25,1.25,Wood
+167045,"SR - Arber, 1 1/4"" Chocolate",9.47,RM017,1.25,1.25,Wood
+167070,"SR - Arber, 1 1/4"" Dark Walnut",9.47,RM017,1.25,1.25,Wood
+167086,"SR -Arber, 1 1/4"" Chestnut",9.47,RM017,1.25,1.25,Wood
+167087,"SR - Arber, 1 1/4"" Light Walnut",9.47,RM017,1.25,1.25,Wood
+168009,"SR - Arber, 7/8"" Light Sand",8.01,RM013,0.875,1.125,Wood
+168045,"SR - Arber, 7/8"" Chocolate",8.01,RM013,0.875,1.125,Wood
+168070,"SR - Arber, 7/8""Dark Walnut",8.01,RM013,0.875,1.125,Wood
+168086,"SR - Arber, 7/8"" Chestnut",8.01,RM013,0.875,1.125,Wood
+168087,"SR - Arber, 7/8"" Light Walnut",8.01,RM013,0.875,1.125,Wood
+169045,"SR - Arber, 1 5/8"" Chocolate",11.42,RM018,1.625,1.375,Wood
+169070,"SR - Arber, 1 5/8"" Dark Walnut",11.42,RM018,1.625,1.375,Wood
+169086,"SR-Arber, 1 5/8"" Chestnut",11.42,RM018,1.625,1.375,Wood
+169087,"SR-Arber, 1 5/8"" Light Walnut",11.42,RM018,1.625,1.375,Wood
+171001,"SR-Ramino, 7/8"" Steel Black",8.54,RM015,0.875,1.25,Wood
+171009,"SR-Ramino, 7/8"" Steel White",8.54,RM015,0.875,1.25,Wood
+172001,"SR-Ramino, 1 1/4"" Steel Black",8.79,RM015,1.25,0.875,Wood
+172009,"SR-Ramino, 1 1/4"" Steel White",8.79,RM015,1.25,0.875,Wood
+173001,"SR-Ramino, 1"" Steel Black",8.38,RM014,1,1.125,Wood
+173009,"SR-Ramino, 1"" Steel White",8.38,RM014,1,1.125,Wood
+173200,"Eleganza, 5/8"" Raven Black",6.33,RM009,0.625,1.25,Wood
+173251,"Eleganza, 5/8"" Bone",6.33,RM009,0.625,1.25,Wood
+173252,"Eleganza, 5/8"" Fog",6.33,RM009,0.625,1.25,Wood
+174001,"SR-Ramino, 1 5/8"" Steel Black",11.03,RM017,1.625,1.375,Wood
+174009,"SR-Ramino, 1 5/8"" Steel White",11.03,RM017,1.625,1.375,Wood
+175001,"SR-Ramino, 1"" Steel Black",13.82,RM021,1,2.625,Wood
+175009,"SR-Ramino, 1"" Steel White",13.82,RM021,1,2.625,Wood
+176001,"SR-Ramino, 2 3/4"" Satin Black",17.63,RM030,2.75,1.375,Wood
+176009,"SR-Ramino, 2 3/4"" Opaque White",17.63,RM030,2.75,1.375,Wood
+193206,"SR, Burlwood 3/4"" Honey Burl",3.49,RM010,0.75,"1 1/4""",Wood
+193207,"SR, Burlwood 3/4"" Cognac Burl",3.49,RM010,0.75,"1 1/4""",Wood
+193208,"SR, Burlwood 3/4"" Tortoise",3.49,RM010,0.75,"1 1/4""",Wood
+193209,"SR, Organic 3/4"" Montauk White",3.36,RM007,0.75,1.25,Wood
+193245,"SR, Organic 3/4"" Charcoal",3.36,RM007,0.75,1.25,Wood
+193252,"SR, Organic 3/4"" Grey Wash",3.36,RM007,0.75,1.25,Wood
+195045,"SR-Messina, 3/4"" Dark Ash",7.58,RM012,0.75,1.125,Wood
+195054,"SR-Messina, 3/4"" Antique Silver",7.58,RM012,0.75,1.125,Wood
+195055,"SR-Messina, 3/4"" Antique Gold",7.58,RM012,0.75,1.125,Wood
+195056,"SR-Messina, 3/4"" Night Silver",7.58,RM012,0.75,1.125,Wood
+196045,"SR-Messina, 1 1/2"" Dark Ash",11.78,RM018,1.5,1.375,Wood
+196054,"SR-Messina, 1 1/2"" Antique Silver",11.78,RM018,1.5,1.375,Wood
+196055,"SR-Messina, 1 1/2"" Antique Gold",11.78,RM018,1.5,1.375,Wood
+196056,"SR-Messina, 1 1/2"" Night Silver",11.78,RM018,1.5,1.375,Wood
+202009,"SR, Organic 7/8"" Montauk White",2.24,RM005,0.875,0.875,Wood
+202045,"SR, Organic 7/8"" Charcoal",2.24,RM005,0.875,0.875,Wood
+202052,"SR, Organic 7/8"" Grey Wash",2.24,RM005,0.875,0.875,Wood
+203201,"Lavo, 7/8"" Midnight",6.67,RM014,0.875,1.375,Wood
+203206,"SR, Burlwood 3/4"" Honey Burl",3.49,RM010,0.75,"1 1/4""",Wood
+203207,"SR, Burlwood 3/4"" Cognac Burl",3.49,RM010,0.75,"1 1/4""",Wood
+203208,"SR, Burlwood 3/4"" Tortoise",3.49,RM010,0.75,"1 1/4""",Wood
+203250,"Lavo, 7/8"" Cobalt",6.67,RM014,0.875,1.375,Wood
+203254,"Lavo, 7/8"" Diamond Dust",6.67,RM014,0.875,1.375,Wood
+203255,"Lavo, 7/8"" Gold",6.67,RM014,0.875,1.375,Wood
+203299,"Lavo, 7/8"" Rosé",6.67,RM014,0.875,1.375,Wood
+204209,"SR, Organic 1 3/4"" Montauk White",4.07,RM008,1.75,0.875,Wood
+204245,"SR, Organic 1 3/4"" Charcoal",4.07,RM008,1.75,0.875,Wood
+204252,"SR, Organic 1 3/4"" Grey Wash",4.07,RM008,1.75,0.875,Wood
+212000,"SR, Vintage, 7/8"" Satin Black",5.43,RM013,0.875,1.375,Wood
+212009,"SR, Vintage, 7/8"" Satin White",5.43,RM013,0.875,1.375,Wood
+212052,"SR, Vintage, 7/8"" Rose Gold",6.08,RM013,0.875,1.375,Wood
+212054,"SR, Vintage, 7/8"" Titanium Silver",6.08,RM013,0.875,1.375,Wood
+212055,"SR, Vintage, 7/8"" Warm Gold",6.08,RM013,0.875,1.375,Wood
+213000,"SR, Vintage,1 1/8"" Satin Black",7.27,RM015,1.125,1.625,Wood
+213009,"SR, Vintage, 1 1/8"" Satin White",7.27,RM015,1.125,1.625,Wood
+213054,"SR, Vintage, 1 1/8"" Titanium Silver",8.28,RM015,1.125,1.625,Wood
+213055,"SR, Vintage, 1 1/8"" Warm Gold",8.28,RM015,1.125,1.625,Wood
+213254,"SR-Vintage, 3/4"" Antique Silver",3.89,,0.75,"1 1/4""",Wood
+213255,"SR-Vintage, 3/4"" Antique Gold",3.89,,0.75,"1 1/4""",Wood
+250003,"Belle Epoque, 5/8"" Gris Souris",5.29,RM007,0.625,0.5,Wood
+250015,"Belle Epoque, 5/8"" Sable",5.29,RM007,0.625,0.5,Wood
+250047,"Belle Epoque, 5/8"" Artichaud",5.29,RM007,0.625,0.5,Wood
+250048,"Belle Epoque, 5/8"" Vanille",5.29,RM007,0.625,0.5,Wood
+250083,"Belle Epoque, 5/8"" Caramel",5.29,RM007,0.625,0.5,Wood
+250087,"Belle Epoque, 5/8"" Chocolat",5.29,RM007,0.625,0.5,Wood
+250097,"Belle Epoque, 5/8"" Bleu Glace",5.29,RM007,0.625,0.5,Wood
+252205,"SR- Gianni, 1"" Vintage Cocoa & Gold",5.53,RM012,1,0.875,Wood
+252206,"SR- Gianni, 1"" Vintage Cocoa & Silver",5.53,RM012,1,0.875,Wood
+253500,"Eleganza, 1"" Raven Black",8.41,RM015,1,1.5,Wood
+253551,"Eleganza, 1"" Bone",8.41,RM015,1,1.5,Wood
+253552,"Eleganza, 1"" Fog",8.41,RM015,1,1.5,Wood
+253700,"Vintage, 1"" Carbon Black",8.41,RM015,1,1.5,Wood
+253709,"Vintage, 1"" Urban White",8.41,RM015,1,1.5,Wood
+253754,"Vintage, 1"" Urban Silver Leaf",8.41,RM015,1,1.5,Wood
+253755,"Vintage, 1"" Urban Gold Leaf",8.41,RM015,1,1.5,Wood
+263200,"SR, Vintage 7/8"" Antique Black",4.76,RM008,0.875,1.375,Wood
+263254,"SR, Vintage 7/8"" Antique Silver",4.76,RM008,0.875,1.375,Wood
+263255,"SR, Vintage 7/8"" Antique Gold",4.76,RM008,0.875,1.375,Wood
+271700,"SR, Ramino 1 1/8"" Satin Black",2.57,RM006,1.125,  3/4,Wood
+271709,"SR, Ramino 1 1/8"" Satin White",2.57,RM006,1.125,  3/4,Wood
+273706,"SR, Burlwood 1"" Honey Burl",4.40,RM012,1,"1 1/2""",Wood
+273707,"SR, Burlwood 1"" Cognac Burl",4.40,RM012,1,"1 1/2""",Wood
+273708,"SR, Burlwood 1"" Tortoise",4.40,RM012,1,"1 1/2""",Wood
+273800,"SR, Ramino 1 1/8"" Satin Black",4.82,RM012,1.125,1  1/2,Wood
+273808,"SR, Arber  1 1/8"" Warm Walnut",5.55,RM013,1.125,1  1/2,Wood
+273809,"SR, Ramino 1 1/8"" Satin White",4.82,RM012,1.125,1  1/2,Wood
+273837,"SR, Icon 1"" Purple",6.73,RM018,1.125,1.5,Wood
+273848,"SR, Icon 1"" White",6.73,RM018,1.125,1.5,Wood
+273854,"SR, Icon 1"" Silver",6.73,RM018,1.125,1.5,Wood
+273855,"SR, Ramino 1"" Night Gold",5.29,RM013,1,1.5,Wood
+273856,"SR, Ramino 1"" Night Silver",5.29,RM013,1,1.5,Wood
+273874,"SR, Icon 1"" Yellow",6.73,RM018,1.125,1.5,Wood
+273882,"SR, Arber 1 1/8"" American Maple",5.55,RM013,1.125,1  1/2,Wood
+273899,"SR, Icon 1"" Pink",6.73,RM018,1.125,1.5,Wood
+274254,"SR-Vintage, 1"" Antique Silver",4.99,,1,"1 3/4""",Wood
+274255,"SR-Vintage, 1"" Antique Gold",4.99,,1,"1 3/4""",Wood
+303800,"SR, Vintage 1 1/8"" Antique Black",6.03,RM013,1.125,1.625,Wood
+303854,"SR, Vintage 1 1/8"" Antique Silver",6.03,RM013,1.125,1.625,Wood
+303855,"SR, Vintage 1 1/8"" Antique Gold",6.03,RM013,1.125,1.625,Wood
+310045,"SR- Spada, 7/8"" Village Coal",3.49,RM005,0.875,0.625,Wood
+310053,"SR- Spada, 7/8"" Mystic Mahogany",3.49,RM005,0.875,0.625,Wood
+310067,"SR- Spada, 7/8"" Bravo Brown",3.49,RM005,0.875,0.625,Wood
+310086,"SR- Spada, 7/8"" Humble Honey",3.49,RM005,0.875,0.625,Wood
+320045,"SR- Spada, 1 1/2"" Village Coal",4.99,RM008,1.5,0.5,Wood
+320067,"SR- Spada, 1 1/2"" Bravo Brown",4.99,RM008,1.5,0.5,Wood
+320086,"SR- Spada, 1 1/2"" Humble Honey",4.99,RM008,1.5,0.5,Wood
+330045,"SR- Spada, 1 1/8"" Village Coal",5.01,RM008,1.125,0.875,Wood
+330053,"SR- Spada, 1 1/8"" Mystic Mahogany",5.01,RM008,1.125,0.875,Wood
+330067,"SR- Spada, 1 1/8"" Bravo Brown",5.01,RM008,1.125,0.875,Wood
+330086,"SR- Spada, 1 1/8"" Humble Honey",5.01,RM008,1.125,0.875,Wood
+334054,"SR, Vintage 1 1/8"" Urban Silver Leaf",6.03,RM013,1.125,1.625,Wood
+334055,"SR, Vintage 1 1/8"" Urban Gold Leaf",6.03,RM013,1.125,1.625,Wood
+339045,"Lavo, 1"" Shimmering Black",5.42,RM013,1,0.875,Wood
+339048,"Lavo, 1"" Shimmering White",5.42,RM013,1,0.875,Wood
+339054,"Lavo, 1"" Shimmering Silver",5.42,RM013,1,0.875,Wood
+339098,"Lavo, 1"" Shimmering Teardrop",5.42,RM013,1,0.875,Wood
+339099,"Lavo, 1"" Shimmering Rose Petal",5.42,RM013,1,0.875,Wood
+340045,"SR- Spada, 1 7/8"" Village Coal",9.43,RM013,1.875,1.125,Wood
+340067,"SR- Spada, 1 7/8"" Bravo Brown",9.43,RM013,1.875,1.125,Wood
+340086,"SR- Spada, 1 7/8"" Humble Honey",9.43,RM013,1.875,1.125,Wood
+341045,"Lavo, 2 3/8"" Shimmering Black",16.63,RM030,2.375,1.875,Wood
+341048,"Lavo, 2 3/8"" Shimmering White",16.63,RM030,2.375,1.875,Wood
+341054,"Lavo, 2 3/8"" Shimmering Silver",16.63,RM030,2.375,1.875,Wood
+341098,"Lavo, 2 3/8"" Shimmering Teardrop",16.63,RM030,2.375,1.875,Wood
+341099,"Lavo, 2 3/8"" Shimmering Rose Petal",16.63,RM030,2.375,1.875,Wood
+360000,"SR- Spada, 1 1/2"" Satin Black",6.07,RM009,1.5,1.125,Wood
+360045,"SR- Spada, 1 1/2"" Village Coal",6.38,RM009,1.5,1.125,Wood
+360067,"SR- Spada, 1 1/2"" Bravo Brown",6.38,RM008,1.5,1.125,Wood
+360086,"SR- Spada, 1 1/2"" Humble Honey",6.38,RM008,1.5,1.125,Wood
+370045,"SR- Spada, 2 3/4"" Village Coal",14.77,RM024,2.75,1.875,Wood
+370067,"SR- Spada, 2 3/4"" Bravo Brown",14.77,RM024,2.75,1.875,Wood
+383005,"SR-Gianni, 1 1/2"" Vintage Cocoa & Gold",8.32,RM015,1.5,0.875,Wood
+420009," Ramino, 3/4"" White Linen Liner",3.40,RM010,0.75,0.625,Liner
+430009," Ramino, 1 1/4"" White Linen Liner",3.94,RM012,1.25,0.625,Liner
+450009," Ramino, 2"" White Linen Liner",5.39,RM015,2,0.625,Liner
+470001," Ramino, 2 1/2"" Black Linen Liner",7.41,RM018,2.5,1.125,Liner
+470009," Ramino, 2 1/2"" White Linen Liner",7.41,RM018,2.5,1.125,Liner
+471000,"SR, Vintage, 3/4"" Satin Black",4.23,RM010,0.75,0.875,Wood
+471052,"SR, Vintage, 3/4"" Rose Gold",4.53,RM012,0.75,0.875,Wood
+471054,"SR, Vintage, 3/4"" Warm Silver",4.53,RM012,0.75,0.875,Wood
+471055,"SR, Vintage, 3/4"" Warm Gold",4.53,RM012,0.75,0.875,Wood
+472000,"SR, Vintage, 1 1/2"" Satin Black",7.11,RM013,1.5,1.25,Wood
+472052,"SR, Vintage, 1 1/2"" Rose Gold",8.28,RM015,1.5,1.25,Wood
+472054,"SR, Vintage, 1 1/2"" Warm Silver",8.28,RM015,1.5,1.25,Wood
+472055,"SR, Vintage, 1 1/2"" Warm Gold",8.28,RM015,1.5,1.25,Wood
+482000,"Vintage, 5/8"" Jasper Black",7.96,RM015,0.625,1.375,Wood
+482009,"Vintage, 5/8"" Chalk White",7.96,RM015,0.625,1.375,Wood
+482045,"Lavo, 5/8"" Shimmering Black",7.96,RM015,0.625,1.375,Wood
+482048,"Lavo, 5/8"" Shimmering White",7.96,RM015,0.625,1.375,Wood
+482052,"Lavo, 5/8"" Shimmering Truffle",7.96,RM015,0.625,1.375,Wood
+482055,"Vintage, 5/8"" Soft Gold",9.56,RM018,0.625,1.375,Wood
+482056,"Vintage, 5/8"" Soft Silver",9.56,RM018,0.625,1.375,Wood
+482062,"Vintage, 5/8"" Champagne",9.56,RM018,0.625,1.375,Wood
+483000,"Vintage, 1"" Jasper Black",10.41,RM018,1,1.5,Wood
+483009,"Vintage, 1"" Chalk White",10.41,RM018,1,1.5,Wood
+483045,"Lavo, 1"" Shimmering Black",9.96,RM018,1,1.5,Wood
+483048,"Lavo, 1"" Shimmering White",9.96,RM018,1,1.5,Wood
+483055,"Vintage, 1"" Soft Gold",12.86,RM025,1,1.5,Wood
+483056,"Vintage, 1"" Soft Silver",12.86,RM025,1,1.5,Wood
+483062,"Vintage, 1"" Champagne",12.86,RM025,1,1.5,Wood
+501100,"Genuine Woods, 1/2"" Matte Black",2.85,RM004,0.125,0.125,Wood
+525013,"SR-Country Collection, 3/4"" - Bubble Gum",5.31,RM012,0.75,0.875,Wood
+525050,"SR-Country Collection, 3/4"" - Berry",5.31,RM012,0.75,0.875,Wood
+527009,"SR-Country Collection, 3/4"" Matte White",5.23,RM012,0.75,0.5,Wood
+527045,"SR-Country Collection, 3/4"" Nightfall",5.23,RM012,0.75,0.5,Wood
+527054,"SR-Country Collection, 3/4"" Ant.Silver",6.13,RM013,0.75,0.5,Wood
+527069,"SR-Country Collection, 3/4"" Graystone",5.23,RM012,0.75,0.5,Wood
+527074,"SR-Country Collection, 3/4"" Sundance",5.23,RM012,0.75,0.5,Wood
+527098,"SR-Country Collection, 3/4"" Bluebelle",5.23,RM012,0.75,0.5,Wood
+527099,"SR-Country Collection, 3/4"" Teaberry",5.23,RM012,0.75,0.5,Wood
+528009,"SR-Country Collection, 3/4"" Matte White",8.02,RM015,0.75,1.25,Wood
+528045,"SR-Country Collection, 3/4"" Nightfall",8.02,RM015,0.75,1.25,Wood
+528069,"SR-Country Collection, 3/4"" Graystone",8.02,RM015,0.75,1.25,Wood
+529009,"SR-Country Collection,1 1/4"" Matte White",10.27,RM018,1.25,1.25,Wood
+529045,"SR-Country Collection, 1 1/4"" Nightfall",10.27,RM018,1.25,1.25,Wood
+529054,"SR-Country Collection,1 1/4"" Ant. Silver",11.97,RM020,1.25,1.25,Wood
+529069,"SR-Country Collection, 1 1/4"" Graystone",10.27,RM018,1.25,1.25,Wood
+530009,"SR-Country Collection,1 5/8"" Matte White",10.27,RM018,1.625,0.75,Wood
+530045,"SR-Country Collection, 1 5/8"" Nightfall",10.27,RM018,1.625,0.75,Wood
+530069,"SR-Country Collection, 1 5/8"" Graystone",10.27,RM018,1.625,0.75,Wood
+531009,"SR-Country Collection,2 3/4"" Matte White",20.55,RM030,2.75,1.5,Wood
+531045,"SR-Country Collection, 2 3/4"" Nightfall",20.55,RM030,2.75,1.5,Wood
+532009,"SR-Country Collection, 1"" Matte White",12.69,RM022,1,2.125,Wood
+532045,"SR-Country Collection, 1"" Nightfall",12.69,RM022,1,2.125,Wood
+533000,"SR - Arber, 3/4"" Charcoal Black",5.62,RM009,0.75,0.75,Wood
+533009,"SR - Arber, 3/4”  Cloud White",5.62,RM009,0.75,0.75,Wood
+533034," Lavo, 3/4"" Jet Metal Black",5.64,RM012,0.75,0.75,Wood
+533045," Lavo, 3/4""  Black Gloss",5.64,RM012,0.75,0.75,Wood
+533046," Lavo, 3/4"" Orient Red",5.64,RM012,0.75,0.75,Wood
+533086,"SR - Arber, 3/4“ - Saddle Brown",5.62,RM009,0.75,0.75,Wood
+533087,"SR - Arber, 3/4” - Dark Cocoa",5.62,RM009,0.75,0.75,Wood
+534000,"SR - Arber, 1 1/2” - Charcoal Black",9.50,RM015,1.5,1.125,Wood
+534034," Lavo, 1 1/2"" Jet Metal Black",9.70,RM015,1.5,1.125,Wood
+534045,"Lavo, 1 1/2""  Black Gloss",9.70,RM015,1.5,1.125,Wood
+534046," Lavo, 1 1/2"" Orient Red",9.70,RM015,1.5,1.125,Wood
+534086,"SR - Arber, 1 1/2” - Saddle Brown",9.50,RM015,1.5,1.125,Wood
+534087,"SR - Arber, 1 1/2” - Dark Cocoa",9.50,RM015,1.5,1.125,Wood
+535000,"SR - Arber, 3 1/2” - Charcoal Black",20.93,RM035,3.5,1.5,Wood
+535034," Lavo, 3 1/2"" Jet  Metal Black",21.72,RM038,3.5,1.5,Wood
+535045," Lavo, 3 1/2""  Black Gloss",21.72,RM038,3.5,1.5,Wood
+535046," Lavo, 3 1/2"" Orient Red",21.72,RM038,3.5,1.5,Wood
+535087," SR - Arber, 3 1/2” - Dark Cocoa",20.93,RM035,3.5,1.5,Wood
+536000," Elements, 3/4"" Satin Black",5.77,RM013,0.75,1.5,Wood
+536009," Elements, 3/4"" Satin White",5.77,RM013,0.75,1.5,Wood
+536013,"Elements, 3/4"" Lilac",5.77,RM013,0.75,1.5,Wood
+536038,"Elements, 3/4"" Turquoise",5.77,RM013,0.75,1.5,Wood
+536046,"Elements, 3/4"" Orient Red",5.77,RM013,0.75,1.5,Wood
+536052,"Elements, 3/4"" Rose Gold",5.77,RM013,0.75,1.5,Wood
+536054,"Elements, 3/4"" Frosted Silver",5.77,RM013,0.75,1.5,Wood
+536074,"Elements , 3/4"" Canary Yellow",5.77,RM013,0.75,1.5,Wood
+536098,"Elements, 3/4"" Powder Blue",5.77,RM013,0.75,1.5,Wood
+536099,"Elements, 3/4"" Powder Pink",5.77,RM013,0.75,1.5,Wood
+537009,"SR-Country F 3/4"" Matte White",20.55,RM030,0.75,2 3/4,Wood
+537045,"SR-Country F 3/4"" Nightfall",20.55,RM030,0.75,2 3/4,Wood
+537054,"SR-Country F 3/4"" Ant.Silver",21.27,RM035,0.75,2 3/4,Wood
+543800,"SR- Gianni, 2 1/8"" Vintage Cocoa",10.16,RM018,2.125,1.5,Wood
+543805,"SR- Gianni, 2 1/8"" Vintage Cocoa & Gold",10.53,RM018,2.125,1.5,Wood
+543806,"SR-Gianni, 2 1/8"" Vintage Cocoa & Silver",10.53,RM018,2.125,1.5,Wood
+550086,"Cortona, 5/8"" Renaissance Black",5.29,RM007,0.625,0.5,Wood
+550087,"Cortona, 5/8"" Florentine Walnut",5.29,RM007,0.625,0.5,Wood
+555086,"Cortona, 1 1/4"" Renaissance Black",9.75,RM016,1.25,0.875,Wood
+555087,"Cortona, 1 1/4"" Florentine Walnut",9.75,RM016,1.25,0.875,Wood
+556086,"Cortona, 2 1/2"" Renaissance Black",18.05,RM029,2.5,1.875,Wood
+556087,"Cortona, 2 1/2"" Florentine Walnut",18.05,RM029,2.5,1.875,Wood
+606000,"Eleganza, 4 1/8"" Ash Shagreen",32.19,RM060,4.125,2.25,Wood
+606051,"Eleganza, 4 1/8"" Bone Shagreen",32.19,RM060,4.125,2.25,Wood
+606052,"Eleganza, 4 1/8"" Fog Shagreen",32.19,RM060,4.125,2.25,Wood
+606055,"Eleganza, 4 1/8"" Gold Shagreen",32.19,RM060,4.125,2.25,Wood
+690001,"SR- Noire, 1 1/4"" Satin Black",8.88,RM010,1.25,1.25,Wood
+691001,"SR- Noire, 1"" Satin Black",5.82,RM006,1,0.625,Wood
+692001,"SR- Noire, 1 1/4"" Satin Black",8.29,RM009,1.25,1,Wood
+742045,"Lavo, 1 1/8"" Electric Black",7.80,RM013,1.125,0.625,Wood
+742046,"Lavo, 1 1/8"" Electric Red",7.80,RM013,1.125,0.625,Wood
+742048,"Lavo, 1 1/8"" Electric White",7.80,RM013,1.125,0.625,Wood
+742308,"Lavo, 1 1/8"" Electric Pewter",7.96,RM014,1.125,0.625,Wood
+743045,"Lavo, 3"" Electric Black",22.46,RM033,3,1.375,Wood
+743308,"Lavo, 3"" Electric Pewter",22.90,RM035,3,1.375,Wood
+745002,"SR- Country , 3 1/2"" Rustic Black",18.68,RM030,3.5,1.375,Wood
+745032,"Lavo, 3 1/2"" Seaport Blue",19.75,RM033,3.5,1.5,Wood
+745037,"Lavo, 3 1/2"" Royal Lilac",19.75,RM033,3.5,1.5,Wood
+745041,"Lavo, 3 1/2"" Orange Marmalade",19.75,RM033,3.5,1.5,Wood
+745045,"Lavo, 3 1/2"" Electric Black",19.75,RM033,3.5,1.5,Wood
+745046,"Lavo, 3 1/2"" Electric Red",19.75,RM033,3.5,1.5,Wood
+745047,"Lavo, 3 1/2"" Fresh Lime",19.75,RM033,3.5,1.5,Wood
+745048,"Lavo, 3 1/2"" Electric White",19.75,RM033,3.5,1.5,Wood
+745054,"Lavo, 3 1/2"" Electric Silver",22.90,RM035,3.5,1.5,Wood
+745058,"SR-Country, 3 1/2"" Rustic White",18.68,RM030,3.5,1.375,Wood
+745074,"Lavo, 3 1/2"" Sunburst Yellow",19.75,RM033,3.5,1.5,Wood
+745076,"Lavo, 3 1/2"" Cherry Red",19.75,RM033,3.5,1.5,Wood
+745077,"Lavo, 3 1/2"" Capri Teal",19.75,RM033,3.5,1.5,Wood
+745308,"Lavo, 3 1/2"" Electric Pewter",22.90,RM035,3.5,1.5,Wood
+748002,"SR- Country, 1 1/2"" Rustic Black",8.40,RM015,1.5,0.75,Wood
+748013,"Lavo, 1 1/2"" Electric Purple",7.91,RM017,1.5,0.75,Wood
+748032,"Lavo, 1 1/2"" Seaport Blue",7.91,RM017,1.5,0.75,Wood
+748037,"Lavo, 1 1/2"" Royal Lilac",7.91,RM017,1.5,0.75,Wood
+748041,"Lavo, 1 1/2"" Orange Marmalade",7.91,RM017,1.5,0.75,Wood
+748045,"Lavo, 1 1/2"" Electric Black",7.91,RM017,1.5,0.75,Wood
+748047,"Lavo, 1 1/2"" Fresh Lime",7.91,RM017,1.5,0.75,Wood
+748048,"Lavo, 1 1/2"" Electric White",7.91,RM017,1.5,0.75,Wood
+748052,"Lavo, 1 1/2"" Electric Gray",7.91,RM017,1.5,0.75,Wood
+748058,"SR- Country ,1 1/2"" Rustic White",8.40,RM015,1.5,0.75,Wood
+748074,"Lavo, 1 1/2"" Sunburst Yellow",7.91,RM017,1.5,0.75,Wood
+748076,"Lavo, 1 1/2"" Cherry Red",7.91,RM017,1.5,0.75,Wood
+748077,"Lavo, 1 1/2"" Capri Teal",7.91,RM017,1.5,0.75,Wood
+748098,"Lavo, 1 1/2"" Electric Sky",7.91,RM017,1.5,0.75,Wood
+748099,"Lavo, 1 1/2"" Electric Pink",7.91,RM017,1.5,0.75,Wood
+806005,"SR- Ruvo, 1"" Gold/Black",5.49,RM008,1,0.75,Wood
+806006,"SR- Ruvo, 1"" Silver/Black",5.49,RM008,1,0.75,Wood
+806054,"SR- Ruvo, 1"" Silver",4.98,RM008,1,0.75,Wood
+806055,"SR- Ruvo, 1"" Gold",4.98,RM008,1,0.75,Wood
+807005,"SR- Ruvo, 1 1/2"" Gold/Black",9.37,RM012,1.5,1.375,Wood
+807006,"SR- Ruvo, 1 1/2"" Silver/Black",9.37,RM012,1.5,1.375,Wood
+807054,"SR- Ruvo, 1 1/2"" Silver",9.37,RM012,1.5,1.375,Wood
+807055,"SR- Ruvo, 1 1/2"" Gold",9.37,RM012,1.5,1.375,Wood
+808005,"SR- Ruvo, 2 5/8"" Gold/Black",11.70,RM016,2.625,1,Wood
+808006,"SR- Ruvo, 2 5/8"" Silver/Black",11.70,RM016,2.625,1,Wood
+809009,"SR- Ruvo, 1"" White",5.10,RM008,1,0.75,Wood
+809045,"SR- Ruvo, 1"" Black",5.10,RM008,1,0.75,Wood
+809054,"SR- Ruvo, 1"" Silver",5.10,RM008,1,0.75,Wood
+809055,"SR- Ruvo, 1"" Gold",5.10,RM008,1,0.75,Wood
+809085,"SR- Ruvo, 1"" Mahogany",5.10,RM008,1,0.75,Wood
+815345,"SR- Ramino, 1"" Black Lacquer",3.80,RM009,1,0.75,Wood
+815353,"SR- Ramino, 1"" Mahogany Lacquer",3.80,RM009,1,0.75,Wood
+815387,"SR- Ramino, 1"" Chestnut",3.61,RM009,1,0.75,Wood
+852045,"SR- Arber, 1"" Charcoal Black",4.84,RM009,1,0.625,Wood
+852047,"SR- Arber, 1"" Smoked Pine",4.84,RM009,1,0.5,Wood
+852058,"SR- Arber, 1"" Rubbed White",4.84,RM009,1,0.5,Wood
+852069,"SR- Arber, 1"" Ash Gray",4.84,RM009,1,0.5,Wood
+852086,"SR- Arber, 1"" Roasted Chestnut",4.84,RM009,1,0.5,Wood
+853045,"SR- Arber, 1 1/2"" Charcoal Black",6.54,RM011,1.5,0.5,Wood
+853047,"SR- Arber, 1 1/2"" Smoked Pine",6.54,RM011,1.5,0.5,Wood
+853058,"SR- Arber, 1 1/2"" Rubbed White",6.54,RM011,1.5,0.5,Wood
+853069,"SR- Arber, 1 1/2"" Ash Gray",6.54,RM011,1.5,0.5,Wood
+853086,"SR- Arber, 1 1/2"" Roasted Chestnut",6.54,RM011,1.5,0.5,Wood
+855045,"SR- Arber, 1 1/4"" Charcoal Black",8.54,RM014,1.25,1.25,Wood
+855047,"SR- Arber, 1 1/4"" Smoked Pine",8.54,RM014,1.25,1.25,Wood
+855069,"SR- Arber, 1 1/4"" Ash Gray",8.54,RM014,1.25,1.25,Wood
+855086,"SR- Arber, 1 1/4"" Roasted Chestnut",8.54,RM014,1.25,1.25,Wood
+856045,"SR- Arber, 3"" Charcoal Black",15.28,RM023,3,1.125,Wood
+857003,"SR- Arber, 1 1/2"" Soft Gray",8.48,RM009,1.5,1.125,Wood
+857045,"SR- Arber, 1 1/2"" Charcoal Black",8.48,RM009,1.5,1.125,Wood
+857047,"SR- Arber, 1 1/2"" Smoked Pine",8.48,RM009,1.5,1.125,Wood
+858045,"SR- Arber, 2 3/4"" Charcoal Black",12.46,RM016,2.75,1.25,Wood
+858047,"SR- Arber, 2 3/4"" Smoked Pine",12.46,RM016,2.75,1.25,Wood
+859003,"SR- Arber, 3 1/2"" Soft Gray",20.39,RM028,3.5,1.625,Wood
+859045,"SR- Arber, 3 1/2"" Charcoal Black",20.39,RM028,3.5,1.625,Wood
+860032,"Lavo, 5/8"" Shimmering Blue",3.63,RM004,0.625,0.625,Wood
+860045,"Lavo, 5/8"" Shimmering Black",3.63,RM004,0.625,0.625,Wood
+860046,"Lavo, 5/8"" Shimmering Red",3.63,RM004,0.625,0.625,Wood
+860047,"Lavo, 5/8"" Shimmering Green",3.63,RM004,0.625,0.625,Wood
+860048,"Lavo, 5/8"" Shimmering White",3.63,RM004,0.625,0.625,Wood
+860069,"Lavo, 5/8"" Matte Charcoal",3.63,RM004,0.625,0.625,Wood
+860074,"Lavo, 5/8"" Shimmering Yellow",3.63,RM004,0.625,0.625,Wood
+860300,"Lavo, 5/8"" Matte Aluminum",3.63,RM004,0.625,0.625,Wood
+860308,"Lavo, 5/8"" Matte Iron",3.63,RM004,0.625,0.625,Wood
+861045,"Lavo, 2"" Shimmering Black",12.48,RM018,2,1.25,Wood
+861046,"Lavo, 2"" Shimmering Red",12.48,RM018,2,1.25,Wood
+861069,"Lavo, 2"" Matte Charcoal",12.48,RM018,2,1.25,Wood
+865032,"SR- Lavo, 3/4"" Shimmering Blue",3.29,RM004,0.75,0.625,Wood
+865037,"SR- Lavo, 3/4"" Shimmering Violet",3.29,RM004,0.75,0.625,Wood
+865041,"SR- Lavo, 3/4"" Shimmering Orange",3.29,RM004,0.75,0.625,Wood
+865045,"SR- Lavo, 3/4"" Shimmering Black",3.29,RM004,0.75,0.625,Wood
+865046,"SR- Lavo, 3/4""  Shimmering Red",3.29,RM004,0.75,0.625,Wood
+865047,"SR- Lavo, 3/4"" Shimmering Green",3.29,RM004,0.75,0.625,Wood
+865048,"SR- Lavo, 3/4"" Shimmering White",3.29,RM004,0.75,0.625,Wood
+865054,"SR- Lavo, 3/4"" Shimmering Silver",3.29,RM004,0.75,0.625,Wood
+865069,"SR- Lavo, 3/4"" Shimmering Pewter",3.29,RM004,0.75,0.625,Wood
+865074,"SR- Lavo, 3/4"" Shimmering Yellow",3.29,RM004,0.75,0.625,Wood
+868045,"Lavo, 1 1/2"" Electric Black",9.72,RM016,1.5,1.125,Wood
+868046,"Lavo, 1 1/2"" Electric Red",9.72,RM016,1.5,1.125,Wood
+868048,"Lavo, 1 1/2"" Electric White",9.72,RM016,1.5,1.125,Wood
+868056,"Lavo, 1 1/2"" Electric Pewter",9.72,RM016,1.5,1.125,Wood
+869045,"Lavo, 3"" Electric Black",27.21,RM040,3,2,Wood
+869046,"Lavo, 3"" Electric Red",27.21,RM040,3,2,Wood
+869056,"Lavo, 3"" Electric Pewter",27.21,RM040,3,2,Wood
+892045,"Lavo, 2 1/4"" Electric Black",14.86,RM020,2.25,1.375,Wood
+892048,"Lavo, 2 1/4"" Electric White",14.86,RM020,2.25,1.375,Wood
+893045,"Lavo, 4"" Electric Black",29.96,RM045,4,2.25,Wood
+893048,"Lavo, 4"" Electric White",29.96,RM045,4,2.25,Wood
+896011,"Sonora, 1/2"" Weathered Bronze",6.05,RM007,0.5,0.5,Wood
+896054,"Sonora, 1/2"" Weathered Silver",6.05,RM007,0.5,0.5,Wood
+896055,"Sonora, 1/2"" Weathered Gold",6.05,RM007,0.5,0.5,Wood
+896056,"Sonora, 1/2"" Weathered Iron",6.05,RM007,0.5,0.5,Wood
+896057,"Sonora, 1/2"" Weathered Copper",6.05,RM007,0.5,0.5,Wood
+897011,"Sonora, 7/8"" Weathered Bronze",8.54,RM010,0.875,0.625,Wood
+897054,"Sonora, 7/8"" Weathered Silver",8.54,RM010,0.875,0.625,Wood
+897056,"Sonora, 7/8"" Weathered Iron",8.54,RM010,0.875,0.625,Wood
+930045,"SR- Gianni, 1 5/8"" Dark Ash Etched Silve",8.74,RM016,1.625,1.125,Wood
+930054,"SR- Gianni, 1 5/8"" Aged Silver",12.53,RM018,1.625,1.125,Wood
+930055,"SR- Gianni, 1 5/8"" Aged Gold",11.46,RM018,1.625,1.125,Wood
+980006,"Ravello, 7/8"" Formal Black Silver Accent",9.23,RM014,0.875,1.125,Wood
+980054,"Ravello, 7/8"" Rubbed Silver",9.23,RM014,0.875,1.125,Wood
+980055,"Ravello, 7/8"" Rubbed Gold",9.23,RM014,0.875,1.125,Wood
+980056,"Ravello, 7/8"" Rubbed Pewter",9.23,RM014,0.875,1.125,Wood
+982006,"Ravello, 1 1/4"" Formal Black Silver",10.67,RM015,1.25,1.125,Wood
+982054,"Ravello, 1 1/4"" Rubbed Silver",10.67,RM015,1.25,1.125,Wood
+982055,"Ravello, 1 1/4"" Rubbed Gold",10.67,RM015,1.25,1.125,Wood
+982056,"Ravello, 1 1/4"" Rubbed Pewter",10.67,RM015,1.25,1.125,Wood
+984006,"Ravello, 3/4"" Formal Black Silver Accent",6.29,RM010,0.75,0.75,Wood
+984054,"Ravello, 3/4"" Silver",6.29,RM010,0.75,0.75,Wood
+984055,"Ravello, 3/4"" Gold",6.29,RM010,0.75,0.75,Wood
+984056,"Ravello, 3/4"" Pewter",6.29,RM010,0.75,0.75,Wood
+986054,"Ravello, 2"" Rubbed Silver",13.32,RM020,2,1.25,Wood
+986055,"Ravello, 2"" Rubbed Gold",13.32,RM020,2,1.25,Wood
+988006,"Ravello, 2 1/2"" Formal Black Silver",23.09,RM040,2.5,1.75,Wood
+988054,"Ravello, 2 1/2"" Rubbed Silver",23.09,RM040,2.5,1.75,Wood
+988055,"Ravello, 2 1/2"" Rubbed Gold",23.09,RM040,2.5,1.75,Wood
+988056,"Ravello, 2 1/2"" Rubbed Pewter",23.09,RM040,2.5,1.75,Wood
+1114300,"SR - Ramino, F 1/2"" Satin Black",5.55,RM012,1.125,1 3/4,Wood
+1114303,"SR - Arber, 1/2"" Raw Oak",5.99,RM015,0.5,1.75,Wood
+1114308,"SR - Arber, F 1/2"" D 1 3/8"" Warm Walnut",5.55,RM012,1.125,1.75,Wood
+1114309,"SR - Ramino, F 3/8""  Opaque White",5.55,RM012,1.125,1 3/4,Wood
+1114312,"SR - Ramino, 1/2"" Fairway Green",5.55,RM015,0.5,0.875,Wood
+1114332,"SR - Ramino, 1/2"" Midnight Marina",5.55,RM015,0.5,0.875,Wood
+1114340,"SR - Ramino, 1/2"" Sunset Spritz",5.55,RM015,0.5,0.875,Wood
+1114356,"SR - Molto, F 1/2"" D 1 3/8"" Pol. Chrome",5.61,RM012,1.125,1.75,Wood
+1114357,"SR - Molto, F 1/2"" D 1 3/8"" Pol. Gold",5.61,RM012,1.125,1.75,Wood
+1114374,"SR - Ramino, 1/2"" Sunwashed Lemon",5.55,RM015,0.5,0.875,Wood
+1114376,"SR - Ramino, 1/2"" Stiletto Red",5.55,RM015,0.5,0.875,Wood
+1114382,"SR - Arber, F 1/2"" D 1 3/8"" Amer. Maple",5.55,RM012,1.125,1.75,Wood
+1114399,"SR - Ramino, 1/2"" Sunset Ballet",5.55,RM015,0.5,0.875,Wood
+1702005,"SR- Gianni, 1"" Vintage Cocoa & Gold",6.29,RM013,1,0.9375,Wood
+1702006,"SR- Gianni, 1"" Vintage Cocoa & Silver",6.29,RM013,1,0.9375,Wood
+1702007,"SR-Country Collection, 1"" Rustic Black",6.13,RM013,1,0.9375,Wood
+1702008,"SR-Country Collection, 1"" Rustic Natural",6.13,RM013,1,0.9375,Wood
+1702054,"SR-Palio, 1"" Antique Black & Silver",6.59,RM013,1,1,Wood
+1702055,"SR-Palio, 1"" Antique Black & Gold",6.59,RM013,1,1,Wood
+1703005,"SR- Gianni, 1 1/2"" Vintage Cocoa & Gold",8.67,RM015,1.5,1,Wood
+1703006,"SR-Gianni, 1 1/2"" Vintage Cocoa & Silver",8.67,RM015,1.5,1,Wood
+1703007,"SR-Country , 1 1/2"" Rustic Black",8.51,RM015,1.5,1,Wood
+1703008,"SR-Countr , 1 1/2"" Rustic Natural",8.51,RM015,1.5,1,Wood
+1703055,"SR-Palio, 1 3/8"" Antique Black & Gold",9.04,RM015,1.375,1,Wood
+1704001,"Vintage, 5/8"" Pointed Black",7.54,RM014,0.625,1.25,Wood
+1704052,"Vintage, 5/8"" Pointed Champagne",10.00,RM015,0.625,1.25,Wood
+1704055,"Vintage, 5/8"" Pointed Gold",10.00,RM015,0.625,1.25,Wood
+1705001,"Vintage, 1"" Pointed Black",9.96,RM015,1,1.5,Wood
+1705009,"Vintage, 1"" Pointed White",9.96,RM015,1,1.5,Wood
+1705052,"Vintage, 1"" Pointed Champagne",12.86,RM018,1,1.5,Wood
+1705055,"Vintage, 1"" Pointed Gold",12.86,RM018,1,1.5,Wood
+1706001,"Vintage, 1 3/8"" Pointed Black",15.85,RM030,1.375,2,Wood
+1706055,"Vintage, 1 3/8"" Pointed Gold",20.87,RM031,1.375,2,Wood
+1712055,"SR-Palio, 1"" Antique Black & Gold",9.04,RM015,1,1.875,Wood
+1804001,"Vintage, 5/8"" Hammered Black",7.54,RM014,0.625,1.25,Wood
+1804009,"Vintage, 5/8"" Hammered White",7.54,RM014,0.625,1.25,Wood
+1804052,"Vintage, 5/8"" Hammered Champagne",10.00,RM015,0.625,1.25,Wood
+1804053,"Vintage, 5/8"" Hammered Copper",10.00,RM015,0.625,1.25,Wood
+1804054,"Vintage, 5/8"" Hammered Silver",10.00,RM015,0.625,1.25,Wood
+1804055,"Vintage, 5/8"" Hammered Gold",10.00,RM015,0.625,1.25,Wood
+1805001,"Vintage, 1"" Hammered Black",9.96,RM015,1,1.5,Wood
+1805009,"Vintage, 1"" Hammered White",9.96,RM015,1,1.5,Wood
+1805053,"Vintage, 1"" Hammered Copper",12.86,RM018,1,1.5,Wood
+1805054,"Vintage, 1"" Hammered Silver",12.86,RM018,1,1.5,Wood
+1805055,"Vintage, 1"" Hammered Gold",12.86,RM018,1,1.5,Wood
+1822007,"SR-Country , 3/4"" Rustic Black",6.49,RM013,0.75,1.625,Wood
+1822008,"SR-Country , 3/4"" Rustic Natural",6.49,RM013,0.75,1.625,Wood
+1822054,"SR-Palio, 3/4"" Antique Black & Silver",7.44,RM013,0.75,1.5,Wood
+1822055,"SR-Palio, 3/4"" Antique Black & Gold",7.44,RM013,0.75,1.5,Wood
+1832054,"SR,Palio, 3/4"" Cool silver",5.49,RM008,0.75,0.625,Wood
+1832055,"SR,Palio, 3/4"" Cool gold",5.49,RM008,0.75,0.625,Wood
+1843054,"SR,Palio, 1 1/4"" Cool silver",9.24,RM014,1.25,1.125,Wood
+1843055,"SR , Palio, 1 1/4"" Cool Gold",9.24,RM014,1.25,1.125,Wood
+1843086,"SR,Palio, 1 1/4"" Night sky black",8.05,RM014,1.25,1.125,Wood
+1845055,"Palio, 2"" Cool Gold",15.68,RM021,2,1.125,Wood
+1852054,"SR, Palio, 3/4"" Cool silver",6.02,RM008,0.75,0.75,Wood
+1852055,"SR, Palio, 3/4"" Cool gold",6.02,RM008,0.75,0.75,Wood
+1852086,"SR, Palio, 3/4"" Night sky black",5.37,RM008,0.75,0.75,Wood
+1862005,"SR, Palio, 3/4"" Night Sky Black &  Gold",5.70,RM008,0.75,0.625,Wood
+1862006,"SR, Palio, 3/4"" Night Sky Black & Silver",5.70,RM008,0.75,0.625,Wood
+1862054,"SR, Palio, 3/4"" Cool Silver",6.22,RM008,0.75,0.625,Wood
+1862055,"SR, Palio, 3/4"" Cool Gold",6.22,RM008,0.75,0.625,Wood
+1923054,"SR, Palio, 1 1/8"" Cool Silver",7.21,RM009,1.125,0.875,Wood
+1923055,"SR, Palio, 1 1/8"" Cool Gold",7.21,RM009,1.125,0.875,Wood
+1923086,"SR, Palio, 1 1/8"" Night Sky Black",6.56,RM009,1.125,0.875,Wood
+1930054,"Palio, 2"" Cool Silver",20.56,RM030,2,1.875,Wood
+1930055,"Palio, 2"" Cool Gold",20.56,RM030,2,1.875,Wood
+1930086,"Palio, 2"" Night Sky Black",17.65,RM028,2,1.875,Wood
+1932006,"SR-Organic, 3/4"" Raw Oak",5.23,RM012,0.75,1.25,Wood
+1932007,"SR-Organic, 3/4"" Raw Maple",5.23,RM012,0.75,1.25,Wood
+1932008,"SR-Organic, 3/4"" Raw Walnut",5.23,RM012,0.75,1.25,Wood
+1940054,"Palio, 3 1/2"" Cool Silver",45.25,RM068,3.5,3.375,Wood
+1940055,"Palio, 3 1/2"" Cool Gold",45.25,RM068,3.5,3.375,Wood
+2016054,"Gianni, 7/8"" Vintage Cocoa & Silver",6.48,RM013,0.875,0.875,Wood
+2016055,"Gianni, 7/8"" Vintage Cocoa & Gold",6.48,RM013,0.875,0.875,Wood
+2020003,"SR- Arber, 7/8"" Gray Oak",2.15,RM005,0.875,0.875,Wood
+2020008,"SR- Arber, 7/8"" Light Walnut",2.15,RM005,0.875,0.875,Wood
+2020045,"SR, Arber, 7/8"" Black Oak",2.15,RM008,0.875,0.875,Wood
+2020082,"SR, Arber, 7/8"" American Maple",2.15,RM008,0.875,0.875,Wood
+2020083,"SR, Arber, 7/8"" Natural",2.15,RM008,0.875,0.875,Wood
+2022001,"SR, Ramino, 3/4"", Satin Black",2.57,RM005,0.875,0.875,Wood
+2022009,"SR, Ramino, 3/4"", Satin White",2.57,RM005,0.875,0.875,Wood
+2022054,"SR- Ramino, 3/4"" Night Silver",2.85,RM006,0.75,0.875,Wood
+2022055,"SR- Ramino, 3/4"" Night Gold",2.85,RM006,0.75,0.875,Wood
+2022812,"SR - Ramino, 3/4"" Fairway Green",2.79,RM006,0.75,0.875,Wood
+2022813,"SR - Ramino, 3/4"" Violet Veil",2.79,RM006,0.75,0.875,Wood
+2022832,"SR - Ramino, 3/4"" Midnight Marina",2.79,RM006,0.75,0.875,Wood
+2022840,"SR - Ramino, 3/4"" Sunset Spritz",2.79,RM006,0.75,0.875,Wood
+2022842,"SR - Ramino, 3/4"" Seaglass Green",2.79,RM006,0.75,0.875,Wood
+2022850,"SR - Ramino, 3/4"" Regatta Blue",2.79,RM006,0.75,0.875,Wood
+2022865,"SR - Ramino, 3/4"" Golden Hour",2.79,RM006,0.75,0.875,Wood
+2022874,"SR - Ramino, 3/4"" Sunwashed Lemon",2.79,RM006,0.75,0.875,Wood
+2022876,"SR - Ramino, 3/4"" Stiletto Red",2.79,RM006,0.75,0.875,Wood
+2022898,"SR - Ramino, 3/4"" Cabana Sky",2.79,RM006,0.75,0.875,Wood
+2022899,"SR - Ramino, 3/4"" Sunset Ballet",2.79,RM006,0.75,0.875,Wood
+2029054,"Ravello, 7/8"" Rubbed Silver",9.87,RM018,0.875,1.125,Wood
+2029055,"Ravello, 7/8"" Rubbed Gold",9.87,RM018,0.875,1.125,Wood
+2032003,"SR- Arber, 7/8"" Gray Oak",4.34,RM008,0.875,1.25,Wood
+2032008,"SR- Arber, 7/8"" Warm Walnut",4.34,RM008,0.875,1.25,Wood
+2032045,"SR, Arber, 7/8"" Black Oak",4.34,RM010,0.875,1.25,Wood
+2032054,"SR- Ramino, 3/4"" Night Silver",3.33,RM010,0.75,1.25,Wood
+2032055,"SR- Ramino, 3/4"" Night Gold",3.33,RM010,0.75,1.25,Wood
+2032082,"SR, Arber, 7/8"" American Maple",4.34,RM010,0.875,1.25,Wood
+2032083,"SR, Arber, 7/8"" Natural",4.34,RM010,0.875,1.25,Wood
+2032812,"SR-Ramino, 7/8""  Fairway Green",3.89,,0.875,"1 3/8""",Wood
+2032832,"SR-Ramino, 7/8"" Midnight Marina",3.89,,0.875,"1 3/8""",Wood
+2032840,"SR-Ramino, 7/8"" Sunset Spritz",3.89,,0.875,"1 3/8""",Wood
+2032874,"SR-Ramino, 7/8"" Sunwashed Lemon",3.89,,0.875,"1 3/8""",Wood
+2032876,"SR-Ramino, 7/8"" Stiletto Red",3.89,,0.875,"1 3/8""",Wood
+2032898,"SR-Ramino, 7/8"" Cabana Sky",3.89,,0.875,"1 3/8""",Wood
+2032899,"SR-Ramino, 7/8"" Sunset Ballet",3.89,,0.875,"1 3/8""",Wood
+2039154,"Gianni, 7/8"" Vintage Cocoa & Silver",7.80,RM018,0.875,1.875,Wood
+2039155,"Gianni, 7/8"" Vintage Cocoa & Gold",7.80,RM018,0.875,1.875,Wood
+2040001,"SR- Ramino 3/4"" Satin Black",4.00,RM010,0.75,1.5,Wood
+2040009,"SR- Ramino 3/4"" Satin White",4.00,RM010,0.75,1.5,Wood
+2132000,"Eleganza, 7/8"" Ash Shagreen",6.81,RM013,0.875,1.25,Wood
+2132051,"Eleganza, 7/8"" Bone Shagreen",6.81,RM013,0.875,1.25,Wood
+2132052,"Eleganza, 7/8"" Fog Shagreen",6.81,RM013,0.875,1.25,Wood
+2132055,"Eleganza, 7/8"" Gold Shagreen",6.81,RM013,0.875,1.25,Wood
+2134045,"Vintage, 7/8"" Black Gloss",6.44,RM012,0.875,1.375,Wood
+2134052,"Vintage, 7/8"" Rose Gold",6.44,RM012,0.875,1.375,Wood
+2134054,"Vintage, 7/8"" Aztec Silver",6.44,RM012,0.875,1.375,Wood
+2134055,"Vintage, 7/8"" Aztec Gold",6.44,RM012,0.875,1.375,Wood
+2332054,"Ravello, 1"" Rubbed Silver",10.70,RM020,1,1.25,Wood
+2332055,"Ravello, 1"" Rubbed Gold",10.70,RM020,1,1.25,Wood
+2548008,"SR- Arber, 1"" Light Walnut",8.75,RM015,1,"2""",Wood
+2548045,"SR, Arber, 1"" Black Oak",9.16,RM015,1,"2""",Wood
+2548082,"SR, Arber, 1"" American Maple",8.75,RM015,1,"2""",Wood
+2548083,"SR, Arber, 1"" Natural",9.16,RM015,1,"2""",Wood
+2556006,"SR-Organic, 1"" Raw Oak",9.44,RM018,1,2.25,Wood
+2556007,"SR-Organic, 1"" Raw Maple",9.44,RM018,1,2.25,Wood
+2556008,"SR-Organic, 1"" Raw Walnut",9.44,RM018,1,2.25,Wood
+2637045,"Vintage, 1"" Black Glaze",9.07,RM015,1,1.5,Wood
+2637055,"Vintage, 1"" Weathered Gold",12.71,RM022,1,1.5,Wood
+2854003,"SR- Arber, 1 1/4"" Gray Oak",8.49,RM015,1.125,2.125,Wood
+2854008,"SR- Arber, 1 1/4"" Light Walnut",8.49,RM015,1.125,2.125,Wood
+2854045,"SR, Arber, 1 1/4"" Black Oak",8.72,RM017,1.125,2.125,Wood
+2854054,"SR- Ramino, 1 1/8"" Night Silver",8.89,RM017,1.125,2.125,Wood
+2854055,"SR- Ramino, 1 1/8"" Night Gold",8.89,RM017,1.125,2.125,Wood
+2854082,"SR, Arber 1 1/4"" American Maple",8.72,RM017,1.125,2.125,Wood
+2854083,"SR, Arber, 1 1/4"" Natural",8.72,RM017,1.125,2.125,Wood
+3030000,"Eleganza, 1 1/4"" Ash Shagreen",7.99,RM015,1.25,1.25,Wood
+3030006,"SR-Organic, 1 1/4"" Raw Oak",7.46,RM015,1.25,1.25,Wood
+3030007,"SR-Organic, 1 1/4"" Raw Maple",7.46,RM015,1.25,1.25,Wood
+3030008,"SR-Organic, 1 1/4"" Raw Walnut",7.46,RM015,1.25,1.25,Wood
+3030051,"Eleganza, 1 1/4"" Bone Shagreen",7.99,RM015,1.25,1.25,Wood
+3030052,"Eleganza, 1 1/4"" Fog Shagreen",7.99,RM015,1.25,1.25,Wood
+3030055,"Eleganza, 1 1/4"" Gold Shagreen",7.99,RM015,1.25,1.25,Wood
+3055000,"Eleganza, 1 1/4"" Ash Shagreen",14.53,RM025,1.25,2.25,Wood
+3055051,"Eleganza, 1 1/4"" Bone Shagreen",14.53,RM025,1.25,2.25,Wood
+3055052,"Eleganza, 1 1/4"" Fog Shagreen",14.53,RM025,1.25,2.25,Wood
+3055055,"Eleganza, 1 1/4"" Gold Shagreen",14.53,RM025,1.25,2.25,Wood
+3057045," Vintage, 1 1/4"" Black Gloss",13.89,RM025,1.25,2.25,Wood
+3057052,"Vintage, 1 1/4"" Rose Gold",13.89,RM025,1.25,2.25,Wood
+3057054," Vintage, 1 1/4"" Aztec Silver",13.89,RM025,1.25,2.25,Wood
+3057055," Vintage, 1 1/4"" Aztec Gold",13.89,RM025,1.25,2.25,Wood
+3220000,"SR, Ramino 1 1/4"" Satin Black",3.33,RM007,1.25,0.75,Wood
+3220008,"SR, Arber 1 1/4"" Warm Walnut",3.33,RM007,1.25,0.75,Wood
+3220009,"SR, Ramino 1 1/4"" Satin White",3.33,RM007,1.25,0.75,Wood
+3220054,"SR, Molto, 1 1/4"" Polished Chrome",3.33,RM007,1.25,0.75,Wood
+3220055,"SR, Molto, 1 1/4"" Polished Gold",3.33,RM007,1.25,0.75,Wood
+3220082,"SR, Arber, 1 1/4"" American Maple",3.33,RM007,1.25,0.75,Wood
+3232000,"SR, Arber, 1 3/8"" Black",6.88,RM012,1.375,1.375,Wood
+3232003,"SR- Arber, 1 3/8"" Gray Oak",6.88,RM012,1.375,1.375,Wood
+3232008,"SR- Arber, 1 3/8"" Light Walnut",6.88,RM012,1.375,1.375,Wood
+3232045,"SR, Arber, 1 3/8"" Black Oak",6.88,RM013,1.375,1.375,Wood
+3232048,"SR, Arber, 1 3/8"" White",6.88,RM013,1.375,1.375,Wood
+3232082,"SR, Arber 1 3/8"" American Maple",6.88,RM013,1.375,1.375,Wood
+3232083,"SR, Arber, 1 3/8"" Natural",6.88,RM013,1.375,1.375,Wood
+3750001,"SR, Ramino, F 3/8"" Raven Black",6.71,RM013,1.375,2,Wood
+3750009,"SR, Ramino, F 3/8"" Raven White",6.71,RM013,1.375,2,Wood
+3750045,"SR, Ramino, F 3/8"" Satin Black",7.95,RM015,1.375,2,Wood
+3750048,"SR, Ramino, F 3/8"" Satin White",7.95,RM015,1.375,2,Wood
+3750054,"SR, Ramino, F 3/8"" Brushed Silver",8.83,RM016,1.375,2,Wood
+3750055,"SR, Ramino, F 3/8"" Brushed Gold",8.83,RM016,1.375,2,Wood
+3750087,"SR, Ramino, F 3/8"" Raven Brown",6.71,RM013,1.375,2,Wood
+4035054,"Ravello, 1 5/8"" Rubbed Silver",13.15,RM025,1.625,1.375,Wood
+4035055,"Ravello, 1 5/8"" Rubbed Gold",13.15,RM025,1.625,1.375,Wood
+4335154,"Gianni, 1 3/4"" Vintage Cocoa & Silver",14.55,RM028,1.75,1.875,Wood
+4335155,"Gianni, 1 3/4"" Vintage Cocoa & Gold",14.55,RM028,1.75,1.875,Wood
+4835003,"SR- Arber, 2"" Gray Oak",10.03,RM018,2,1.5,Wood
+4835008,"SR- Arber, 2"" Light Walnut",10.03,RM018,2,1.5,Wood
+4835045,"SR, Arber, 2"" Black Oak",10.05,RM018,2,1.5,Wood
+4835083,"SR, Arber, 2"" Natural",10.05,RM018,2,1.5,Wood
+5011043,"Genuine Woods, 1/2"" Antique Gold Leaf",3.05,RM004,0.25,0.125,Wood
+5011303,"Moda, 1/2"" Brushed Gold",3.46,RM004,0.25,0.125,Wood
+5041008,"SR, Arber, 2"" Dark Walnut",10.98,RM026,2,1.625,Wood
+5041032,"Lavo, 2"" Seaport Blue",10.16,RM025,2,1.625,Wood
+5041037,"Lavo, 2"" Royal Lilac",10.16,RM025,2,1.625,Wood
+5041041,"Lavo, 2"" Orange Marmalade",10.16,RM025,2,1.625,Wood
+5041045,"Lavo, 2"" Electric Black",10.16,RM025,2,1.625,Wood
+5041047,"Lavo, 2"" Fresh Lime",10.16,RM025,2,1.625,Wood
+5041048,"Lavo, 2"" Electric White",10.16,RM025,2,1.625,Wood
+5041074,"Lavo, 2"" Sunburst Yellow",10.16,RM025,2,1.625,Wood
+5041076,"Lavo, 2"" Cherry Red",10.16,RM025,2,1.625,Wood
+5041077,"Lavo, 2"" Capri Teal",10.16,RM025,2,1.625,Wood
+5041083,"SR, Arber 2""  Natural",10.98,RM026,2,1  5/8,Wood
+5041084,"SR, Arber 2""  White Oak",10.98,RM026,2,1  5/8,Wood
+7035008,"SR-Organic, 2 3/4"" Raw Walnut",12.94,RM025,2.75,1.375,Wood
+7040000,"Eleganza, 2 3/4"" Ash Shagreen",19.15,RM030,2.75,1.625,Wood
+7040051,"Eleganza, 2 3/4"" Bone Shagreen",19.15,RM030,2.75,1.625,Wood
+7040052,"Eleganza, 2 3/4"" Fog Shagreen",19.15,RM030,2.75,1.625,Wood
+7040055,"Eleganza, 2 3/4"" Gold Shagreen",19.15,RM030,2.75,1.625,Wood
+7461008,"SR, Arber, 3""  Dark Walnut",23.10,RM056,3,2.375,Wood
+7461032,"Lavo, 3"" Seaport Blue",21.60,RM055,3,2.5,Wood
+7461037,"Lavo, 3"" Royal Lilac",21.60,RM055,3,2.5,Wood
+7461041,"Lavo, 3"" Orange Marmalade",21.60,RM055,3,2.5,Wood
+7461045,"Lavo, 3"" Electric Black",21.60,RM055,3,2.5,Wood
+7461047,"Lavo, 3"" Green Lacquer",21.60,RM055,3,2.5,Wood
+7461048,"Lavo, 3"" Electric White",21.60,RM055,3,2.5,Wood
+7461074,"Lavo, 3"" Sunburst Yellow",21.60,RM055,3,2.5,Wood
+7461076,"Lavo, 3"" Cherry Red",21.60,RM055,3,2.5,Wood
+7461077,"Lavo, 3"" Capri Teal",21.60,RM055,3,2.5,Wood
+7461083,"SR, Arber 3"" Natural",23.10,RM056,3,2.5,Wood
+8065145,"Arber, 3 1/8"" Black Leather",32.57,RM050,3.125,"2 5/8""",Wood
+10141001,"SR- Ramino, F 3/8"" Satin Black",8.00,RM010,1.75,1 3/8,Wood
+10361001,"SR- Ramino, F 1/2"" Satin Black",11.75,RM016,1.75,2 1/4,Wood
+10361009,"SR- Ramino, F 1/2"" Opaque White",11.75,RM016,1.75,2 1/4,Wood
+10361067,"SR- Ramino, F 1/2"" Belvinder Brown",11.75,RM016,1.75,2 1/4,Wood
+10361083,"SR- Ramino, F 1/2"" French Vanilla",11.75,RM016,1.75,2 1/4,Wood
+10421001,"SR- Ramino, F 1/4"" Satin Black",4.34,RM005,1,1,Wood
+10601000,"SR- Ramino, 3/4"" Satin Black",5.83,RM010,0.75,1.875,Wood
+10601009,"SR- Ramino, 3/4"" Opaque White",5.83,RM010,0.75,1.875,Wood
+10761048,"SR- Ramino, 3/4"" Bleached White",4.04,RM008,0.75,1.25,Wood
+10761083,"SR- Ramino, 3/4"" Vanilla",4.04,RM008,0.75,1.25,Wood
+10771000,"SR- Ramino, 3/4"" Satin Black",3.72,RM006,0.75,1.25,Wood
+10771009,"SR- Ramino, 3/4"" Opaque White",3.72,RM006,0.75,1.25,Wood
+10771011,"SR- Ramino, 3/4"" Rubbed Bronze",4.55,RM007,0.75,1.25,Wood
+10771045,"SR- Ramino, 3/4"" Black Lacquer",4.10,RM007,0.75,1.25,Wood
+10771048,"SR- Ramino, 3/4"" White Lacquer",4.06,RM007,0.75,1.25,Wood
+10771054,"SR- Ramino, 3/4"" Titanium Silver",4.45,RM008,0.75,1.25,Wood
+10771061,"SR- Ramino, 3/4"" Night Silver",4.45,RM007,0.75,1.25,Wood
+10771062,"SR- Ramino, 3/4"" Pale Gold",4.45,RM007,0.75,1.25,Wood
+10771067,"SR- Ramino, 3/4"" Belvinder Brown",4.31,RM006,0.75,1.25,Wood
+10771069,"SR- Ramino, 3/4"" Charcoal",4.31,RM006,0.75,1.25,Wood
+10771302,"SR- Ramino, 3/4"" Brushed Pewter",4.45,RM007,0.75,1.25,Wood
+10771303,"SR- Ramino, 3/4"" Brushed Gold",4.45,RM007,0.75,1.25,Wood
+10771308,"SR- Ramino, 3/4"" Ardoise Slate",4.28,RM007,0.75,1.25,Wood
+10873000,"SR- Ramino, F 1 5/8"" Satin Black",18.10,RM028,2.75,"2 3/8""",Wood
+10873009,"SR- Ramino, F 1 5/8"" Opaque White",18.10,RM028,2.75,"2 3/8""",Wood
+10873061,"SR- Ramino, F 1 5/8"" Night Silver",20.49,RM032,2.75,"2 3/8""",Wood
+10873062,"SR- Ramino, F  1 5/8"" Pale Gold",20.49,RM032,2.75,"2 3/8""",Wood
+10873069,"SR- Ramino, F 1 5/8"" Charcoal",18.10,RM028,2.75,"2 3/8""",Wood
+11081001,"SR- Ramino, 1"" Satin Black",7.14,RM011,1,2,Wood
+11081085,"SR- Ramino, 1"" Mahogany",7.14,RM011,1,2,Wood
+11132001,"SR- Ramino, F 1/2"" Satin Black",4.44,RM012,1.25,"1 1/2""",Wood
+11132009,"SR- Ramino, F 1/2"" Satin White",4.44,RM012,1.25,"1 1/2""",Wood
+11141000,"SR- Ramino, F 1/2"" Satin Black",7.38,RM010,1.75,"1 1/2""",Wood
+11141009,"SR- Ramino, F 1/2"" Opaque White",7.38,RM010,1.75,"1 1/2""",Wood
+11141045,"SR- Ramino, F 1/2"" Black Lacquer",7.52,RM012,1.75,"1 1/2""",Wood
+11141048,"SR- Ramino, F 1/2"" White Lacquer",7.52,RM012,1.75,"1 1/2""",Wood
+11141063,"SR- Ramino, F 1/2"" Morena Brown",7.38,RM010,1.75,"1 1/2""",Wood
+11141073,"SR- Ramino, F 1/2"" Satin Black and Gold",7.45,RM010,1.75,"1 1/2""",Wood
+11141075,"SR- Ramino, F 1/2"" Satin Black & Silver",7.45,RM010,1.75,"1 1/2""",Wood
+11152000,"SR- Ramino, F 1/2"" D 1 1/8"" Satin Black",6.44,RM013,1.125,2,Wood
+11152008,"SR, Arber F 3/8"" D 1 1/8"" Warm Walnut",6.50,RM013,1.125,2,Wood
+11152009," SR- Ramino, F 1/2"" D 1 1/8"" Satin White",6.44,RM013,1.125,2,Wood
+11152082,"SR, Arber F 3/8"" D 1 1/8"" American Maple",6.50,RM013,1.125,2,Wood
+11291001,"SR- Ramino, 1"" Satin Black",7.55,RM010,1,2.5,Wood
+11550061,"SR- Ramino, 2"" Night Silver",8.11,RM010,2,1,Wood
+11550067,"SR- Ramino, 2"" Belvinder Brown",7.39,RM010,2,1,Wood
+12022000,"SR- Ramino, 2"" Satin Black",9.15,RM011,2,1.25,Wood
+12122000,"SR- Ramino, 2 1/2"" Satin Black",11.24,RM015,2.5,1.25,Wood
+12316000,"SR- Ramino, 1"" Satin Black",3.35,RM006,1,0.875,Wood
+12316009,"SR- Ramino 1"" Satin White",3.35,RM006,1,0.875,Wood
+12316011,"SR- Ramino, 1"" Rubbed Bronze",3.81,RM006,1,0.875,Wood
+12316054,"SR- Ramino, 1"" Titanium Silver",3.88,RM006,1,0.875,Wood
+12316063,"SR- Ramino, 1"" Morena Brown",3.88,RM006,1,0.875,Wood
+12316303,"SR- Ramino, 1"" Brushed Gold",3.88,RM006,1,0.875,Wood
+12316308,"SR- Ramino, 1"" Ardoise Slate",3.49,RM006,1,0.875,Wood
+12731000,"SR- Ramino, 1/2"" Satin Black",2.04,RM004,0.5,0.5,Wood
+12731009,"SR- Ramino, 1/2"" Opaque White",2.04,RM004,0.5,0.5,Wood
+12731038,"Ramino, 1/2"" Forest Green",2.80,RM004,0.5,0.5,Wood
+12731039,"Ramino, 1/2"" Bordeaux",2.80,RM004,0.5,0.5,Wood
+12731041,"Ramino, 1/2"" Orange",2.80,RM004,0.5,0.5,Wood
+12731045,"SR- Ramino, 1/2"" Black Lacquer",2.27,RM004,0.5,0.5,Wood
+12731048,"SR- Ramino, 1/2"" White Lacquer",2.27,RM004,0.5,0.5,Wood
+12731054,"SR- Ramino, 1/2"" Titanium Silver",2.47,RM004,0.5,0.5,Wood
+12731061,"SR- Ramino, 1/2"" Night Silver",2.47,RM004,0.5,0.5,Wood
+12731062,"SR- Ramino, 1/2"" Pale Gold",2.47,RM004,0.5,0.5,Wood
+12731063,"SR- Ramino, 1/2"" Espresso",2.47,RM004,0.5,0.5,Wood
+12731067,"Ramino, 1/2"" Walnut",2.73,RM004,0.5,0.5,Wood
+12731069,"SR- Ramino, 1/2"" Charcoal",2.07,RM004,0.5,0.5,Wood
+12731083,"Ramino, 1/2"" French Vanilla",2.80,RM004,0.5,0.5,Wood
+12731085,"Ramino, 1/2"" Mahogany",2.80,RM004,0.5,0.5,Wood
+12731087,"SR- Ramino, 1/2"" Chocolate",2.07,RM004,0.5,0.5,Wood
+12731098,"Ramino, 1/2"" Midnight Blue",2.80,RM004,0.5,0.5,Wood
+12741001,"SR- Ramino, 7/8"" Satin Black (ayous)",2.29,RM002,0.875,0.5,Wood
+12741009,"SR- Ramino, 7/8"" Opaque White",2.29,RM005,0.875,0.5,Wood
+12741032,"SR- Ramino, 7/8"" Blueberry Lacquer",2.83,RM005,0.875,0.5,Wood
+12741038,"SR- Ramino, 7/8"" Forest Green",2.44,RM005,0.875,0.5,Wood
+12741039,"SR- Ramino, 7/8"" Bordeaux",2.44,RM005,0.875,0.5,Wood
+12741041,"SR- Ramino, 7/8"" Burnt Orange",2.44,RM005,0.875,0.5,Wood
+12741045,"SR- Ramino, 7/8"" Black Lacquer",2.88,RM005,0.875,0.5,Wood
+12741061,"SR- Ramino, 7/8"" Night Silver",3.09,RM005,0.875,0.5,Wood
+12741067,"SR- Ramino, 7/8"" Walnut",2.44,RM005,0.875,0.5,Wood
+12741069,"SR- Ramino, 7/8"" Charcoal",2.44,RM005,0.875,0.5,Wood
+12741076,"SR- Ramino, 7/8"" Red Orange Lac",2.83,RM005,0.875,0.5,Wood
+12741083,"SR- Ramino, 7/8"" French Vanilla",2.44,RM005,0.875,0.5,Wood
+12741085,"SR- Ramino, 7/8"" Mahogany",2.44,RM005,0.875,0.5,Wood
+12741087,"SR- Ramino, 7/8"" Chocolate",2.44,RM005,0.875,0.5,Wood
+12741098,"SR- Ramino, 7/8"" Midnight Blue",2.44,RM005,0.875,0.5,Wood
+13420001,"SR- Ramino, 3/4"" Satin Black",2.49,RM004,0.75,0.625,Wood
+13420009,"SR- Ramino, 3/4"" Opaque White",2.49,RM004,0.75,0.625,Wood
+13420011,"SR- Ramino, 3/4"" Rubbed Bronze",3.00,RM004,0.75,0.625,Wood
+13420054,"SR- Ramino, 3/4"" Titanium Silver",3.00,RM004,0.75,0.625,Wood
+13420067,"SR- Ramino, 3/4"" Belvinder Brown",2.94,RM004,0.75,0.625,Wood
+13420069,"SR- Ramino, 3/4"" Charcoal",2.94,RM004,0.75,0.625,Wood
+13420085,"SR- Ramino, 3/4"" Mahogany",2.94,RM004,0.75,0.625,Wood
+13420302,"SR- Ramino, 3/4"" Brushed Pewter",3.00,RM004,0.75,0.625,Wood
+13420303,"SR- Ramino, 3/4"" Brushed Gold",3.00,RM004,0.75,0.625,Wood
+13420308,"SR- Ramino, 3/4"" Ardoise Slate",2.70,RM004,0.75,0.625,Wood
+13530001,"SR- Ramino, 1 1/8"" Satin Black",3.33,RM005,1.125,0.75,Wood
+13530009,"SR- Ramino, 1 1/8"" Opaque White",3.33,RM005,1.125,0.75,Wood
+13530067,"SR- Ramino, 1 1/8"" Belvinder Brown",3.96,RM005,1.125,0.75,Wood
+13530069,"SR- Ramino, 1 1/8"" Charcoal",3.96,RM005,1.125,0.75,Wood
+13530082,"SR, Arber 1 1/8"" American Maple",3.69,RM008,1.125,  3/4,Wood
+13530085,"SR- Ramino, 1 1/8"" Mahogany",3.70,RM005,1.125,0.75,Wood
+13645001,"SR- Ramino, 1 3/4"" Satin Black",5.40,RM007,1.75,0.875,Wood
+13645067,"SR- Ramino, 1 3/4"" Belvinder Brown",5.78,RM007,1.75,0.875,Wood
+13833001,"SR- Ramino, 1 1/4"" Satin Black",2.92,RM005,1.25,0.625,Wood
+13833009,"SR- Ramino, 1 1/4"" Satin White",2.92,RM005,1.25,0.625,Wood
+13833063,"SR- Ramino, 1 1/4"" Morena Brown",3.56,RM005,1.25,0.625,Wood
+14044001,"SR- Ramino, 1 3/4"" Satin Black",5.62,RM008,1.75,1,Wood
+14044009,"SR- Ramino, 1 3/4"" Opaque White",5.62,RM008,1.75,1,Wood
+14044063,"SR- Ramino, 1 3/4"" Morena Brown",5.99,RM008,1.75,1,Wood
+14170001,"SR- Ramino, 2 3/4"" Satin Black",10.37,RM014,2.75,1.25,Wood
+14211031,"Vintage, 3/8"" Bright Gold Leaf",3.46,RM004,0.125,0.375,Wood
+14211043,"Vintage, 3/8"" Antique Gold Leaf",3.46,RM004,0.125,0.375,Wood
+14357001,"SR- Ramino, F  1 3/8"" Satin Black",9.19,RM015,2.25,"1 1/2""",Wood
+14540001,"SR- Ramino, F 1/2"" Satin Black",11.04,RM016,1.875,"2 1/2""",Wood
+14540009,"SR- Ramino, F 1/2"" Opaque White",11.04,RM016,1.875,"2 1/2""",Wood
+14540011,"SR- Ramino, F 1/2"" Rubbed Bronze",12.72,RM016,1.875,"2 1/2""",Wood
+14540061,"SR- Ramino, F 1/2"" Night Silver",12.72,RM016,1.875,"2 1/2""",Wood
+14540062,"SR- Ramino, F  1/2"" Pale Gold",12.72,RM016,1.875,"2 1/2""",Wood
+14881001,"SR- Ramino, 1 1/2"" Satin Black (ayous)",4.41,RM005,1.5,0.5,Wood
+14930001,"SR- Ramino, 1 1/8"" Satin Black",3.88,RM006,1.125,1.125,Wood
+14930045,"SR- Ramino, 1 1/8"" Black Lacquer",4.42,RM007,1.125,1.125,Wood
+14930048,"SR- Ramino, 1 1/8"" White Lacquer",4.42,RM007,1.125,1.125,Wood
+14930054,"SR- Ramino, 1 1/8"" Titanium Silver",4.69,RM006,1.125,1.125,Wood
+14930063,"SR- Ramino, 1 1/8"" Wenge",4.69,RM006,1.125,1.125,Wood
+14930303,"SR- Ramino, 1 1/8"" Brushed Gold",4.69,RM006,1.125,1.125,Wood
+14930308,"SR- Ramino, 1 1/8"" Ardoise Slate",3.95,RM006,1.125,1.125,Wood
+15030001,"SR- Ramino, 1 1/8"" Satin Black",7.10,RM012,1.125,2.125,Wood
+15030009,"SR- Ramino, 1 1/8"" Opaque White",7.10,RM016,1.125,2.125,Wood
+15030308,"SR- Ramino, 1 1/8"" Ardoise Slate",7.46,RM012,1.125,2.125,Wood
+15125001,"SR- Ramino, 7/8"" Satin Black",3.76,RM005,0.875,1.125,Wood
+15125303,"SR- Ramino, 7/8"" Brushed Gold",4.37,RM006,0.875,1.125,Wood
+15125308,"SR- Ramino, 7/8"" Ardoise Slate",3.82,RM005,0.875,1.125,Wood
+15225001,"SR- Ramino, 1"" Satin Black",5.29,RM009,1,1.75,Wood
+15225303,"SR- Ramino, 1"" Brushed Gold",5.79,RM010,1,1.75,Wood
+15225308,"SR- Ramino, 1"" Ardoise Slate",5.29,RM009,1,1.75,Wood
+17255049,"SR,Vintage, F 1"" Silver & White",20.88,RM035,2.25,"2 3/4""",Wood
+17255054,"SR-Vintage, F 1"" Silver & Black",20.88,RM035,2.25,"2 3/4""",Wood
+17255055,"SR-Vintage, F 1""  Gold & Black",20.88,RM035,2.25,"2 3/4""",Wood
+17255087,"SR,Vintage, F 1"" Antique Black",20.36,RM030,2.25,"2 3/4""",Wood
+22551010,"Burlwood, 1"" Orange",7.94,RM010,1,0.5,Wood
+22551045,"Burlwood, 1"" Charcoal",7.94,RM010,1,0.5,Wood
+22551046,"Burlwood, 1"" Red",7.94,RM010,1,0.5,Wood
+22551047,"Burlwood, 1"" Ivy Green",7.94,RM010,1,0.5,Wood
+22551050,"Burlwood, 1"" Sky Blue",7.94,RM010,1,0.5,Wood
+22551052,"Burlwood, 1"" Gray",7.94,RM010,1,0.5,Wood
+22551086,"Burlwood, 1"" Brown",7.94,RM010,1,0.5,Wood
+22551098,"Burlwood, 1"" Midnight Blue",7.94,RM010,1,0.5,Wood
+22641080,"Burlwood, 3/4"" Elm Burl",8.20,RM010,0.75,0.5,Wood
+22725069,"SR- Ramino, 1"" Charcoal",4.94,RM006,1,1.125,Wood
+22725085,"SR- Ramino, 1"" Mahogany",4.94,RM006,1,1.125,Wood
+22725087,"SR- Ramino, 1"" Dark Walnut",4.94,RM006,1,1.125,Wood
+25183000,"SR- Ramino, 1 1/2"" Satin Black",4.40,RM006,1.5,0.75,Wood
+28812000,"Vintage, 5/8"" Matte Black",7.77,RM010,0.625,0.625,Wood
+28813044,"Vintage, 5/8"" Silver Leaf",7.42,RM010,0.625,0.625,Wood
+28814031,"Vintage, 5/8"" Gold Leaf",7.42,RM010,0.625,0.625,Wood
+32351000,"SR- Ramino, 1 1/2"" Satin Black",6.07,RM009,1.5,1.25,Wood
+32351009,"SR- Ramino, 1 1/2"" Opaque White",6.07,RM009,1.5,1.25,Wood
+32351048,"SR- Ramino, 1 1/2"" White Lacquer",6.49,RM013,1.5,1.25,Wood
+34053045,"SR- Ramino, 2"" Black Hand Polished Lacq",9.31,RM027,2,1.125,Wood
+40120001,"SR- Raven, 3/4"" Raven Black",2.51,RM004,0.75,0.625,Wood
+40120009,"SR- Raven, 3/4"" Raven White",2.51,RM004,0.75,0.625,Wood
+40120067,"SR- Raven, 3/4"" Raven Brown",2.51,RM004,0.75,0.625,Wood
+40120069,"SR- Raven, 3/4"" Raven Gray",2.51,RM004,0.75,0.625,Wood
+40230001,"SR- Raven, 1 1/4"" Raven Black",3.48,RM005,1.25,1,Wood
+40230067,"SR- Raven, 1 1/4"" Raven Brown",3.48,RM005,1.25,1,Wood
+40320001,"SR- Raven, 3/4"" Raven Black",3.74,RM006,0.75,1.25,Wood
+40320067,"SR- Raven, 3/4"" Raven Brown",3.74,RM006,0.75,1.25,Wood
+40440001,"SR- Raven, 1 1/2"" Raven Black",6.13,RM009,1.5,1.125,Wood
+40834000,"SR, Ramino, 3/4"" Raven Black",6.46,RM012,0.75,1.25,Wood
+40834009,"SR, Ramino, 3/4"" Raven White",6.46,RM012,0.75,1.25,Wood
+40834046,"SR, Ramino, 3/4"" Red Lacquer",6.46,RM012,0.75,1.25,Wood
+74773055,"Vintage, 3"" Gold Leaf",27.91,RM040,3,2.25,Wood
+80073001,"SR- Ramino, 2 3/4"" Satin Black",10.21,RM014,2.75,1,Wood
+80091001,"SR- Ramino, 3 1/2"" Satin Black",14.79,RM021,3.5,1.25,Wood
